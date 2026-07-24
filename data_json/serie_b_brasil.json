@@ -1,0 +1,3760 @@
+{
+    "posiciones": [
+        [
+            "",
+            "Team",
+            "GP",
+            "W",
+            "D",
+            "L",
+            "GF",
+            "GA",
+            "GD",
+            "Pts"
+        ],
+        [
+            "1",
+            "Criciuma",
+            "19",
+            "11",
+            "6",
+            "2",
+            "23",
+            "12",
+            "11",
+            "39"
+        ],
+        [
+            "2",
+            "Operario PR",
+            "19",
+            "10",
+            "5",
+            "4",
+            "27",
+            "22",
+            "5",
+            "35"
+        ],
+        [
+            "3",
+            "Vila Nova",
+            "19",
+            "10",
+            "4",
+            "5",
+            "27",
+            "22",
+            "5",
+            "34"
+        ],
+        [
+            "4",
+            "Juventude",
+            "19",
+            "9",
+            "5",
+            "5",
+            "21",
+            "12",
+            "9",
+            "32"
+        ],
+        [
+            "5",
+            "Fortaleza",
+            "19",
+            "9",
+            "4",
+            "6",
+            "22",
+            "19",
+            "3",
+            "31"
+        ],
+        [
+            "6",
+            "Novorizontino",
+            "19",
+            "8",
+            "6",
+            "5",
+            "28",
+            "18",
+            "10",
+            "30"
+        ],
+        [
+            "7",
+            "Goias",
+            "19",
+            "8",
+            "5",
+            "6",
+            "21",
+            "25",
+            "-4",
+            "29"
+        ],
+        [
+            "8",
+            "Atletico GO",
+            "19",
+            "7",
+            "7",
+            "5",
+            "20",
+            "19",
+            "1",
+            "28"
+        ],
+        [
+            "9",
+            "Sport Recife",
+            "19",
+            "6",
+            "10",
+            "3",
+            "24",
+            "18",
+            "6",
+            "28"
+        ],
+        [
+            "10",
+            "Sao Bernardo",
+            "19",
+            "7",
+            "6",
+            "6",
+            "25",
+            "19",
+            "6",
+            "27"
+        ],
+        [
+            "11",
+            "Athletic Club",
+            "19",
+            "6",
+            "9",
+            "4",
+            "18",
+            "17",
+            "1",
+            "27"
+        ],
+        [
+            "12",
+            "CRB",
+            "19",
+            "7",
+            "5",
+            "7",
+            "29",
+            "32",
+            "-3",
+            "26"
+        ],
+        [
+            "13",
+            "Nautico",
+            "19",
+            "7",
+            "3",
+            "9",
+            "24",
+            "24",
+            "0",
+            "24"
+        ],
+        [
+            "14",
+            "Botafogo SP",
+            "19",
+            "6",
+            "6",
+            "7",
+            "24",
+            "20",
+            "4",
+            "24"
+        ],
+        [
+            "15",
+            "Cuiaba",
+            "19",
+            "5",
+            "9",
+            "5",
+            "14",
+            "14",
+            "0",
+            "24"
+        ],
+        [
+            "16",
+            "Londrina",
+            "19",
+            "5",
+            "5",
+            "9",
+            "26",
+            "27",
+            "-1",
+            "20"
+        ],
+        [
+            "17",
+            "Avai",
+            "19",
+            "5",
+            "5",
+            "9",
+            "21",
+            "26",
+            "-5",
+            "20"
+        ],
+        [
+            "18",
+            "Ceara",
+            "19",
+            "4",
+            "7",
+            "8",
+            "16",
+            "22",
+            "-6",
+            "19"
+        ],
+        [
+            "19",
+            "Ponte Preta",
+            "19",
+            "2",
+            "2",
+            "15",
+            "14",
+            "38",
+            "-24",
+            "8"
+        ],
+        [
+            "20",
+            "America MG",
+            "19",
+            "1",
+            "5",
+            "13",
+            "13",
+            "31",
+            "-18",
+            "8"
+        ]
+    ],
+    "estadisticas_avanzadas": {
+        "Criciuma": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 2,
+                "ganando_ht": 10,
+                "empatando_ht": 6,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 12,
+                "goles_en_contra_ht": 4,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 10.5,
+                "%_ganando_ht": 52.6,
+                "promedio_gf_ht": 0.63,
+                "promedio_gc_ht": 0.21
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Apr",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "Fortaleza",
+                    "Res": "[3:2]",
+                    "Visita": "Criciuma",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[3:1]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "Cuiaba",
+                    "Res": "[1:1]",
+                    "Visita": "Criciuma",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Juventude",
+                    "Res": "[0:0]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "24 May",
+                    "Local": "Operario PR",
+                    "Res": "[1:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "30 May",
+                    "Local": "Avai",
+                    "Res": "[1:2]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jun",
+                    "Local": "America MG",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "27 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Jul",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Jul",
+                    "Local": "Criciuma",
+                    "Res": "[2:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jul",
+                    "Local": "Novorizontino",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟢🟢🟢"
+        },
+        "Operario PR": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 9,
+                "ganando_ht": 5,
+                "empatando_ht": 11,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 14,
+                "goles_en_contra_ht": 10,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 47.4,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 0.74,
+                "promedio_gc_ht": 0.53
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Operario PR",
+                    "Res": "[1:0]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Avai",
+                    "Res": "[0:0]",
+                    "Visita": "Operario PR",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Apr",
+                    "Local": "Operario PR",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Operario PR",
+                    "Res": "[0:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Operario PR",
+                    "Res": "[3:0]",
+                    "Visita": "Londrina",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "CRB",
+                    "Res": "[3:0]",
+                    "Visita": "Operario PR",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 May",
+                    "Local": "Operario PR",
+                    "Res": "[2:6]",
+                    "Visita": "Nautico",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "24 May",
+                    "Local": "Operario PR",
+                    "Res": "[1:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 May",
+                    "Local": "Ceara",
+                    "Res": "[1:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jun",
+                    "Local": "Operario PR",
+                    "Res": "[2:1]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Botafogo SP",
+                    "Res": "[2:1]",
+                    "Visita": "Operario PR",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Goias",
+                    "Res": "[0:3]",
+                    "Visita": "Operario PR",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "27 Jun",
+                    "Local": "Operario PR",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "7 Jul",
+                    "Local": "Athletic Club",
+                    "Res": "[0:1]",
+                    "Visita": "Operario PR",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Jul",
+                    "Local": "Operario PR",
+                    "Res": "[2:1]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Sport Recife",
+                    "Res": "[2:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Jul",
+                    "Local": "Operario PR",
+                    "Res": "[3:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟢🟡🟢"
+        },
+        "Vila Nova": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 6,
+                "ganando_ht": 6,
+                "empatando_ht": 7,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 14,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 31.6,
+                "promedio_gf_ht": 0.74,
+                "promedio_gc_ht": 0.58
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Vila Nova",
+                    "Res": "[2:2]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Ceara",
+                    "Res": "[3:3]",
+                    "Visita": "Vila Nova",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 May",
+                    "Local": "Vila Nova",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Vila Nova",
+                    "Res": "[2:0]",
+                    "Visita": "Avai",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 May",
+                    "Local": "Londrina",
+                    "Res": "[0:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Jun",
+                    "Local": "Vila Nova",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Cuiaba",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "20 Jun",
+                    "Local": "Vila Nova",
+                    "Res": "[4:3]",
+                    "Visita": "Nautico",
+                    "HT": "4-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jun",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Jul",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Jul",
+                    "Local": "Juventude",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Jul",
+                    "Local": "Criciuma",
+                    "Res": "[2:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Jul",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "2-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟢🔴🔴🟢"
+        },
+        "Juventude": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 4,
+                "ganando_ht": 8,
+                "empatando_ht": 6,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 10,
+                "goles_en_contra_ht": 7,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 42.1,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.37
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Avai",
+                    "Res": "[2:0]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 Mar",
+                    "Local": "Juventude",
+                    "Res": "[0:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Fortaleza",
+                    "Res": "[2:1]",
+                    "Visita": "Juventude",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Apr",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Goias",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "CRB",
+                    "Res": "[0:1]",
+                    "Visita": "Juventude",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Juventude",
+                    "Res": "[1:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Atletico GO",
+                    "Res": "[0:0]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Juventude",
+                    "Res": "[0:0]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "Juventude",
+                    "Res": "[0:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "30 May",
+                    "Local": "Juventude",
+                    "Res": "[3:0]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Jun",
+                    "Local": "Operario PR",
+                    "Res": "[2:1]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jun",
+                    "Local": "Juventude",
+                    "Res": "[3:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:1]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Jul",
+                    "Local": "Nautico",
+                    "Res": "[0:0]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Jul",
+                    "Local": "Juventude",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Jul",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Jul",
+                    "Local": "Botafogo SP",
+                    "Res": "[4:2]",
+                    "Visita": "Juventude",
+                    "HT": "2-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🟢🟢🔴"
+        },
+        "Fortaleza": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 5,
+                "ganando_ht": 7,
+                "empatando_ht": 6,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 9,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 0.58
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Mar",
+                    "Local": "Botafogo SP",
+                    "Res": "[4:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 Mar",
+                    "Local": "Fortaleza",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Fortaleza",
+                    "Res": "[2:1]",
+                    "Visita": "Juventude",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Fortaleza",
+                    "Res": "[3:2]",
+                    "Visita": "Criciuma",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Operario PR",
+                    "Res": "[0:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 May",
+                    "Local": "Fortaleza",
+                    "Res": "[4:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Avai",
+                    "Res": "[0:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Ceara",
+                    "Res": "[2:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Fortaleza",
+                    "Res": "[3:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Athletic Club",
+                    "Res": "[1:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Jun",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Jun",
+                    "Local": "Fortaleza",
+                    "Res": "[0:3]",
+                    "Visita": "America MG",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "CRB",
+                    "Res": "[1:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Fortaleza",
+                    "Res": "[2:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Jul",
+                    "Local": "Fortaleza",
+                    "Res": "[2:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Atletico GO",
+                    "Res": "[1:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Jul",
+                    "Local": "Fortaleza",
+                    "Res": "[1:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "2-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🔴🟢🔴"
+        },
+        "Novorizontino": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 11,
+                "over_15_ht": 5,
+                "ganando_ht": 3,
+                "empatando_ht": 13,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 8,
+                "%_over_0.5_ht": 57.9,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 15.8,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.42
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Novorizontino",
+                    "Res": "[1:3]",
+                    "Visita": "Londrina",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 Mar",
+                    "Local": "Juventude",
+                    "Res": "[0:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Novorizontino",
+                    "Res": "[1:1]",
+                    "Visita": "CRB",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "America MG",
+                    "Res": "[0:3]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[1:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Avai",
+                    "Res": "[3:3]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 May",
+                    "Local": "Novorizontino",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Cuiaba",
+                    "Res": "[0:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Ceara",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Jun",
+                    "Local": "Goias",
+                    "Res": "[0:4]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Novorizontino",
+                    "Res": "[2:2]",
+                    "Visita": "Nautico",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:2]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jun",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Novorizontino",
+                    "Res": "[3:0]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Operario PR",
+                    "Res": "[2:1]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Jul",
+                    "Local": "Fortaleza",
+                    "Res": "[1:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jul",
+                    "Local": "Novorizontino",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🔴🔴🔴"
+        },
+        "Goias": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 5,
+                "ganando_ht": 7,
+                "empatando_ht": 8,
+                "perdiendo_ht": 4,
+                "goles_a_favor_ht": 11,
+                "goles_en_contra_ht": 8,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.58,
+                "promedio_gc_ht": 0.42
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Goias",
+                    "Res": "[3:1]",
+                    "Visita": "America MG",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Apr",
+                    "Local": "Londrina",
+                    "Res": "[2:2]",
+                    "Visita": "Goias",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "7 Apr",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Criciuma",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Goias",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "Goias",
+                    "Res": "[0:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:0]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "Fortaleza",
+                    "Res": "[4:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Avai",
+                    "Res": "[0:2]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 May",
+                    "Local": "Atletico GO",
+                    "Res": "[1:1]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Jun",
+                    "Local": "Goias",
+                    "Res": "[0:4]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jun",
+                    "Local": "Goias",
+                    "Res": "[0:3]",
+                    "Visita": "Operario PR",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Goias",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "CRB",
+                    "Res": "[2:2]",
+                    "Visita": "Goias",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Jul",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Goias",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Jul",
+                    "Local": "Goias",
+                    "Res": "[1:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟡🟢🟡"
+        },
+        "Atletico GO": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 4,
+                "ganando_ht": 7,
+                "empatando_ht": 8,
+                "perdiendo_ht": 4,
+                "goles_a_favor_ht": 10,
+                "goles_en_contra_ht": 8,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.42
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Mar",
+                    "Local": "Operario PR",
+                    "Res": "[1:0]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[1:2]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[2:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[2:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Atletico GO",
+                    "Res": "[0:0]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Atletico GO",
+                    "Res": "[0:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 May",
+                    "Local": "Atletico GO",
+                    "Res": "[1:1]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Jun",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jun",
+                    "Local": "Atletico GO",
+                    "Res": "[3:3]",
+                    "Visita": "CRB",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Jun",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Atletico GO",
+                    "Res": "[2:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Novorizontino",
+                    "Res": "[3:0]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Jul",
+                    "Local": "Atletico GO",
+                    "Res": "[1:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Atletico GO",
+                    "Res": "[0:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jul",
+                    "Local": "Cuiaba",
+                    "Res": "[0:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟢🟡🟢"
+        },
+        "Sport Recife": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 11,
+                "over_15_ht": 4,
+                "ganando_ht": 4,
+                "empatando_ht": 10,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 7,
+                "goles_en_contra_ht": 9,
+                "%_over_0.5_ht": 57.9,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.37,
+                "promedio_gc_ht": 0.47
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Cuiaba",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Londrina",
+                    "Res": "[1:2]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[2:2]",
+                    "Visita": "Avai",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "America MG",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[1:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Sport Recife",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:3]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Sport Recife",
+                    "Res": "[1:2]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Juventude",
+                    "Res": "[0:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "30 May",
+                    "Local": "Sport Recife",
+                    "Res": "[2:0]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Jun",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Jun",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Fortaleza",
+                    "Res": "[2:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 Jul",
+                    "Local": "Sport Recife",
+                    "Res": "[3:3]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Sport Recife",
+                    "Res": "[2:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Jul",
+                    "Local": "Goias",
+                    "Res": "[1:1]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟡🟡🟡"
+        },
+        "Sao Bernardo": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 6,
+                "ganando_ht": 3,
+                "empatando_ht": 11,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 10,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 15.8,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.58
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Ceara",
+                    "Res": "[1:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Apr",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:2]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "Nautico",
+                    "Res": "[0:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:0]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[3:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 May",
+                    "Local": "Londrina",
+                    "Res": "[1:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "America MG",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Atletico GO",
+                    "Res": "[0:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "7 Jun",
+                    "Local": "CRB",
+                    "Res": "[2:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jun",
+                    "Local": "Sao Bernardo",
+                    "Res": "[0:1]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "6 Jul",
+                    "Local": "Vila Nova",
+                    "Res": "[2:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "Sao Bernardo",
+                    "Res": "[2:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Athletic Club",
+                    "Res": "[2:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟡🟡🔴"
+        },
+        "Athletic Club": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 9,
+                "over_15_ht": 4,
+                "ganando_ht": 5,
+                "empatando_ht": 12,
+                "perdiendo_ht": 2,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 6,
+                "%_over_0.5_ht": 47.4,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.32
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Athletic Club",
+                    "Res": "[2:1]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "CRB",
+                    "Res": "[2:3]",
+                    "Visita": "Athletic Club",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Apr",
+                    "Local": "Athletic Club",
+                    "Res": "[0:1]",
+                    "Visita": "Nautico",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 May",
+                    "Local": "Vila Nova",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 May",
+                    "Local": "Athletic Club",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 May",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:2]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "30 May",
+                    "Local": "Athletic Club",
+                    "Res": "[1:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Jun",
+                    "Local": "Sport Recife",
+                    "Res": "[1:1]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "20 Jun",
+                    "Local": "Londrina",
+                    "Res": "[2:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Athletic Club",
+                    "Res": "[1:0]",
+                    "Visita": "Avai",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jul",
+                    "Local": "Athletic Club",
+                    "Res": "[0:1]",
+                    "Visita": "Operario PR",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Jul",
+                    "Local": "Ceara",
+                    "Res": "[0:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Atletico GO",
+                    "Res": "[0:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jul",
+                    "Local": "Athletic Club",
+                    "Res": "[2:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟡🟡🟢"
+        },
+        "CRB": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 17,
+                "over_15_ht": 10,
+                "ganando_ht": 9,
+                "empatando_ht": 4,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 16,
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 89.5,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 47.4,
+                "promedio_gf_ht": 0.84,
+                "promedio_gc_ht": 0.68
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Vila Nova",
+                    "Res": "[2:2]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Apr",
+                    "Local": "CRB",
+                    "Res": "[0:1]",
+                    "Visita": "Avai",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Novorizontino",
+                    "Res": "[1:1]",
+                    "Visita": "CRB",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "CRB",
+                    "Res": "[2:3]",
+                    "Visita": "Athletic Club",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "CRB",
+                    "Res": "[0:1]",
+                    "Visita": "Juventude",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[3:1]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "CRB",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "CRB",
+                    "Res": "[3:0]",
+                    "Visita": "Operario PR",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Sport Recife",
+                    "Res": "[1:2]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "CRB",
+                    "Res": "[4:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Cuiaba",
+                    "Res": "[2:0]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jun",
+                    "Local": "CRB",
+                    "Res": "[2:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jun",
+                    "Local": "Atletico GO",
+                    "Res": "[3:3]",
+                    "Visita": "CRB",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "CRB",
+                    "Res": "[1:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "30 Jun",
+                    "Local": "Botafogo SP",
+                    "Res": "[0:1]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Londrina",
+                    "Res": "[5:0]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "CRB",
+                    "Res": "[2:2]",
+                    "Visita": "Goias",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Jul",
+                    "Local": "CRB",
+                    "Res": "[2:1]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Jul",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟡🟢🟢"
+        },
+        "Nautico": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 3,
+                "ganando_ht": 4,
+                "empatando_ht": 6,
+                "perdiendo_ht": 9,
+                "goles_a_favor_ht": 7,
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 15.8,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.37,
+                "promedio_gc_ht": 0.68
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[1:2]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Nautico",
+                    "Res": "[1:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "Ceara",
+                    "Res": "[1:0]",
+                    "Visita": "Nautico",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Nautico",
+                    "Res": "[0:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "27 Apr",
+                    "Local": "Athletic Club",
+                    "Res": "[0:1]",
+                    "Visita": "Nautico",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:1]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 May",
+                    "Local": "Nautico",
+                    "Res": "[4:0]",
+                    "Visita": "America MG",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "Operario PR",
+                    "Res": "[2:6]",
+                    "Visita": "Nautico",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 May",
+                    "Local": "Nautico",
+                    "Res": "[1:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Sport Recife",
+                    "Res": "[2:0]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Jun",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Novorizontino",
+                    "Res": "[2:2]",
+                    "Visita": "Nautico",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "20 Jun",
+                    "Local": "Vila Nova",
+                    "Res": "[4:3]",
+                    "Visita": "Nautico",
+                    "HT": "4-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Nautico",
+                    "Res": "[0:1]",
+                    "Visita": "Goias",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Jul",
+                    "Local": "Nautico",
+                    "Res": "[0:0]",
+                    "Visita": "Juventude",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Avai",
+                    "Res": "[2:0]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Jul",
+                    "Local": "CRB",
+                    "Res": "[2:1]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jul",
+                    "Local": "Nautico",
+                    "Res": "[2:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟡🔴🔴🟢"
+        },
+        "Botafogo SP": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 5,
+                "ganando_ht": 6,
+                "empatando_ht": 9,
+                "perdiendo_ht": 4,
+                "goles_a_favor_ht": 12,
+                "goles_en_contra_ht": 6,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 31.6,
+                "promedio_gf_ht": 0.63,
+                "promedio_gc_ht": 0.32
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Botafogo SP",
+                    "Res": "[4:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Apr",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Botafogo SP",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:2]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Apr",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Apr",
+                    "Local": "Cuiaba",
+                    "Res": "[1:1]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:1]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Novorizontino",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 May",
+                    "Local": "Goias",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 May",
+                    "Local": "Botafogo SP",
+                    "Res": "[1:2]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Jun",
+                    "Local": "Vila Nova",
+                    "Res": "[1:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jun",
+                    "Local": "Botafogo SP",
+                    "Res": "[2:1]",
+                    "Visita": "Operario PR",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "20 Jun",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 Jun",
+                    "Local": "Botafogo SP",
+                    "Res": "[0:1]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Jul",
+                    "Local": "Botafogo SP",
+                    "Res": "[3:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 Jul",
+                    "Local": "Sport Recife",
+                    "Res": "[3:3]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Londrina",
+                    "Res": "[0:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Jul",
+                    "Local": "Botafogo SP",
+                    "Res": "[4:2]",
+                    "Visita": "Juventude",
+                    "HT": "2-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟢🟡🟡🟢"
+        },
+        "Cuiaba": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 7,
+                "over_15_ht": 4,
+                "ganando_ht": 2,
+                "empatando_ht": 14,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 6,
+                "goles_en_contra_ht": 7,
+                "%_over_0.5_ht": 36.8,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 10.5,
+                "promedio_gf_ht": 0.32,
+                "promedio_gc_ht": 0.37
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Cuiaba",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 Mar",
+                    "Local": "Fortaleza",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Cuiaba",
+                    "Res": "[0:2]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Apr",
+                    "Local": "Operario PR",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Goias",
+                    "Res": "[0:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Apr",
+                    "Local": "Cuiaba",
+                    "Res": "[1:1]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "Cuiaba",
+                    "Res": "[1:1]",
+                    "Visita": "Criciuma",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 May",
+                    "Local": "Athletic Club",
+                    "Res": "[0:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Cuiaba",
+                    "Res": "[0:0]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 May",
+                    "Local": "Nautico",
+                    "Res": "[1:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 May",
+                    "Local": "Cuiaba",
+                    "Res": "[2:0]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jun",
+                    "Local": "Cuiaba",
+                    "Res": "[1:0]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jun",
+                    "Local": "Avai",
+                    "Res": "[1:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jun",
+                    "Local": "Cuiaba",
+                    "Res": "[2:2]",
+                    "Visita": "Londrina",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Jul",
+                    "Local": "Cuiaba",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "Sao Bernardo",
+                    "Res": "[2:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 Jul",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Cuiaba",
+                    "Res": "[0:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟡🔴🔴"
+        },
+        "Londrina": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 6,
+                "ganando_ht": 4,
+                "empatando_ht": 7,
+                "perdiendo_ht": 8,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.63
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Novorizontino",
+                    "Res": "[1:3]",
+                    "Visita": "Londrina",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Apr",
+                    "Local": "Londrina",
+                    "Res": "[2:2]",
+                    "Visita": "Goias",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Londrina",
+                    "Res": "[1:2]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[2:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "Londrina",
+                    "Res": "[0:0]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Juventude",
+                    "Res": "[1:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Operario PR",
+                    "Res": "[3:0]",
+                    "Visita": "Londrina",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 May",
+                    "Local": "Londrina",
+                    "Res": "[1:3]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 May",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:4]",
+                    "Visita": "Londrina",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "Fortaleza",
+                    "Res": "[3:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Londrina",
+                    "Res": "[0:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "6 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:0]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Jun",
+                    "Local": "Londrina",
+                    "Res": "[3:2]",
+                    "Visita": "Avai",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "20 Jun",
+                    "Local": "Londrina",
+                    "Res": "[2:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jun",
+                    "Local": "Cuiaba",
+                    "Res": "[2:2]",
+                    "Visita": "Londrina",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Londrina",
+                    "Res": "[5:0]",
+                    "Visita": "CRB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Jul",
+                    "Local": "America MG",
+                    "Res": "[1:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Londrina",
+                    "Res": "[0:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Nautico",
+                    "Res": "[2:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟡🟡🔴"
+        },
+        "Avai": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 5,
+                "ganando_ht": 4,
+                "empatando_ht": 8,
+                "perdiendo_ht": 7,
+                "goles_a_favor_ht": 7,
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.37,
+                "promedio_gc_ht": 0.63
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Avai",
+                    "Res": "[2:0]",
+                    "Visita": "Juventude",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Apr",
+                    "Local": "CRB",
+                    "Res": "[0:1]",
+                    "Visita": "Avai",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Avai",
+                    "Res": "[0:0]",
+                    "Visita": "Operario PR",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Apr",
+                    "Local": "Sport Recife",
+                    "Res": "[2:2]",
+                    "Visita": "Avai",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Avai",
+                    "Res": "[1:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Atletico GO",
+                    "Res": "[2:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Avai",
+                    "Res": "[3:3]",
+                    "Visita": "Novorizontino",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Avai",
+                    "Res": "[0:0]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Vila Nova",
+                    "Res": "[2:0]",
+                    "Visita": "Avai",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Avai",
+                    "Res": "[0:2]",
+                    "Visita": "Goias",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Avai",
+                    "Res": "[1:2]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Jun",
+                    "Local": "Ceara",
+                    "Res": "[2:1]",
+                    "Visita": "Avai",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Jun",
+                    "Local": "Londrina",
+                    "Res": "[3:2]",
+                    "Visita": "Avai",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Avai",
+                    "Res": "[1:0]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Athletic Club",
+                    "Res": "[1:0]",
+                    "Visita": "Avai",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "6 Jul",
+                    "Local": "Botafogo SP",
+                    "Res": "[3:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Jul",
+                    "Local": "Avai",
+                    "Res": "[2:0]",
+                    "Visita": "Nautico",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "Avai",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jul",
+                    "Local": "Avai",
+                    "Res": "[2:1]",
+                    "Visita": "America MG",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟢🟡🟢"
+        },
+        "Ceara": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 11,
+                "over_15_ht": 4,
+                "ganando_ht": 4,
+                "empatando_ht": 9,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 9,
+                "%_over_0.5_ht": 57.9,
+                "%_over_1.5_ht": 21.1,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.47
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Ceara",
+                    "Res": "[1:1]",
+                    "Visita": "Sao Bernardo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Cuiaba",
+                    "Res": "[0:2]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Apr",
+                    "Local": "Ceara",
+                    "Res": "[1:0]",
+                    "Visita": "Nautico",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "Londrina",
+                    "Res": "[0:0]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Ceara",
+                    "Res": "[3:3]",
+                    "Visita": "Vila Nova",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Sport Recife",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "Atletico GO",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Ceara",
+                    "Res": "[2:1]",
+                    "Visita": "Fortaleza",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "Novorizontino",
+                    "Res": "[2:1]",
+                    "Visita": "Ceara",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Ceara",
+                    "Res": "[1:2]",
+                    "Visita": "Operario PR",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Jun",
+                    "Local": "Ceara",
+                    "Res": "[2:1]",
+                    "Visita": "Avai",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 Jun",
+                    "Local": "Criciuma",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "20 Jun",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Juventude",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Goias",
+                    "Res": "[2:0]",
+                    "Visita": "Ceara",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Jul",
+                    "Local": "Ceara",
+                    "Res": "[0:0]",
+                    "Visita": "Athletic Club",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "America MG",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Ceara",
+                    "Res": "[0:1]",
+                    "Visita": "CRB",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟡🟡🔴"
+        },
+        "Ponte Preta": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 15,
+                "over_15_ht": 9,
+                "ganando_ht": 2,
+                "empatando_ht": 7,
+                "perdiendo_ht": 10,
+                "goles_a_favor_ht": 9,
+                "goles_en_contra_ht": 19,
+                "%_over_0.5_ht": 78.9,
+                "%_over_1.5_ht": 47.4,
+                "%_ganando_ht": 10.5,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Athletic Club",
+                    "Res": "[2:1]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Nautico",
+                    "Res": "[1:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:1]",
+                    "Visita": "Vila Nova",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "Avai",
+                    "Res": "[1:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[3:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:3]",
+                    "Visita": "Sport Recife",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 May",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:4]",
+                    "Visita": "Londrina",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "CRB",
+                    "Res": "[4:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:0]",
+                    "Visita": "Botafogo SP",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Cuiaba",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Juventude",
+                    "Res": "[3:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jun",
+                    "Local": "Ponte Preta",
+                    "Res": "[0:2]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Atletico GO",
+                    "Res": "[2:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Jul",
+                    "Local": "Fortaleza",
+                    "Res": "[2:0]",
+                    "Visita": "Ponte Preta",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Jul",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Jul",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:2]",
+                    "Visita": "Goias",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Operario PR",
+                    "Res": "[3:2]",
+                    "Visita": "Ponte Preta",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🔴🔴🔴"
+        },
+        "America MG": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 6,
+                "ganando_ht": 5,
+                "empatando_ht": 8,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 9,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 0.58
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Goias",
+                    "Res": "[3:1]",
+                    "Visita": "America MG",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Apr",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Botafogo SP",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Apr",
+                    "Local": "Athletic Club",
+                    "Res": "[1:1]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "America MG",
+                    "Res": "[0:3]",
+                    "Visita": "Novorizontino",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "America MG",
+                    "Res": "[0:0]",
+                    "Visita": "Sport Recife",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Apr",
+                    "Local": "Ponte Preta",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "CRB",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Nautico",
+                    "Res": "[4:0]",
+                    "Visita": "America MG",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Sao Bernardo",
+                    "Res": "[1:1]",
+                    "Visita": "America MG",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Vila Nova",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Juventude",
+                    "Res": "[3:0]",
+                    "Visita": "America MG",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Jun",
+                    "Local": "America MG",
+                    "Res": "[1:2]",
+                    "Visita": "Atletico GO",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Jun",
+                    "Local": "Fortaleza",
+                    "Res": "[0:3]",
+                    "Visita": "America MG",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jun",
+                    "Local": "America MG",
+                    "Res": "[0:1]",
+                    "Visita": "Criciuma",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Jun",
+                    "Local": "Operario PR",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Jul",
+                    "Local": "Cuiaba",
+                    "Res": "[1:0]",
+                    "Visita": "America MG",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Jul",
+                    "Local": "America MG",
+                    "Res": "[1:1]",
+                    "Visita": "Londrina",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "America MG",
+                    "Res": "[1:1]",
+                    "Visita": "Ceara",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jul",
+                    "Local": "Avai",
+                    "Res": "[2:1]",
+                    "Visita": "America MG",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟡🟡🔴"
+        }
+    },
+    "fixture": [
+        {
+            "Fecha": "Sun 26 Jul",
+            "Hora": "16:00",
+            "Local": "Criciuma",
+            "Visita": "Nautico"
+        },
+        {
+            "Fecha": "Sun 26 Jul",
+            "Hora": "16:00",
+            "Local": "Sao Bernardo",
+            "Visita": "Ceara"
+        },
+        {
+            "Fecha": "Sun 26 Jul",
+            "Hora": "18:30",
+            "Local": "America MG",
+            "Visita": "Goias"
+        },
+        {
+            "Fecha": "Sun 26 Jul",
+            "Hora": "18:30",
+            "Local": "Londrina",
+            "Visita": "Novorizontino"
+        },
+        {
+            "Fecha": "Mon 27 Jul",
+            "Hora": "19:30",
+            "Local": "Atletico GO",
+            "Visita": "Operario PR"
+        },
+        {
+            "Fecha": "Mon 27 Jul",
+            "Hora": "19:30",
+            "Local": "CRB",
+            "Visita": "Vila Nova"
+        },
+        {
+            "Fecha": "Mon 27 Jul",
+            "Hora": "19:30",
+            "Local": "Sport Recife",
+            "Visita": "Cuiaba"
+        },
+        {
+            "Fecha": "Tue 28 Jul",
+            "Hora": "19:30",
+            "Local": "Juventude",
+            "Visita": "Avai"
+        },
+        {
+            "Fecha": "Tue 28 Jul",
+            "Hora": "19:30",
+            "Local": "Ponte Preta",
+            "Visita": "Athletic Club"
+        },
+        {
+            "Fecha": "Tue 28 Jul",
+            "Hora": "21:35",
+            "Local": "Fortaleza",
+            "Visita": "Botafogo SP"
+        }
+    ]
+}

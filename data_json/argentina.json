@@ -1,0 +1,813 @@
+{
+    "posiciones": [
+        [
+            "",
+            "Team",
+            "GP",
+            "W",
+            "D",
+            "L",
+            "GF",
+            "GA",
+            "GD",
+            "Pts"
+        ],
+        [
+            "1",
+            "Estudiantes",
+            "16",
+            "9",
+            "4",
+            "3",
+            "19",
+            "7",
+            "12",
+            "31"
+        ],
+        [
+            "2",
+            "Boca Juniors",
+            "16",
+            "8",
+            "6",
+            "2",
+            "22",
+            "9",
+            "13",
+            "30"
+        ],
+        [
+            "3",
+            "Velez Sarsfield",
+            "16",
+            "7",
+            "7",
+            "2",
+            "18",
+            "12",
+            "6",
+            "28"
+        ],
+        [
+            "4",
+            "T. de Cordoba",
+            "16",
+            "7",
+            "5",
+            "4",
+            "17",
+            "13",
+            "4",
+            "26"
+        ],
+        [
+            "5",
+            "Independiente",
+            "16",
+            "6",
+            "6",
+            "4",
+            "24",
+            "20",
+            "4",
+            "24"
+        ],
+        [
+            "6",
+            "Lanus",
+            "16",
+            "6",
+            "6",
+            "4",
+            "18",
+            "15",
+            "3",
+            "24"
+        ],
+        [
+            "7",
+            "San Lorenzo",
+            "16",
+            "5",
+            "7",
+            "4",
+            "14",
+            "14",
+            "0",
+            "22"
+        ],
+        [
+            "8",
+            "Union Santa Fe",
+            "16",
+            "5",
+            "6",
+            "5",
+            "24",
+            "20",
+            "4",
+            "21"
+        ],
+        [
+            "9",
+            "Defensa y J.",
+            "16",
+            "4",
+            "7",
+            "5",
+            "18",
+            "21",
+            "-3",
+            "19"
+        ],
+        [
+            "10",
+            "G. Mendoza",
+            "16",
+            "5",
+            "4",
+            "7",
+            "14",
+            "22",
+            "-8",
+            "19"
+        ],
+        [
+            "11",
+            "Platense",
+            "16",
+            "3",
+            "7",
+            "6",
+            "10",
+            "15",
+            "-5",
+            "16"
+        ],
+        [
+            "12",
+            "Central Cordoba",
+            "16",
+            "4",
+            "4",
+            "8",
+            "11",
+            "21",
+            "-10",
+            "16"
+        ],
+        [
+            "13",
+            "Newells",
+            "16",
+            "3",
+            "6",
+            "7",
+            "15",
+            "27",
+            "-12",
+            "15"
+        ],
+        [
+            "14",
+            "D. Riestra",
+            "16",
+            "1",
+            "8",
+            "7",
+            "5",
+            "12",
+            "-7",
+            "11"
+        ],
+        [
+            "1",
+            "I. Rivadavia",
+            "16",
+            "10",
+            "4",
+            "2",
+            "29",
+            "15",
+            "14",
+            "34"
+        ],
+        [
+            "2",
+            "River Plate",
+            "16",
+            "9",
+            "2",
+            "5",
+            "22",
+            "12",
+            "10",
+            "29"
+        ],
+        [
+            "3",
+            "Argentinos Jrs",
+            "16",
+            "8",
+            "5",
+            "3",
+            "17",
+            "13",
+            "4",
+            "29"
+        ],
+        [
+            "4",
+            "Rosario Central",
+            "16",
+            "8",
+            "4",
+            "4",
+            "20",
+            "16",
+            "4",
+            "28"
+        ],
+        [
+            "5",
+            "Belgrano",
+            "16",
+            "7",
+            "5",
+            "4",
+            "17",
+            "13",
+            "4",
+            "26"
+        ],
+        [
+            "6",
+            "Gimnasia",
+            "16",
+            "8",
+            "2",
+            "6",
+            "19",
+            "19",
+            "0",
+            "26"
+        ],
+        [
+            "7",
+            "Huracan",
+            "16",
+            "5",
+            "7",
+            "4",
+            "17",
+            "13",
+            "4",
+            "22"
+        ],
+        [
+            "8",
+            "Racing Club",
+            "16",
+            "5",
+            "6",
+            "5",
+            "17",
+            "15",
+            "2",
+            "21"
+        ],
+        [
+            "9",
+            "Instituto",
+            "16",
+            "6",
+            "3",
+            "7",
+            "17",
+            "17",
+            "0",
+            "21"
+        ],
+        [
+            "10",
+            "Barracas C.",
+            "16",
+            "5",
+            "6",
+            "5",
+            "15",
+            "15",
+            "0",
+            "21"
+        ],
+        [
+            "11",
+            "Tigre",
+            "16",
+            "4",
+            "8",
+            "4",
+            "18",
+            "15",
+            "3",
+            "20"
+        ],
+        [
+            "12",
+            "Sarmiento",
+            "16",
+            "6",
+            "1",
+            "9",
+            "13",
+            "20",
+            "-7",
+            "19"
+        ],
+        [
+            "13",
+            "Banfield",
+            "16",
+            "5",
+            "3",
+            "8",
+            "17",
+            "19",
+            "-2",
+            "18"
+        ],
+        [
+            "14",
+            "A. Tucuman",
+            "16",
+            "3",
+            "5",
+            "8",
+            "15",
+            "20",
+            "-5",
+            "14"
+        ],
+        [
+            "15",
+            "Aldosivi",
+            "16",
+            "0",
+            "8",
+            "8",
+            "6",
+            "19",
+            "-13",
+            "8"
+        ],
+        [
+            "16",
+            "E. Rio Cuarto",
+            "16",
+            "1",
+            "2",
+            "13",
+            "5",
+            "24",
+            "-19",
+            "5"
+        ]
+    ],
+    "estadisticas_avanzadas": {
+        "Estudiantes": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Boca Juniors": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Velez Sarsfield": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "20 Apr",
+                    "Local": "San Lorenzo",
+                    "Res": "[0:0]",
+                    "Visita": "Velez Sarsfield",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "T. de Cordoba": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Independiente": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Lanus": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "San Lorenzo": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Union Santa Fe": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Defensa y J.": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "G. Mendoza": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Platense": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Central Cordoba": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Newells": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "D. Riestra": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "I. Rivadavia": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "River Plate": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Argentinos Jrs": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Rosario Central": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Belgrano": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Gimnasia": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Huracan": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Racing Club": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Instituto": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Barracas C.": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Tigre": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Sarmiento": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Banfield": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "A. Tucuman": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "Aldosivi": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        },
+        "E. Rio Cuarto": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [],
+            "racha_ultimos_5": "Sin datos"
+        }
+    },
+    "fixture": []
+}
