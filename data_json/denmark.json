@@ -1,0 +1,668 @@
+{
+    "posiciones": [
+        [
+            "",
+            "Team",
+            "GP",
+            "W",
+            "D",
+            "L",
+            "GF",
+            "GA",
+            "GD",
+            "Pts"
+        ],
+        [
+            "1",
+            "FC Kobenhavn",
+            "1",
+            "1",
+            "0",
+            "0",
+            "3",
+            "2",
+            "1",
+            "3"
+        ],
+        [
+            "2",
+            "FC Midtjylland",
+            "1",
+            "1",
+            "0",
+            "0",
+            "3",
+            "2",
+            "1",
+            "3"
+        ],
+        [
+            "3",
+            "Viborg",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "3"
+        ],
+        [
+            "4",
+            "AC Horsens",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "5",
+            "AGF Aarhus",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "6",
+            "Brondby IF",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "7",
+            "Nordsjaelland",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "8",
+            "Randers FC",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "9",
+            "Silkeborg",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        [
+            "10",
+            "Lyngby",
+            "1",
+            "0",
+            "0",
+            "1",
+            "2",
+            "3",
+            "-1",
+            "0"
+        ],
+        [
+            "11",
+            "SonderjyskE",
+            "1",
+            "0",
+            "0",
+            "1",
+            "2",
+            "3",
+            "-1",
+            "0"
+        ],
+        [
+            "12",
+            "Odense BK",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "-1",
+            "0"
+        ]
+    ],
+    "estadisticas_avanzadas": {
+        "FC Kobenhavn": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 1,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 2,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 2.0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "FC Kobenhavn",
+                    "Res": "[3:2]",
+                    "Visita": "Lyngby",
+                    "HT": "1-2"
+                }
+            ],
+            "racha_ultimos_5": "🟢"
+        },
+        "FC Midtjylland": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 2,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 2.0,
+                "promedio_gc_ht": 2.0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "SonderjyskE",
+                    "Res": "[2:3]",
+                    "Visita": "FC Midtjylland",
+                    "HT": "2-2"
+                }
+            ],
+            "racha_ultimos_5": "🟢"
+        },
+        "Viborg": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Jul",
+                    "Local": "Viborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢"
+        },
+        "AC Horsens": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jul",
+                    "Local": "AC Horsens",
+                    "Res": "[1:1]",
+                    "Visita": "Nordsjaelland",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "AGF Aarhus": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jul",
+                    "Local": "AGF Aarhus",
+                    "Res": "[1:1]",
+                    "Visita": "Brondby IF",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "Brondby IF": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jul",
+                    "Local": "AGF Aarhus",
+                    "Res": "[1:1]",
+                    "Visita": "Brondby IF",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "Nordsjaelland": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jul",
+                    "Local": "AC Horsens",
+                    "Res": "[1:1]",
+                    "Visita": "Nordsjaelland",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "Randers FC": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "27 Jul",
+                    "Local": "Randers FC",
+                    "Res": "[1:1]",
+                    "Visita": "Silkeborg",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "Silkeborg": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "27 Jul",
+                    "Local": "Randers FC",
+                    "Res": "[1:1]",
+                    "Visita": "Silkeborg",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡"
+        },
+        "Lyngby": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 1,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 100.0,
+                "promedio_gf_ht": 2.0,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "FC Kobenhavn",
+                    "Res": "[3:2]",
+                    "Visita": "Lyngby",
+                    "HT": "1-2"
+                }
+            ],
+            "racha_ultimos_5": "🔴"
+        },
+        "SonderjyskE": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 2,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 100.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 2.0,
+                "promedio_gc_ht": 2.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "SonderjyskE",
+                    "Res": "[2:3]",
+                    "Visita": "FC Midtjylland",
+                    "HT": "2-2"
+                }
+            ],
+            "racha_ultimos_5": "🔴"
+        },
+        "Odense BK": {
+            "ht_stats": {
+                "partidos_jugados": 1,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Jul",
+                    "Local": "Viborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴"
+        }
+    },
+    "fixture": [
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "13:00",
+            "Local": "Lyngby",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "09:00",
+            "Local": "FC Midtjylland",
+            "Visita": "AC Horsens"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "09:00",
+            "Local": "Nordsjaelland",
+            "Visita": "Randers FC"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "11:00",
+            "Local": "Brondby IF",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "13:00",
+            "Local": "Silkeborg",
+            "Visita": "FC Kobenhavn"
+        },
+        {
+            "Fecha": "Mon 3 Aug",
+            "Hora": "14:00",
+            "Local": "Odense BK",
+            "Visita": "SonderjyskE"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "14:00",
+            "Local": "SonderjyskE",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "11:00",
+            "Local": "Randers FC",
+            "Visita": "Lyngby"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "13:00",
+            "Local": "AC Horsens",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Mon 10 Aug",
+            "Hora": "14:00",
+            "Local": "Silkeborg",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "14:00",
+            "Local": "Viborg",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "09:00",
+            "Local": "Nordsjaelland",
+            "Visita": "Silkeborg"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "09:00",
+            "Local": "Odense BK",
+            "Visita": "AC Horsens"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "11:00",
+            "Local": "Lyngby",
+            "Visita": "FC Midtjylland"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "13:00",
+            "Local": "Randers FC",
+            "Visita": "FC Kobenhavn"
+        },
+        {
+            "Fecha": "Mon 17 Aug",
+            "Hora": "14:00",
+            "Local": "Brondby IF",
+            "Visita": "SonderjyskE"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "14:00",
+            "Local": "AGF Aarhus",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "07:00",
+            "Local": "SonderjyskE",
+            "Visita": "Nordsjaelland"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "09:00",
+            "Local": "FC Midtjylland",
+            "Visita": "Randers FC"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "11:00",
+            "Local": "AC Horsens",
+            "Visita": "Lyngby"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "13:00",
+            "Local": "Viborg",
+            "Visita": "FC Kobenhavn"
+        },
+        {
+            "Fecha": "Mon 24 Aug",
+            "Hora": "14:00",
+            "Local": "Brondby IF",
+            "Visita": "Silkeborg"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "14:00",
+            "Local": "AC Horsens",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "09:00",
+            "Local": "Lyngby",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "09:00",
+            "Local": "Silkeborg",
+            "Visita": "FC Midtjylland"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "11:00",
+            "Local": "Randers FC",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "13:00",
+            "Local": "Nordsjaelland",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Mon 31 Aug",
+            "Hora": "14:00",
+            "Local": "FC Kobenhavn",
+            "Visita": "SonderjyskE"
+        }
+    ]
+}
