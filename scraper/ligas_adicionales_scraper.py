@@ -43,13 +43,89 @@ dict_iceland2 = {
     "throttur r.": "u5386-throttur-r.", "vestri": "u5397-vestri", "volsungur": "u5407-volsungur"
 }
 
-# 👇 CONFIGURACIÓN DE ESCANEO 👇
+# 👇 1. PEGA TUS DICCIONARIOS GENERADOS AQUÍ 👇
+dict_denmark = {
+   "ac horsens": "u3787-ac-horsens",
+    "agf aarhus": "u23-agf-aarhus",
+    "brondby if": "u19-brondby-if",
+    "fc kobenhavn": "u22-fc-kobenhavn",
+    "fc midtjylland": "u14-fc-midtjylland",
+    "lyngby": "u17-lyngby",
+    "nordsjaelland": "u20-nordsjaelland",
+    "odense bk": "u4393-odense-bk",
+    "randers fc": "u16-randers-fc",
+    "silkeborg": "u4437-silkeborg",
+    "sonderjyske": "u3786-sonderjyske",
+    "viborg": "u4435-viborg"
+}
+dict_china = {
+    "beijing guoan": "u7908-beijing-guoan",
+    "chengdu": "u7420-chengdu",
+    "chongqing t.": "u11104-chongqing-t.",
+    "dalian yingbo": "u11107-dalian-yingbo",
+    "henan sl": "u7899-henan-sl",
+    "liaoning tieren": "u7421-liaoning-tieren",
+    "qingdao hainiu": "u8944-qingdao-hainiu",
+    "qingdao west c.": "u8945-qingdao-west-c.",
+    "s. shenhua": "u7907-s.-shenhua",
+    "shandong t.": "u7894-shandong-t.",
+    "shanghai port": "u7904-shanghai-port",
+    "shenzhen": "u7405-shenzhen",
+    "tianjin jt": "u7903-tianjin-jt",
+    "wuhan three t.": "u7407-wuhan-three-t.",
+    "yunnan yukun": "u11105-yunnan-yukun",
+    "zhejiang": "u7410-zhejiang",
+    "chengdu stats": "u7420-chengdu",
+    "chongqing t. stats": "u11104-chongqing-t."
+}
+dict_sweden = {
+    "aik": "u4789-aik",
+    "brommapojkarna": "u4809-brommapojkarna",
+    "degerfors": "u4790-degerfors",
+    "djurgarden": "u4786-djurgarden",
+    "elfsborg": "u4785-elfsborg",
+    "gais": "u4794-gais",
+    "hacken": "u4782-hacken",
+    "halmstad": "u4781-halmstad",
+    "hammarby": "u4778-hammarby",
+    "ifk goteborg": "u4780-ifk-goteborg",
+    "kalmar": "u4791-kalmar",
+    "malmo ff": "u4777-malmo-ff",
+    "mjallby": "u4783-mjallby",
+    "orgryte": "u4799-orgryte",
+    "sirius": "u4788-sirius",
+    "vasteras": "u4805-vasteras",
+    "sirius stats": "u4788-sirius",
+    "hammarby stats": "u4778-hammarby"
+}
+dict_iceland = {
+    "breidablik": "u5384-breidablik",
+    "fram": "u5388-fram",
+    "hafnarfjordur": "u5381-hafnarfjordur",
+    "ia akranes": "u5375-ia-akranes",
+    "ibv": "u5393-ibv",
+    "ka akureyri": "u5383-ka-akureyri",
+    "keflavik": "u5379-keflavik",
+    "kr reykjavik": "u5385-kr-reykjavik",
+    "stjarnan": "u5376-stjarnan",
+    "thor akureyri": "u5391-thor-akureyri",
+    "valur": "u5374-valur",
+    "vikingur r.": "u5378-vikingur-r."
+}
+
+# 👇 2. REEMPLAZA TU LIGAS_CONFIG POR ESTA 👇
 ligas_config = [
     {"id": "usa", "nombre": "Estados Unidos - MLS", "archivo": "mls.json", "dic": dict_usa},
     {"id": "mexico", "nombre": "México - Liga MX", "archivo": "mexico.json", "dic": dict_mexico},
     {"id": "estonia", "nombre": "Estonia - Meistriliiga", "archivo": "estonia.json", "dic": dict_estonia},
-    {"id": "iceland2", "nombre": "Islandia - 2da División", "archivo": "iceland2.json", "dic": dict_iceland2}
+    {"id": "iceland2", "nombre": "Islandia - 2da División", "archivo": "iceland2.json", "dic": dict_iceland2},
+    # --- TUS 4 LIGAS NUEVAS ---
+    {"id": "denmark", "nombre": "Dinamarca - Superliga", "archivo": "denmark.json", "dic": dict_denmark},
+    {"id": "china", "nombre": "China - Super League", "archivo": "china.json", "dic": dict_china},
+    {"id": "sweden", "nombre": "Suecia - Allsvenskan", "archivo": "sweden.json", "dic": dict_sweden},
+    {"id": "iceland", "nombre": "Islandia - 1ra División", "archivo": "iceland.json", "dic": dict_iceland}
 ]
+
 
 def normalizar_nombre(nombre):
     nombre = nombre.lower().strip()
