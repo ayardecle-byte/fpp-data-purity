@@ -39,29 +39,41 @@
         [
             "3",
             "Fylkir",
-            "14",
+            "15",
             "10",
             "0",
-            "4",
+            "5",
             "32",
-            "20",
-            "12",
+            "22",
+            "10",
             "30"
         ],
         [
             "4",
             "HK Kopavogur",
-            "15",
+            "16",
             "9",
             "1",
-            "5",
-            "36",
-            "26",
-            "10",
+            "6",
+            "38",
+            "29",
+            "9",
             "28"
         ],
         [
             "5",
+            "Njardvik",
+            "16",
+            "8",
+            "2",
+            "6",
+            "24",
+            "21",
+            "3",
+            "26"
+        ],
+        [
+            "6",
             "Grotta",
             "14",
             "7",
@@ -73,7 +85,7 @@
             "22"
         ],
         [
-            "6",
+            "7",
             "Vestri",
             "15",
             "6",
@@ -83,18 +95,6 @@
             "31",
             "-5",
             "21"
-        ],
-        [
-            "7",
-            "Njardvik",
-            "14",
-            "6",
-            "2",
-            "6",
-            "20",
-            "19",
-            "1",
-            "20"
         ],
         [
             "8",
@@ -110,50 +110,50 @@
         ],
         [
             "9",
-            "Grindavik",
-            "14",
-            "2",
-            "8",
+            "IR Reykjavik",
+            "16",
             "4",
-            "15",
-            "18",
-            "-3",
-            "14"
+            "4",
+            "8",
+            "27",
+            "36",
+            "-9",
+            "16"
         ],
         [
             "10",
-            "IR Reykjavik",
+            "Grindavik",
             "15",
-            "3",
-            "4",
+            "2",
             "8",
-            "25",
-            "36",
-            "-11",
-            "13"
+            "5",
+            "15",
+            "20",
+            "-5",
+            "14"
         ],
         [
             "11",
             "Volsungur",
-            "14",
-            "1",
+            "15",
+            "2",
             "5",
             "8",
-            "17",
+            "19",
             "34",
-            "-17",
-            "8"
+            "-15",
+            "11"
         ],
         [
             "12",
             "Aeggir",
-            "15",
+            "16",
             "2",
             "2",
-            "11",
+            "12",
             "19",
-            "42",
-            "-23",
+            "43",
+            "-24",
             "8"
         ]
     ],
@@ -432,19 +432,19 @@
         },
         "Fylkir": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 11,
+                "partidos_jugados": 15,
+                "over_05_ht": 12,
                 "over_15_ht": 6,
                 "ganando_ht": 5,
                 "empatando_ht": 4,
-                "perdiendo_ht": 5,
+                "perdiendo_ht": 6,
                 "goles_a_favor_ht": 16,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 78.6,
-                "%_over_1.5_ht": 42.9,
-                "%_ganando_ht": 35.7,
-                "promedio_gf_ht": 1.14,
-                "promedio_gc_ht": 0.79
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 80.0,
+                "%_over_1.5_ht": 40.0,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 1.07,
+                "promedio_gc_ht": 0.8
             },
             "historial": [
                 {
@@ -558,25 +558,33 @@
                     "Res": "[4:1]",
                     "Visita": "Njardvik",
                     "HT": "4-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Jul",
+                    "Local": "IR Reykjavik",
+                    "Res": "[2:0]",
+                    "Visita": "Fylkir",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟢🟢🟢"
+            "racha_ultimos_5": "🔴🟢🟢🟢🔴"
         },
         "HK Kopavogur": {
             "ht_stats": {
-                "partidos_jugados": 15,
-                "over_05_ht": 12,
-                "over_15_ht": 9,
+                "partidos_jugados": 16,
+                "over_05_ht": 13,
+                "over_15_ht": 10,
                 "ganando_ht": 6,
-                "empatando_ht": 5,
+                "empatando_ht": 6,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 20,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 80.0,
-                "%_over_1.5_ht": 60.0,
-                "%_ganando_ht": 40.0,
-                "promedio_gf_ht": 1.33,
-                "promedio_gc_ht": 0.93
+                "goles_a_favor_ht": 21,
+                "goles_en_contra_ht": 15,
+                "%_over_0.5_ht": 81.2,
+                "%_over_1.5_ht": 62.5,
+                "%_ganando_ht": 37.5,
+                "promedio_gf_ht": 1.31,
+                "promedio_gc_ht": 0.94
             },
             "historial": [
                 {
@@ -698,9 +706,165 @@
                     "Res": "[6:2]",
                     "Visita": "Vestri",
                     "HT": "4-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Jul",
+                    "Local": "Njardvik",
+                    "Res": "[3:2]",
+                    "Visita": "HK Kopavogur",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟢🟢🟢"
+            "racha_ultimos_5": "🔴🟢🟢🟢🔴"
+        },
+        "Njardvik": {
+            "ht_stats": {
+                "partidos_jugados": 16,
+                "over_05_ht": 9,
+                "over_15_ht": 5,
+                "ganando_ht": 6,
+                "empatando_ht": 9,
+                "perdiendo_ht": 1,
+                "goles_a_favor_ht": 13,
+                "goles_en_contra_ht": 9,
+                "%_over_0.5_ht": 56.2,
+                "%_over_1.5_ht": 31.2,
+                "%_ganando_ht": 37.5,
+                "promedio_gf_ht": 0.81,
+                "promedio_gc_ht": 0.56
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Apr",
+                    "Local": "Throttur R.",
+                    "Res": "[2:0]",
+                    "Visita": "Njardvik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 May",
+                    "Local": "Grindavik",
+                    "Res": "[0:0]",
+                    "Visita": "Njardvik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 May",
+                    "Local": "Njardvik",
+                    "Res": "[2:0]",
+                    "Visita": "Fylkir",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 May",
+                    "Local": "HK Kopavogur",
+                    "Res": "[2:0]",
+                    "Visita": "Njardvik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 May",
+                    "Local": "Njardvik",
+                    "Res": "[0:0]",
+                    "Visita": "Aeggir",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "27 May",
+                    "Local": "Vestri",
+                    "Res": "[0:3]",
+                    "Visita": "Njardvik",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Njardvik",
+                    "Res": "[1:2]",
+                    "Visita": "Grotta",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jun",
+                    "Local": "Njardvik",
+                    "Res": "[5:1]",
+                    "Visita": "IR Reykjavik",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 Jun",
+                    "Local": "Volsungur",
+                    "Res": "[2:1]",
+                    "Visita": "Njardvik",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Jun",
+                    "Local": "Njardvik",
+                    "Res": "[1:0]",
+                    "Visita": "Leiknir R.",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jun",
+                    "Local": "Afturelding",
+                    "Res": "[2:0]",
+                    "Visita": "Njardvik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Jul",
+                    "Local": "Njardvik",
+                    "Res": "[1:0]",
+                    "Visita": "Throttur R.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Jul",
+                    "Local": "Njardvik",
+                    "Res": "[5:4]",
+                    "Visita": "Grindavik",
+                    "HT": "3-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 Jul",
+                    "Local": "Fylkir",
+                    "Res": "[4:1]",
+                    "Visita": "Njardvik",
+                    "HT": "4-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Jul",
+                    "Local": "Njardvik",
+                    "Res": "[3:2]",
+                    "Visita": "HK Kopavogur",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jul",
+                    "Local": "Aeggir",
+                    "Res": "[0:1]",
+                    "Visita": "Njardvik",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🔴🟢🟢"
         },
         "Grotta": {
             "ht_stats": {
@@ -974,138 +1138,6 @@
             ],
             "racha_ultimos_5": "🟢🟡🟡🔴🔴"
         },
-        "Njardvik": {
-            "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 7,
-                "over_15_ht": 4,
-                "ganando_ht": 5,
-                "empatando_ht": 8,
-                "perdiendo_ht": 1,
-                "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 8,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 28.6,
-                "%_ganando_ht": 35.7,
-                "promedio_gf_ht": 0.79,
-                "promedio_gc_ht": 0.57
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Apr",
-                    "Local": "Throttur R.",
-                    "Res": "[2:0]",
-                    "Visita": "Njardvik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 May",
-                    "Local": "Grindavik",
-                    "Res": "[0:0]",
-                    "Visita": "Njardvik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 May",
-                    "Local": "Njardvik",
-                    "Res": "[2:0]",
-                    "Visita": "Fylkir",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 May",
-                    "Local": "HK Kopavogur",
-                    "Res": "[2:0]",
-                    "Visita": "Njardvik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 May",
-                    "Local": "Njardvik",
-                    "Res": "[0:0]",
-                    "Visita": "Aeggir",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "27 May",
-                    "Local": "Vestri",
-                    "Res": "[0:3]",
-                    "Visita": "Njardvik",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "31 May",
-                    "Local": "Njardvik",
-                    "Res": "[1:2]",
-                    "Visita": "Grotta",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Jun",
-                    "Local": "Njardvik",
-                    "Res": "[5:1]",
-                    "Visita": "IR Reykjavik",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 Jun",
-                    "Local": "Volsungur",
-                    "Res": "[2:1]",
-                    "Visita": "Njardvik",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Jun",
-                    "Local": "Njardvik",
-                    "Res": "[1:0]",
-                    "Visita": "Leiknir R.",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jun",
-                    "Local": "Afturelding",
-                    "Res": "[2:0]",
-                    "Visita": "Njardvik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 Jul",
-                    "Local": "Njardvik",
-                    "Res": "[1:0]",
-                    "Visita": "Throttur R.",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 Jul",
-                    "Local": "Njardvik",
-                    "Res": "[5:4]",
-                    "Visita": "Grindavik",
-                    "HT": "3-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 Jul",
-                    "Local": "Fylkir",
-                    "Res": "[4:1]",
-                    "Visita": "Njardvik",
-                    "HT": "4-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🔴🟢🟢🔴"
-        },
         "Leiknir R.": {
             "ht_stats": {
                 "partidos_jugados": 15,
@@ -1246,153 +1278,21 @@
             ],
             "racha_ultimos_5": "🟢🟡🔴🔴🔴"
         },
-        "Grindavik": {
-            "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 8,
-                "over_15_ht": 6,
-                "ganando_ht": 1,
-                "empatando_ht": 9,
-                "perdiendo_ht": 4,
-                "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 57.1,
-                "%_over_1.5_ht": 42.9,
-                "%_ganando_ht": 7.1,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.86
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 Apr",
-                    "Local": "Vestri",
-                    "Res": "[1:1]",
-                    "Visita": "Grindavik",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 May",
-                    "Local": "Grindavik",
-                    "Res": "[0:0]",
-                    "Visita": "Njardvik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "8 May",
-                    "Local": "IR Reykjavik",
-                    "Res": "[2:2]",
-                    "Visita": "Grindavik",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 May",
-                    "Local": "Grindavik",
-                    "Res": "[3:1]",
-                    "Visita": "Volsungur",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 May",
-                    "Local": "Leiknir R.",
-                    "Res": "[0:0]",
-                    "Visita": "Grindavik",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 May",
-                    "Local": "Grindavik",
-                    "Res": "[1:3]",
-                    "Visita": "Afturelding",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Jun",
-                    "Local": "Throttur R.",
-                    "Res": "[2:0]",
-                    "Visita": "Grindavik",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 Jun",
-                    "Local": "Grindavik",
-                    "Res": "[0:1]",
-                    "Visita": "Fylkir",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "HK Kopavogur",
-                    "Res": "[2:2]",
-                    "Visita": "Grindavik",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jun",
-                    "Local": "Grindavik",
-                    "Res": "[0:0]",
-                    "Visita": "Aeggir",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "4 Jul",
-                    "Local": "Grindavik",
-                    "Res": "[0:0]",
-                    "Visita": "Vestri",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 Jul",
-                    "Local": "Njardvik",
-                    "Res": "[5:4]",
-                    "Visita": "Grindavik",
-                    "HT": "3-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Jul",
-                    "Local": "Grotta",
-                    "Res": "[1:2]",
-                    "Visita": "Grindavik",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Jul",
-                    "Local": "Grindavik",
-                    "Res": "[0:0]",
-                    "Visita": "IR Reykjavik",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟡🔴🟢🟡"
-        },
         "IR Reykjavik": {
             "ht_stats": {
-                "partidos_jugados": 15,
-                "over_05_ht": 9,
+                "partidos_jugados": 16,
+                "over_05_ht": 10,
                 "over_15_ht": 7,
-                "ganando_ht": 4,
+                "ganando_ht": 5,
                 "empatando_ht": 7,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 12,
+                "goles_a_favor_ht": 13,
                 "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 60.0,
-                "%_over_1.5_ht": 46.7,
-                "%_ganando_ht": 26.7,
-                "promedio_gf_ht": 0.8,
-                "promedio_gc_ht": 0.87
+                "%_over_0.5_ht": 62.5,
+                "%_over_1.5_ht": 43.8,
+                "%_ganando_ht": 31.2,
+                "promedio_gf_ht": 0.81,
+                "promedio_gc_ht": 0.81
             },
             "historial": [
                 {
@@ -1514,25 +1414,173 @@
                     "Res": "[0:0]",
                     "Visita": "IR Reykjavik",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "IR Reykjavik",
+                    "Res": "[2:0]",
+                    "Visita": "Fylkir",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟡🔴🟡"
+            "racha_ultimos_5": "🔴🟡🔴🟡🟢"
+        },
+        "Grindavik": {
+            "ht_stats": {
+                "partidos_jugados": 15,
+                "over_05_ht": 9,
+                "over_15_ht": 6,
+                "ganando_ht": 1,
+                "empatando_ht": 9,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 7,
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 60.0,
+                "%_over_1.5_ht": 40.0,
+                "%_ganando_ht": 6.7,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 0.87
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Apr",
+                    "Local": "Vestri",
+                    "Res": "[1:1]",
+                    "Visita": "Grindavik",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 May",
+                    "Local": "Grindavik",
+                    "Res": "[0:0]",
+                    "Visita": "Njardvik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "8 May",
+                    "Local": "IR Reykjavik",
+                    "Res": "[2:2]",
+                    "Visita": "Grindavik",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Grindavik",
+                    "Res": "[3:1]",
+                    "Visita": "Volsungur",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 May",
+                    "Local": "Leiknir R.",
+                    "Res": "[0:0]",
+                    "Visita": "Grindavik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 May",
+                    "Local": "Grindavik",
+                    "Res": "[1:3]",
+                    "Visita": "Afturelding",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Jun",
+                    "Local": "Throttur R.",
+                    "Res": "[2:0]",
+                    "Visita": "Grindavik",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 Jun",
+                    "Local": "Grindavik",
+                    "Res": "[0:1]",
+                    "Visita": "Fylkir",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "HK Kopavogur",
+                    "Res": "[2:2]",
+                    "Visita": "Grindavik",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jun",
+                    "Local": "Grindavik",
+                    "Res": "[0:0]",
+                    "Visita": "Aeggir",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 Jul",
+                    "Local": "Grindavik",
+                    "Res": "[0:0]",
+                    "Visita": "Vestri",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Jul",
+                    "Local": "Njardvik",
+                    "Res": "[5:4]",
+                    "Visita": "Grindavik",
+                    "HT": "3-3"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jul",
+                    "Local": "Grotta",
+                    "Res": "[1:2]",
+                    "Visita": "Grindavik",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Jul",
+                    "Local": "Grindavik",
+                    "Res": "[0:0]",
+                    "Visita": "IR Reykjavik",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Jul",
+                    "Local": "Volsungur",
+                    "Res": "[2:0]",
+                    "Visita": "Grindavik",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🟢🟡🔴"
         },
         "Volsungur": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 11,
+                "partidos_jugados": 15,
+                "over_05_ht": 12,
                 "over_15_ht": 7,
-                "ganando_ht": 1,
+                "ganando_ht": 2,
                 "empatando_ht": 6,
                 "perdiendo_ht": 7,
-                "goles_a_favor_ht": 6,
+                "goles_a_favor_ht": 7,
                 "goles_en_contra_ht": 18,
-                "%_over_0.5_ht": 78.6,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 7.1,
-                "promedio_gf_ht": 0.43,
-                "promedio_gc_ht": 1.29
+                "%_over_0.5_ht": 80.0,
+                "%_over_1.5_ht": 46.7,
+                "%_ganando_ht": 13.3,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 1.2
             },
             "historial": [
                 {
@@ -1646,25 +1694,33 @@
                     "Res": "[1:0]",
                     "Visita": "Volsungur",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Jul",
+                    "Local": "Volsungur",
+                    "Res": "[2:0]",
+                    "Visita": "Grindavik",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟡🟡🔴🔴"
+            "racha_ultimos_5": "🟡🟡🔴🔴🟢"
         },
         "Aeggir": {
             "ht_stats": {
-                "partidos_jugados": 15,
-                "over_05_ht": 9,
+                "partidos_jugados": 16,
+                "over_05_ht": 10,
                 "over_15_ht": 6,
                 "ganando_ht": 2,
                 "empatando_ht": 6,
-                "perdiendo_ht": 7,
+                "perdiendo_ht": 8,
                 "goles_a_favor_ht": 9,
-                "goles_en_contra_ht": 18,
-                "%_over_0.5_ht": 60.0,
-                "%_over_1.5_ht": 40.0,
-                "%_ganando_ht": 13.3,
-                "promedio_gf_ht": 0.6,
-                "promedio_gc_ht": 1.2
+                "goles_en_contra_ht": 19,
+                "%_over_0.5_ht": 62.5,
+                "%_over_1.5_ht": 37.5,
+                "%_ganando_ht": 12.5,
+                "promedio_gf_ht": 0.56,
+                "promedio_gc_ht": 1.19
             },
             "historial": [
                 {
@@ -1786,42 +1842,20 @@
                     "Res": "[6:1]",
                     "Visita": "Aeggir",
                     "HT": "4-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jul",
+                    "Local": "Aeggir",
+                    "Res": "[0:1]",
+                    "Visita": "Njardvik",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🔴🔴"
+            "racha_ultimos_5": "🔴🔴🔴🔴🔴"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Fri 24 Jul",
-            "Hora": "15:00",
-            "Local": "Volsungur",
-            "Visita": "Grindavik"
-        },
-        {
-            "Fecha": "Fri 24 Jul",
-            "Hora": "16:15",
-            "Local": "Njardvik",
-            "Visita": "HK Kopavogur"
-        },
-        {
-            "Fecha": "Sat 25 Jul",
-            "Hora": "11:00",
-            "Local": "Afturelding",
-            "Visita": "Grotta"
-        },
-        {
-            "Fecha": "Sat 25 Jul",
-            "Hora": "11:00",
-            "Local": "IR Reykjavik",
-            "Visita": "Fylkir"
-        },
-        {
-            "Fecha": "Tue 28 Jul",
-            "Hora": "16:15",
-            "Local": "Aeggir",
-            "Visita": "Njardvik"
-        },
         {
             "Fecha": "Wed 29 Jul",
             "Hora": "15:00",
