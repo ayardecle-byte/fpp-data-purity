@@ -99,13 +99,13 @@
         [
             "8",
             "Nomme Utd",
-            "20",
+            "21",
             "8",
             "1",
-            "11",
-            "39",
-            "46",
-            "-7",
+            "12",
+            "40",
+            "48",
+            "-8",
             "25"
         ],
         [
@@ -123,14 +123,14 @@
         [
             "10",
             "Narva Trans",
-            "20",
-            "4",
+            "21",
+            "5",
             "1",
             "15",
-            "15",
-            "47",
-            "-32",
-            "13"
+            "17",
+            "48",
+            "-31",
+            "16"
         ]
     ],
     "estadisticas_avanzadas": {
@@ -1364,19 +1364,19 @@
         },
         "Nomme Utd": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 19,
-                "over_15_ht": 12,
+                "partidos_jugados": 21,
+                "over_05_ht": 20,
+                "over_15_ht": 13,
                 "ganando_ht": 5,
                 "empatando_ht": 5,
-                "perdiendo_ht": 10,
+                "perdiendo_ht": 11,
                 "goles_a_favor_ht": 15,
-                "goles_en_contra_ht": 23,
-                "%_over_0.5_ht": 95.0,
-                "%_over_1.5_ht": 60.0,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.75,
-                "promedio_gc_ht": 1.15
+                "goles_en_contra_ht": 25,
+                "%_over_0.5_ht": 95.2,
+                "%_over_1.5_ht": 61.9,
+                "%_ganando_ht": 23.8,
+                "promedio_gf_ht": 0.71,
+                "promedio_gc_ht": 1.19
             },
             "historial": [
                 {
@@ -1538,9 +1538,17 @@
                     "Res": "[1:2]",
                     "Visita": "Nomme Utd",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 Jul",
+                    "Local": "Nomme Utd",
+                    "Res": "[1:2]",
+                    "Visita": "Narva Trans",
+                    "HT": "0-2"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🟢🟢"
+            "racha_ultimos_5": "🟢🔴🟢🟢🔴"
         },
         "Kuressaare": {
             "ht_stats": {
@@ -1724,19 +1732,19 @@
         },
         "Narva Trans": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 16,
-                "over_15_ht": 12,
-                "ganando_ht": 3,
+                "partidos_jugados": 21,
+                "over_05_ht": 17,
+                "over_15_ht": 13,
+                "ganando_ht": 4,
                 "empatando_ht": 6,
                 "perdiendo_ht": 11,
-                "goles_a_favor_ht": 8,
+                "goles_a_favor_ht": 10,
                 "goles_en_contra_ht": 23,
-                "%_over_0.5_ht": 80.0,
-                "%_over_1.5_ht": 60.0,
-                "%_ganando_ht": 15.0,
-                "promedio_gf_ht": 0.4,
-                "promedio_gc_ht": 1.15
+                "%_over_0.5_ht": 81.0,
+                "%_over_1.5_ht": 61.9,
+                "%_ganando_ht": 19.0,
+                "promedio_gf_ht": 0.48,
+                "promedio_gc_ht": 1.1
             },
             "historial": [
                 {
@@ -1898,17 +1906,169 @@
                     "Res": "[3:1]",
                     "Visita": "Vaprus",
                     "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 Jul",
+                    "Local": "Nomme Utd",
+                    "Res": "[1:2]",
+                    "Visita": "Narva Trans",
+                    "HT": "0-2"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🔴🟢"
+            "racha_ultimos_5": "🔴🔴🔴🟢🟢"
         }
     },
     "fixture": [
         {
-            "Fecha": "Fri 31 Jul",
+            "Fecha": "Sun 2 Aug",
+            "Hora": "11:00",
+            "Local": "Nomme Kalju",
+            "Visita": "Tammeka"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "11:00",
+            "Local": "Paide",
+            "Visita": "Kuressaare"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "13:00",
+            "Local": "Flora",
+            "Visita": "Harju JK"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "13:00",
+            "Local": "Vaprus",
+            "Visita": "Levadia"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "13:00",
+            "Local": "Flora",
+            "Visita": "Tammeka"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "13:00",
+            "Local": "Kuressaare",
+            "Visita": "Harju JK"
+        },
+        {
+            "Fecha": "Sat 8 Aug",
+            "Hora": "11:00",
+            "Local": "Paide",
+            "Visita": "Vaprus"
+        },
+        {
+            "Fecha": "Sat 8 Aug",
+            "Hora": "13:00",
+            "Local": "Narva Trans",
+            "Visita": "Nomme Kalju"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "13:00",
+            "Local": "Levadia",
+            "Visita": "Nomme Utd"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
             "Hora": "13:00",
             "Local": "Nomme Utd",
+            "Visita": "Tammeka"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "11:00",
+            "Local": "Narva Trans",
+            "Visita": "Paide"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "11:00",
+            "Local": "Nomme Kalju",
+            "Visita": "Vaprus"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "13:00",
+            "Local": "Flora",
+            "Visita": "Kuressaare"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "13:00",
+            "Local": "Harju JK",
+            "Visita": "Levadia"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "13:00",
+            "Local": "Levadia",
             "Visita": "Narva Trans"
+        },
+        {
+            "Fecha": "Sat 22 Aug",
+            "Hora": "11:00",
+            "Local": "Harju JK",
+            "Visita": "Nomme Kalju"
+        },
+        {
+            "Fecha": "Sat 22 Aug",
+            "Hora": "13:00",
+            "Local": "Tammeka",
+            "Visita": "Kuressaare"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "11:00",
+            "Local": "Paide",
+            "Visita": "Nomme Utd"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "13:00",
+            "Local": "Vaprus",
+            "Visita": "Flora"
+        },
+        {
+            "Fecha": "Wed 26 Aug",
+            "Hora": "13:00",
+            "Local": "Tammeka",
+            "Visita": "Flora"
+        },
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "08:30",
+            "Local": "Nomme Utd",
+            "Visita": "Harju JK"
+        },
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "11:00",
+            "Local": "Kuressaare",
+            "Visita": "Vaprus"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "11:00",
+            "Local": "Nomme Kalju",
+            "Visita": "Levadia"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "13:00",
+            "Local": "Flora",
+            "Visita": "Paide"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "13:00",
+            "Local": "Narva Trans",
+            "Visita": "Tammeka"
         }
     ]
 }

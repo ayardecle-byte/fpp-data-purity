@@ -7133,64 +7133,568 @@
     },
     "fixture": [
         {
-            "Fecha": "Mon 20 Jul",
-            "Hora": "pp.",
+            "Fecha": "Sat 1 Aug",
+            "Hora": "14:30",
+            "Local": "Nueva Chicago",
+            "Visita": "SM Tucuman"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:00",
             "Local": "Acassuso",
-            "Visita": "San Telmo"
+            "Visita": "Colon Santa Fe"
         },
         {
-            "Fecha": "Mon 20 Jul",
-            "Hora": "pp.",
-            "Local": "Chacarita J.",
-            "Visita": "CA Guemes"
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:00",
+            "Local": "Almagro",
+            "Visita": "Midland"
         },
         {
-            "Fecha": "Mon 20 Jul",
-            "Hora": "pp.",
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:00",
+            "Local": "Colegiales",
+            "Visita": "Gimnasia Jujuy"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:00",
             "Local": "D. de Belgrano",
+            "Visita": "CA Estudiantes"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:00",
+            "Local": "Ferro Carril",
+            "Visita": "Godoy Cruz"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:30",
+            "Local": "Patronato",
+            "Visita": "Quilmes"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "15:30",
+            "Local": "SM San Juan",
+            "Visita": "A. Rafaela"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:00",
+            "Local": "Almirante Brown",
+            "Visita": "Racing Cordoba"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:00",
+            "Local": "Chacarita J.",
+            "Visita": "Agropecuario"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:00",
+            "Local": "Ciudad Bolivar",
+            "Visita": "Atletico Mitre"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:00",
+            "Local": "San Telmo",
+            "Visita": "San Miguel"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:30",
+            "Local": "Deportivo Maipu",
+            "Visita": "A. Atlanta"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "15:30",
+            "Local": "Temperley",
+            "Visita": "Gimnasia y Tiro"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "16:00",
+            "Local": "Chaco For Ever",
+            "Visita": "Deportivo Moron"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "16:00",
+            "Local": "D. Madryn",
+            "Visita": "All Boys"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "16:30",
+            "Local": "Central Norte",
             "Visita": "Los Andes"
         },
         {
-            "Fecha": "Mon 20 Jul",
-            "Hora": "pp.",
-            "Local": "SM San Juan",
+            "Fecha": "Mon 3 Aug",
+            "Hora": "16:00",
+            "Local": "CA Guemes",
             "Visita": "Tristan Suarez"
         },
         {
-            "Fecha": "Tue 21 Jul",
+            "Fecha": "Wed 5 Aug",
+            "Hora": "pp.",
+            "Local": "Almagro",
+            "Visita": "Gimnasia y Tiro"
+        },
+        {
+            "Fecha": "Thu 6 Aug",
             "Hora": "pp.",
             "Local": "Colegiales",
             "Visita": "Midland"
         },
         {
-            "Fecha": "Tue 21 Jul",
-            "Hora": "pp.",
-            "Local": "Patronato",
-            "Visita": "A. Atlanta"
-        },
-        {
-            "Fecha": "Tue 21 Jul",
+            "Fecha": "Thu 6 Aug",
             "Hora": "pp.",
             "Local": "Quilmes",
             "Visita": "Gimnasia Jujuy"
         },
         {
-            "Fecha": "Tue 21 Jul",
-            "Hora": "pp.",
-            "Local": "Chaco For Ever",
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "A. Atlanta",
+            "Visita": "Temperley"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "A. Rafaela",
+            "Visita": "Chacarita J."
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Agropecuario",
+            "Visita": "CA Guemes"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "All Boys",
+            "Visita": "Central Norte"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Almirante Brown",
+            "Visita": "Ciudad Bolivar"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Atletico Mitre",
+            "Visita": "D. de Belgrano"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "CA Estudiantes",
+            "Visita": "D. Madryn"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Colegiales",
+            "Visita": "Patronato"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Colon Santa Fe",
+            "Visita": "San Telmo"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Deportivo Moron",
+            "Visita": "Acassuso"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Gimnasia Jujuy",
+            "Visita": "Tristan Suarez"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Gimnasia y Tiro",
+            "Visita": "Nueva Chicago"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Godoy Cruz",
+            "Visita": "Chaco For Ever"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Los Andes",
+            "Visita": "Ferro Carril"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Midland",
+            "Visita": "Deportivo Maipu"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Quilmes",
+            "Visita": "Almagro"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "Racing Cordoba",
             "Visita": "San Miguel"
         },
         {
-            "Fecha": "Tue 21 Jul",
-            "Hora": "pp.",
+            "Fecha": "Fri 7 Aug",
+            "Hora": "21:00",
+            "Local": "SM Tucuman",
+            "Visita": "SM San Juan"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "A. Rafaela",
+            "Visita": "D. de Belgrano"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Acassuso",
+            "Visita": "Midland"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Agropecuario",
+            "Visita": "Ciudad Bolivar"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "All Boys",
+            "Visita": "Nueva Chicago"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Atletico Mitre",
+            "Visita": "CA Guemes"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "CA Estudiantes",
+            "Visita": "Chacarita J."
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
             "Local": "Central Norte",
+            "Visita": "Gimnasia y Tiro"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Colon Santa Fe",
+            "Visita": "Patronato"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Deportivo Moron",
+            "Visita": "Almagro"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Ferro Carril",
+            "Visita": "A. Atlanta"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Gimnasia Jujuy",
+            "Visita": "Chaco For Ever"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Godoy Cruz",
+            "Visita": "Deportivo Maipu"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Quilmes",
+            "Visita": "San Telmo"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Racing Cordoba",
+            "Visita": "SM San Juan"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "San Miguel",
+            "Visita": "Colegiales"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "SM Tucuman",
+            "Visita": "D. Madryn"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Temperley",
+            "Visita": "Los Andes"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "21:00",
+            "Local": "Tristan Suarez",
+            "Visita": "Almirante Brown"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Acassuso",
+            "Visita": "Godoy Cruz"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Almagro",
+            "Visita": "Colegiales"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "CA Guemes",
+            "Visita": "A. Rafaela"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Central Norte",
+            "Visita": "CA Estudiantes"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Chacarita J.",
+            "Visita": "SM Tucuman"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Chaco For Ever",
+            "Visita": "Los Andes"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Ciudad Bolivar",
+            "Visita": "Racing Cordoba"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "D. de Belgrano",
+            "Visita": "Almirante Brown"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "D. Madryn",
+            "Visita": "Atletico Mitre"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Deportivo Maipu",
+            "Visita": "Quilmes"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Ferro Carril",
+            "Visita": "All Boys"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Nueva Chicago",
+            "Visita": "A. Atlanta"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Patronato",
+            "Visita": "Gimnasia Jujuy"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "San Miguel",
+            "Visita": "Colon Santa Fe"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "San Telmo",
             "Visita": "Deportivo Moron"
         },
         {
-            "Fecha": "Tue 21 Jul",
-            "Hora": "pp.",
-            "Local": "Almagro",
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "SM San Juan",
             "Visita": "Gimnasia y Tiro"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Temperley",
+            "Visita": "Midland"
+        },
+        {
+            "Fecha": "Fri 21 Aug",
+            "Hora": "21:00",
+            "Local": "Tristan Suarez",
+            "Visita": "Agropecuario"
+        },
+        {
+            "Fecha": "Tue 25 Aug",
+            "Hora": "pp.",
+            "Local": "D. Madryn",
+            "Visita": "Godoy Cruz"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "A. Atlanta",
+            "Visita": "SM San Juan"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "A. Rafaela",
+            "Visita": "Tristan Suarez"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "All Boys",
+            "Visita": "Chaco For Ever"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Almirante Brown",
+            "Visita": "D. Madryn"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Atletico Mitre",
+            "Visita": "Central Norte"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "CA Estudiantes",
+            "Visita": "Ferro Carril"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Ciudad Bolivar",
+            "Visita": "D. de Belgrano"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Colegiales",
+            "Visita": "Deportivo Maipu"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Deportivo Moron",
+            "Visita": "San Miguel"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Gimnasia Jujuy",
+            "Visita": "Agropecuario"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Gimnasia y Tiro",
+            "Visita": "Chacarita J."
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Godoy Cruz",
+            "Visita": "San Telmo"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Los Andes",
+            "Visita": "Acassuso"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Midland",
+            "Visita": "Nueva Chicago"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Patronato",
+            "Visita": "Almagro"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Quilmes",
+            "Visita": "Temperley"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "Racing Cordoba",
+            "Visita": "Colon Santa Fe"
+        },
+        {
+            "Fecha": "Fri 28 Aug",
+            "Hora": "21:00",
+            "Local": "SM Tucuman",
+            "Visita": "CA Guemes"
         }
     ]
 }

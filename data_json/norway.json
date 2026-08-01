@@ -15,14 +15,14 @@
         [
             "1",
             "Bodo/Glimt",
-            "15",
-            "11",
+            "16",
+            "12",
             "2",
             "2",
-            "37",
+            "41",
             "11",
-            "26",
-            "35"
+            "30",
+            "38"
         ],
         [
             "2",
@@ -51,13 +51,13 @@
         [
             "4",
             "Lillestrom",
-            "14",
+            "15",
             "8",
             "1",
-            "5",
+            "6",
             "22",
-            "14",
-            "8",
+            "18",
+            "4",
             "25"
         ],
         [
@@ -86,18 +86,30 @@
         ],
         [
             "7",
-            "Valerenga",
-            "14",
+            "HamKam",
+            "15",
             "6",
-            "2",
+            "3",
             "6",
-            "22",
-            "24",
-            "-2",
-            "20"
+            "23",
+            "26",
+            "-3",
+            "21"
         ],
         [
             "8",
+            "Valerenga",
+            "15",
+            "6",
+            "2",
+            "7",
+            "22",
+            "27",
+            "-5",
+            "20"
+        ],
+        [
+            "9",
             "Brann",
             "15",
             "6",
@@ -109,7 +121,7 @@
             "19"
         ],
         [
-            "9",
+            "10",
             "Rosenborg",
             "14",
             "5",
@@ -118,18 +130,6 @@
             "19",
             "18",
             "1",
-            "18"
-        ],
-        [
-            "10",
-            "HamKam",
-            "14",
-            "5",
-            "3",
-            "6",
-            "20",
-            "26",
-            "-6",
             "18"
         ],
         [
@@ -208,19 +208,19 @@
     "estadisticas_avanzadas": {
         "Bodo/Glimt": {
             "ht_stats": {
-                "partidos_jugados": 15,
-                "over_05_ht": 15,
-                "over_15_ht": 6,
-                "ganando_ht": 11,
+                "partidos_jugados": 16,
+                "over_05_ht": 16,
+                "over_15_ht": 7,
+                "ganando_ht": 12,
                 "empatando_ht": 1,
                 "perdiendo_ht": 3,
-                "goles_a_favor_ht": 16,
+                "goles_a_favor_ht": 18,
                 "goles_en_contra_ht": 7,
                 "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 40.0,
-                "%_ganando_ht": 73.3,
-                "promedio_gf_ht": 1.07,
-                "promedio_gc_ht": 0.47
+                "%_over_1.5_ht": 43.8,
+                "%_ganando_ht": 75.0,
+                "promedio_gf_ht": 1.12,
+                "promedio_gc_ht": 0.44
             },
             "historial": [
                 {
@@ -342,9 +342,17 @@
                     "Res": "[0:3]",
                     "Visita": "Bodo/Glimt",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 Jul",
+                    "Local": "Bodo/Glimt",
+                    "Res": "[4:0]",
+                    "Visita": "Lillestrom",
+                    "HT": "2-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🟢🟢🟢"
+            "racha_ultimos_5": "🟢🟢🟢🟢🟢"
         },
         "Viking": {
             "ht_stats": {
@@ -620,19 +628,19 @@
         },
         "Lillestrom": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 10,
-                "over_15_ht": 5,
+                "partidos_jugados": 15,
+                "over_05_ht": 11,
+                "over_15_ht": 6,
                 "ganando_ht": 3,
                 "empatando_ht": 6,
-                "perdiendo_ht": 5,
+                "perdiendo_ht": 6,
                 "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 8,
-                "%_over_0.5_ht": 71.4,
-                "%_over_1.5_ht": 35.7,
-                "%_ganando_ht": 21.4,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.57
+                "goles_en_contra_ht": 10,
+                "%_over_0.5_ht": 73.3,
+                "%_over_1.5_ht": 40.0,
+                "%_ganando_ht": 20.0,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 0.67
             },
             "historial": [
                 {
@@ -746,9 +754,17 @@
                     "Res": "[1:2]",
                     "Visita": "Viking",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 Jul",
+                    "Local": "Bodo/Glimt",
+                    "Res": "[4:0]",
+                    "Visita": "Lillestrom",
+                    "HT": "2-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟢🟢🔴"
+            "racha_ultimos_5": "🔴🟢🟢🔴🔴"
         },
         "Molde": {
             "ht_stats": {
@@ -1014,21 +1030,161 @@
             ],
             "racha_ultimos_5": "🟢🟢🟢🟡🟢"
         },
+        "HamKam": {
+            "ht_stats": {
+                "partidos_jugados": 15,
+                "over_05_ht": 13,
+                "over_15_ht": 6,
+                "ganando_ht": 5,
+                "empatando_ht": 3,
+                "perdiendo_ht": 7,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 86.7,
+                "%_over_1.5_ht": 40.0,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.87
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Mar",
+                    "Local": "HamKam",
+                    "Res": "[2:1]",
+                    "Visita": "Viking",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "6 Apr",
+                    "Local": "HamKam",
+                    "Res": "[1:5]",
+                    "Visita": "Brann",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Molde",
+                    "Res": "[4:1]",
+                    "Visita": "HamKam",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "HamKam",
+                    "Res": "[4:0]",
+                    "Visita": "KFUM Oslo",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "HamKam",
+                    "Res": "[2:1]",
+                    "Visita": "Start",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Kristiansund",
+                    "Res": "[1:1]",
+                    "Visita": "HamKam",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 May",
+                    "Local": "HamKam",
+                    "Res": "[1:0]",
+                    "Visita": "Valerenga",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 May",
+                    "Local": "Fredrikstad",
+                    "Res": "[2:1]",
+                    "Visita": "HamKam",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 May",
+                    "Local": "HamKam",
+                    "Res": "[2:0]",
+                    "Visita": "Lillestrom",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "29 May",
+                    "Local": "Aalesund",
+                    "Res": "[2:2]",
+                    "Visita": "HamKam",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "Sandefjord",
+                    "Res": "[2:2]",
+                    "Visita": "HamKam",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Jul",
+                    "Local": "HamKam",
+                    "Res": "[1:4]",
+                    "Visita": "Tromso",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Bodo/Glimt",
+                    "Res": "[3:0]",
+                    "Visita": "HamKam",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "Sarpsborg 08",
+                    "Res": "[1:0]",
+                    "Visita": "HamKam",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 Jul",
+                    "Local": "Valerenga",
+                    "Res": "[0:3]",
+                    "Visita": "HamKam",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🔴🔴🟢"
+        },
         "Valerenga": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 12,
+                "partidos_jugados": 15,
+                "over_05_ht": 13,
                 "over_15_ht": 7,
                 "ganando_ht": 5,
                 "empatando_ht": 5,
-                "perdiendo_ht": 4,
+                "perdiendo_ht": 5,
                 "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 85.7,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 35.7,
-                "promedio_gf_ht": 0.93,
-                "promedio_gc_ht": 0.79
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 86.7,
+                "%_over_1.5_ht": 46.7,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.87,
+                "promedio_gc_ht": 0.8
             },
             "historial": [
                 {
@@ -1142,9 +1298,17 @@
                     "Res": "[2:3]",
                     "Visita": "Valerenga",
                     "HT": "0-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 Jul",
+                    "Local": "Valerenga",
+                    "Res": "[0:3]",
+                    "Visita": "HamKam",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🟢🟢"
+            "racha_ultimos_5": "🟢🔴🟢🟢🔴"
         },
         "Brann": {
             "ht_stats": {
@@ -1417,138 +1581,6 @@
                 }
             ],
             "racha_ultimos_5": "🔴🟡🟢🟢🟢"
-        },
-        "HamKam": {
-            "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 12,
-                "over_15_ht": 6,
-                "ganando_ht": 4,
-                "empatando_ht": 3,
-                "perdiendo_ht": 7,
-                "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 85.7,
-                "%_over_1.5_ht": 42.9,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.93
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Mar",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Viking",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "HamKam",
-                    "Res": "[1:5]",
-                    "Visita": "Brann",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Molde",
-                    "Res": "[4:1]",
-                    "Visita": "HamKam",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "HamKam",
-                    "Res": "[4:0]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Kristiansund",
-                    "Res": "[1:1]",
-                    "Visita": "HamKam",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 May",
-                    "Local": "HamKam",
-                    "Res": "[1:0]",
-                    "Visita": "Valerenga",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Fredrikstad",
-                    "Res": "[2:1]",
-                    "Visita": "HamKam",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 May",
-                    "Local": "HamKam",
-                    "Res": "[2:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Jul",
-                    "Local": "Sandefjord",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "HamKam",
-                    "Res": "[1:4]",
-                    "Visita": "Tromso",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟡🔴🔴🔴"
         },
         "Sandefjord": {
             "ht_stats": {
@@ -2353,16 +2385,172 @@
     },
     "fixture": [
         {
-            "Fecha": "Fri 31 Jul",
+            "Fecha": "Sat 1 Aug",
+            "Hora": "11:00",
+            "Local": "Fredrikstad",
+            "Visita": "Sandefjord"
+        },
+        {
+            "Fecha": "Sat 1 Aug",
+            "Hora": "13:00",
+            "Local": "Start",
+            "Visita": "Viking"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "12:00",
+            "Local": "Aalesund",
+            "Visita": "Tromso"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "12:00",
+            "Local": "KFUM Oslo",
+            "Visita": "Kristiansund"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "12:00",
+            "Local": "Molde",
+            "Visita": "Sarpsborg 08"
+        },
+        {
+            "Fecha": "Sun 2 Aug",
+            "Hora": "14:15",
+            "Local": "Brann",
+            "Visita": "Rosenborg"
+        },
+        {
+            "Fecha": "Fri 7 Aug",
             "Hora": "14:00",
+            "Local": "Sandefjord",
+            "Visita": "KFUM Oslo"
+        },
+        {
+            "Fecha": "Sat 8 Aug",
+            "Hora": "09:00",
             "Local": "Valerenga",
+            "Visita": "Bodo/Glimt"
+        },
+        {
+            "Fecha": "Sat 8 Aug",
+            "Hora": "11:00",
+            "Local": "Viking",
+            "Visita": "Sarpsborg 08"
+        },
+        {
+            "Fecha": "Sat 8 Aug",
+            "Hora": "13:00",
+            "Local": "Start",
+            "Visita": "Fredrikstad"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "09:30",
+            "Local": "Lillestrom",
+            "Visita": "Rosenborg"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "12:00",
+            "Local": "HamKam",
+            "Visita": "Aalesund"
+        },
+        {
+            "Fecha": "Sun 9 Aug",
+            "Hora": "14:15",
+            "Local": "Kristiansund",
+            "Visita": "Molde"
+        },
+        {
+            "Fecha": "Fri 14 Aug",
+            "Hora": "14:00",
+            "Local": "Rosenborg",
+            "Visita": "Viking"
+        },
+        {
+            "Fecha": "Sat 15 Aug",
+            "Hora": "11:00",
+            "Local": "KFUM Oslo",
+            "Visita": "Lillestrom"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "09:30",
+            "Local": "Aalesund",
+            "Visita": "Valerenga"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "12:00",
+            "Local": "Brann",
             "Visita": "HamKam"
         },
         {
-            "Fecha": "Fri 31 Jul",
-            "Hora": "16:00",
+            "Fecha": "Sun 16 Aug",
+            "Hora": "12:00",
+            "Local": "Molde",
+            "Visita": "Tromso"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "12:00",
+            "Local": "Sarpsborg 08",
+            "Visita": "Sandefjord"
+        },
+        {
+            "Fecha": "Sun 16 Aug",
+            "Hora": "14:15",
+            "Local": "Fredrikstad",
+            "Visita": "Kristiansund"
+        },
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "11:00",
+            "Local": "Valerenga",
+            "Visita": "Molde"
+        },
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "13:00",
+            "Local": "Viking",
+            "Visita": "Aalesund"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "09:30",
             "Local": "Bodo/Glimt",
-            "Visita": "Lillestrom"
+            "Visita": "Rosenborg"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "12:00",
+            "Local": "HamKam",
+            "Visita": "Kristiansund"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "12:00",
+            "Local": "Sandefjord",
+            "Visita": "Brann"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "12:00",
+            "Local": "Start",
+            "Visita": "KFUM Oslo"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "12:00",
+            "Local": "Tromso",
+            "Visita": "Sarpsborg 08"
+        },
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "14:15",
+            "Local": "Lillestrom",
+            "Visita": "Fredrikstad"
         }
     ]
 }
