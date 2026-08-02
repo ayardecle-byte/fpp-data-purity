@@ -39,14 +39,14 @@
         [
             "3",
             "Hacken",
-            "14",
+            "15",
             "6",
-            "6",
+            "7",
             "2",
-            "27",
-            "22",
+            "28",
+            "23",
             "5",
-            "24"
+            "25"
         ],
         [
             "4",
@@ -122,6 +122,18 @@
         ],
         [
             "10",
+            "Kalmar",
+            "15",
+            "5",
+            "3",
+            "7",
+            "19",
+            "21",
+            "-2",
+            "18"
+        ],
+        [
+            "11",
             "Mjallby",
             "14",
             "4",
@@ -130,18 +142,6 @@
             "20",
             "19",
             "1",
-            "17"
-        ],
-        [
-            "11",
-            "Kalmar",
-            "14",
-            "5",
-            "2",
-            "7",
-            "18",
-            "20",
-            "-2",
             "17"
         ],
         [
@@ -480,19 +480,19 @@
         },
         "Hacken": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 10,
-                "over_15_ht": 6,
+                "partidos_jugados": 15,
+                "over_05_ht": 11,
+                "over_15_ht": 7,
                 "ganando_ht": 6,
-                "empatando_ht": 4,
+                "empatando_ht": 5,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 71.4,
-                "%_over_1.5_ht": 42.9,
-                "%_ganando_ht": 42.9,
-                "promedio_gf_ht": 0.86,
-                "promedio_gc_ht": 0.79
+                "goles_a_favor_ht": 13,
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 73.3,
+                "%_over_1.5_ht": 46.7,
+                "%_ganando_ht": 40.0,
+                "promedio_gf_ht": 0.87,
+                "promedio_gc_ht": 0.8
             },
             "historial": [
                 {
@@ -606,9 +606,17 @@
                     "Res": "[0:0]",
                     "Visita": "AIK",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Aug",
+                    "Local": "Hacken",
+                    "Res": "[1:1]",
+                    "Visita": "Kalmar",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🔴🟢🟡"
+            "racha_ultimos_5": "🔴🔴🟢🟡🟡"
         },
         "Djurgarden": {
             "ht_stats": {
@@ -1140,19 +1148,19 @@
         },
         "Malmo FF": {
             "ht_stats": {
-                "partidos_jugados": 14,
+                "partidos_jugados": 15,
                 "over_05_ht": 11,
                 "over_15_ht": 8,
                 "ganando_ht": 3,
-                "empatando_ht": 4,
+                "empatando_ht": 5,
                 "perdiendo_ht": 7,
                 "goles_a_favor_ht": 15,
                 "goles_en_contra_ht": 16,
-                "%_over_0.5_ht": 78.6,
-                "%_over_1.5_ht": 57.1,
-                "%_ganando_ht": 21.4,
-                "promedio_gf_ht": 1.07,
-                "promedio_gc_ht": 1.14
+                "%_over_0.5_ht": 73.3,
+                "%_over_1.5_ht": 53.3,
+                "%_ganando_ht": 20.0,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.07
             },
             "historial": [
                 {
@@ -1266,9 +1274,17 @@
                     "Res": "[1:2]",
                     "Visita": "Elfsborg",
                     "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Brommapojkarna",
+                    "Res": "[1:2]",
+                    "Visita": "Malmo FF",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟢🟡🔴"
+            "racha_ultimos_5": "🟢🟢🟡🔴🟢"
         },
         "GAIS": {
             "ht_stats": {
@@ -1410,6 +1426,146 @@
             ],
             "racha_ultimos_5": "🟢🟡🟢🔴🟡"
         },
+        "Kalmar": {
+            "ht_stats": {
+                "partidos_jugados": 15,
+                "over_05_ht": 14,
+                "over_15_ht": 7,
+                "ganando_ht": 4,
+                "empatando_ht": 6,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 12,
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 93.3,
+                "%_over_1.5_ht": 46.7,
+                "%_ganando_ht": 26.7,
+                "promedio_gf_ht": 0.8,
+                "promedio_gc_ht": 0.8
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Kalmar",
+                    "Res": "[0:1]",
+                    "Visita": "Vasteras",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Djurgarden",
+                    "Res": "[3:2]",
+                    "Visita": "Kalmar",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "AIK",
+                    "Res": "[1:0]",
+                    "Visita": "Kalmar",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Apr",
+                    "Local": "Kalmar",
+                    "Res": "[1:1]",
+                    "Visita": "IFK Goteborg",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "27 Apr",
+                    "Local": "Kalmar",
+                    "Res": "[2:1]",
+                    "Visita": "Elfsborg",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "Sirius",
+                    "Res": "[3:2]",
+                    "Visita": "Kalmar",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 May",
+                    "Local": "Kalmar",
+                    "Res": "[2:0]",
+                    "Visita": "Halmstad",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Brommapojkarna",
+                    "Res": "[1:0]",
+                    "Visita": "Kalmar",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Kalmar",
+                    "Res": "[2:1]",
+                    "Visita": "Degerfors",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "GAIS",
+                    "Res": "[3:0]",
+                    "Visita": "Kalmar",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jul",
+                    "Local": "Kalmar",
+                    "Res": "[3:0]",
+                    "Visita": "Orgryte",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Hammarby",
+                    "Res": "[2:0]",
+                    "Visita": "Kalmar",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "20 Jul",
+                    "Local": "Kalmar",
+                    "Res": "[2:2]",
+                    "Visita": "Malmo FF",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "Kalmar",
+                    "Res": "[2:1]",
+                    "Visita": "Mjallby",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Aug",
+                    "Local": "Hacken",
+                    "Res": "[1:1]",
+                    "Visita": "Kalmar",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟡🟢🟡"
+        },
         "Mjallby": {
             "ht_stats": {
                 "partidos_jugados": 14,
@@ -1542,153 +1698,21 @@
             ],
             "racha_ultimos_5": "🟡🟡🔴🟡🔴"
         },
-        "Kalmar": {
-            "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 13,
-                "over_15_ht": 6,
-                "ganando_ht": 4,
-                "empatando_ht": 5,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 92.9,
-                "%_over_1.5_ht": 42.9,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.79,
-                "promedio_gc_ht": 0.79
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "Kalmar",
-                    "Res": "[0:1]",
-                    "Visita": "Vasteras",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Djurgarden",
-                    "Res": "[3:2]",
-                    "Visita": "Kalmar",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "AIK",
-                    "Res": "[1:0]",
-                    "Visita": "Kalmar",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 Apr",
-                    "Local": "Kalmar",
-                    "Res": "[1:1]",
-                    "Visita": "IFK Goteborg",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "27 Apr",
-                    "Local": "Kalmar",
-                    "Res": "[2:1]",
-                    "Visita": "Elfsborg",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "Sirius",
-                    "Res": "[3:2]",
-                    "Visita": "Kalmar",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Kalmar",
-                    "Res": "[2:0]",
-                    "Visita": "Halmstad",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 May",
-                    "Local": "Brommapojkarna",
-                    "Res": "[1:0]",
-                    "Visita": "Kalmar",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 May",
-                    "Local": "Kalmar",
-                    "Res": "[2:1]",
-                    "Visita": "Degerfors",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "GAIS",
-                    "Res": "[3:0]",
-                    "Visita": "Kalmar",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Jul",
-                    "Local": "Kalmar",
-                    "Res": "[3:0]",
-                    "Visita": "Orgryte",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Hammarby",
-                    "Res": "[2:0]",
-                    "Visita": "Kalmar",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "20 Jul",
-                    "Local": "Kalmar",
-                    "Res": "[2:2]",
-                    "Visita": "Malmo FF",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Jul",
-                    "Local": "Kalmar",
-                    "Res": "[2:1]",
-                    "Visita": "Mjallby",
-                    "HT": "1-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟢🔴🟡🟢"
-        },
         "Brommapojkarna": {
             "ht_stats": {
-                "partidos_jugados": 14,
+                "partidos_jugados": 15,
                 "over_05_ht": 9,
                 "over_15_ht": 5,
                 "ganando_ht": 4,
-                "empatando_ht": 8,
+                "empatando_ht": 9,
                 "perdiendo_ht": 2,
                 "goles_a_favor_ht": 7,
                 "goles_en_contra_ht": 8,
-                "%_over_0.5_ht": 64.3,
-                "%_over_1.5_ht": 35.7,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.57
+                "%_over_0.5_ht": 60.0,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 26.7,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 0.53
             },
             "historial": [
                 {
@@ -1802,25 +1826,33 @@
                     "Res": "[1:1]",
                     "Visita": "Hammarby",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Brommapojkarna",
+                    "Res": "[1:2]",
+                    "Visita": "Malmo FF",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟡🔴🔴🟡"
+            "racha_ultimos_5": "🟡🔴🔴🟡🔴"
         },
         "IFK Goteborg": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 9,
+                "partidos_jugados": 15,
+                "over_05_ht": 10,
                 "over_15_ht": 7,
-                "ganando_ht": 3,
+                "ganando_ht": 4,
                 "empatando_ht": 7,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 10,
+                "goles_a_favor_ht": 11,
                 "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 64.3,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 21.4,
-                "promedio_gf_ht": 0.71,
-                "promedio_gc_ht": 1.0
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 46.7,
+                "%_ganando_ht": 26.7,
+                "promedio_gf_ht": 0.73,
+                "promedio_gc_ht": 0.93
             },
             "historial": [
                 {
@@ -1934,25 +1966,33 @@
                     "Res": "[4:1]",
                     "Visita": "IFK Goteborg",
                     "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "IFK Goteborg",
+                    "Res": "[2:0]",
+                    "Visita": "Degerfors",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🔴🟢🔴"
+            "racha_ultimos_5": "🔴🔴🟢🔴🟢"
         },
         "Degerfors": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 10,
+                "partidos_jugados": 15,
+                "over_05_ht": 11,
                 "over_15_ht": 2,
                 "ganando_ht": 1,
                 "empatando_ht": 5,
-                "perdiendo_ht": 8,
+                "perdiendo_ht": 9,
                 "goles_a_favor_ht": 2,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 71.4,
-                "%_over_1.5_ht": 14.3,
-                "%_ganando_ht": 7.1,
-                "promedio_gf_ht": 0.14,
-                "promedio_gc_ht": 0.79
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 73.3,
+                "%_over_1.5_ht": 13.3,
+                "%_ganando_ht": 6.7,
+                "promedio_gf_ht": 0.13,
+                "promedio_gc_ht": 0.8
             },
             "historial": [
                 {
@@ -2066,9 +2106,17 @@
                     "Res": "[0:1]",
                     "Visita": "Djurgarden",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "IFK Goteborg",
+                    "Res": "[2:0]",
+                    "Visita": "Degerfors",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🔴🔴"
+            "racha_ultimos_5": "🔴🔴🔴🔴🔴"
         },
         "Orgryte": {
             "ht_stats": {
@@ -2336,24 +2384,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sat 1 Aug",
-            "Hora": "10:00",
-            "Local": "Hacken",
-            "Visita": "Kalmar"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "09:00",
-            "Local": "Brommapojkarna",
-            "Visita": "Malmo FF"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "09:00",
-            "Local": "IFK Goteborg",
-            "Visita": "Degerfors"
-        },
         {
             "Fecha": "Sun 2 Aug",
             "Hora": "11:30",
