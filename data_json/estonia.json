@@ -15,85 +15,85 @@
         [
             "1",
             "Levadia",
-            "19",
+            "20",
             "14",
-            "4",
+            "5",
             "1",
-            "49",
-            "16",
+            "50",
+            "17",
             "33",
-            "46"
+            "47"
         ],
         [
             "2",
             "Flora",
-            "19",
-            "12",
+            "20",
+            "13",
             "0",
             "7",
-            "39",
+            "40",
             "21",
-            "18",
-            "36"
+            "19",
+            "39"
         ],
         [
             "3",
             "Nomme Kalju",
-            "20",
-            "10",
+            "21",
+            "11",
             "5",
             "5",
-            "33",
-            "16",
+            "38",
             "17",
-            "35"
+            "21",
+            "38"
         ],
         [
             "4",
             "Paide",
-            "20",
-            "9",
-            "5",
-            "6",
-            "32",
-            "28",
-            "4",
-            "32"
-        ],
-        [
-            "5",
-            "Tammeka",
-            "18",
-            "8",
-            "2",
-            "8",
             "21",
-            "26",
-            "-5",
-            "26"
+            "10",
+            "5",
+            "6",
+            "33",
+            "28",
+            "5",
+            "35"
+        ],
+        [
+            "5",
+            "Vaprus",
+            "21",
+            "8",
+            "3",
+            "10",
+            "29",
+            "39",
+            "-10",
+            "27"
         ],
         [
             "6",
-            "Vaprus",
-            "20",
+            "Tammeka",
+            "19",
             "8",
             "2",
-            "10",
-            "28",
-            "38",
-            "-10",
+            "9",
+            "22",
+            "31",
+            "-9",
             "26"
         ],
         [
             "7",
             "Harju JK",
-            "20",
+            "21",
             "8",
             "1",
-            "11",
+            "12",
             "30",
-            "34",
-            "-4",
+            "35",
+            "-5",
             "25"
         ],
         [
@@ -111,13 +111,13 @@
         [
             "9",
             "Kuressaare",
-            "20",
+            "21",
             "5",
             "3",
-            "12",
+            "13",
             "19",
-            "33",
-            "-14",
+            "34",
+            "-15",
             "18"
         ],
         [
@@ -136,19 +136,19 @@
     "estadisticas_avanzadas": {
         "Levadia": {
             "ht_stats": {
-                "partidos_jugados": 19,
-                "over_05_ht": 15,
+                "partidos_jugados": 20,
+                "over_05_ht": 16,
                 "over_15_ht": 9,
                 "ganando_ht": 11,
                 "empatando_ht": 7,
-                "perdiendo_ht": 1,
+                "perdiendo_ht": 2,
                 "goles_a_favor_ht": 25,
-                "goles_en_contra_ht": 6,
-                "%_over_0.5_ht": 78.9,
-                "%_over_1.5_ht": 47.4,
-                "%_ganando_ht": 57.9,
-                "promedio_gf_ht": 1.32,
-                "promedio_gc_ht": 0.32
+                "goles_en_contra_ht": 7,
+                "%_over_0.5_ht": 80.0,
+                "%_over_1.5_ht": 45.0,
+                "%_ganando_ht": 55.0,
+                "promedio_gf_ht": 1.25,
+                "promedio_gc_ht": 0.35
             },
             "historial": [
                 {
@@ -302,25 +302,33 @@
                     "Res": "[1:3]",
                     "Visita": "Levadia",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Aug",
+                    "Local": "Vaprus",
+                    "Res": "[1:1]",
+                    "Visita": "Levadia",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟡🔴🟢"
+            "racha_ultimos_5": "🟢🟡🔴🟢🟡"
         },
         "Flora": {
             "ht_stats": {
-                "partidos_jugados": 19,
+                "partidos_jugados": 20,
                 "over_05_ht": 15,
                 "over_15_ht": 9,
                 "ganando_ht": 7,
-                "empatando_ht": 7,
+                "empatando_ht": 8,
                 "perdiendo_ht": 5,
                 "goles_a_favor_ht": 16,
                 "goles_en_contra_ht": 10,
-                "%_over_0.5_ht": 78.9,
-                "%_over_1.5_ht": 47.4,
-                "%_ganando_ht": 36.8,
-                "promedio_gf_ht": 0.84,
-                "promedio_gc_ht": 0.53
+                "%_over_0.5_ht": 75.0,
+                "%_over_1.5_ht": 45.0,
+                "%_ganando_ht": 35.0,
+                "promedio_gf_ht": 0.8,
+                "promedio_gc_ht": 0.5
             },
             "historial": [
                 {
@@ -474,25 +482,33 @@
                     "Res": "[1:2]",
                     "Visita": "Nomme Utd",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Flora",
+                    "Res": "[1:0]",
+                    "Visita": "Harju JK",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟢🟢🔴"
+            "racha_ultimos_5": "🔴🟢🟢🔴🟢"
         },
         "Nomme Kalju": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 13,
-                "over_15_ht": 6,
-                "ganando_ht": 9,
+                "partidos_jugados": 21,
+                "over_05_ht": 14,
+                "over_15_ht": 7,
+                "ganando_ht": 10,
                 "empatando_ht": 8,
                 "perdiendo_ht": 3,
-                "goles_a_favor_ht": 15,
+                "goles_a_favor_ht": 20,
                 "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 65.0,
-                "%_over_1.5_ht": 30.0,
-                "%_ganando_ht": 45.0,
-                "promedio_gf_ht": 0.75,
-                "promedio_gc_ht": 0.35
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 47.6,
+                "promedio_gf_ht": 0.95,
+                "promedio_gc_ht": 0.33
             },
             "historial": [
                 {
@@ -654,25 +670,33 @@
                     "Res": "[0:0]",
                     "Visita": "Nomme Kalju",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Nomme Kalju",
+                    "Res": "[5:1]",
+                    "Visita": "Tammeka",
+                    "HT": "5-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟡🟡🟢🟡"
+            "racha_ultimos_5": "🟡🟡🟢🟡🟢"
         },
         "Paide": {
             "ht_stats": {
-                "partidos_jugados": 20,
+                "partidos_jugados": 21,
                 "over_05_ht": 13,
                 "over_15_ht": 8,
                 "ganando_ht": 7,
-                "empatando_ht": 10,
+                "empatando_ht": 11,
                 "perdiendo_ht": 3,
                 "goles_a_favor_ht": 16,
                 "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 65.0,
-                "%_over_1.5_ht": 40.0,
-                "%_ganando_ht": 35.0,
-                "promedio_gf_ht": 0.8,
-                "promedio_gc_ht": 0.65
+                "%_over_0.5_ht": 61.9,
+                "%_over_1.5_ht": 38.1,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.76,
+                "promedio_gc_ht": 0.62
             },
             "historial": [
                 {
@@ -834,189 +858,33 @@
                     "Res": "[5:2]",
                     "Visita": "Paide",
                     "HT": "5-1"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟢🟡🟢🔴"
-        },
-        "Tammeka": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 11,
-                "over_15_ht": 8,
-                "ganando_ht": 2,
-                "empatando_ht": 10,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 9,
-                "goles_en_contra_ht": 17,
-                "%_over_0.5_ht": 61.1,
-                "%_over_1.5_ht": 44.4,
-                "%_ganando_ht": 11.1,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.94
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Mar",
-                    "Local": "Tammeka",
-                    "Res": "[0:1]",
-                    "Visita": "Nomme Kalju",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "Kuressaare",
-                    "Res": "[3:2]",
-                    "Visita": "Tammeka",
-                    "HT": "1-2"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "Nomme Utd",
-                    "Res": "[2:3]",
-                    "Visita": "Tammeka",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 Apr",
-                    "Local": "Tammeka",
-                    "Res": "[3:1]",
-                    "Visita": "Flora",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Apr",
-                    "Local": "Narva Trans",
-                    "Res": "[3:0]",
-                    "Visita": "Tammeka",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Tammeka",
-                    "Res": "[1:4]",
-                    "Visita": "Paide",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Vaprus",
-                    "Res": "[0:0]",
-                    "Visita": "Tammeka",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Apr",
-                    "Local": "Tammeka",
-                    "Res": "[1:2]",
-                    "Visita": "Levadia",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Apr",
-                    "Local": "Harju JK",
-                    "Res": "[1:0]",
-                    "Visita": "Tammeka",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 May",
+                    "Fecha": "2 Aug",
                     "Local": "Paide",
-                    "Res": "[0:1]",
-                    "Visita": "Tammeka",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 May",
-                    "Local": "Tammeka",
                     "Res": "[1:0]",
                     "Visita": "Kuressaare",
                     "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 May",
-                    "Local": "Tammeka",
-                    "Res": "[3:1]",
-                    "Visita": "Nomme Utd",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "Tammeka",
-                    "Res": "[0:1]",
-                    "Visita": "Levadia",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "13 Jun",
-                    "Local": "Tammeka",
-                    "Res": "[0:0]",
-                    "Visita": "Vaprus",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Jun",
-                    "Local": "Nomme Kalju",
-                    "Res": "[1:2]",
-                    "Visita": "Tammeka",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Jun",
-                    "Local": "Tammeka",
-                    "Res": "[1:0]",
-                    "Visita": "Narva Trans",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Jul",
-                    "Local": "Tammeka",
-                    "Res": "[2:1]",
-                    "Visita": "Harju JK",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Jul",
-                    "Local": "Vaprus",
-                    "Res": "[5:1]",
-                    "Visita": "Tammeka",
-                    "HT": "3-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🟢🟢🔴"
+            "racha_ultimos_5": "🟢🟡🟢🔴🟢"
         },
         "Vaprus": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 14,
+                "partidos_jugados": 21,
+                "over_05_ht": 15,
                 "over_15_ht": 10,
-                "ganando_ht": 5,
+                "ganando_ht": 6,
                 "empatando_ht": 10,
                 "perdiendo_ht": 5,
-                "goles_a_favor_ht": 15,
+                "goles_a_favor_ht": 16,
                 "goles_en_contra_ht": 16,
-                "%_over_0.5_ht": 70.0,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.75,
-                "promedio_gc_ht": 0.8
+                "%_over_0.5_ht": 71.4,
+                "%_over_1.5_ht": 47.6,
+                "%_ganando_ht": 28.6,
+                "promedio_gf_ht": 0.76,
+                "promedio_gc_ht": 0.76
             },
             "historial": [
                 {
@@ -1178,25 +1046,205 @@
                     "Res": "[3:1]",
                     "Visita": "Vaprus",
                     "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Aug",
+                    "Local": "Vaprus",
+                    "Res": "[1:1]",
+                    "Visita": "Levadia",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🟢🔴"
+            "racha_ultimos_5": "🟢🔴🟢🔴🟡"
+        },
+        "Tammeka": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 9,
+                "ganando_ht": 2,
+                "empatando_ht": 10,
+                "perdiendo_ht": 7,
+                "goles_a_favor_ht": 9,
+                "goles_en_contra_ht": 22,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 47.4,
+                "%_ganando_ht": 10.5,
+                "promedio_gf_ht": 0.47,
+                "promedio_gc_ht": 1.16
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Mar",
+                    "Local": "Tammeka",
+                    "Res": "[0:1]",
+                    "Visita": "Nomme Kalju",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "Kuressaare",
+                    "Res": "[3:2]",
+                    "Visita": "Tammeka",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Nomme Utd",
+                    "Res": "[2:3]",
+                    "Visita": "Tammeka",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Apr",
+                    "Local": "Tammeka",
+                    "Res": "[3:1]",
+                    "Visita": "Flora",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Apr",
+                    "Local": "Narva Trans",
+                    "Res": "[3:0]",
+                    "Visita": "Tammeka",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Tammeka",
+                    "Res": "[1:4]",
+                    "Visita": "Paide",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "Vaprus",
+                    "Res": "[0:0]",
+                    "Visita": "Tammeka",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Apr",
+                    "Local": "Tammeka",
+                    "Res": "[1:2]",
+                    "Visita": "Levadia",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Apr",
+                    "Local": "Harju JK",
+                    "Res": "[1:0]",
+                    "Visita": "Tammeka",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 May",
+                    "Local": "Paide",
+                    "Res": "[0:1]",
+                    "Visita": "Tammeka",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 May",
+                    "Local": "Tammeka",
+                    "Res": "[1:0]",
+                    "Visita": "Kuressaare",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 May",
+                    "Local": "Tammeka",
+                    "Res": "[3:1]",
+                    "Visita": "Nomme Utd",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Tammeka",
+                    "Res": "[0:1]",
+                    "Visita": "Levadia",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Jun",
+                    "Local": "Tammeka",
+                    "Res": "[0:0]",
+                    "Visita": "Vaprus",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Jun",
+                    "Local": "Nomme Kalju",
+                    "Res": "[1:2]",
+                    "Visita": "Tammeka",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Tammeka",
+                    "Res": "[1:0]",
+                    "Visita": "Narva Trans",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jul",
+                    "Local": "Tammeka",
+                    "Res": "[2:1]",
+                    "Visita": "Harju JK",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Jul",
+                    "Local": "Vaprus",
+                    "Res": "[5:1]",
+                    "Visita": "Tammeka",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Nomme Kalju",
+                    "Res": "[5:1]",
+                    "Visita": "Tammeka",
+                    "HT": "5-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟢🔴🔴"
         },
         "Harju JK": {
             "ht_stats": {
-                "partidos_jugados": 20,
+                "partidos_jugados": 21,
                 "over_05_ht": 16,
                 "over_15_ht": 10,
                 "ganando_ht": 6,
-                "empatando_ht": 8,
+                "empatando_ht": 9,
                 "perdiendo_ht": 6,
                 "goles_a_favor_ht": 17,
                 "goles_en_contra_ht": 16,
-                "%_over_0.5_ht": 80.0,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 30.0,
-                "promedio_gf_ht": 0.85,
-                "promedio_gc_ht": 0.8
+                "%_over_0.5_ht": 76.2,
+                "%_over_1.5_ht": 47.6,
+                "%_ganando_ht": 28.6,
+                "promedio_gf_ht": 0.81,
+                "promedio_gc_ht": 0.76
             },
             "historial": [
                 {
@@ -1358,9 +1406,17 @@
                     "Res": "[5:2]",
                     "Visita": "Paide",
                     "HT": "5-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Flora",
+                    "Res": "[1:0]",
+                    "Visita": "Harju JK",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🔴🟢🟢"
+            "racha_ultimos_5": "🔴🔴🟢🟢🔴"
         },
         "Nomme Utd": {
             "ht_stats": {
@@ -1552,19 +1608,19 @@
         },
         "Kuressaare": {
             "ht_stats": {
-                "partidos_jugados": 20,
+                "partidos_jugados": 21,
                 "over_05_ht": 14,
                 "over_15_ht": 4,
                 "ganando_ht": 4,
-                "empatando_ht": 7,
+                "empatando_ht": 8,
                 "perdiendo_ht": 9,
                 "goles_a_favor_ht": 7,
                 "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 70.0,
-                "%_over_1.5_ht": 20.0,
-                "%_ganando_ht": 20.0,
-                "promedio_gf_ht": 0.35,
-                "promedio_gc_ht": 0.6
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 19.0,
+                "%_ganando_ht": 19.0,
+                "promedio_gf_ht": 0.33,
+                "promedio_gc_ht": 0.57
             },
             "historial": [
                 {
@@ -1726,9 +1782,17 @@
                     "Res": "[0:0]",
                     "Visita": "Nomme Kalju",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Paide",
+                    "Res": "[1:0]",
+                    "Visita": "Kuressaare",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🔴🟡"
+            "racha_ultimos_5": "🔴🔴🔴🟡🔴"
         },
         "Narva Trans": {
             "ht_stats": {
@@ -1920,30 +1984,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "11:00",
-            "Local": "Nomme Kalju",
-            "Visita": "Tammeka"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "11:00",
-            "Local": "Paide",
-            "Visita": "Kuressaare"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "13:00",
-            "Local": "Flora",
-            "Visita": "Harju JK"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "13:00",
-            "Local": "Vaprus",
-            "Visita": "Levadia"
-        },
         {
             "Fecha": "Fri 7 Aug",
             "Hora": "13:00",

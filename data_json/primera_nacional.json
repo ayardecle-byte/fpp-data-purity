@@ -27,13 +27,13 @@
         [
             "2",
             "Deportivo Moron",
-            "21",
+            "22",
             "11",
             "5",
-            "5",
+            "6",
             "33",
-            "19",
-            "14",
+            "21",
+            "12",
             "38"
         ],
         [
@@ -50,6 +50,18 @@
         ],
         [
             "4",
+            "Almirante Brown",
+            "23",
+            "9",
+            "8",
+            "6",
+            "17",
+            "13",
+            "4",
+            "35"
+        ],
+        [
+            "5",
             "Godoy Cruz",
             "22",
             "9",
@@ -61,43 +73,43 @@
             "34"
         ],
         [
-            "5",
+            "6",
             "Ciudad Bolivar",
-            "22",
+            "23",
             "8",
             "10",
-            "4",
+            "5",
             "21",
-            "17",
-            "4",
+            "19",
+            "2",
             "34"
         ],
         [
-            "6",
+            "7",
             "Los Andes",
-            "21",
+            "22",
             "8",
             "9",
-            "4",
+            "5",
             "19",
-            "8",
-            "11",
+            "9",
+            "10",
             "33"
         ],
         [
-            "7",
-            "Almirante Brown",
+            "8",
+            "D. Madryn",
             "22",
             "8",
-            "8",
-            "6",
-            "15",
-            "13",
-            "2",
-            "32"
+            "9",
+            "5",
+            "29",
+            "22",
+            "7",
+            "33"
         ],
         [
-            "8",
+            "9",
             "CA Estudiantes",
             "23",
             "8",
@@ -109,39 +121,27 @@
             "32"
         ],
         [
-            "9",
-            "D. Madryn",
-            "21",
-            "7",
-            "9",
-            "5",
-            "27",
-            "22",
-            "5",
-            "30"
-        ],
-        [
             "10",
             "Racing Cordoba",
-            "22",
+            "23",
             "7",
             "6",
-            "9",
+            "10",
             "22",
-            "26",
-            "-4",
+            "28",
+            "-6",
             "27"
         ],
         [
             "11",
             "San Miguel",
-            "21",
+            "22",
             "5",
             "11",
-            "5",
+            "6",
             "17",
-            "21",
-            "-4",
+            "22",
+            "-5",
             "26"
         ],
         [
@@ -158,30 +158,66 @@
         ],
         [
             "13",
-            "All Boys",
+            "Atletico Mitre",
+            "23",
+            "5",
+            "10",
+            "8",
             "22",
-            "4",
-            "11",
-            "7",
-            "13",
-            "20",
-            "-7",
-            "23"
+            "27",
+            "-5",
+            "25"
         ],
         [
             "14",
-            "Atletico Mitre",
+            "San Telmo",
             "22",
-            "4",
-            "10",
+            "5",
             "8",
-            "20",
-            "27",
-            "-7",
-            "22"
+            "9",
+            "18",
+            "23",
+            "-5",
+            "23"
         ],
         [
             "15",
+            "All Boys",
+            "23",
+            "4",
+            "11",
+            "8",
+            "13",
+            "22",
+            "-9",
+            "23"
+        ],
+        [
+            "16",
+            "Chaco For Ever",
+            "22",
+            "5",
+            "7",
+            "10",
+            "20",
+            "26",
+            "-6",
+            "22"
+        ],
+        [
+            "17",
+            "Central Norte",
+            "22",
+            "5",
+            "7",
+            "10",
+            "14",
+            "23",
+            "-9",
+            "22"
+        ],
+        [
+            "18",
             "Acassuso",
             "22",
             "5",
@@ -191,42 +227,6 @@
             "24",
             "-8",
             "21"
-        ],
-        [
-            "16",
-            "San Telmo",
-            "21",
-            "4",
-            "8",
-            "9",
-            "17",
-            "23",
-            "-6",
-            "20"
-        ],
-        [
-            "17",
-            "Chaco For Ever",
-            "21",
-            "4",
-            "7",
-            "10",
-            "18",
-            "26",
-            "-8",
-            "19"
-        ],
-        [
-            "18",
-            "Central Norte",
-            "21",
-            "4",
-            "7",
-            "10",
-            "13",
-            "23",
-            "-10",
-            "19"
         ],
         [
             "1",
@@ -243,29 +243,17 @@
         [
             "2",
             "Temperley",
-            "22",
+            "23",
             "9",
             "10",
-            "3",
-            "23",
-            "18",
-            "5",
+            "4",
+            "24",
+            "20",
+            "4",
             "37"
         ],
         [
             "3",
-            "A. Atlanta",
-            "21",
-            "11",
-            "3",
-            "7",
-            "26",
-            "18",
-            "8",
-            "36"
-        ],
-        [
-            "4",
             "Tristan Suarez",
             "21",
             "9",
@@ -274,6 +262,18 @@
             "18",
             "11",
             "7",
+            "36"
+        ],
+        [
+            "4",
+            "A. Atlanta",
+            "22",
+            "11",
+            "3",
+            "8",
+            "28",
+            "22",
+            "6",
             "36"
         ],
         [
@@ -290,6 +290,30 @@
         ],
         [
             "6",
+            "Deportivo Maipu",
+            "23",
+            "9",
+            "5",
+            "9",
+            "31",
+            "24",
+            "7",
+            "32"
+        ],
+        [
+            "7",
+            "Gimnasia y Tiro",
+            "22",
+            "8",
+            "7",
+            "7",
+            "22",
+            "22",
+            "0",
+            "31"
+        ],
+        [
+            "8",
             "A. Rafaela",
             "23",
             "8",
@@ -301,7 +325,7 @@
             "31"
         ],
         [
-            "7",
+            "9",
             "SM Tucuman",
             "23",
             "7",
@@ -313,19 +337,7 @@
             "30"
         ],
         [
-            "8",
-            "Deportivo Maipu",
-            "22",
-            "8",
-            "5",
-            "9",
-            "27",
-            "22",
-            "5",
-            "29"
-        ],
-        [
-            "9",
+            "10",
             "Colegiales",
             "22",
             "8",
@@ -337,7 +349,7 @@
             "29"
         ],
         [
-            "10",
+            "11",
             "Nueva Chicago",
             "22",
             "7",
@@ -349,7 +361,7 @@
             "29"
         ],
         [
-            "11",
+            "12",
             "Almagro",
             "22",
             "8",
@@ -359,18 +371,6 @@
             "24",
             "-4",
             "29"
-        ],
-        [
-            "12",
-            "Gimnasia y Tiro",
-            "21",
-            "7",
-            "7",
-            "7",
-            "20",
-            "21",
-            "-1",
-            "28"
         ],
         [
             "13",
@@ -386,6 +386,18 @@
         ],
         [
             "14",
+            "Chacarita J.",
+            "22",
+            "7",
+            "5",
+            "10",
+            "18",
+            "23",
+            "-5",
+            "26"
+        ],
+        [
+            "15",
             "Quilmes",
             "22",
             "6",
@@ -397,7 +409,7 @@
             "25"
         ],
         [
-            "15",
+            "16",
             "Patronato",
             "22",
             "4",
@@ -409,27 +421,15 @@
             "23"
         ],
         [
-            "16",
-            "Chacarita J.",
-            "21",
-            "6",
-            "5",
-            "10",
-            "16",
-            "22",
-            "-6",
-            "23"
-        ],
-        [
             "17",
             "Agropecuario",
-            "22",
+            "23",
             "5",
             "8",
-            "9",
-            "17",
-            "26",
-            "-9",
+            "10",
+            "18",
+            "28",
+            "-10",
             "23"
         ],
         [
@@ -824,9 +824,17 @@
                     "Res": "[4:0]",
                     "Visita": "Ferro Carril",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:0]",
+                    "Visita": "Deportivo Moron",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🔴🟡🟢"
+            "racha_ultimos_5": "🔴🔴🟡🟢🔴"
         },
         "Colon Santa Fe": {
             "ht_stats": {
@@ -1026,6 +1034,205 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🔴🔴🟡"
+        },
+        "Almirante Brown": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Feb",
+                    "Local": "Los Andes",
+                    "Res": "[0:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Feb",
+                    "Local": "Almirante Brown",
+                    "Res": "[2:1]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Mar",
+                    "Local": "CA Estudiantes",
+                    "Res": "[0:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "Racing Cordoba",
+                    "Res": "[2:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Ciudad Bolivar",
+                    "Res": "[0:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Mar",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:2]",
+                    "Visita": "D. de Belgrano",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "D. Madryn",
+                    "Res": "[2:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Apr",
+                    "Local": "Ferro Carril",
+                    "Res": "[0:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Acassuso",
+                    "Res": "[0:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "San Miguel",
+                    "Res": "[1:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 May",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:1]",
+                    "Visita": "Colon Santa Fe",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jun",
+                    "Local": "Deportivo Moron",
+                    "Res": "[1:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jun",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Godoy Cruz",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Almirante Brown",
+                    "Res": "[3:1]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Los Andes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Jul",
+                    "Local": "All Boys",
+                    "Res": "[1:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:0]",
+                    "Visita": "CA Estudiantes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jul",
+                    "Local": "Atletico Mitre",
+                    "Res": "[0:0]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Almirante Brown",
+                    "Res": "[2:0]",
+                    "Visita": "Racing Cordoba",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🟡🟡🟢"
         },
         "Godoy Cruz": {
             "ht_stats": {
@@ -1405,9 +1612,17 @@
                     "Res": "[1:2]",
                     "Visita": "Ciudad Bolivar",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Ciudad Bolivar",
+                    "Res": "[0:2]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🟡🟢"
+            "racha_ultimos_5": "🟢🔴🟡🟢🔴"
         },
         "Los Andes": {
             "ht_stats": {
@@ -1588,11 +1803,19 @@
                     "Res": "[0:0]",
                     "Visita": "D. Madryn",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Central Norte",
+                    "Res": "[1:0]",
+                    "Visita": "Los Andes",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🔴🟢🟡"
+            "racha_ultimos_5": "🔴🔴🟢🟡🔴"
         },
-        "Almirante Brown": {
+        "D. Madryn": {
             "ht_stats": {
                 "partidos_jugados": 0,
                 "over_05_ht": 0,
@@ -1605,63 +1828,63 @@
             },
             "historial": [
                 {
-                    "Status": "🟡",
-                    "Fecha": "15 Feb",
-                    "Local": "Los Andes",
-                    "Res": "[0:0]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Feb",
-                    "Local": "Almirante Brown",
+                    "Status": "🔴",
+                    "Fecha": "14 Feb",
+                    "Local": "Colon Santa Fe",
                     "Res": "[2:1]",
-                    "Visita": "All Boys",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
-                    "Status": "🟢",
+                    "Status": "🟡",
+                    "Fecha": "21 Feb",
+                    "Local": "D. Madryn",
+                    "Res": "[1:1]",
+                    "Visita": "Deportivo Moron",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
                     "Fecha": "1 Mar",
-                    "Local": "CA Estudiantes",
-                    "Res": "[0:1]",
-                    "Visita": "Almirante Brown",
+                    "Local": "Godoy Cruz",
+                    "Res": "[0:0]",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "14 Mar",
-                    "Local": "Racing Cordoba",
-                    "Res": "[2:1]",
-                    "Visita": "Almirante Brown",
+                    "Local": "All Boys",
+                    "Res": "[1:0]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "D. Madryn",
+                    "Res": "[3:0]",
+                    "Visita": "CA Estudiantes",
                     "HT": "-"
                 },
                 {
                     "Status": "🟡",
-                    "Fecha": "21 Mar",
-                    "Local": "Ciudad Bolivar",
-                    "Res": "[0:0]",
-                    "Visita": "Almirante Brown",
+                    "Fecha": "29 Mar",
+                    "Local": "D. Madryn",
+                    "Res": "[1:1]",
+                    "Visita": "SM Tucuman",
                     "HT": "-"
                 },
                 {
-                    "Status": "🔴",
-                    "Fecha": "28 Mar",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
+                    "Status": "🟢",
                     "Fecha": "5 Apr",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:2]",
-                    "Visita": "D. de Belgrano",
+                    "Local": "Atletico Mitre",
+                    "Res": "[1:3]",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
-                    "Status": "🔴",
+                    "Status": "🟢",
                     "Fecha": "12 Apr",
                     "Local": "D. Madryn",
                     "Res": "[2:1]",
@@ -1669,119 +1892,119 @@
                     "HT": "-"
                 },
                 {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Almirante Brown",
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Ciudad Bolivar",
                     "Res": "[1:0]",
-                    "Visita": "Central Norte",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "28 Apr",
-                    "Local": "Ferro Carril",
-                    "Res": "[0:1]",
-                    "Visita": "Almirante Brown",
+                    "Fecha": "26 Apr",
+                    "Local": "D. Madryn",
+                    "Res": "[2:1]",
+                    "Visita": "D. de Belgrano",
                     "HT": "-"
                 },
                 {
-                    "Status": "🟢",
+                    "Status": "🟡",
                     "Fecha": "3 May",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "10 May",
-                    "Local": "Acassuso",
-                    "Res": "[0:0]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 May",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 May",
-                    "Local": "San Miguel",
-                    "Res": "[1:0]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "30 May",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:1]",
-                    "Visita": "Colon Santa Fe",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Jun",
-                    "Local": "Deportivo Moron",
-                    "Res": "[1:0]",
-                    "Visita": "Almirante Brown",
+                    "Local": "Racing Cordoba",
+                    "Res": "[2:2]",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
                     "Status": "🟢",
+                    "Fecha": "10 May",
+                    "Local": "Central Norte",
+                    "Res": "[2:3]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "D. Madryn",
+                    "Res": "[0:1]",
+                    "Visita": "Ferro Carril",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:2]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "D. Madryn",
+                    "Res": "[0:0]",
+                    "Visita": "Acassuso",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "7 Jun",
+                    "Local": "San Telmo",
+                    "Res": "[0:0]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
                     "Fecha": "14 Jun",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:0]",
-                    "Visita": "Godoy Cruz",
+                    "Local": "D. Madryn",
+                    "Res": "[2:2]",
+                    "Visita": "San Miguel",
                     "HT": "-"
                 },
                 {
                     "Status": "🟢",
                     "Fecha": "21 Jun",
-                    "Local": "Almirante Brown",
-                    "Res": "[3:1]",
-                    "Visita": "Atletico Mitre",
+                    "Local": "D. Madryn",
+                    "Res": "[2:1]",
+                    "Visita": "Los Andes",
                     "HT": "-"
                 },
                 {
-                    "Status": "🟢",
-                    "Fecha": "4 Jul",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:0]",
-                    "Visita": "Los Andes",
+                    "Status": "🔴",
+                    "Fecha": "5 Jul",
+                    "Local": "D. Madryn",
+                    "Res": "[1:2]",
+                    "Visita": "Colon Santa Fe",
                     "HT": "-"
                 },
                 {
                     "Status": "🟡",
                     "Fecha": "11 Jul",
-                    "Local": "All Boys",
-                    "Res": "[1:1]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 Jul",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:0]",
-                    "Visita": "CA Estudiantes",
+                    "Local": "Deportivo Moron",
+                    "Res": "[2:2]",
+                    "Visita": "D. Madryn",
                     "HT": "-"
                 },
                 {
                     "Status": "🟡",
                     "Fecha": "26 Jul",
-                    "Local": "Atletico Mitre",
+                    "Local": "Los Andes",
                     "Res": "[0:0]",
-                    "Visita": "Almirante Brown",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "D. Madryn",
+                    "Res": "[2:0]",
+                    "Visita": "All Boys",
                     "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟡🟡🟡"
+            "racha_ultimos_5": "🟢🔴🟡🟡🟢"
         },
         "CA Estudiantes": {
             "ht_stats": {
@@ -1982,189 +2205,6 @@
             ],
             "racha_ultimos_5": "🟡🟢🟡🔴🟡"
         },
-        "D. Madryn": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Feb",
-                    "Local": "Colon Santa Fe",
-                    "Res": "[2:1]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Feb",
-                    "Local": "D. Madryn",
-                    "Res": "[1:1]",
-                    "Visita": "Deportivo Moron",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Mar",
-                    "Local": "Godoy Cruz",
-                    "Res": "[0:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "All Boys",
-                    "Res": "[1:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "D. Madryn",
-                    "Res": "[3:0]",
-                    "Visita": "CA Estudiantes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 Mar",
-                    "Local": "D. Madryn",
-                    "Res": "[1:1]",
-                    "Visita": "SM Tucuman",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Apr",
-                    "Local": "Atletico Mitre",
-                    "Res": "[1:3]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "D. Madryn",
-                    "Res": "[2:1]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "Ciudad Bolivar",
-                    "Res": "[1:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "D. Madryn",
-                    "Res": "[2:1]",
-                    "Visita": "D. de Belgrano",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Racing Cordoba",
-                    "Res": "[2:2]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Central Norte",
-                    "Res": "[2:3]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 May",
-                    "Local": "D. Madryn",
-                    "Res": "[0:1]",
-                    "Visita": "Ferro Carril",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:2]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "D. Madryn",
-                    "Res": "[0:0]",
-                    "Visita": "Acassuso",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "7 Jun",
-                    "Local": "San Telmo",
-                    "Res": "[0:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Jun",
-                    "Local": "D. Madryn",
-                    "Res": "[2:2]",
-                    "Visita": "San Miguel",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Jun",
-                    "Local": "D. Madryn",
-                    "Res": "[2:1]",
-                    "Visita": "Los Andes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Jul",
-                    "Local": "D. Madryn",
-                    "Res": "[1:2]",
-                    "Visita": "Colon Santa Fe",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Jul",
-                    "Local": "Deportivo Moron",
-                    "Res": "[2:2]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "Los Andes",
-                    "Res": "[0:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🔴🟡🟡"
-        },
         "Racing Cordoba": {
             "ht_stats": {
                 "partidos_jugados": 0,
@@ -2352,9 +2392,17 @@
                     "Res": "[2:1]",
                     "Visita": "San Telmo",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Almirante Brown",
+                    "Res": "[2:0]",
+                    "Visita": "Racing Cordoba",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🔴🟡🟢🔴🟢"
+            "racha_ultimos_5": "🟡🟢🔴🟢🔴"
         },
         "San Miguel": {
             "ht_stats": {
@@ -2535,9 +2583,17 @@
                     "Res": "[0:0]",
                     "Visita": "Acassuso",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "San Telmo",
+                    "Res": "[1:0]",
+                    "Visita": "San Miguel",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🟡🔴🟡"
+            "racha_ultimos_5": "🟢🟡🔴🟡🔴"
         },
         "D. de Belgrano": {
             "ht_stats": {
@@ -2730,197 +2786,6 @@
             ],
             "racha_ultimos_5": "🔴🟢🔴🟡🟡"
         },
-        "All Boys": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Feb",
-                    "Local": "All Boys",
-                    "Res": "[2:1]",
-                    "Visita": "Atletico Mitre",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Feb",
-                    "Local": "Almirante Brown",
-                    "Res": "[2:1]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Mar",
-                    "Local": "All Boys",
-                    "Res": "[0:0]",
-                    "Visita": "Ciudad Bolivar",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Mar",
-                    "Local": "All Boys",
-                    "Res": "[1:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Central Norte",
-                    "Res": "[1:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 Mar",
-                    "Local": "Nueva Chicago",
-                    "Res": "[0:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "4 Apr",
-                    "Local": "All Boys",
-                    "Res": "[0:0]",
-                    "Visita": "Ferro Carril",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Chaco For Ever",
-                    "Res": "[2:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "All Boys",
-                    "Res": "[0:0]",
-                    "Visita": "Acassuso",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Apr",
-                    "Local": "San Telmo",
-                    "Res": "[1:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "30 Apr",
-                    "Local": "All Boys",
-                    "Res": "[1:1]",
-                    "Visita": "San Miguel",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Colon Santa Fe",
-                    "Res": "[3:2]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 May",
-                    "Local": "All Boys",
-                    "Res": "[1:0]",
-                    "Visita": "Deportivo Moron",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Godoy Cruz",
-                    "Res": "[4:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "30 May",
-                    "Local": "All Boys",
-                    "Res": "[0:0]",
-                    "Visita": "Los Andes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "7 Jun",
-                    "Local": "All Boys",
-                    "Res": "[1:1]",
-                    "Visita": "Racing Cordoba",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Jun",
-                    "Local": "CA Estudiantes",
-                    "Res": "[2:1]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Jun",
-                    "Local": "D. de Belgrano",
-                    "Res": "[0:1]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "5 Jul",
-                    "Local": "Atletico Mitre",
-                    "Res": "[1:1]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Jul",
-                    "Local": "All Boys",
-                    "Res": "[1:1]",
-                    "Visita": "Almirante Brown",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 Jul",
-                    "Local": "Ciudad Bolivar",
-                    "Res": "[0:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "All Boys",
-                    "Res": "[0:0]",
-                    "Visita": "D. de Belgrano",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟡🟡🟡🟡"
-        },
         "Atletico Mitre": {
             "ht_stats": {
                 "partidos_jugados": 0,
@@ -3108,9 +2973,789 @@
                     "Res": "[0:0]",
                     "Visita": "Almirante Brown",
                     "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Ciudad Bolivar",
+                    "Res": "[0:2]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🔴🟡🔴🟢🟡"
+            "racha_ultimos_5": "🟡🔴🟢🟡🟢"
+        },
+        "San Telmo": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Feb",
+                    "Local": "San Telmo",
+                    "Res": "[0:2]",
+                    "Visita": "Ferro Carril",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Feb",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:2]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Mar",
+                    "Local": "San Telmo",
+                    "Res": "[2:3]",
+                    "Visita": "Acassuso",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Mar",
+                    "Local": "San Miguel",
+                    "Res": "[1:1]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "San Telmo",
+                    "Res": "[3:1]",
+                    "Visita": "Colon Santa Fe",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "29 Mar",
+                    "Local": "San Telmo",
+                    "Res": "[0:3]",
+                    "Visita": "Quilmes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Deportivo Moron",
+                    "Res": "[1:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Apr",
+                    "Local": "San Telmo",
+                    "Res": "[2:0]",
+                    "Visita": "Godoy Cruz",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "Los Andes",
+                    "Res": "[0:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Apr",
+                    "Local": "San Telmo",
+                    "Res": "[1:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "CA Estudiantes",
+                    "Res": "[1:1]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 May",
+                    "Local": "San Telmo",
+                    "Res": "[0:0]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "San Telmo",
+                    "Res": "[0:1]",
+                    "Visita": "Ciudad Bolivar",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "D. de Belgrano",
+                    "Res": "[1:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "7 Jun",
+                    "Local": "San Telmo",
+                    "Res": "[0:0]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Central Norte",
+                    "Res": "[0:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "20 Jun",
+                    "Local": "San Telmo",
+                    "Res": "[2:0]",
+                    "Visita": "Racing Cordoba",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Jul",
+                    "Local": "Ferro Carril",
+                    "Res": "[2:1]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Jul",
+                    "Local": "San Telmo",
+                    "Res": "[1:3]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "Racing Cordoba",
+                    "Res": "[2:1]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "San Telmo",
+                    "Res": "[1:0]",
+                    "Visita": "San Miguel",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🔴🔴🟢"
+        },
+        "All Boys": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Feb",
+                    "Local": "All Boys",
+                    "Res": "[2:1]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Feb",
+                    "Local": "Almirante Brown",
+                    "Res": "[2:1]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Mar",
+                    "Local": "All Boys",
+                    "Res": "[0:0]",
+                    "Visita": "Ciudad Bolivar",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Mar",
+                    "Local": "All Boys",
+                    "Res": "[1:0]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Central Norte",
+                    "Res": "[1:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "29 Mar",
+                    "Local": "Nueva Chicago",
+                    "Res": "[0:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 Apr",
+                    "Local": "All Boys",
+                    "Res": "[0:0]",
+                    "Visita": "Ferro Carril",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "All Boys",
+                    "Res": "[0:0]",
+                    "Visita": "Acassuso",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Apr",
+                    "Local": "San Telmo",
+                    "Res": "[1:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 Apr",
+                    "Local": "All Boys",
+                    "Res": "[1:1]",
+                    "Visita": "San Miguel",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Colon Santa Fe",
+                    "Res": "[3:2]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 May",
+                    "Local": "All Boys",
+                    "Res": "[1:0]",
+                    "Visita": "Deportivo Moron",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Godoy Cruz",
+                    "Res": "[4:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 May",
+                    "Local": "All Boys",
+                    "Res": "[0:0]",
+                    "Visita": "Los Andes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "7 Jun",
+                    "Local": "All Boys",
+                    "Res": "[1:1]",
+                    "Visita": "Racing Cordoba",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "CA Estudiantes",
+                    "Res": "[2:1]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "D. de Belgrano",
+                    "Res": "[0:1]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Jul",
+                    "Local": "Atletico Mitre",
+                    "Res": "[1:1]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Jul",
+                    "Local": "All Boys",
+                    "Res": "[1:1]",
+                    "Visita": "Almirante Brown",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Ciudad Bolivar",
+                    "Res": "[0:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jul",
+                    "Local": "All Boys",
+                    "Res": "[0:0]",
+                    "Visita": "D. de Belgrano",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "D. Madryn",
+                    "Res": "[2:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟡🟡🟡🔴"
+        },
+        "Chaco For Ever": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Feb",
+                    "Local": "Acassuso",
+                    "Res": "[2:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Feb",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:2]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Feb",
+                    "Local": "San Miguel",
+                    "Res": "[2:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "Deportivo Moron",
+                    "Res": "[3:2]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Mar",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:1]",
+                    "Visita": "Godoy Cruz",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Mar",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:2]",
+                    "Visita": "Gimnasia Jujuy",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Los Andes",
+                    "Res": "[2:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "CA Estudiantes",
+                    "Res": "[0:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Chaco For Ever",
+                    "Res": "[0:1]",
+                    "Visita": "Ciudad Bolivar",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 May",
+                    "Local": "D. de Belgrano",
+                    "Res": "[0:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:2]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "Central Norte",
+                    "Res": "[1:1]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jun",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:2]",
+                    "Visita": "Ferro Carril",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Racing Cordoba",
+                    "Res": "[2:0]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "20 Jun",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:0]",
+                    "Visita": "Colon Santa Fe",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Jul",
+                    "Local": "Chaco For Ever",
+                    "Res": "[1:1]",
+                    "Visita": "Acassuso",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Jul",
+                    "Local": "San Telmo",
+                    "Res": "[1:3]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Colon Santa Fe",
+                    "Res": "[0:1]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Chaco For Ever",
+                    "Res": "[2:0]",
+                    "Visita": "Deportivo Moron",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🟢🟢🟢"
+        },
+        "Central Norte": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 Feb",
+                    "Local": "San Miguel",
+                    "Res": "[1:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Feb",
+                    "Local": "Central Norte",
+                    "Res": "[0:0]",
+                    "Visita": "Colon Santa Fe",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Mar",
+                    "Local": "Deportivo Moron",
+                    "Res": "[2:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Mar",
+                    "Local": "Los Andes",
+                    "Res": "[0:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Central Norte",
+                    "Res": "[1:0]",
+                    "Visita": "All Boys",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "29 Mar",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[0:1]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "CA Estudiantes",
+                    "Res": "[1:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Apr",
+                    "Local": "Central Norte",
+                    "Res": "[1:1]",
+                    "Visita": "Atletico Mitre",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "Almirante Brown",
+                    "Res": "[1:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Central Norte",
+                    "Res": "[0:1]",
+                    "Visita": "Ciudad Bolivar",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 May",
+                    "Local": "D. de Belgrano",
+                    "Res": "[1:1]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Central Norte",
+                    "Res": "[2:3]",
+                    "Visita": "D. Madryn",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "Racing Cordoba",
+                    "Res": "[1:2]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Ferro Carril",
+                    "Res": "[1:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "Central Norte",
+                    "Res": "[1:1]",
+                    "Visita": "Chaco For Ever",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "6 Jun",
+                    "Local": "Acassuso",
+                    "Res": "[2:1]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Jun",
+                    "Local": "Central Norte",
+                    "Res": "[0:0]",
+                    "Visita": "San Telmo",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Jun",
+                    "Local": "Central Norte",
+                    "Res": "[1:0]",
+                    "Visita": "Godoy Cruz",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 Jul",
+                    "Local": "Central Norte",
+                    "Res": "[1:1]",
+                    "Visita": "San Miguel",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Colon Santa Fe",
+                    "Res": "[4:0]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "Godoy Cruz",
+                    "Res": "[2:1]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Central Norte",
+                    "Res": "[1:0]",
+                    "Visita": "Los Andes",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🔴🔴🟢"
         },
         "Acassuso": {
             "ht_stats": {
@@ -3302,555 +3947,6 @@
                 }
             ],
             "racha_ultimos_5": "🔴🟡🔴🟡🟡"
-        },
-        "San Telmo": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Feb",
-                    "Local": "San Telmo",
-                    "Res": "[0:2]",
-                    "Visita": "Ferro Carril",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Feb",
-                    "Local": "Chaco For Ever",
-                    "Res": "[2:2]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Mar",
-                    "Local": "San Telmo",
-                    "Res": "[2:3]",
-                    "Visita": "Acassuso",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Mar",
-                    "Local": "San Miguel",
-                    "Res": "[1:1]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "San Telmo",
-                    "Res": "[3:1]",
-                    "Visita": "Colon Santa Fe",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 Mar",
-                    "Local": "San Telmo",
-                    "Res": "[0:3]",
-                    "Visita": "Quilmes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "Deportivo Moron",
-                    "Res": "[1:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Apr",
-                    "Local": "San Telmo",
-                    "Res": "[2:0]",
-                    "Visita": "Godoy Cruz",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Los Andes",
-                    "Res": "[0:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Apr",
-                    "Local": "San Telmo",
-                    "Res": "[1:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 May",
-                    "Local": "CA Estudiantes",
-                    "Res": "[1:1]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "9 May",
-                    "Local": "San Telmo",
-                    "Res": "[0:0]",
-                    "Visita": "Atletico Mitre",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 May",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 May",
-                    "Local": "San Telmo",
-                    "Res": "[0:1]",
-                    "Visita": "Ciudad Bolivar",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "D. de Belgrano",
-                    "Res": "[1:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "7 Jun",
-                    "Local": "San Telmo",
-                    "Res": "[0:0]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Jun",
-                    "Local": "Central Norte",
-                    "Res": "[0:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "20 Jun",
-                    "Local": "San Telmo",
-                    "Res": "[2:0]",
-                    "Visita": "Racing Cordoba",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Jul",
-                    "Local": "Ferro Carril",
-                    "Res": "[2:1]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Jul",
-                    "Local": "San Telmo",
-                    "Res": "[1:3]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Racing Cordoba",
-                    "Res": "[2:1]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🔴🔴🔴"
-        },
-        "Chaco For Ever": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Feb",
-                    "Local": "Acassuso",
-                    "Res": "[2:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Feb",
-                    "Local": "Chaco For Ever",
-                    "Res": "[2:2]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Feb",
-                    "Local": "San Miguel",
-                    "Res": "[2:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "Deportivo Moron",
-                    "Res": "[3:2]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Mar",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:1]",
-                    "Visita": "Godoy Cruz",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Mar",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:2]",
-                    "Visita": "Gimnasia Jujuy",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "Los Andes",
-                    "Res": "[2:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Chaco For Ever",
-                    "Res": "[2:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "19 Apr",
-                    "Local": "CA Estudiantes",
-                    "Res": "[0:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Apr",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:1]",
-                    "Visita": "Atletico Mitre",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Chaco For Ever",
-                    "Res": "[0:1]",
-                    "Visita": "Ciudad Bolivar",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 May",
-                    "Local": "D. de Belgrano",
-                    "Res": "[0:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:2]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "Central Norte",
-                    "Res": "[1:1]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Jun",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:2]",
-                    "Visita": "Ferro Carril",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Jun",
-                    "Local": "Racing Cordoba",
-                    "Res": "[2:0]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "20 Jun",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:0]",
-                    "Visita": "Colon Santa Fe",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "5 Jul",
-                    "Local": "Chaco For Ever",
-                    "Res": "[1:1]",
-                    "Visita": "Acassuso",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Jul",
-                    "Local": "San Telmo",
-                    "Res": "[1:3]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Colon Santa Fe",
-                    "Res": "[0:1]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟢🟡🟢🟢"
-        },
-        "Central Norte": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 Feb",
-                    "Local": "San Miguel",
-                    "Res": "[1:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Feb",
-                    "Local": "Central Norte",
-                    "Res": "[0:0]",
-                    "Visita": "Colon Santa Fe",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Mar",
-                    "Local": "Deportivo Moron",
-                    "Res": "[2:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Mar",
-                    "Local": "Los Andes",
-                    "Res": "[0:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Central Norte",
-                    "Res": "[1:0]",
-                    "Visita": "All Boys",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "29 Mar",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[0:1]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "CA Estudiantes",
-                    "Res": "[1:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Central Norte",
-                    "Res": "[1:1]",
-                    "Visita": "Atletico Mitre",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "Almirante Brown",
-                    "Res": "[1:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Central Norte",
-                    "Res": "[0:1]",
-                    "Visita": "Ciudad Bolivar",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 May",
-                    "Local": "D. de Belgrano",
-                    "Res": "[1:1]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Central Norte",
-                    "Res": "[2:3]",
-                    "Visita": "D. Madryn",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Racing Cordoba",
-                    "Res": "[1:2]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Ferro Carril",
-                    "Res": "[1:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "Central Norte",
-                    "Res": "[1:1]",
-                    "Visita": "Chaco For Ever",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Jun",
-                    "Local": "Acassuso",
-                    "Res": "[2:1]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Jun",
-                    "Local": "Central Norte",
-                    "Res": "[0:0]",
-                    "Visita": "San Telmo",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Jun",
-                    "Local": "Central Norte",
-                    "Res": "[1:0]",
-                    "Visita": "Godoy Cruz",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "5 Jul",
-                    "Local": "Central Norte",
-                    "Res": "[1:1]",
-                    "Visita": "San Miguel",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Colon Santa Fe",
-                    "Res": "[4:0]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Godoy Cruz",
-                    "Res": "[2:1]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🟡🔴🔴"
         },
         "Gimnasia Jujuy": {
             "ht_stats": {
@@ -4230,192 +4326,17 @@
                     "Res": "[1:2]",
                     "Visita": "Temperley",
                     "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🟡🟢🟢"
-        },
-        "A. Atlanta": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 Feb",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:0]",
-                    "Visita": "Quilmes",
-                    "HT": "-"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "22 Feb",
-                    "Local": "Colegiales",
-                    "Res": "[1:0]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 Mar",
-                    "Local": "A. Atlanta",
-                    "Res": "[0:0]",
-                    "Visita": "Patronato",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Mar",
-                    "Local": "A. Atlanta",
-                    "Res": "[3:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
+                    "Fecha": "2 Aug",
                     "Local": "Temperley",
-                    "Res": "[2:1]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Mar",
-                    "Local": "A. Atlanta",
-                    "Res": "[0:1]",
-                    "Visita": "Ferro Carril",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Apr",
-                    "Local": "A. Atlanta",
                     "Res": "[1:2]",
-                    "Visita": "Nueva Chicago",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Apr",
-                    "Local": "SM San Juan",
-                    "Res": "[1:2]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Apr",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "CA Guemes",
-                    "Res": "[0:2]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 May",
-                    "Local": "A. Atlanta",
-                    "Res": "[3:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "10 May",
-                    "Local": "Agropecuario",
-                    "Res": "[0:0]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "A. Atlanta",
-                    "Res": "[2:0]",
-                    "Visita": "A. Rafaela",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "SM Tucuman",
-                    "Res": "[0:1]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:1]",
                     "Visita": "Gimnasia y Tiro",
                     "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Jun",
-                    "Local": "A. Atlanta",
-                    "Res": "[3:0]",
-                    "Visita": "Gimnasia Jujuy",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "13 Jun",
-                    "Local": "Midland",
-                    "Res": "[1:2]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "20 Jun",
-                    "Local": "Almagro",
-                    "Res": "[2:0]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Jul",
-                    "Local": "Quilmes",
-                    "Res": "[2:1]",
-                    "Visita": "A. Atlanta",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Jul",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:0]",
-                    "Visita": "Colegiales",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Jul",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:3]",
-                    "Visita": "Almagro",
-                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🔴🟢🔴"
+            "racha_ultimos_5": "🟢🟡🟢🟢🔴"
         },
         "Tristan Suarez": {
             "ht_stats": {
@@ -4599,6 +4520,197 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟡🔴🟢🟢"
+        },
+        "A. Atlanta": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Feb",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:0]",
+                    "Visita": "Quilmes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Feb",
+                    "Local": "Colegiales",
+                    "Res": "[1:0]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 Mar",
+                    "Local": "A. Atlanta",
+                    "Res": "[0:0]",
+                    "Visita": "Patronato",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Mar",
+                    "Local": "A. Atlanta",
+                    "Res": "[3:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Temperley",
+                    "Res": "[2:1]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Mar",
+                    "Local": "A. Atlanta",
+                    "Res": "[0:1]",
+                    "Visita": "Ferro Carril",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Apr",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:2]",
+                    "Visita": "Nueva Chicago",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Apr",
+                    "Local": "SM San Juan",
+                    "Res": "[1:2]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Apr",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "CA Guemes",
+                    "Res": "[0:2]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "A. Atlanta",
+                    "Res": "[3:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Agropecuario",
+                    "Res": "[0:0]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "A. Atlanta",
+                    "Res": "[2:0]",
+                    "Visita": "A. Rafaela",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "SM Tucuman",
+                    "Res": "[0:1]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:1]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Jun",
+                    "Local": "A. Atlanta",
+                    "Res": "[3:0]",
+                    "Visita": "Gimnasia Jujuy",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "13 Jun",
+                    "Local": "Midland",
+                    "Res": "[1:2]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "20 Jun",
+                    "Local": "Almagro",
+                    "Res": "[2:0]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Quilmes",
+                    "Res": "[2:1]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jul",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:0]",
+                    "Visita": "Colegiales",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Jul",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:3]",
+                    "Visita": "Almagro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[4:2]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟢🔴🔴"
         },
         "Midland": {
             "ht_stats": {
@@ -4790,6 +4902,396 @@
                 }
             ],
             "racha_ultimos_5": "🟡🟡🟢🟢🟡"
+        },
+        "Deportivo Maipu": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Feb",
+                    "Local": "Agropecuario",
+                    "Res": "[2:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Feb",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[2:1]",
+                    "Visita": "A. Rafaela",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Mar",
+                    "Local": "SM Tucuman",
+                    "Res": "[2:2]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 Mar",
+                    "Local": "A. Atlanta",
+                    "Res": "[3:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:1]",
+                    "Visita": "Midland",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "29 Mar",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:1]",
+                    "Visita": "Godoy Cruz",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Quilmes",
+                    "Res": "[2:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[3:1]",
+                    "Visita": "Colegiales",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "Patronato",
+                    "Res": "[0:0]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[1:0]",
+                    "Visita": "Almagro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Gimnasia Jujuy",
+                    "Res": "[1:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "Temperley",
+                    "Res": "[0:5]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[1:0]",
+                    "Visita": "Nueva Chicago",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 May",
+                    "Local": "SM San Juan",
+                    "Res": "[2:1]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 May",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[3:2]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jun",
+                    "Local": "CA Guemes",
+                    "Res": "[1:0]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jul",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[2:0]",
+                    "Visita": "Agropecuario",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Jul",
+                    "Local": "A. Rafaela",
+                    "Res": "[1:3]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:0]",
+                    "Visita": "SM Tucuman",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:0]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[4:2]",
+                    "Visita": "A. Atlanta",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟡🔴🟢"
+        },
+        "Gimnasia y Tiro": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Feb",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[2:1]",
+                    "Visita": "Colegiales",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Feb",
+                    "Local": "Patronato",
+                    "Res": "[1:2]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Feb",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[2:0]",
+                    "Visita": "Almagro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Mar",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[0:0]",
+                    "Visita": "Temperley",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Mar",
+                    "Local": "Nueva Chicago",
+                    "Res": "[3:1]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "29 Mar",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[0:1]",
+                    "Visita": "Central Norte",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 Apr",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:1]",
+                    "Visita": "SM San Juan",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Chacarita J.",
+                    "Res": "[2:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:1]",
+                    "Visita": "CA Guemes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Tristan Suarez",
+                    "Res": "[2:1]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 May",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[2:3]",
+                    "Visita": "Agropecuario",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "A. Rafaela",
+                    "Res": "[1:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:0]",
+                    "Visita": "SM Tucuman",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "24 May",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:1]",
+                    "Visita": "Gimnasia Jujuy",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:1]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Jun",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:0]",
+                    "Visita": "Midland",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 Jun",
+                    "Local": "Quilmes",
+                    "Res": "[1:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Colegiales",
+                    "Res": "[1:2]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:1]",
+                    "Visita": "Patronato",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Gimnasia y Tiro",
+                    "Res": "[1:0]",
+                    "Visita": "Deportivo Maipu",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Temperley",
+                    "Res": "[1:2]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟡🟢🟢"
         },
         "A. Rafaela": {
             "ht_stats": {
@@ -5188,197 +5690,6 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🟡🔴🔴"
-        },
-        "Deportivo Maipu": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Feb",
-                    "Local": "Agropecuario",
-                    "Res": "[2:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Feb",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[2:1]",
-                    "Visita": "A. Rafaela",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Mar",
-                    "Local": "SM Tucuman",
-                    "Res": "[2:2]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 Mar",
-                    "Local": "A. Atlanta",
-                    "Res": "[3:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:1]",
-                    "Visita": "Midland",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 Mar",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:1]",
-                    "Visita": "Godoy Cruz",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "Quilmes",
-                    "Res": "[2:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[3:1]",
-                    "Visita": "Colegiales",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Patronato",
-                    "Res": "[0:0]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[1:0]",
-                    "Visita": "Almagro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Gimnasia Jujuy",
-                    "Res": "[1:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "9 May",
-                    "Local": "Temperley",
-                    "Res": "[0:5]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 May",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[1:0]",
-                    "Visita": "Nueva Chicago",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 May",
-                    "Local": "SM San Juan",
-                    "Res": "[2:1]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "31 May",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[3:2]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Jun",
-                    "Local": "CA Guemes",
-                    "Res": "[1:0]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Jun",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Jul",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[2:0]",
-                    "Visita": "Agropecuario",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Jul",
-                    "Local": "A. Rafaela",
-                    "Res": "[1:3]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 Jul",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:0]",
-                    "Visita": "SM Tucuman",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:0]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🟢🟡🔴"
         },
         "Colegiales": {
             "ht_stats": {
@@ -5953,189 +6264,6 @@
             ],
             "racha_ultimos_5": "🟢🟢🔴🟢🟡"
         },
-        "Gimnasia y Tiro": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Feb",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[2:1]",
-                    "Visita": "Colegiales",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Feb",
-                    "Local": "Patronato",
-                    "Res": "[1:2]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Feb",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[2:0]",
-                    "Visita": "Almagro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Mar",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[0:0]",
-                    "Visita": "Temperley",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Mar",
-                    "Local": "Nueva Chicago",
-                    "Res": "[3:1]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 Mar",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[0:1]",
-                    "Visita": "Central Norte",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "4 Apr",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:1]",
-                    "Visita": "SM San Juan",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Chacarita J.",
-                    "Res": "[2:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "19 Apr",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:1]",
-                    "Visita": "CA Guemes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Tristan Suarez",
-                    "Res": "[2:1]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 May",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[2:3]",
-                    "Visita": "Agropecuario",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 May",
-                    "Local": "A. Rafaela",
-                    "Res": "[1:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 May",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:0]",
-                    "Visita": "SM Tucuman",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "24 May",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:1]",
-                    "Visita": "Gimnasia Jujuy",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:1]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Jun",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:0]",
-                    "Visita": "Midland",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 Jun",
-                    "Local": "Quilmes",
-                    "Res": "[1:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Jul",
-                    "Local": "Colegiales",
-                    "Res": "[1:2]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Jul",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:1]",
-                    "Visita": "Patronato",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Gimnasia y Tiro",
-                    "Res": "[1:0]",
-                    "Visita": "Deportivo Maipu",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🟢🟡🟢"
-        },
         "SM San Juan": {
             "ht_stats": {
                 "partidos_jugados": 0,
@@ -6318,6 +6446,197 @@
                 }
             ],
             "racha_ultimos_5": "🟢🔴🟢🔴🟡"
+        },
+        "Chacarita J.": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Feb",
+                    "Local": "Chacarita J.",
+                    "Res": "[1:1]",
+                    "Visita": "SM San Juan",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Feb",
+                    "Local": "Chacarita J.",
+                    "Res": "[3:1]",
+                    "Visita": "Gimnasia Jujuy",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Mar",
+                    "Local": "CA Guemes",
+                    "Res": "[2:1]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Mar",
+                    "Local": "Agropecuario",
+                    "Res": "[2:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Chacarita J.",
+                    "Res": "[0:1]",
+                    "Visita": "A. Rafaela",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "29 Mar",
+                    "Local": "Chacarita J.",
+                    "Res": "[0:3]",
+                    "Visita": "CA Estudiantes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 Apr",
+                    "Local": "SM Tucuman",
+                    "Res": "[1:1]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Chacarita J.",
+                    "Res": "[2:0]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Apr",
+                    "Local": "A. Atlanta",
+                    "Res": "[1:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Chacarita J.",
+                    "Res": "[1:0]",
+                    "Visita": "Midland",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 May",
+                    "Local": "Quilmes",
+                    "Res": "[0:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 May",
+                    "Local": "Chacarita J.",
+                    "Res": "[2:0]",
+                    "Visita": "Colegiales",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Patronato",
+                    "Res": "[2:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Chacarita J.",
+                    "Res": "[1:0]",
+                    "Visita": "Almagro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[3:2]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Jun",
+                    "Local": "Chacarita J.",
+                    "Res": "[0:1]",
+                    "Visita": "Temperley",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 Jun",
+                    "Local": "Nueva Chicago",
+                    "Res": "[2:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "Chacarita J.",
+                    "Res": "[0:0]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Jul",
+                    "Local": "SM San Juan",
+                    "Res": "[0:1]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Jul",
+                    "Local": "Gimnasia Jujuy",
+                    "Res": "[1:1]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Jul",
+                    "Local": "Tristan Suarez",
+                    "Res": "[1:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Chacarita J.",
+                    "Res": "[2:1]",
+                    "Visita": "Agropecuario",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟡🔴🟢"
         },
         "Quilmes": {
             "ht_stats": {
@@ -6701,189 +7020,6 @@
             ],
             "racha_ultimos_5": "🟡🔴🟡🔴🟡"
         },
-        "Chacarita J.": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Feb",
-                    "Local": "Chacarita J.",
-                    "Res": "[1:1]",
-                    "Visita": "SM San Juan",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Feb",
-                    "Local": "Chacarita J.",
-                    "Res": "[3:1]",
-                    "Visita": "Gimnasia Jujuy",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Mar",
-                    "Local": "CA Guemes",
-                    "Res": "[2:1]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Agropecuario",
-                    "Res": "[2:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Chacarita J.",
-                    "Res": "[0:1]",
-                    "Visita": "A. Rafaela",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 Mar",
-                    "Local": "Chacarita J.",
-                    "Res": "[0:3]",
-                    "Visita": "CA Estudiantes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "4 Apr",
-                    "Local": "SM Tucuman",
-                    "Res": "[1:1]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Chacarita J.",
-                    "Res": "[2:0]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "21 Apr",
-                    "Local": "A. Atlanta",
-                    "Res": "[1:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Chacarita J.",
-                    "Res": "[1:0]",
-                    "Visita": "Midland",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "4 May",
-                    "Local": "Quilmes",
-                    "Res": "[0:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Chacarita J.",
-                    "Res": "[2:0]",
-                    "Visita": "Colegiales",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 May",
-                    "Local": "Patronato",
-                    "Res": "[2:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "Chacarita J.",
-                    "Res": "[1:0]",
-                    "Visita": "Almagro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "31 May",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[3:2]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Jun",
-                    "Local": "Chacarita J.",
-                    "Res": "[0:1]",
-                    "Visita": "Temperley",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 Jun",
-                    "Local": "Nueva Chicago",
-                    "Res": "[2:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "Chacarita J.",
-                    "Res": "[0:0]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Jul",
-                    "Local": "SM San Juan",
-                    "Res": "[0:1]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Jul",
-                    "Local": "Gimnasia Jujuy",
-                    "Res": "[1:1]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Jul",
-                    "Local": "Tristan Suarez",
-                    "Res": "[1:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🟢🟡🔴"
-        },
         "Agropecuario": {
             "ht_stats": {
                 "partidos_jugados": 0,
@@ -7071,9 +7207,17 @@
                     "Res": "[2:1]",
                     "Visita": "SM San Juan",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Chacarita J.",
+                    "Res": "[2:1]",
+                    "Visita": "Agropecuario",
+                    "HT": "-"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟡🟡🟢"
+            "racha_ultimos_5": "🔴🟡🟡🟢🔴"
         },
         "CA Guemes": {
             "ht_stats": {
@@ -7261,60 +7405,6 @@
     },
     "fixture": [
         {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:00",
-            "Local": "Almirante Brown",
-            "Visita": "Racing Cordoba"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:00",
-            "Local": "Chacarita J.",
-            "Visita": "Agropecuario"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:00",
-            "Local": "Ciudad Bolivar",
-            "Visita": "Atletico Mitre"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:00",
-            "Local": "San Telmo",
-            "Visita": "San Miguel"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:30",
-            "Local": "Deportivo Maipu",
-            "Visita": "A. Atlanta"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "15:30",
-            "Local": "Temperley",
-            "Visita": "Gimnasia y Tiro"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "16:00",
-            "Local": "Chaco For Ever",
-            "Visita": "Deportivo Moron"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "16:00",
-            "Local": "D. Madryn",
-            "Visita": "All Boys"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "16:30",
-            "Local": "Central Norte",
-            "Visita": "Los Andes"
-        },
-        {
             "Fecha": "Mon 3 Aug",
             "Hora": "16:00",
             "Local": "CA Guemes",
@@ -7322,7 +7412,7 @@
         },
         {
             "Fecha": "Wed 5 Aug",
-            "Hora": "pp.",
+            "Hora": "15:00",
             "Local": "Almagro",
             "Visita": "Gimnasia y Tiro"
         },
@@ -7333,8 +7423,8 @@
             "Visita": "Midland"
         },
         {
-            "Fecha": "Thu 6 Aug",
-            "Hora": "pp.",
+            "Fecha": "Wed 5 Aug",
+            "Hora": "20:00",
             "Local": "Quilmes",
             "Visita": "Gimnasia Jujuy"
         },

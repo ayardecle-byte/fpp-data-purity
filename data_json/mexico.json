@@ -14,6 +14,18 @@
         ],
         [
             "1",
+            "CF America",
+            "3",
+            "2",
+            "1",
+            "0",
+            "5",
+            "1",
+            "4",
+            "7"
+        ],
+        [
+            "2",
             "Tijuana",
             "3",
             "2",
@@ -25,7 +37,19 @@
             "7"
         ],
         [
+            "3",
+            "Toluca",
+            "3",
             "2",
+            "0",
+            "1",
+            "6",
+            "3",
+            "3",
+            "6"
+        ],
+        [
+            "4",
             "Pumas UNAM",
             "3",
             "2",
@@ -37,7 +61,7 @@
             "6"
         ],
         [
-            "3",
+            "5",
             "Monterrey",
             "3",
             "2",
@@ -49,19 +73,7 @@
             "6"
         ],
         [
-            "4",
-            "Necaxa",
-            "2",
-            "2",
-            "0",
-            "0",
-            "4",
-            "2",
-            "2",
-            "6"
-        ],
-        [
-            "5",
+            "6",
             "Cruz Azul",
             "3",
             "2",
@@ -73,7 +85,7 @@
             "6"
         ],
         [
-            "6",
+            "7",
             "Queretaro",
             "3",
             "2",
@@ -85,7 +97,19 @@
             "6"
         ],
         [
-            "7",
+            "8",
+            "Necaxa",
+            "3",
+            "2",
+            "0",
+            "1",
+            "5",
+            "5",
+            "0",
+            "6"
+        ],
+        [
+            "9",
             "Atlas",
             "3",
             "2",
@@ -97,19 +121,7 @@
             "6"
         ],
         [
-            "8",
-            "CF America",
-            "2",
-            "1",
-            "1",
-            "0",
-            "2",
-            "1",
-            "1",
-            "4"
-        ],
-        [
-            "9",
+            "10",
             "Atlante",
             "3",
             "1",
@@ -121,7 +133,7 @@
             "4"
         ],
         [
-            "10",
+            "11",
             "Puebla",
             "3",
             "1",
@@ -133,7 +145,7 @@
             "4"
         ],
         [
-            "11",
+            "12",
             "Guadalajara",
             "3",
             "1",
@@ -145,7 +157,7 @@
             "4"
         ],
         [
-            "12",
+            "13",
             "Pachuca",
             "3",
             "1",
@@ -153,18 +165,6 @@
             "2",
             "4",
             "3",
-            "1",
-            "3"
-        ],
-        [
-            "13",
-            "Toluca",
-            "2",
-            "1",
-            "0",
-            "1",
-            "3",
-            "2",
             "1",
             "3"
         ],
@@ -207,13 +207,13 @@
         [
             "17",
             "Santos Laguna",
-            "2",
+            "3",
             "0",
             "0",
+            "3",
             "2",
-            "2",
-            "4",
-            "-2",
+            "7",
+            "-5",
             "0"
         ],
         [
@@ -230,6 +230,50 @@
         ]
     ],
     "estadisticas_avanzadas": {
+        "CF America": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 2,
+                "over_15_ht": 0,
+                "ganando_ht": 2,
+                "empatando_ht": 1,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 66.7,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Jul",
+                    "Local": "Queretaro",
+                    "Res": "[0:1]",
+                    "Visita": "CF America",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jul",
+                    "Local": "Atlante",
+                    "Res": "[1:1]",
+                    "Visita": "CF America",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "CF America",
+                    "Res": "[3:0]",
+                    "Visita": "Santos Laguna",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🟢"
+        },
         "Tijuana": {
             "ht_stats": {
                 "partidos_jugados": 3,
@@ -273,6 +317,50 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🟡"
+        },
+        "Toluca": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 3,
+                "over_15_ht": 1,
+                "ganando_ht": 3,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 4,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 100.0,
+                "promedio_gf_ht": 1.33,
+                "promedio_gc_ht": 0.33
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Jul",
+                    "Local": "Guadalajara",
+                    "Res": "[0:2]",
+                    "Visita": "Toluca",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Toluca",
+                    "Res": "[1:2]",
+                    "Visita": "Pumas UNAM",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Aug",
+                    "Local": "Toluca",
+                    "Res": "[3:1]",
+                    "Visita": "Necaxa",
+                    "HT": "2-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟢"
         },
         "Pumas UNAM": {
             "ht_stats": {
@@ -362,42 +450,6 @@
             ],
             "racha_ultimos_5": "🟢🔴🟢"
         },
-        "Necaxa": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 2,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 0.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.0,
-                "promedio_gc_ht": 0.0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Jul",
-                    "Local": "Necaxa",
-                    "Res": "[2:1]",
-                    "Visita": "Atlante",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Necaxa",
-                    "Res": "[2:1]",
-                    "Visita": "Monterrey",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟢"
-        },
         "Cruz Azul": {
             "ht_stats": {
                 "partidos_jugados": 3,
@@ -486,6 +538,50 @@
             ],
             "racha_ultimos_5": "🔴🟢🟢"
         },
+        "Necaxa": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 1,
+                "over_15_ht": 1,
+                "ganando_ht": 0,
+                "empatando_ht": 2,
+                "perdiendo_ht": 1,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 2,
+                "%_over_0.5_ht": 33.3,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.33,
+                "promedio_gc_ht": 0.67
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Jul",
+                    "Local": "Necaxa",
+                    "Res": "[2:1]",
+                    "Visita": "Atlante",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Necaxa",
+                    "Res": "[2:1]",
+                    "Visita": "Monterrey",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Aug",
+                    "Local": "Toluca",
+                    "Res": "[3:1]",
+                    "Visita": "Necaxa",
+                    "HT": "2-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🔴"
+        },
         "Atlas": {
             "ht_stats": {
                 "partidos_jugados": 3,
@@ -529,42 +625,6 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🔴"
-        },
-        "CF America": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 1,
-                "over_15_ht": 0,
-                "ganando_ht": 1,
-                "empatando_ht": 1,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 1,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 50.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Jul",
-                    "Local": "Queretaro",
-                    "Res": "[0:1]",
-                    "Visita": "CF America",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 Jul",
-                    "Local": "Atlante",
-                    "Res": "[1:1]",
-                    "Visita": "CF America",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟡"
         },
         "Atlante": {
             "ht_stats": {
@@ -742,42 +802,6 @@
             ],
             "racha_ultimos_5": "🟢🔴🔴"
         },
-        "Toluca": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 2,
-                "over_15_ht": 0,
-                "ganando_ht": 2,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 2,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 100.0,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 0.0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Jul",
-                    "Local": "Guadalajara",
-                    "Res": "[0:2]",
-                    "Visita": "Toluca",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Jul",
-                    "Local": "Toluca",
-                    "Res": "[1:2]",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🔴"
-        },
         "Club Leon": {
             "ht_stats": {
                 "partidos_jugados": 3,
@@ -912,19 +936,19 @@
         },
         "Santos Laguna": {
             "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 1,
+                "partidos_jugados": 3,
+                "over_05_ht": 2,
                 "over_15_ht": 1,
                 "ganando_ht": 0,
                 "empatando_ht": 1,
-                "perdiendo_ht": 1,
+                "perdiendo_ht": 2,
                 "goles_a_favor_ht": 1,
-                "goles_en_contra_ht": 3,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 50.0,
+                "goles_en_contra_ht": 4,
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 33.3,
                 "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 1.5
+                "promedio_gf_ht": 0.33,
+                "promedio_gc_ht": 1.33
             },
             "historial": [
                 {
@@ -942,9 +966,17 @@
                     "Res": "[0:1]",
                     "Visita": "Atlas",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "CF America",
+                    "Res": "[3:0]",
+                    "Visita": "Santos Laguna",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴"
+            "racha_ultimos_5": "🔴🔴🔴"
         },
         "Juarez": {
             "ht_stats": {
@@ -992,18 +1024,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "20:00",
-            "Local": "CF America",
-            "Visita": "Santos Laguna"
-        },
-        {
-            "Fecha": "Sun 2 Aug",
-            "Hora": "22:05",
-            "Local": "Toluca",
-            "Visita": "Necaxa"
-        },
         {
             "Fecha": "Sat 15 Aug",
             "Hora": "20:00",

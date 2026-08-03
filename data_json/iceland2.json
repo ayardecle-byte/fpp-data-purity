@@ -75,25 +75,25 @@
         [
             "6",
             "Grotta",
-            "14",
-            "7",
+            "15",
+            "8",
             "1",
             "6",
-            "29",
+            "32",
             "28",
-            "1",
-            "22"
+            "4",
+            "25"
         ],
         [
             "7",
             "Vestri",
-            "15",
+            "16",
             "6",
             "3",
-            "6",
+            "7",
             "26",
-            "31",
-            "-5",
+            "34",
+            "-8",
             "21"
         ],
         [
@@ -892,19 +892,19 @@
         },
         "Grotta": {
             "ht_stats": {
-                "partidos_jugados": 14,
-                "over_05_ht": 11,
-                "over_15_ht": 8,
-                "ganando_ht": 4,
+                "partidos_jugados": 15,
+                "over_05_ht": 12,
+                "over_15_ht": 9,
+                "ganando_ht": 5,
                 "empatando_ht": 6,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 13,
+                "goles_a_favor_ht": 15,
                 "goles_en_contra_ht": 10,
-                "%_over_0.5_ht": 78.6,
-                "%_over_1.5_ht": 57.1,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.93,
-                "promedio_gc_ht": 0.71
+                "%_over_0.5_ht": 80.0,
+                "%_over_1.5_ht": 60.0,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 0.67
             },
             "historial": [
                 {
@@ -1018,25 +1018,33 @@
                     "Res": "[6:1]",
                     "Visita": "Aeggir",
                     "HT": "4-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Aug",
+                    "Local": "Vestri",
+                    "Res": "[0:3]",
+                    "Visita": "Grotta",
+                    "HT": "0-2"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🟢🔴🟢"
+            "racha_ultimos_5": "🟢🟢🔴🟢🟢"
         },
         "Vestri": {
             "ht_stats": {
-                "partidos_jugados": 15,
-                "over_05_ht": 9,
-                "over_15_ht": 7,
+                "partidos_jugados": 16,
+                "over_05_ht": 10,
+                "over_15_ht": 8,
                 "ganando_ht": 3,
                 "empatando_ht": 8,
-                "perdiendo_ht": 4,
+                "perdiendo_ht": 5,
                 "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 17,
-                "%_over_0.5_ht": 60.0,
-                "%_over_1.5_ht": 46.7,
-                "%_ganando_ht": 20.0,
-                "promedio_gf_ht": 0.47,
-                "promedio_gc_ht": 1.13
+                "goles_en_contra_ht": 19,
+                "%_over_0.5_ht": 62.5,
+                "%_over_1.5_ht": 50.0,
+                "%_ganando_ht": 18.8,
+                "promedio_gf_ht": 0.44,
+                "promedio_gc_ht": 1.19
             },
             "historial": [
                 {
@@ -1158,9 +1166,17 @@
                     "Res": "[6:2]",
                     "Visita": "Vestri",
                     "HT": "4-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Aug",
+                    "Local": "Vestri",
+                    "Res": "[0:3]",
+                    "Visita": "Grotta",
+                    "HT": "0-2"
                 }
             ],
-            "racha_ultimos_5": "🟢🟡🟡🔴🔴"
+            "racha_ultimos_5": "🟡🟡🔴🔴🔴"
         },
         "Leiknir R.": {
             "ht_stats": {
@@ -1904,12 +1920,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Mon 3 Aug",
-            "Hora": "11:00",
-            "Local": "Vestri",
-            "Visita": "Grotta"
-        },
         {
             "Fecha": "Thu 6 Aug",
             "Hora": "16:15",
