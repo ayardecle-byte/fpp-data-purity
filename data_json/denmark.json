@@ -62,7 +62,7 @@
         ],
         [
             "5",
-            "Viborg",
+            "Odense BK",
             "2",
             "1",
             "0",
@@ -74,6 +74,18 @@
         ],
         [
             "6",
+            "Viborg",
+            "2",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "3"
+        ],
+        [
+            "7",
             "AGF Aarhus",
             "2",
             "0",
@@ -85,7 +97,7 @@
             "2"
         ],
         [
-            "7",
+            "8",
             "Lyngby",
             "2",
             "0",
@@ -97,7 +109,7 @@
             "1"
         ],
         [
-            "8",
+            "9",
             "AC Horsens",
             "2",
             "0",
@@ -109,7 +121,7 @@
             "1"
         ],
         [
-            "9",
+            "10",
             "Randers FC",
             "2",
             "0",
@@ -121,7 +133,7 @@
             "1"
         ],
         [
-            "10",
+            "11",
             "Silkeborg",
             "2",
             "0",
@@ -133,27 +145,15 @@
             "1"
         ],
         [
-            "11",
-            "SonderjyskE",
-            "1",
-            "0",
-            "0",
-            "1",
-            "2",
-            "3",
-            "-1",
-            "0"
-        ],
-        [
             "12",
-            "Odense BK",
-            "1",
+            "SonderjyskE",
+            "2",
             "0",
             "0",
-            "1",
-            "0",
-            "1",
-            "-1",
+            "2",
+            "2",
+            "4",
+            "-2",
             "0"
         ]
     ],
@@ -301,6 +301,42 @@
                 }
             ],
             "racha_ultimos_5": "🟡🟢"
+        },
+        "Odense BK": {
+            "ht_stats": {
+                "partidos_jugados": 2,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 2,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 Jul",
+                    "Local": "Viborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Aug",
+                    "Local": "Odense BK",
+                    "Res": "[1:0]",
+                    "Visita": "SonderjyskE",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟢"
         },
         "Viborg": {
             "ht_stats": {
@@ -520,19 +556,19 @@
         },
         "SonderjyskE": {
             "ht_stats": {
-                "partidos_jugados": 1,
+                "partidos_jugados": 2,
                 "over_05_ht": 1,
                 "over_15_ht": 1,
                 "ganando_ht": 0,
-                "empatando_ht": 1,
+                "empatando_ht": 2,
                 "perdiendo_ht": 0,
                 "goles_a_favor_ht": 2,
                 "goles_en_contra_ht": 2,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 100.0,
+                "%_over_0.5_ht": 50.0,
+                "%_over_1.5_ht": 50.0,
                 "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 2.0,
-                "promedio_gc_ht": 2.0
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.0
             },
             "historial": [
                 {
@@ -542,46 +578,20 @@
                     "Res": "[2:3]",
                     "Visita": "FC Midtjylland",
                     "HT": "2-2"
-                }
-            ],
-            "racha_ultimos_5": "🔴"
-        },
-        "Odense BK": {
-            "ht_stats": {
-                "partidos_jugados": 1,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 1,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 0.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.0,
-                "promedio_gc_ht": 0.0
-            },
-            "historial": [
+                },
                 {
                     "Status": "🔴",
-                    "Fecha": "24 Jul",
-                    "Local": "Viborg",
+                    "Fecha": "3 Aug",
+                    "Local": "Odense BK",
                     "Res": "[1:0]",
-                    "Visita": "Odense BK",
+                    "Visita": "SonderjyskE",
                     "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴"
+            "racha_ultimos_5": "🔴🔴"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Mon 3 Aug",
-            "Hora": "14:00",
-            "Local": "Odense BK",
-            "Visita": "SonderjyskE"
-        },
         {
             "Fecha": "Fri 7 Aug",
             "Hora": "14:00",

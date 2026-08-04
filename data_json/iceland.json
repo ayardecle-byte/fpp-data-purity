@@ -63,13 +63,13 @@
         [
             "5",
             "Valur",
-            "16",
+            "17",
             "6",
             "1",
-            "9",
-            "26",
-            "32",
-            "-6",
+            "10",
+            "28",
+            "35",
+            "-7",
             "19"
         ],
         [
@@ -98,6 +98,18 @@
         ],
         [
             "8",
+            "Stjarnan",
+            "17",
+            "5",
+            "3",
+            "9",
+            "32",
+            "43",
+            "-11",
+            "18"
+        ],
+        [
+            "9",
             "IBV",
             "17",
             "4",
@@ -109,7 +121,7 @@
             "16"
         ],
         [
-            "9",
+            "10",
             "KA Akureyri",
             "16",
             "4",
@@ -118,18 +130,6 @@
             "24",
             "32",
             "-8",
-            "15"
-        ],
-        [
-            "10",
-            "Stjarnan",
-            "16",
-            "4",
-            "3",
-            "9",
-            "29",
-            "41",
-            "-12",
             "15"
         ],
         [
@@ -768,17 +768,17 @@
         },
         "Valur": {
             "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 10,
+                "partidos_jugados": 17,
+                "over_05_ht": 15,
+                "over_15_ht": 11,
                 "ganando_ht": 5,
-                "empatando_ht": 6,
+                "empatando_ht": 7,
                 "perdiendo_ht": 5,
-                "goles_a_favor_ht": 15,
-                "goles_en_contra_ht": 17,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 62.5,
-                "%_ganando_ht": 31.2,
+                "goles_a_favor_ht": 16,
+                "goles_en_contra_ht": 18,
+                "%_over_0.5_ht": 88.2,
+                "%_over_1.5_ht": 64.7,
+                "%_ganando_ht": 29.4,
                 "promedio_gf_ht": 0.94,
                 "promedio_gc_ht": 1.06
             },
@@ -910,9 +910,17 @@
                     "Res": "[2:3]",
                     "Visita": "Fram",
                     "HT": "1-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Aug",
+                    "Local": "Valur",
+                    "Res": "[2:3]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🔴🔴🔴"
+            "racha_ultimos_5": "🟢🔴🔴🔴🔴"
         },
         "IA Akranes": {
             "ht_stats": {
@@ -1218,6 +1226,162 @@
             ],
             "racha_ultimos_5": "🟢🟡🔴🟢🔴"
         },
+        "Stjarnan": {
+            "ht_stats": {
+                "partidos_jugados": 17,
+                "over_05_ht": 16,
+                "over_15_ht": 13,
+                "ganando_ht": 4,
+                "empatando_ht": 6,
+                "perdiendo_ht": 7,
+                "goles_a_favor_ht": 17,
+                "goles_en_contra_ht": 22,
+                "%_over_0.5_ht": 94.1,
+                "%_over_1.5_ht": 76.5,
+                "%_ganando_ht": 23.5,
+                "promedio_gf_ht": 1.0,
+                "promedio_gc_ht": 1.29
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "KA Akureyri",
+                    "Res": "[2:3]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Apr",
+                    "Local": "Stjarnan",
+                    "Res": "[3:2]",
+                    "Visita": "Hafnarfjordur",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Apr",
+                    "Local": "Vikingur R.",
+                    "Res": "[3:2]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Apr",
+                    "Local": "Stjarnan",
+                    "Res": "[2:4]",
+                    "Visita": "Valur",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Stjarnan",
+                    "Res": "[1:2]",
+                    "Visita": "IA Akranes",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 May",
+                    "Local": "Stjarnan",
+                    "Res": "[2:3]",
+                    "Visita": "KR Reykjavik",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "Keflavik",
+                    "Res": "[1:1]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 May",
+                    "Local": "Stjarnan",
+                    "Res": "[0:1]",
+                    "Visita": "Fram",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 May",
+                    "Local": "Stjarnan",
+                    "Res": "[1:3]",
+                    "Visita": "Vikingur R.",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "31 May",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:3]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 Jun",
+                    "Local": "Stjarnan",
+                    "Res": "[4:4]",
+                    "Visita": "Breidablik",
+                    "HT": "2-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Jun",
+                    "Local": "IBV",
+                    "Res": "[2:1]",
+                    "Visita": "Stjarnan",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Stjarnan",
+                    "Res": "[3:1]",
+                    "Visita": "KA Akureyri",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 Jul",
+                    "Local": "Hafnarfjordur",
+                    "Res": "[2:2]",
+                    "Visita": "Stjarnan",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Jul",
+                    "Local": "KR Reykjavik",
+                    "Res": "[5:0]",
+                    "Visita": "Stjarnan",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "IA Akranes",
+                    "Res": "[5:1]",
+                    "Visita": "Stjarnan",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Aug",
+                    "Local": "Valur",
+                    "Res": "[2:3]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🔴🔴🟢"
+        },
         "IBV": {
             "ht_stats": {
                 "partidos_jugados": 17,
@@ -1522,154 +1686,6 @@
             ],
             "racha_ultimos_5": "🔴🔴🟢🟡🟡"
         },
-        "Stjarnan": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 15,
-                "over_15_ht": 12,
-                "ganando_ht": 4,
-                "empatando_ht": 5,
-                "perdiendo_ht": 7,
-                "goles_a_favor_ht": 16,
-                "goles_en_contra_ht": 21,
-                "%_over_0.5_ht": 93.8,
-                "%_over_1.5_ht": 75.0,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 1.31
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "KA Akureyri",
-                    "Res": "[2:3]",
-                    "Visita": "Stjarnan",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Apr",
-                    "Local": "Stjarnan",
-                    "Res": "[3:2]",
-                    "Visita": "Hafnarfjordur",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Apr",
-                    "Local": "Vikingur R.",
-                    "Res": "[3:2]",
-                    "Visita": "Stjarnan",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Apr",
-                    "Local": "Stjarnan",
-                    "Res": "[2:4]",
-                    "Visita": "Valur",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "Stjarnan",
-                    "Res": "[1:2]",
-                    "Visita": "IA Akranes",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 May",
-                    "Local": "Stjarnan",
-                    "Res": "[2:3]",
-                    "Visita": "KR Reykjavik",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 May",
-                    "Local": "Keflavik",
-                    "Res": "[1:1]",
-                    "Visita": "Stjarnan",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 May",
-                    "Local": "Stjarnan",
-                    "Res": "[0:1]",
-                    "Visita": "Fram",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 May",
-                    "Local": "Stjarnan",
-                    "Res": "[1:3]",
-                    "Visita": "Vikingur R.",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "31 May",
-                    "Local": "Thor Akureyri",
-                    "Res": "[1:3]",
-                    "Visita": "Stjarnan",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 Jun",
-                    "Local": "Stjarnan",
-                    "Res": "[4:4]",
-                    "Visita": "Breidablik",
-                    "HT": "2-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "21 Jun",
-                    "Local": "IBV",
-                    "Res": "[2:1]",
-                    "Visita": "Stjarnan",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Jun",
-                    "Local": "Stjarnan",
-                    "Res": "[3:1]",
-                    "Visita": "KA Akureyri",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 Jul",
-                    "Local": "Hafnarfjordur",
-                    "Res": "[2:2]",
-                    "Visita": "Stjarnan",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Jul",
-                    "Local": "KR Reykjavik",
-                    "Res": "[5:0]",
-                    "Visita": "Stjarnan",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "IA Akranes",
-                    "Res": "[5:1]",
-                    "Visita": "Stjarnan",
-                    "HT": "3-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟢🟡🔴🔴"
-        },
         "Hafnarfjordur": {
             "ht_stats": {
                 "partidos_jugados": 16,
@@ -1969,12 +1985,6 @@
     },
     "fixture": [
         {
-            "Fecha": "Mon 3 Aug",
-            "Hora": "16:15",
-            "Local": "Valur",
-            "Visita": "Stjarnan"
-        },
-        {
             "Fecha": "Tue 4 Aug",
             "Hora": "15:30",
             "Local": "Thor Akureyri",
@@ -2018,7 +2028,7 @@
         },
         {
             "Fecha": "Sun 9 Aug",
-            "Hora": "16:15",
+            "Hora": "17:15",
             "Local": "Breidablik",
             "Visita": "Valur"
         },

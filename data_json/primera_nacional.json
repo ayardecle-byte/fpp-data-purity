@@ -242,6 +242,18 @@
         ],
         [
             "2",
+            "Tristan Suarez",
+            "22",
+            "10",
+            "9",
+            "3",
+            "21",
+            "12",
+            "9",
+            "39"
+        ],
+        [
+            "3",
             "Temperley",
             "23",
             "9",
@@ -251,18 +263,6 @@
             "20",
             "4",
             "37"
-        ],
-        [
-            "3",
-            "Tristan Suarez",
-            "21",
-            "9",
-            "9",
-            "3",
-            "18",
-            "11",
-            "7",
-            "36"
         ],
         [
             "4",
@@ -435,13 +435,13 @@
         [
             "18",
             "CA Guemes",
-            "21",
+            "22",
             "5",
             "4",
-            "12",
-            "19",
-            "36",
-            "-17",
+            "13",
+            "20",
+            "39",
+            "-19",
             "19"
         ]
     ],
@@ -4139,6 +4139,197 @@
             ],
             "racha_ultimos_5": "🟢🟡🟡🟢🔴"
         },
+        "Tristan Suarez": {
+            "ht_stats": {
+                "partidos_jugados": 0,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 0,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Feb",
+                    "Local": "Tristan Suarez",
+                    "Res": "[0:0]",
+                    "Visita": "Temperley",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Feb",
+                    "Local": "Nueva Chicago",
+                    "Res": "[0:0]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Mar",
+                    "Local": "Tristan Suarez",
+                    "Res": "[2:1]",
+                    "Visita": "SM San Juan",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Mar",
+                    "Local": "Tristan Suarez",
+                    "Res": "[1:1]",
+                    "Visita": "CA Guemes",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Tristan Suarez",
+                    "Res": "[3:0]",
+                    "Visita": "Gimnasia Jujuy",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Mar",
+                    "Local": "Almirante Brown",
+                    "Res": "[0:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Agropecuario",
+                    "Res": "[0:2]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 Apr",
+                    "Local": "Tristan Suarez",
+                    "Res": "[0:0]",
+                    "Visita": "A. Rafaela",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 Apr",
+                    "Local": "SM Tucuman",
+                    "Res": "[0:0]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Apr",
+                    "Local": "Tristan Suarez",
+                    "Res": "[2:1]",
+                    "Visita": "Gimnasia y Tiro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "A. Atlanta",
+                    "Res": "[3:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "Tristan Suarez",
+                    "Res": "[1:3]",
+                    "Visita": "Midland",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Quilmes",
+                    "Res": "[0:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 May",
+                    "Local": "Tristan Suarez",
+                    "Res": "[0:0]",
+                    "Visita": "Colegiales",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 May",
+                    "Local": "Patronato",
+                    "Res": "[1:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "6 Jun",
+                    "Local": "Tristan Suarez",
+                    "Res": "[0:0]",
+                    "Visita": "Almagro",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Jun",
+                    "Local": "Deportivo Maipu",
+                    "Res": "[0:1]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "Chacarita J.",
+                    "Res": "[0:0]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Temperley",
+                    "Res": "[1:0]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 Jul",
+                    "Local": "Tristan Suarez",
+                    "Res": "[1:0]",
+                    "Visita": "Nueva Chicago",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "Tristan Suarez",
+                    "Res": "[1:0]",
+                    "Visita": "Chacarita J.",
+                    "HT": "-"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 Aug",
+                    "Local": "CA Guemes",
+                    "Res": "[1:3]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🟢🟢🟢"
+        },
         "Temperley": {
             "ht_stats": {
                 "partidos_jugados": 0,
@@ -4337,189 +4528,6 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟡🟢🟢🔴"
-        },
-        "Tristan Suarez": {
-            "ht_stats": {
-                "partidos_jugados": 0,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 0,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Feb",
-                    "Local": "Tristan Suarez",
-                    "Res": "[0:0]",
-                    "Visita": "Temperley",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Feb",
-                    "Local": "Nueva Chicago",
-                    "Res": "[0:0]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 Mar",
-                    "Local": "Tristan Suarez",
-                    "Res": "[2:1]",
-                    "Visita": "SM San Juan",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Mar",
-                    "Local": "Tristan Suarez",
-                    "Res": "[1:1]",
-                    "Visita": "CA Guemes",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "Tristan Suarez",
-                    "Res": "[3:0]",
-                    "Visita": "Gimnasia Jujuy",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Mar",
-                    "Local": "Almirante Brown",
-                    "Res": "[0:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Apr",
-                    "Local": "Agropecuario",
-                    "Res": "[0:2]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "13 Apr",
-                    "Local": "Tristan Suarez",
-                    "Res": "[0:0]",
-                    "Visita": "A. Rafaela",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "19 Apr",
-                    "Local": "SM Tucuman",
-                    "Res": "[0:0]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Tristan Suarez",
-                    "Res": "[2:1]",
-                    "Visita": "Gimnasia y Tiro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "A. Atlanta",
-                    "Res": "[3:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 May",
-                    "Local": "Tristan Suarez",
-                    "Res": "[1:3]",
-                    "Visita": "Midland",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 May",
-                    "Local": "Quilmes",
-                    "Res": "[0:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 May",
-                    "Local": "Tristan Suarez",
-                    "Res": "[0:0]",
-                    "Visita": "Colegiales",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 May",
-                    "Local": "Patronato",
-                    "Res": "[1:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "6 Jun",
-                    "Local": "Tristan Suarez",
-                    "Res": "[0:0]",
-                    "Visita": "Almagro",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Jun",
-                    "Local": "Deportivo Maipu",
-                    "Res": "[0:1]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "Chacarita J.",
-                    "Res": "[0:0]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Jul",
-                    "Local": "Temperley",
-                    "Res": "[1:0]",
-                    "Visita": "Tristan Suarez",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Jul",
-                    "Local": "Tristan Suarez",
-                    "Res": "[1:0]",
-                    "Visita": "Nueva Chicago",
-                    "HT": "-"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Jul",
-                    "Local": "Tristan Suarez",
-                    "Res": "[1:0]",
-                    "Visita": "Chacarita J.",
-                    "HT": "-"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟡🔴🟢🟢"
         },
         "A. Atlanta": {
             "ht_stats": {
@@ -7398,6 +7406,14 @@
                     "Res": "[2:1]",
                     "Visita": "CA Guemes",
                     "HT": "-"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Aug",
+                    "Local": "CA Guemes",
+                    "Res": "[1:3]",
+                    "Visita": "Tristan Suarez",
+                    "HT": "-"
                 }
             ],
             "racha_ultimos_5": "🔴🔴🔴🔴🔴"
@@ -7405,14 +7421,8 @@
     },
     "fixture": [
         {
-            "Fecha": "Mon 3 Aug",
-            "Hora": "16:00",
-            "Local": "CA Guemes",
-            "Visita": "Tristan Suarez"
-        },
-        {
             "Fecha": "Wed 5 Aug",
-            "Hora": "15:00",
+            "Hora": "pp.",
             "Local": "Almagro",
             "Visita": "Gimnasia y Tiro"
         },
