@@ -51,13 +51,13 @@
         [
             "4",
             "Breidablik",
-            "16",
+            "17",
             "8",
             "5",
-            "3",
+            "4",
             "35",
-            "26",
-            "9",
+            "27",
+            "8",
             "29"
         ],
         [
@@ -134,6 +134,18 @@
         ],
         [
             "11",
+            "Thor Akureyri",
+            "17",
+            "4",
+            "3",
+            "10",
+            "18",
+            "42",
+            "-24",
+            "15"
+        ],
+        [
+            "12",
             "Hafnarfjordur",
             "16",
             "2",
@@ -143,18 +155,6 @@
             "31",
             "-11",
             "13"
-        ],
-        [
-            "12",
-            "Thor Akureyri",
-            "16",
-            "3",
-            "3",
-            "10",
-            "17",
-            "42",
-            "-25",
-            "12"
         ]
     ],
     "estadisticas_avanzadas": {
@@ -620,19 +620,19 @@
         },
         "Breidablik": {
             "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 12,
+                "partidos_jugados": 17,
+                "over_05_ht": 13,
                 "over_15_ht": 5,
                 "ganando_ht": 6,
                 "empatando_ht": 5,
-                "perdiendo_ht": 5,
+                "perdiendo_ht": 6,
                 "goles_a_favor_ht": 14,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 31.2,
-                "%_ganando_ht": 37.5,
-                "promedio_gf_ht": 0.88,
-                "promedio_gc_ht": 0.75
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 76.5,
+                "%_over_1.5_ht": 29.4,
+                "%_ganando_ht": 35.3,
+                "promedio_gf_ht": 0.82,
+                "promedio_gc_ht": 0.76
             },
             "historial": [
                 {
@@ -762,9 +762,17 @@
                     "Res": "[1:0]",
                     "Visita": "IBV",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Aug",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:0]",
+                    "Visita": "Breidablik",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🟢🟡🟢"
+            "racha_ultimos_5": "🟢🟢🟡🟢🔴"
         },
         "Valur": {
             "ht_stats": {
@@ -1686,6 +1694,162 @@
             ],
             "racha_ultimos_5": "🔴🔴🟢🟡🟡"
         },
+        "Thor Akureyri": {
+            "ht_stats": {
+                "partidos_jugados": 17,
+                "over_05_ht": 13,
+                "over_15_ht": 7,
+                "ganando_ht": 3,
+                "empatando_ht": 5,
+                "perdiendo_ht": 9,
+                "goles_a_favor_ht": 7,
+                "goles_en_contra_ht": 18,
+                "%_over_0.5_ht": 76.5,
+                "%_over_1.5_ht": 41.2,
+                "%_ganando_ht": 17.6,
+                "promedio_gf_ht": 0.41,
+                "promedio_gc_ht": 1.06
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Valur",
+                    "Res": "[1:2]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 Apr",
+                    "Local": "KR Reykjavik",
+                    "Res": "[5:2]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Apr",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:0]",
+                    "Visita": "Fram",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Apr",
+                    "Local": "Breidablik",
+                    "Res": "[4:0]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "Thor Akureyri",
+                    "Res": "[0:1]",
+                    "Visita": "KA Akureyri",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 May",
+                    "Local": "Vikingur R.",
+                    "Res": "[6:0]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "17 May",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:2]",
+                    "Visita": "IA Akranes",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 May",
+                    "Local": "Keflavik",
+                    "Res": "[1:0]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "31 May",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:3]",
+                    "Visita": "Stjarnan",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Jun",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:4]",
+                    "Visita": "IBV",
+                    "HT": "0-3"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Jun",
+                    "Local": "Hafnarfjordur",
+                    "Res": "[1:1]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Jun",
+                    "Local": "Thor Akureyri",
+                    "Res": "[2:4]",
+                    "Visita": "Valur",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Jul",
+                    "Local": "Thor Akureyri",
+                    "Res": "[3:3]",
+                    "Visita": "KR Reykjavik",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "Fram",
+                    "Res": "[6:1]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Jul",
+                    "Local": "Thor Akureyri",
+                    "Res": "[2:1]",
+                    "Visita": "Vikingur R.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "27 Jul",
+                    "Local": "KA Akureyri",
+                    "Res": "[0:0]",
+                    "Visita": "Thor Akureyri",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Aug",
+                    "Local": "Thor Akureyri",
+                    "Res": "[1:0]",
+                    "Visita": "Breidablik",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🟢🟡🟢"
+        },
         "Hafnarfjordur": {
             "ht_stats": {
                 "partidos_jugados": 16,
@@ -1833,163 +1997,9 @@
                 }
             ],
             "racha_ultimos_5": "🟡🟡🟢🟡🟡"
-        },
-        "Thor Akureyri": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 12,
-                "over_15_ht": 7,
-                "ganando_ht": 2,
-                "empatando_ht": 5,
-                "perdiendo_ht": 9,
-                "goles_a_favor_ht": 6,
-                "goles_en_contra_ht": 18,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 43.8,
-                "%_ganando_ht": 12.5,
-                "promedio_gf_ht": 0.38,
-                "promedio_gc_ht": 1.12
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Valur",
-                    "Res": "[1:2]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 Apr",
-                    "Local": "KR Reykjavik",
-                    "Res": "[5:2]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 Apr",
-                    "Local": "Thor Akureyri",
-                    "Res": "[1:0]",
-                    "Visita": "Fram",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Apr",
-                    "Local": "Breidablik",
-                    "Res": "[4:0]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "Thor Akureyri",
-                    "Res": "[0:1]",
-                    "Visita": "KA Akureyri",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 May",
-                    "Local": "Vikingur R.",
-                    "Res": "[6:0]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 May",
-                    "Local": "Thor Akureyri",
-                    "Res": "[1:2]",
-                    "Visita": "IA Akranes",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 May",
-                    "Local": "Keflavik",
-                    "Res": "[1:0]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "31 May",
-                    "Local": "Thor Akureyri",
-                    "Res": "[1:3]",
-                    "Visita": "Stjarnan",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Jun",
-                    "Local": "Thor Akureyri",
-                    "Res": "[1:4]",
-                    "Visita": "IBV",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Jun",
-                    "Local": "Hafnarfjordur",
-                    "Res": "[1:1]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Jun",
-                    "Local": "Thor Akureyri",
-                    "Res": "[2:4]",
-                    "Visita": "Valur",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Jul",
-                    "Local": "Thor Akureyri",
-                    "Res": "[3:3]",
-                    "Visita": "KR Reykjavik",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Fram",
-                    "Res": "[6:1]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "Thor Akureyri",
-                    "Res": "[2:1]",
-                    "Visita": "Vikingur R.",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "27 Jul",
-                    "Local": "KA Akureyri",
-                    "Res": "[0:0]",
-                    "Visita": "Thor Akureyri",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🔴🟢🟡"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Tue 4 Aug",
-            "Hora": "15:30",
-            "Local": "Thor Akureyri",
-            "Visita": "Breidablik"
-        },
         {
             "Fecha": "Wed 5 Aug",
             "Hora": "15:00",
