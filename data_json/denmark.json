@@ -62,19 +62,19 @@
         ],
         [
             "5",
-            "Odense BK",
-            "2",
+            "Viborg",
+            "3",
+            "1",
+            "1",
+            "1",
+            "1",
             "1",
             "0",
-            "1",
-            "1",
-            "1",
-            "0",
-            "3"
+            "4"
         ],
         [
             "6",
-            "Viborg",
+            "Odense BK",
             "2",
             "1",
             "0",
@@ -147,14 +147,14 @@
         [
             "12",
             "SonderjyskE",
-            "2",
+            "3",
             "0",
-            "0",
+            "1",
             "2",
             "2",
             "4",
             "-2",
-            "0"
+            "1"
         ]
     ],
     "estadisticas_avanzadas": {
@@ -302,6 +302,50 @@
             ],
             "racha_ultimos_5": "🟡🟢"
         },
+        "Viborg": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 0,
+                "over_15_ht": 0,
+                "ganando_ht": 0,
+                "empatando_ht": 3,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 0,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 0.0,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.0,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 Jul",
+                    "Local": "Viborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Brondby IF",
+                    "Res": "[1:0]",
+                    "Visita": "Viborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "7 Aug",
+                    "Local": "SonderjyskE",
+                    "Res": "[0:0]",
+                    "Visita": "Viborg",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟡"
+        },
         "Odense BK": {
             "ht_stats": {
                 "partidos_jugados": 2,
@@ -337,42 +381,6 @@
                 }
             ],
             "racha_ultimos_5": "🔴🟢"
-        },
-        "Viborg": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
-                "empatando_ht": 2,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 0.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.0,
-                "promedio_gc_ht": 0.0
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 Jul",
-                    "Local": "Viborg",
-                    "Res": "[1:0]",
-                    "Visita": "Odense BK",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Brondby IF",
-                    "Res": "[1:0]",
-                    "Visita": "Viborg",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🔴"
         },
         "AGF Aarhus": {
             "ht_stats": {
@@ -556,19 +564,19 @@
         },
         "SonderjyskE": {
             "ht_stats": {
-                "partidos_jugados": 2,
+                "partidos_jugados": 3,
                 "over_05_ht": 1,
                 "over_15_ht": 1,
                 "ganando_ht": 0,
-                "empatando_ht": 2,
+                "empatando_ht": 3,
                 "perdiendo_ht": 0,
                 "goles_a_favor_ht": 2,
                 "goles_en_contra_ht": 2,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 50.0,
+                "%_over_0.5_ht": 33.3,
+                "%_over_1.5_ht": 33.3,
                 "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 1.0
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.67
             },
             "historial": [
                 {
@@ -586,18 +594,20 @@
                     "Res": "[1:0]",
                     "Visita": "SonderjyskE",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "7 Aug",
+                    "Local": "SonderjyskE",
+                    "Res": "[0:0]",
+                    "Visita": "Viborg",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴"
+            "racha_ultimos_5": "🔴🔴🟡"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Fri 7 Aug",
-            "Hora": "14:00",
-            "Local": "SonderjyskE",
-            "Visita": "Viborg"
-        },
         {
             "Fecha": "Sun 9 Aug",
             "Hora": "11:00",

@@ -87,13 +87,13 @@
         [
             "7",
             "Harju JK",
-            "21",
+            "22",
             "8",
             "1",
-            "12",
-            "30",
-            "35",
-            "-5",
+            "13",
+            "32",
+            "38",
+            "-6",
             "25"
         ],
         [
@@ -111,14 +111,14 @@
         [
             "9",
             "Kuressaare",
-            "21",
-            "5",
+            "22",
+            "6",
             "3",
             "13",
-            "19",
-            "34",
-            "-15",
-            "18"
+            "22",
+            "36",
+            "-14",
+            "21"
         ],
         [
             "10",
@@ -1232,19 +1232,19 @@
         },
         "Harju JK": {
             "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 16,
+                "partidos_jugados": 22,
+                "over_05_ht": 17,
                 "over_15_ht": 10,
                 "ganando_ht": 6,
                 "empatando_ht": 9,
-                "perdiendo_ht": 6,
+                "perdiendo_ht": 7,
                 "goles_a_favor_ht": 17,
-                "goles_en_contra_ht": 16,
-                "%_over_0.5_ht": 76.2,
-                "%_over_1.5_ht": 47.6,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.81,
-                "promedio_gc_ht": 0.76
+                "goles_en_contra_ht": 17,
+                "%_over_0.5_ht": 77.3,
+                "%_over_1.5_ht": 45.5,
+                "%_ganando_ht": 27.3,
+                "promedio_gf_ht": 0.77,
+                "promedio_gc_ht": 0.77
             },
             "historial": [
                 {
@@ -1414,9 +1414,17 @@
                     "Res": "[1:0]",
                     "Visita": "Harju JK",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "7 Aug",
+                    "Local": "Kuressaare",
+                    "Res": "[3:2]",
+                    "Visita": "Harju JK",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟢🟢🔴"
+            "racha_ultimos_5": "🔴🟢🟢🔴🔴"
         },
         "Nomme Utd": {
             "ht_stats": {
@@ -1608,19 +1616,19 @@
         },
         "Kuressaare": {
             "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 14,
+                "partidos_jugados": 22,
+                "over_05_ht": 15,
                 "over_15_ht": 4,
-                "ganando_ht": 4,
+                "ganando_ht": 5,
                 "empatando_ht": 8,
                 "perdiendo_ht": 9,
-                "goles_a_favor_ht": 7,
+                "goles_a_favor_ht": 8,
                 "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 66.7,
-                "%_over_1.5_ht": 19.0,
-                "%_ganando_ht": 19.0,
-                "promedio_gf_ht": 0.33,
-                "promedio_gc_ht": 0.57
+                "%_over_0.5_ht": 68.2,
+                "%_over_1.5_ht": 18.2,
+                "%_ganando_ht": 22.7,
+                "promedio_gf_ht": 0.36,
+                "promedio_gc_ht": 0.55
             },
             "historial": [
                 {
@@ -1790,9 +1798,17 @@
                     "Res": "[1:0]",
                     "Visita": "Kuressaare",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "7 Aug",
+                    "Local": "Kuressaare",
+                    "Res": "[3:2]",
+                    "Visita": "Harju JK",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🔴🟡🔴"
+            "racha_ultimos_5": "🔴🔴🟡🔴🟢"
         },
         "Narva Trans": {
             "ht_stats": {
@@ -1984,12 +2000,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Fri 7 Aug",
-            "Hora": "13:00",
-            "Local": "Kuressaare",
-            "Visita": "Harju JK"
-        },
         {
             "Fecha": "Sat 8 Aug",
             "Hora": "13:00",
