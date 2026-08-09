@@ -39,13 +39,13 @@
         [
             "3",
             "New England",
-            "17",
+            "18",
             "9",
             "3",
-            "5",
+            "6",
             "28",
-            "21",
-            "7",
+            "23",
+            "5",
             "30"
         ],
         [
@@ -231,14 +231,14 @@
         [
             "4",
             "Houston Dynamo",
-            "17",
-            "9",
+            "18",
+            "10",
             "2",
             "6",
-            "25",
+            "27",
             "24",
-            "1",
-            "29"
+            "3",
+            "32"
         ],
         [
             "5",
@@ -704,19 +704,19 @@
         },
         "New England": {
             "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 13,
+                "partidos_jugados": 18,
+                "over_05_ht": 14,
                 "over_15_ht": 7,
                 "ganando_ht": 5,
                 "empatando_ht": 5,
-                "perdiendo_ht": 7,
+                "perdiendo_ht": 8,
                 "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 76.5,
-                "%_over_1.5_ht": 41.2,
-                "%_ganando_ht": 29.4,
-                "promedio_gf_ht": 0.65,
-                "promedio_gc_ht": 0.76
+                "goles_en_contra_ht": 14,
+                "%_over_0.5_ht": 77.8,
+                "%_over_1.5_ht": 38.9,
+                "%_ganando_ht": 27.8,
+                "promedio_gf_ht": 0.61,
+                "promedio_gc_ht": 0.78
             },
             "historial": [
                 {
@@ -854,9 +854,17 @@
                     "Res": "[2:2]",
                     "Visita": "New England",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Aug",
+                    "Local": "New England",
+                    "Res": "[0:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟡🟢🟡"
+            "racha_ultimos_5": "🔴🟡🟢🟡🔴"
         },
         "Chicago Fire": {
             "ht_stats": {
@@ -3312,19 +3320,19 @@
         },
         "Houston Dynamo": {
             "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 10,
+                "partidos_jugados": 18,
+                "over_05_ht": 11,
                 "over_15_ht": 6,
-                "ganando_ht": 5,
+                "ganando_ht": 6,
                 "empatando_ht": 8,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 11,
+                "goles_a_favor_ht": 12,
                 "goles_en_contra_ht": 10,
-                "%_over_0.5_ht": 58.8,
-                "%_over_1.5_ht": 35.3,
-                "%_ganando_ht": 29.4,
-                "promedio_gf_ht": 0.65,
-                "promedio_gc_ht": 0.59
+                "%_over_0.5_ht": 61.1,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.56
             },
             "historial": [
                 {
@@ -3462,9 +3470,17 @@
                     "Res": "[0:2]",
                     "Visita": "Houston Dynamo",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Aug",
+                    "Local": "New England",
+                    "Res": "[0:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🟡🟡🟢🟢"
+            "racha_ultimos_5": "🟡🟡🟢🟢🟢"
         },
         "Dallas": {
             "ht_stats": {
@@ -5264,12 +5280,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sat 8 Aug",
-            "Hora": "17:30",
-            "Local": "New England",
-            "Visita": "Houston Dynamo"
-        },
         {
             "Fecha": "Sat 15 Aug",
             "Hora": "20:30",
