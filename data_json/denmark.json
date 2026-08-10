@@ -14,6 +14,18 @@
         ],
         [
             "1",
+            "Brondby IF",
+            "3",
+            "2",
+            "1",
+            "0",
+            "4",
+            "1",
+            "3",
+            "7"
+        ],
+        [
+            "2",
             "FC Kobenhavn",
             "2",
             "2",
@@ -25,7 +37,7 @@
             "6"
         ],
         [
-            "2",
+            "3",
             "FC Midtjylland",
             "2",
             "2",
@@ -37,19 +49,19 @@
             "6"
         ],
         [
+            "4",
+            "Randers FC",
             "3",
-            "Brondby IF",
+            "1",
+            "1",
+            "1",
+            "3",
             "2",
-            "1",
-            "1",
-            "0",
-            "2",
-            "1",
             "1",
             "4"
         ],
         [
-            "4",
+            "5",
             "Nordsjaelland",
             "2",
             "1",
@@ -61,7 +73,7 @@
             "4"
         ],
         [
-            "5",
+            "6",
             "Viborg",
             "3",
             "1",
@@ -73,7 +85,7 @@
             "4"
         ],
         [
-            "6",
+            "7",
             "Odense BK",
             "2",
             "1",
@@ -85,7 +97,7 @@
             "3"
         ],
         [
-            "7",
+            "8",
             "AGF Aarhus",
             "2",
             "0",
@@ -97,43 +109,7 @@
             "2"
         ],
         [
-            "8",
-            "Lyngby",
-            "2",
-            "0",
-            "1",
-            "1",
-            "4",
-            "5",
-            "-1",
-            "1"
-        ],
-        [
             "9",
-            "AC Horsens",
-            "2",
-            "0",
-            "1",
-            "1",
-            "2",
-            "3",
-            "-1",
-            "1"
-        ],
-        [
-            "10",
-            "Randers FC",
-            "2",
-            "0",
-            "1",
-            "1",
-            "1",
-            "2",
-            "-1",
-            "1"
-        ],
-        [
-            "11",
             "Silkeborg",
             "2",
             "0",
@@ -145,7 +121,7 @@
             "1"
         ],
         [
-            "12",
+            "10",
             "SonderjyskE",
             "3",
             "0",
@@ -155,9 +131,77 @@
             "4",
             "-2",
             "1"
+        ],
+        [
+            "11",
+            "Lyngby",
+            "3",
+            "0",
+            "1",
+            "2",
+            "4",
+            "7",
+            "-3",
+            "1"
+        ],
+        [
+            "12",
+            "AC Horsens",
+            "3",
+            "0",
+            "1",
+            "2",
+            "2",
+            "5",
+            "-3",
+            "1"
         ]
     ],
     "estadisticas_avanzadas": {
+        "Brondby IF": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 1,
+                "over_15_ht": 0,
+                "ganando_ht": 1,
+                "empatando_ht": 2,
+                "perdiendo_ht": 0,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 0,
+                "%_over_0.5_ht": 33.3,
+                "%_over_1.5_ht": 0.0,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.33,
+                "promedio_gc_ht": 0.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 Jul",
+                    "Local": "AGF Aarhus",
+                    "Res": "[1:1]",
+                    "Visita": "Brondby IF",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Brondby IF",
+                    "Res": "[1:0]",
+                    "Visita": "Viborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Aug",
+                    "Local": "AC Horsens",
+                    "Res": "[0:2]",
+                    "Visita": "Brondby IF",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟢"
+        },
         "FC Kobenhavn": {
             "ht_stats": {
                 "partidos_jugados": 2,
@@ -230,41 +274,49 @@
             ],
             "racha_ultimos_5": "🟢🟢"
         },
-        "Brondby IF": {
+        "Randers FC": {
             "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 0,
-                "over_15_ht": 0,
-                "ganando_ht": 0,
+                "partidos_jugados": 3,
+                "over_05_ht": 2,
+                "over_15_ht": 1,
+                "ganando_ht": 1,
                 "empatando_ht": 2,
                 "perdiendo_ht": 0,
-                "goles_a_favor_ht": 0,
-                "goles_en_contra_ht": 0,
-                "%_over_0.5_ht": 0.0,
-                "%_over_1.5_ht": 0.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.0,
-                "promedio_gc_ht": 0.0
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 1,
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.33
             },
             "historial": [
                 {
                     "Status": "🟡",
-                    "Fecha": "25 Jul",
-                    "Local": "AGF Aarhus",
+                    "Fecha": "27 Jul",
+                    "Local": "Randers FC",
                     "Res": "[1:1]",
-                    "Visita": "Brondby IF",
+                    "Visita": "Silkeborg",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Nordsjaelland",
+                    "Res": "[1:0]",
+                    "Visita": "Randers FC",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Brondby IF",
-                    "Res": "[1:0]",
-                    "Visita": "Viborg",
-                    "HT": "0-0"
+                    "Fecha": "9 Aug",
+                    "Local": "Randers FC",
+                    "Res": "[2:0]",
+                    "Visita": "Lyngby",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢"
+            "racha_ultimos_5": "🟡🔴🟢"
         },
         "Nordsjaelland": {
             "ht_stats": {
@@ -418,114 +470,6 @@
             ],
             "racha_ultimos_5": "🟡🟡"
         },
-        "Lyngby": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 2,
-                "over_15_ht": 1,
-                "ganando_ht": 1,
-                "empatando_ht": 0,
-                "perdiendo_ht": 1,
-                "goles_a_favor_ht": 2,
-                "goles_en_contra_ht": 2,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 50.0,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 1.0
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "FC Kobenhavn",
-                    "Res": "[3:2]",
-                    "Visita": "Lyngby",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Aug",
-                    "Local": "Lyngby",
-                    "Res": "[2:2]",
-                    "Visita": "AGF Aarhus",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡"
-        },
-        "AC Horsens": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 2,
-                "over_15_ht": 2,
-                "ganando_ht": 0,
-                "empatando_ht": 1,
-                "perdiendo_ht": 1,
-                "goles_a_favor_ht": 1,
-                "goles_en_contra_ht": 3,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 100.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 1.5
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "AC Horsens",
-                    "Res": "[1:1]",
-                    "Visita": "Nordsjaelland",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "FC Midtjylland",
-                    "Res": "[2:1]",
-                    "Visita": "AC Horsens",
-                    "HT": "2-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴"
-        },
-        "Randers FC": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 1,
-                "over_15_ht": 1,
-                "ganando_ht": 0,
-                "empatando_ht": 2,
-                "perdiendo_ht": 0,
-                "goles_a_favor_ht": 1,
-                "goles_en_contra_ht": 1,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.5
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "27 Jul",
-                    "Local": "Randers FC",
-                    "Res": "[1:1]",
-                    "Visita": "Silkeborg",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Nordsjaelland",
-                    "Res": "[1:0]",
-                    "Visita": "Randers FC",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴"
-        },
         "Silkeborg": {
             "ht_stats": {
                 "partidos_jugados": 2,
@@ -605,21 +549,97 @@
                 }
             ],
             "racha_ultimos_5": "🔴🔴🟡"
+        },
+        "Lyngby": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 3,
+                "over_15_ht": 1,
+                "ganando_ht": 1,
+                "empatando_ht": 0,
+                "perdiendo_ht": 2,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 3,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 33.3,
+                "%_ganando_ht": 33.3,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "FC Kobenhavn",
+                    "Res": "[3:2]",
+                    "Visita": "Lyngby",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Aug",
+                    "Local": "Lyngby",
+                    "Res": "[2:2]",
+                    "Visita": "AGF Aarhus",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Aug",
+                    "Local": "Randers FC",
+                    "Res": "[2:0]",
+                    "Visita": "Lyngby",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟡🔴"
+        },
+        "AC Horsens": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 3,
+                "over_15_ht": 2,
+                "ganando_ht": 0,
+                "empatando_ht": 1,
+                "perdiendo_ht": 2,
+                "goles_a_favor_ht": 1,
+                "goles_en_contra_ht": 4,
+                "%_over_0.5_ht": 100.0,
+                "%_over_1.5_ht": 66.7,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.33,
+                "promedio_gc_ht": 1.33
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Jul",
+                    "Local": "AC Horsens",
+                    "Res": "[1:1]",
+                    "Visita": "Nordsjaelland",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "FC Midtjylland",
+                    "Res": "[2:1]",
+                    "Visita": "AC Horsens",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Aug",
+                    "Local": "AC Horsens",
+                    "Res": "[0:2]",
+                    "Visita": "Brondby IF",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🔴"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "11:00",
-            "Local": "Randers FC",
-            "Visita": "Lyngby"
-        },
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "13:00",
-            "Local": "AC Horsens",
-            "Visita": "Brondby IF"
-        },
         {
             "Fecha": "Mon 10 Aug",
             "Hora": "14:00",

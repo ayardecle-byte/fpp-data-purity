@@ -26,6 +26,18 @@
         ],
         [
             "2",
+            "Qingdao West C.",
+            "22",
+            "7",
+            "11",
+            "4",
+            "26",
+            "29",
+            "-3",
+            "32"
+        ],
+        [
+            "3",
             "Dalian Yingbo",
             "21",
             "10",
@@ -37,7 +49,7 @@
             "32"
         ],
         [
-            "3",
+            "4",
             "Yunnan Yukun",
             "22",
             "9",
@@ -49,19 +61,19 @@
             "31"
         ],
         [
-            "4",
-            "Qingdao West C.",
-            "21",
-            "7",
-            "10",
-            "4",
-            "26",
-            "29",
-            "-3",
-            "31"
+            "5",
+            "Shandong T.",
+            "22",
+            "11",
+            "3",
+            "8",
+            "39",
+            "37",
+            "2",
+            "30"
         ],
         [
-            "5",
+            "6",
             "Beijing Guoan",
             "21",
             "9",
@@ -73,28 +85,16 @@
             "29"
         ],
         [
-            "6",
+            "7",
             "Chongqing T.",
-            "21",
+            "22",
             "7",
             "8",
-            "6",
-            "23",
-            "24",
-            "-1",
+            "7",
+            "25",
+            "27",
+            "-2",
             "29"
-        ],
-        [
-            "7",
-            "Shandong T.",
-            "21",
-            "10",
-            "3",
-            "8",
-            "37",
-            "36",
-            "1",
-            "27"
         ],
         [
             "8",
@@ -122,6 +122,18 @@
         ],
         [
             "10",
+            "Henan SL",
+            "21",
+            "8",
+            "5",
+            "8",
+            "26",
+            "25",
+            "1",
+            "23"
+        ],
+        [
+            "11",
             "Shenzhen",
             "22",
             "7",
@@ -133,7 +145,7 @@
             "23"
         ],
         [
-            "11",
+            "12",
             "S. Shenhua",
             "21",
             "9",
@@ -145,39 +157,27 @@
             "22"
         ],
         [
-            "12",
-            "Henan SL",
-            "20",
-            "8",
-            "4",
-            "8",
-            "26",
-            "25",
-            "1",
-            "22"
-        ],
-        [
             "13",
             "Shanghai Port",
-            "20",
-            "6",
+            "21",
+            "7",
             "6",
             "8",
-            "30",
-            "27",
-            "3",
-            "19"
+            "33",
+            "29",
+            "4",
+            "22"
         ],
         [
             "14",
             "Tianjin JT",
-            "20",
+            "21",
             "7",
             "6",
-            "7",
-            "29",
-            "24",
-            "5",
+            "8",
+            "30",
+            "26",
+            "4",
             "17"
         ],
         [
@@ -401,6 +401,202 @@
                 }
             ],
             "racha_ultimos_5": "🟡🟡🟡🟡🔴"
+        },
+        "Qingdao West C.": {
+            "ht_stats": {
+                "partidos_jugados": 22,
+                "over_05_ht": 14,
+                "over_15_ht": 8,
+                "ganando_ht": 6,
+                "empatando_ht": 13,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 11,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 63.6,
+                "%_over_1.5_ht": 36.4,
+                "%_ganando_ht": 27.3,
+                "promedio_gf_ht": 0.5,
+                "promedio_gc_ht": 0.5
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Mar",
+                    "Local": "Zhejiang",
+                    "Res": "[2:0]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Mar",
+                    "Local": "Shanghai Port",
+                    "Res": "[4:1]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:0]",
+                    "Visita": "Shenzhen",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Apr",
+                    "Local": "Chengdu",
+                    "Res": "[5:1]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Apr",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:1]",
+                    "Visita": "Liaoning Tieren",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Apr",
+                    "Local": "Qingdao Hainiu",
+                    "Res": "[0:0]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Apr",
+                    "Local": "Qingdao West C.",
+                    "Res": "[0:0]",
+                    "Visita": "Henan SL",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "26 Apr",
+                    "Local": "Chongqing T.",
+                    "Res": "[1:1]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 May",
+                    "Local": "Shandong T.",
+                    "Res": "[1:1]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 May",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:1]",
+                    "Visita": "Tianjin JT",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:1]",
+                    "Visita": "Wuhan Three T.",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 May",
+                    "Local": "Dalian Yingbo",
+                    "Res": "[2:3]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "19 May",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:1]",
+                    "Visita": "Beijing Guoan",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Yunnan Yukun",
+                    "Res": "[2:3]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "30 May",
+                    "Local": "Qingdao West C.",
+                    "Res": "[2:2]",
+                    "Visita": "S. Shenhua",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Jun",
+                    "Local": "Qingdao West C.",
+                    "Res": "[3:1]",
+                    "Visita": "Zhejiang",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Jul",
+                    "Local": "Qingdao West C.",
+                    "Res": "[2:1]",
+                    "Visita": "Shanghai Port",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Jul",
+                    "Local": "Shenzhen",
+                    "Res": "[3:0]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 Jul",
+                    "Local": "Qingdao West C.",
+                    "Res": "[1:1]",
+                    "Visita": "Chengdu",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "Liaoning Tieren",
+                    "Res": "[0:1]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Qingdao West C.",
+                    "Res": "[2:0]",
+                    "Visita": "Qingdao Hainiu",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 Aug",
+                    "Local": "Henan SL",
+                    "Res": "[0:0]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟡🟢🟢🟡"
         },
         "Dalian Yingbo": {
             "ht_stats": {
@@ -786,86 +982,86 @@
             ],
             "racha_ultimos_5": "🔴🟡🟢🔴🟢"
         },
-        "Qingdao West C.": {
+        "Shandong T.": {
             "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 14,
-                "over_15_ht": 8,
-                "ganando_ht": 6,
-                "empatando_ht": 12,
-                "perdiendo_ht": 3,
-                "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 66.7,
-                "%_over_1.5_ht": 38.1,
-                "%_ganando_ht": 28.6,
-                "promedio_gf_ht": 0.52,
-                "promedio_gc_ht": 0.52
+                "partidos_jugados": 22,
+                "over_05_ht": 19,
+                "over_15_ht": 10,
+                "ganando_ht": 9,
+                "empatando_ht": 4,
+                "perdiendo_ht": 9,
+                "goles_a_favor_ht": 18,
+                "goles_en_contra_ht": 17,
+                "%_over_0.5_ht": 86.4,
+                "%_over_1.5_ht": 45.5,
+                "%_ganando_ht": 40.9,
+                "promedio_gf_ht": 0.82,
+                "promedio_gc_ht": 0.77
             },
             "historial": [
                 {
-                    "Status": "🔴",
-                    "Fecha": "8 Mar",
-                    "Local": "Zhejiang",
-                    "Res": "[2:0]",
-                    "Visita": "Qingdao West C.",
+                    "Status": "🟢",
+                    "Fecha": "7 Mar",
+                    "Local": "Shandong T.",
+                    "Res": "[3:0]",
+                    "Visita": "Liaoning Tieren",
                     "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Shanghai Port",
-                    "Res": "[4:1]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:0]",
-                    "Visita": "Shenzhen",
+                    "Fecha": "14 Mar",
+                    "Local": "Shandong T.",
+                    "Res": "[2:1]",
+                    "Visita": "Beijing Guoan",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "3 Apr",
-                    "Local": "Chengdu",
-                    "Res": "[5:1]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "2-0"
+                    "Fecha": "21 Mar",
+                    "Local": "Yunnan Yukun",
+                    "Res": "[4:0]",
+                    "Visita": "Shandong T.",
+                    "HT": "3-0"
                 },
                 {
-                    "Status": "🟡",
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Shandong T.",
+                    "Res": "[1:2]",
+                    "Visita": "Dalian Yingbo",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
                     "Fecha": "11 Apr",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:1]",
-                    "Visita": "Liaoning Tieren",
-                    "HT": "1-0"
+                    "Local": "Henan SL",
+                    "Res": "[0:1]",
+                    "Visita": "Shandong T.",
+                    "HT": "0-1"
                 },
                 {
                     "Status": "🟡",
                     "Fecha": "17 Apr",
-                    "Local": "Qingdao Hainiu",
-                    "Res": "[0:0]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Apr",
-                    "Local": "Qingdao West C.",
-                    "Res": "[0:0]",
-                    "Visita": "Henan SL",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Apr",
-                    "Local": "Chongqing T.",
+                    "Local": "Shandong T.",
                     "Res": "[1:1]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "1-1"
+                    "Visita": "Shanghai Port",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Apr",
+                    "Local": "Tianjin JT",
+                    "Res": "[1:2]",
+                    "Visita": "Shandong T.",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Qingdao Hainiu",
+                    "Res": "[4:1]",
+                    "Visita": "Shandong T.",
+                    "HT": "2-0"
                 },
                 {
                     "Status": "🟡",
@@ -876,103 +1072,111 @@
                     "HT": "0-1"
                 },
                 {
-                    "Status": "🟡",
+                    "Status": "🟢",
                     "Fecha": "5 May",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:1]",
-                    "Visita": "Tianjin JT",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "10 May",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:1]",
-                    "Visita": "Wuhan Three T.",
-                    "HT": "1-0"
+                    "Local": "Shandong T.",
+                    "Res": "[4:1]",
+                    "Visita": "S. Shenhua",
+                    "HT": "2-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "15 May",
-                    "Local": "Dalian Yingbo",
-                    "Res": "[2:3]",
-                    "Visita": "Qingdao West C.",
+                    "Fecha": "10 May",
+                    "Local": "Shenzhen",
+                    "Res": "[1:2]",
+                    "Visita": "Shandong T.",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "Shandong T.",
+                    "Res": "[3:1]",
+                    "Visita": "Chongqing T.",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "20 May",
+                    "Local": "Zhejiang",
+                    "Res": "[4:1]",
+                    "Visita": "Shandong T.",
                     "HT": "0-1"
                 },
                 {
                     "Status": "🟡",
-                    "Fecha": "19 May",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:1]",
-                    "Visita": "Beijing Guoan",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
                     "Fecha": "24 May",
-                    "Local": "Yunnan Yukun",
-                    "Res": "[2:3]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "30 May",
-                    "Local": "Qingdao West C.",
-                    "Res": "[2:2]",
-                    "Visita": "S. Shenhua",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Jun",
-                    "Local": "Qingdao West C.",
-                    "Res": "[3:1]",
-                    "Visita": "Zhejiang",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Jul",
-                    "Local": "Qingdao West C.",
-                    "Res": "[2:1]",
-                    "Visita": "Shanghai Port",
-                    "HT": "0-0"
+                    "Local": "Shandong T.",
+                    "Res": "[3:3]",
+                    "Visita": "Wuhan Three T.",
+                    "HT": "2-2"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "11 Jul",
-                    "Local": "Shenzhen",
-                    "Res": "[3:0]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 Jul",
-                    "Local": "Qingdao West C.",
-                    "Res": "[1:1]",
-                    "Visita": "Chengdu",
+                    "Fecha": "30 May",
+                    "Local": "Chengdu",
+                    "Res": "[1:0]",
+                    "Visita": "Shandong T.",
                     "HT": "1-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "25 Jul",
+                    "Fecha": "27 Jun",
                     "Local": "Liaoning Tieren",
-                    "Res": "[0:1]",
-                    "Visita": "Qingdao West C.",
+                    "Res": "[1:5]",
+                    "Visita": "Shandong T.",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Jul",
+                    "Local": "Beijing Guoan",
+                    "Res": "[2:0]",
+                    "Visita": "Shandong T.",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Qingdao West C.",
-                    "Res": "[2:0]",
-                    "Visita": "Qingdao Hainiu",
-                    "HT": "1-0"
+                    "Fecha": "10 Jul",
+                    "Local": "Shandong T.",
+                    "Res": "[4:3]",
+                    "Visita": "Yunnan Yukun",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Jul",
+                    "Local": "Dalian Yingbo",
+                    "Res": "[3:1]",
+                    "Visita": "Shandong T.",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "Shandong T.",
+                    "Res": "[1:2]",
+                    "Visita": "Henan SL",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Aug",
+                    "Local": "Shanghai Port",
+                    "Res": "[0:1]",
+                    "Visita": "Shandong T.",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Aug",
+                    "Local": "Shandong T.",
+                    "Res": "[2:1]",
+                    "Visita": "Tianjin JT",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟡🟢🟢"
+            "racha_ultimos_5": "🟢🔴🔴🟢🟢"
         },
         "Beijing Guoan": {
             "ht_stats": {
@@ -1164,19 +1368,19 @@
         },
         "Chongqing T.": {
             "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 11,
-                "over_15_ht": 6,
+                "partidos_jugados": 22,
+                "over_05_ht": 12,
+                "over_15_ht": 7,
                 "ganando_ht": 4,
-                "empatando_ht": 11,
+                "empatando_ht": 12,
                 "perdiendo_ht": 6,
-                "goles_a_favor_ht": 8,
-                "goles_en_contra_ht": 9,
-                "%_over_0.5_ht": 52.4,
-                "%_over_1.5_ht": 28.6,
-                "%_ganando_ht": 19.0,
-                "promedio_gf_ht": 0.38,
-                "promedio_gc_ht": 0.43
+                "goles_a_favor_ht": 10,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 54.5,
+                "%_over_1.5_ht": 31.8,
+                "%_ganando_ht": 18.2,
+                "promedio_gf_ht": 0.45,
+                "promedio_gc_ht": 0.5
             },
             "historial": [
                 {
@@ -1346,197 +1550,17 @@
                     "Res": "[2:0]",
                     "Visita": "Chongqing T.",
                     "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🟡🔴🔴"
-        },
-        "Shandong T.": {
-            "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 19,
-                "over_15_ht": 10,
-                "ganando_ht": 9,
-                "empatando_ht": 3,
-                "perdiendo_ht": 9,
-                "goles_a_favor_ht": 18,
-                "goles_en_contra_ht": 17,
-                "%_over_0.5_ht": 90.5,
-                "%_over_1.5_ht": 47.6,
-                "%_ganando_ht": 42.9,
-                "promedio_gf_ht": 0.86,
-                "promedio_gc_ht": 0.81
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "7 Mar",
-                    "Local": "Shandong T.",
-                    "Res": "[3:0]",
-                    "Visita": "Liaoning Tieren",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Mar",
-                    "Local": "Shandong T.",
-                    "Res": "[2:1]",
-                    "Visita": "Beijing Guoan",
-                    "HT": "0-0"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "21 Mar",
-                    "Local": "Yunnan Yukun",
-                    "Res": "[4:0]",
-                    "Visita": "Shandong T.",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "Shandong T.",
-                    "Res": "[1:2]",
-                    "Visita": "Dalian Yingbo",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Apr",
-                    "Local": "Henan SL",
-                    "Res": "[0:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 Apr",
-                    "Local": "Shandong T.",
-                    "Res": "[1:1]",
+                    "Fecha": "9 Aug",
+                    "Local": "Chongqing T.",
+                    "Res": "[2:3]",
                     "Visita": "Shanghai Port",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Apr",
-                    "Local": "Tianjin JT",
-                    "Res": "[1:2]",
-                    "Visita": "Shandong T.",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Qingdao Hainiu",
-                    "Res": "[4:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 May",
-                    "Local": "Shandong T.",
-                    "Res": "[1:1]",
-                    "Visita": "Qingdao West C.",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 May",
-                    "Local": "Shandong T.",
-                    "Res": "[4:1]",
-                    "Visita": "S. Shenhua",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Shenzhen",
-                    "Res": "[1:2]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Shandong T.",
-                    "Res": "[3:1]",
-                    "Visita": "Chongqing T.",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "20 May",
-                    "Local": "Zhejiang",
-                    "Res": "[4:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "24 May",
-                    "Local": "Shandong T.",
-                    "Res": "[3:3]",
-                    "Visita": "Wuhan Three T.",
                     "HT": "2-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "Chengdu",
-                    "Res": "[1:0]",
-                    "Visita": "Shandong T.",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "27 Jun",
-                    "Local": "Liaoning Tieren",
-                    "Res": "[1:5]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Jul",
-                    "Local": "Beijing Guoan",
-                    "Res": "[2:0]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 Jul",
-                    "Local": "Shandong T.",
-                    "Res": "[4:3]",
-                    "Visita": "Yunnan Yukun",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "Dalian Yingbo",
-                    "Res": "[3:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Shandong T.",
-                    "Res": "[1:2]",
-                    "Visita": "Henan SL",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 Aug",
-                    "Local": "Shanghai Port",
-                    "Res": "[0:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🔴🟢"
+            "racha_ultimos_5": "🟡🟡🔴🔴🔴"
         },
         "Zhejiang": {
             "ht_stats": {
@@ -1913,6 +1937,194 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟡🔴🟢🔴"
+        },
+        "Henan SL": {
+            "ht_stats": {
+                "partidos_jugados": 21,
+                "over_05_ht": 15,
+                "over_15_ht": 5,
+                "ganando_ht": 9,
+                "empatando_ht": 7,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 14,
+                "goles_en_contra_ht": 7,
+                "%_over_0.5_ht": 71.4,
+                "%_over_1.5_ht": 23.8,
+                "%_ganando_ht": 42.9,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.33
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "7 Mar",
+                    "Local": "Shanghai Port",
+                    "Res": "[1:2]",
+                    "Visita": "Henan SL",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Mar",
+                    "Local": "Henan SL",
+                    "Res": "[2:1]",
+                    "Visita": "Yunnan Yukun",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Mar",
+                    "Local": "Henan SL",
+                    "Res": "[1:1]",
+                    "Visita": "Wuhan Three T.",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "Qingdao Hainiu",
+                    "Res": "[1:0]",
+                    "Visita": "Henan SL",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "Henan SL",
+                    "Res": "[0:1]",
+                    "Visita": "Shandong T.",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Dalian Yingbo",
+                    "Res": "[2:1]",
+                    "Visita": "Henan SL",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Apr",
+                    "Local": "Qingdao West C.",
+                    "Res": "[0:0]",
+                    "Visita": "Henan SL",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Henan SL",
+                    "Res": "[0:3]",
+                    "Visita": "S. Shenhua",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 May",
+                    "Local": "Henan SL",
+                    "Res": "[4:0]",
+                    "Visita": "Liaoning Tieren",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "5 May",
+                    "Local": "Chongqing T.",
+                    "Res": "[1:1]",
+                    "Visita": "Henan SL",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 May",
+                    "Local": "Chengdu",
+                    "Res": "[3:0]",
+                    "Visita": "Henan SL",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 May",
+                    "Local": "Henan SL",
+                    "Res": "[1:0]",
+                    "Visita": "Shenzhen",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 May",
+                    "Local": "Tianjin JT",
+                    "Res": "[1:2]",
+                    "Visita": "Henan SL",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Beijing Guoan",
+                    "Res": "[1:2]",
+                    "Visita": "Henan SL",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "30 May",
+                    "Local": "Henan SL",
+                    "Res": "[0:2]",
+                    "Visita": "Zhejiang",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Jun",
+                    "Local": "Henan SL",
+                    "Res": "[1:2]",
+                    "Visita": "Shanghai Port",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 Jul",
+                    "Local": "Yunnan Yukun",
+                    "Res": "[2:1]",
+                    "Visita": "Henan SL",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Jul",
+                    "Local": "Henan SL",
+                    "Res": "[5:1]",
+                    "Visita": "Qingdao Hainiu",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Shandong T.",
+                    "Res": "[1:2]",
+                    "Visita": "Henan SL",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "31 Jul",
+                    "Local": "Henan SL",
+                    "Res": "[1:1]",
+                    "Visita": "Dalian Yingbo",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 Aug",
+                    "Local": "Henan SL",
+                    "Res": "[0:0]",
+                    "Visita": "Qingdao West C.",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟢🟢🟡🟡"
         },
         "Shenzhen": {
             "ht_stats": {
@@ -2298,201 +2510,21 @@
             ],
             "racha_ultimos_5": "🟢🔴🔴🔴🟢"
         },
-        "Henan SL": {
-            "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 15,
-                "over_15_ht": 5,
-                "ganando_ht": 9,
-                "empatando_ht": 6,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 14,
-                "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 25.0,
-                "%_ganando_ht": 45.0,
-                "promedio_gf_ht": 0.7,
-                "promedio_gc_ht": 0.35
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "7 Mar",
-                    "Local": "Shanghai Port",
-                    "Res": "[1:2]",
-                    "Visita": "Henan SL",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Henan SL",
-                    "Res": "[2:1]",
-                    "Visita": "Yunnan Yukun",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Mar",
-                    "Local": "Henan SL",
-                    "Res": "[1:1]",
-                    "Visita": "Wuhan Three T.",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "Qingdao Hainiu",
-                    "Res": "[1:0]",
-                    "Visita": "Henan SL",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "Henan SL",
-                    "Res": "[0:1]",
-                    "Visita": "Shandong T.",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "Dalian Yingbo",
-                    "Res": "[2:1]",
-                    "Visita": "Henan SL",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Apr",
-                    "Local": "Qingdao West C.",
-                    "Res": "[0:0]",
-                    "Visita": "Henan SL",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Henan SL",
-                    "Res": "[0:3]",
-                    "Visita": "S. Shenhua",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 May",
-                    "Local": "Henan SL",
-                    "Res": "[4:0]",
-                    "Visita": "Liaoning Tieren",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "5 May",
-                    "Local": "Chongqing T.",
-                    "Res": "[1:1]",
-                    "Visita": "Henan SL",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 May",
-                    "Local": "Chengdu",
-                    "Res": "[3:0]",
-                    "Visita": "Henan SL",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 May",
-                    "Local": "Henan SL",
-                    "Res": "[1:0]",
-                    "Visita": "Shenzhen",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 May",
-                    "Local": "Tianjin JT",
-                    "Res": "[1:2]",
-                    "Visita": "Henan SL",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 May",
-                    "Local": "Beijing Guoan",
-                    "Res": "[1:2]",
-                    "Visita": "Henan SL",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "Henan SL",
-                    "Res": "[0:2]",
-                    "Visita": "Zhejiang",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Jun",
-                    "Local": "Henan SL",
-                    "Res": "[1:2]",
-                    "Visita": "Shanghai Port",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 Jul",
-                    "Local": "Yunnan Yukun",
-                    "Res": "[2:1]",
-                    "Visita": "Henan SL",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Jul",
-                    "Local": "Henan SL",
-                    "Res": "[5:1]",
-                    "Visita": "Qingdao Hainiu",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Shandong T.",
-                    "Res": "[1:2]",
-                    "Visita": "Henan SL",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "31 Jul",
-                    "Local": "Henan SL",
-                    "Res": "[1:1]",
-                    "Visita": "Dalian Yingbo",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🟢🟢🟡"
-        },
         "Shanghai Port": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 13,
-                "over_15_ht": 7,
+                "partidos_jugados": 21,
+                "over_05_ht": 14,
+                "over_15_ht": 8,
                 "ganando_ht": 6,
-                "empatando_ht": 10,
+                "empatando_ht": 11,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 9,
-                "%_over_0.5_ht": 65.0,
-                "%_over_1.5_ht": 35.0,
-                "%_ganando_ht": 30.0,
-                "promedio_gf_ht": 0.6,
-                "promedio_gc_ht": 0.45
+                "goles_a_favor_ht": 14,
+                "goles_en_contra_ht": 11,
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 38.1,
+                "%_ganando_ht": 28.6,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 0.52
             },
             "historial": [
                 {
@@ -2654,25 +2686,33 @@
                     "Res": "[0:1]",
                     "Visita": "Shandong T.",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Aug",
+                    "Local": "Chongqing T.",
+                    "Res": "[2:3]",
+                    "Visita": "Shanghai Port",
+                    "HT": "2-2"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟡🟢🔴"
+            "racha_ultimos_5": "🔴🟡🟢🔴🟢"
         },
         "Tianjin JT": {
             "ht_stats": {
-                "partidos_jugados": 20,
+                "partidos_jugados": 21,
                 "over_05_ht": 12,
                 "over_15_ht": 4,
                 "ganando_ht": 6,
-                "empatando_ht": 11,
+                "empatando_ht": 12,
                 "perdiendo_ht": 3,
                 "goles_a_favor_ht": 10,
                 "goles_en_contra_ht": 6,
-                "%_over_0.5_ht": 60.0,
-                "%_over_1.5_ht": 20.0,
-                "%_ganando_ht": 30.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.3
+                "%_over_0.5_ht": 57.1,
+                "%_over_1.5_ht": 19.0,
+                "%_ganando_ht": 28.6,
+                "promedio_gf_ht": 0.48,
+                "promedio_gc_ht": 0.29
             },
             "historial": [
                 {
@@ -2834,9 +2874,17 @@
                     "Res": "[3:2]",
                     "Visita": "Yunnan Yukun",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Aug",
+                    "Local": "Shandong T.",
+                    "Res": "[2:1]",
+                    "Visita": "Tianjin JT",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🟢🟢🟢"
+            "racha_ultimos_5": "🟢🟢🟢🟢🔴"
         },
         "Wuhan Three T.": {
             "ht_stats": {
@@ -3221,24 +3269,6 @@
             "Hora": "pp.",
             "Local": "Zhejiang",
             "Visita": "Wuhan Three T."
-        },
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "08:00",
-            "Local": "Henan SL",
-            "Visita": "Qingdao West C."
-        },
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "08:35",
-            "Local": "Chongqing T.",
-            "Visita": "Shanghai Port"
-        },
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "09:00",
-            "Local": "Shandong T.",
-            "Visita": "Tianjin JT"
         },
         {
             "Fecha": "Fri 14 Aug",

@@ -15,14 +15,14 @@
         [
             "1",
             "Levadia",
-            "20",
-            "14",
+            "21",
+            "15",
             "5",
             "1",
-            "50",
+            "55",
             "17",
-            "33",
-            "47"
+            "38",
+            "50"
         ],
         [
             "2",
@@ -99,13 +99,13 @@
         [
             "8",
             "Nomme Utd",
-            "21",
+            "22",
             "8",
             "1",
-            "12",
+            "13",
             "40",
-            "48",
-            "-8",
+            "53",
+            "-13",
             "25"
         ],
         [
@@ -136,19 +136,19 @@
     "estadisticas_avanzadas": {
         "Levadia": {
             "ht_stats": {
-                "partidos_jugados": 20,
-                "over_05_ht": 16,
-                "over_15_ht": 9,
-                "ganando_ht": 11,
+                "partidos_jugados": 21,
+                "over_05_ht": 17,
+                "over_15_ht": 10,
+                "ganando_ht": 12,
                 "empatando_ht": 7,
                 "perdiendo_ht": 2,
-                "goles_a_favor_ht": 25,
+                "goles_a_favor_ht": 28,
                 "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 80.0,
-                "%_over_1.5_ht": 45.0,
-                "%_ganando_ht": 55.0,
-                "promedio_gf_ht": 1.25,
-                "promedio_gc_ht": 0.35
+                "%_over_0.5_ht": 81.0,
+                "%_over_1.5_ht": 47.6,
+                "%_ganando_ht": 57.1,
+                "promedio_gf_ht": 1.33,
+                "promedio_gc_ht": 0.33
             },
             "historial": [
                 {
@@ -310,9 +310,17 @@
                     "Res": "[1:1]",
                     "Visita": "Levadia",
                     "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Aug",
+                    "Local": "Levadia",
+                    "Res": "[5:0]",
+                    "Visita": "Nomme Utd",
+                    "HT": "3-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟡🔴🟢🟡"
+            "racha_ultimos_5": "🟡🔴🟢🟡🟢"
         },
         "Nomme Kalju": {
             "ht_stats": {
@@ -1436,19 +1444,19 @@
         },
         "Nomme Utd": {
             "ht_stats": {
-                "partidos_jugados": 21,
-                "over_05_ht": 20,
-                "over_15_ht": 13,
+                "partidos_jugados": 22,
+                "over_05_ht": 21,
+                "over_15_ht": 14,
                 "ganando_ht": 5,
                 "empatando_ht": 5,
-                "perdiendo_ht": 11,
+                "perdiendo_ht": 12,
                 "goles_a_favor_ht": 15,
-                "goles_en_contra_ht": 25,
-                "%_over_0.5_ht": 95.2,
-                "%_over_1.5_ht": 61.9,
-                "%_ganando_ht": 23.8,
-                "promedio_gf_ht": 0.71,
-                "promedio_gc_ht": 1.19
+                "goles_en_contra_ht": 28,
+                "%_over_0.5_ht": 95.5,
+                "%_over_1.5_ht": 63.6,
+                "%_ganando_ht": 22.7,
+                "promedio_gf_ht": 0.68,
+                "promedio_gc_ht": 1.27
             },
             "historial": [
                 {
@@ -1618,9 +1626,17 @@
                     "Res": "[1:2]",
                     "Visita": "Narva Trans",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Aug",
+                    "Local": "Levadia",
+                    "Res": "[5:0]",
+                    "Visita": "Nomme Utd",
+                    "HT": "3-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🔴🟢🟢🔴"
+            "racha_ultimos_5": "🔴🟢🟢🔴🔴"
         },
         "Kuressaare": {
             "ht_stats": {
@@ -2017,12 +2033,6 @@
     },
     "fixture": [
         {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "13:00",
-            "Local": "Levadia",
-            "Visita": "Nomme Utd"
-        },
-        {
             "Fecha": "Fri 14 Aug",
             "Hora": "13:00",
             "Local": "Nomme Utd",
@@ -2102,13 +2112,13 @@
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "11:00",
+            "Hora": "08:30",
             "Local": "Nomme Kalju",
             "Visita": "Levadia"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "13:00",
+            "Hora": "11:00",
             "Local": "Flora",
             "Visita": "Paide"
         },

@@ -63,13 +63,13 @@
         [
             "5",
             "HK Kopavogur",
-            "16",
+            "17",
             "9",
             "1",
-            "6",
-            "38",
-            "29",
-            "9",
+            "7",
+            "40",
+            "32",
+            "8",
             "28"
         ],
         [
@@ -135,14 +135,14 @@
         [
             "11",
             "Volsungur",
-            "16",
-            "2",
+            "17",
+            "3",
             "5",
             "9",
-            "20",
-            "37",
-            "-17",
-            "11"
+            "23",
+            "39",
+            "-16",
+            "14"
         ],
         [
             "12",
@@ -776,18 +776,18 @@
         },
         "HK Kopavogur": {
             "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 13,
-                "over_15_ht": 10,
+                "partidos_jugados": 17,
+                "over_05_ht": 14,
+                "over_15_ht": 11,
                 "ganando_ht": 6,
-                "empatando_ht": 6,
+                "empatando_ht": 7,
                 "perdiendo_ht": 4,
-                "goles_a_favor_ht": 21,
-                "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 81.2,
-                "%_over_1.5_ht": 62.5,
-                "%_ganando_ht": 37.5,
-                "promedio_gf_ht": 1.31,
+                "goles_a_favor_ht": 22,
+                "goles_en_contra_ht": 16,
+                "%_over_0.5_ht": 82.4,
+                "%_over_1.5_ht": 64.7,
+                "%_ganando_ht": 35.3,
+                "promedio_gf_ht": 1.29,
                 "promedio_gc_ht": 0.94
             },
             "historial": [
@@ -918,9 +918,17 @@
                     "Res": "[3:2]",
                     "Visita": "HK Kopavogur",
                     "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "9 Aug",
+                    "Local": "Volsungur",
+                    "Res": "[3:2]",
+                    "Visita": "HK Kopavogur",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🟢🟢🔴"
+            "racha_ultimos_5": "🟢🟢🟢🔴🔴"
         },
         "Grotta": {
             "ht_stats": {
@@ -1696,18 +1704,18 @@
         },
         "Volsungur": {
             "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 12,
-                "over_15_ht": 7,
+                "partidos_jugados": 17,
+                "over_05_ht": 13,
+                "over_15_ht": 8,
                 "ganando_ht": 2,
-                "empatando_ht": 7,
+                "empatando_ht": 8,
                 "perdiendo_ht": 7,
-                "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 18,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 43.8,
-                "%_ganando_ht": 12.5,
-                "promedio_gf_ht": 0.44,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 19,
+                "%_over_0.5_ht": 76.5,
+                "%_over_1.5_ht": 47.1,
+                "%_ganando_ht": 11.8,
+                "promedio_gf_ht": 0.47,
                 "promedio_gc_ht": 1.12
             },
             "historial": [
@@ -1838,9 +1846,17 @@
                     "Res": "[3:1]",
                     "Visita": "Volsungur",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 Aug",
+                    "Local": "Volsungur",
+                    "Res": "[3:2]",
+                    "Visita": "HK Kopavogur",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🟢🔴"
+            "racha_ultimos_5": "🔴🔴🟢🔴🟢"
         },
         "Aeggir": {
             "ht_stats": {
@@ -2000,12 +2016,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sun 9 Aug",
-            "Hora": "13:00",
-            "Local": "Volsungur",
-            "Visita": "HK Kopavogur"
-        },
         {
             "Fecha": "Thu 13 Aug",
             "Hora": "15:00",
