@@ -86,18 +86,30 @@
         ],
         [
             "7",
-            "Odense BK",
-            "2",
-            "1",
-            "0",
+            "Silkeborg",
+            "3",
             "1",
             "1",
             "1",
-            "0",
-            "3"
+            "3",
+            "4",
+            "-1",
+            "4"
         ],
         [
             "8",
+            "Odense BK",
+            "3",
+            "1",
+            "0",
+            "2",
+            "1",
+            "2",
+            "-1",
+            "3"
+        ],
+        [
+            "9",
             "AGF Aarhus",
             "2",
             "0",
@@ -107,18 +119,6 @@
             "3",
             "0",
             "2"
-        ],
-        [
-            "9",
-            "Silkeborg",
-            "2",
-            "0",
-            "1",
-            "1",
-            "2",
-            "4",
-            "-2",
-            "1"
         ],
         [
             "10",
@@ -398,13 +398,57 @@
             ],
             "racha_ultimos_5": "🟢🔴🟡"
         },
+        "Silkeborg": {
+            "ht_stats": {
+                "partidos_jugados": 3,
+                "over_05_ht": 2,
+                "over_15_ht": 2,
+                "ganando_ht": 0,
+                "empatando_ht": 2,
+                "perdiendo_ht": 1,
+                "goles_a_favor_ht": 2,
+                "goles_en_contra_ht": 3,
+                "%_over_0.5_ht": 66.7,
+                "%_over_1.5_ht": 66.7,
+                "%_ganando_ht": 0.0,
+                "promedio_gf_ht": 0.67,
+                "promedio_gc_ht": 1.0
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "27 Jul",
+                    "Local": "Randers FC",
+                    "Res": "[1:1]",
+                    "Visita": "Silkeborg",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Silkeborg",
+                    "Res": "[1:3]",
+                    "Visita": "FC Kobenhavn",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "10 Aug",
+                    "Local": "Silkeborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🟢"
+        },
         "Odense BK": {
             "ht_stats": {
-                "partidos_jugados": 2,
+                "partidos_jugados": 3,
                 "over_05_ht": 0,
                 "over_15_ht": 0,
                 "ganando_ht": 0,
-                "empatando_ht": 2,
+                "empatando_ht": 3,
                 "perdiendo_ht": 0,
                 "goles_a_favor_ht": 0,
                 "goles_en_contra_ht": 0,
@@ -430,9 +474,17 @@
                     "Res": "[1:0]",
                     "Visita": "SonderjyskE",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 Aug",
+                    "Local": "Silkeborg",
+                    "Res": "[1:0]",
+                    "Visita": "Odense BK",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢"
+            "racha_ultimos_5": "🔴🟢🔴"
         },
         "AGF Aarhus": {
             "ht_stats": {
@@ -469,42 +521,6 @@
                 }
             ],
             "racha_ultimos_5": "🟡🟡"
-        },
-        "Silkeborg": {
-            "ht_stats": {
-                "partidos_jugados": 2,
-                "over_05_ht": 2,
-                "over_15_ht": 2,
-                "ganando_ht": 0,
-                "empatando_ht": 1,
-                "perdiendo_ht": 1,
-                "goles_a_favor_ht": 2,
-                "goles_en_contra_ht": 3,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 100.0,
-                "%_ganando_ht": 0.0,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 1.5
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "27 Jul",
-                    "Local": "Randers FC",
-                    "Res": "[1:1]",
-                    "Visita": "Silkeborg",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Silkeborg",
-                    "Res": "[1:3]",
-                    "Visita": "FC Kobenhavn",
-                    "HT": "1-2"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴"
         },
         "SonderjyskE": {
             "ht_stats": {
@@ -640,12 +656,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Mon 10 Aug",
-            "Hora": "14:00",
-            "Local": "Silkeborg",
-            "Visita": "Odense BK"
-        },
         {
             "Fecha": "Fri 14 Aug",
             "Hora": "14:00",
