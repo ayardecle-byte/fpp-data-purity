@@ -38,6 +38,18 @@
         ],
         [
             "3",
+            "Elfsborg",
+            "17",
+            "7",
+            "6",
+            "4",
+            "24",
+            "18",
+            "6",
+            "27"
+        ],
+        [
+            "4",
             "Djurgarden",
             "15",
             "8",
@@ -49,7 +61,7 @@
             "26"
         ],
         [
-            "4",
+            "5",
             "Hacken",
             "16",
             "6",
@@ -61,7 +73,7 @@
             "25"
         ],
         [
-            "5",
+            "6",
             "AIK",
             "16",
             "7",
@@ -73,28 +85,16 @@
             "25"
         ],
         [
-            "6",
+            "7",
             "Vasteras",
-            "16",
+            "17",
             "7",
             "4",
-            "5",
+            "6",
             "25",
-            "29",
-            "-4",
+            "32",
+            "-7",
             "25"
-        ],
-        [
-            "7",
-            "Elfsborg",
-            "16",
-            "6",
-            "6",
-            "4",
-            "21",
-            "18",
-            "3",
-            "24"
         ],
         [
             "8",
@@ -501,6 +501,162 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🟢🟡🟢"
+        },
+        "Elfsborg": {
+            "ht_stats": {
+                "partidos_jugados": 17,
+                "over_05_ht": 10,
+                "over_15_ht": 4,
+                "ganando_ht": 5,
+                "empatando_ht": 10,
+                "perdiendo_ht": 2,
+                "goles_a_favor_ht": 9,
+                "goles_en_contra_ht": 6,
+                "%_over_0.5_ht": 58.8,
+                "%_over_1.5_ht": 23.5,
+                "%_ganando_ht": 29.4,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.35
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "6 Apr",
+                    "Local": "Elfsborg",
+                    "Res": "[2:0]",
+                    "Visita": "IFK Goteborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Apr",
+                    "Local": "Vasteras",
+                    "Res": "[2:2]",
+                    "Visita": "Elfsborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Apr",
+                    "Local": "Degerfors",
+                    "Res": "[0:1]",
+                    "Visita": "Elfsborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Apr",
+                    "Local": "Elfsborg",
+                    "Res": "[2:1]",
+                    "Visita": "Djurgarden",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "27 Apr",
+                    "Local": "Kalmar",
+                    "Res": "[2:1]",
+                    "Visita": "Elfsborg",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "3 May",
+                    "Local": "Elfsborg",
+                    "Res": "[1:1]",
+                    "Visita": "AIK",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 May",
+                    "Local": "Elfsborg",
+                    "Res": "[2:0]",
+                    "Visita": "Brommapojkarna",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Halmstad",
+                    "Res": "[1:1]",
+                    "Visita": "Elfsborg",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 May",
+                    "Local": "Elfsborg",
+                    "Res": "[1:1]",
+                    "Visita": "Mjallby",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "25 May",
+                    "Local": "Elfsborg",
+                    "Res": "[1:1]",
+                    "Visita": "Hacken",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "29 May",
+                    "Local": "Orgryte",
+                    "Res": "[2:2]",
+                    "Visita": "Elfsborg",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Jul",
+                    "Local": "Elfsborg",
+                    "Res": "[1:2]",
+                    "Visita": "Hammarby",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Jul",
+                    "Local": "GAIS",
+                    "Res": "[1:0]",
+                    "Visita": "Elfsborg",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Jul",
+                    "Local": "Elfsborg",
+                    "Res": "[1:3]",
+                    "Visita": "Sirius",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Malmo FF",
+                    "Res": "[1:2]",
+                    "Visita": "Elfsborg",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Aug",
+                    "Local": "Mjallby",
+                    "Res": "[0:1]",
+                    "Visita": "Elfsborg",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 Aug",
+                    "Local": "Elfsborg",
+                    "Res": "[3:0]",
+                    "Visita": "Vasteras",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🔴🟢🟢🟢"
         },
         "Djurgarden": {
             "ht_stats": {
@@ -940,18 +1096,18 @@
         },
         "Vasteras": {
             "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 12,
+                "partidos_jugados": 17,
+                "over_05_ht": 13,
                 "over_15_ht": 8,
                 "ganando_ht": 7,
                 "empatando_ht": 6,
-                "perdiendo_ht": 3,
+                "perdiendo_ht": 4,
                 "goles_a_favor_ht": 14,
-                "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 43.8,
-                "promedio_gf_ht": 0.88,
+                "goles_en_contra_ht": 16,
+                "%_over_0.5_ht": 76.5,
+                "%_over_1.5_ht": 47.1,
+                "%_ganando_ht": 41.2,
+                "promedio_gf_ht": 0.82,
                 "promedio_gc_ht": 0.94
             },
             "historial": [
@@ -1082,157 +1238,17 @@
                     "Res": "[1:0]",
                     "Visita": "Djurgarden",
                     "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Aug",
+                    "Local": "Elfsborg",
+                    "Res": "[3:0]",
+                    "Visita": "Vasteras",
+                    "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟡🟢🔴🟢"
-        },
-        "Elfsborg": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 9,
-                "over_15_ht": 4,
-                "ganando_ht": 4,
-                "empatando_ht": 10,
-                "perdiendo_ht": 2,
-                "goles_a_favor_ht": 8,
-                "goles_en_contra_ht": 6,
-                "%_over_0.5_ht": 56.2,
-                "%_over_1.5_ht": 25.0,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.38
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "Elfsborg",
-                    "Res": "[2:0]",
-                    "Visita": "IFK Goteborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Apr",
-                    "Local": "Vasteras",
-                    "Res": "[2:2]",
-                    "Visita": "Elfsborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Apr",
-                    "Local": "Degerfors",
-                    "Res": "[0:1]",
-                    "Visita": "Elfsborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Apr",
-                    "Local": "Elfsborg",
-                    "Res": "[2:1]",
-                    "Visita": "Djurgarden",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Apr",
-                    "Local": "Kalmar",
-                    "Res": "[2:1]",
-                    "Visita": "Elfsborg",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Elfsborg",
-                    "Res": "[1:1]",
-                    "Visita": "AIK",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 May",
-                    "Local": "Elfsborg",
-                    "Res": "[2:0]",
-                    "Visita": "Brommapojkarna",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 May",
-                    "Local": "Halmstad",
-                    "Res": "[1:1]",
-                    "Visita": "Elfsborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 May",
-                    "Local": "Elfsborg",
-                    "Res": "[1:1]",
-                    "Visita": "Mjallby",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 May",
-                    "Local": "Elfsborg",
-                    "Res": "[1:1]",
-                    "Visita": "Hacken",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Orgryte",
-                    "Res": "[2:2]",
-                    "Visita": "Elfsborg",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Jul",
-                    "Local": "Elfsborg",
-                    "Res": "[1:2]",
-                    "Visita": "Hammarby",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "GAIS",
-                    "Res": "[1:0]",
-                    "Visita": "Elfsborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Jul",
-                    "Local": "Elfsborg",
-                    "Res": "[1:3]",
-                    "Visita": "Sirius",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Malmo FF",
-                    "Res": "[1:2]",
-                    "Visita": "Elfsborg",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Aug",
-                    "Local": "Mjallby",
-                    "Res": "[0:1]",
-                    "Visita": "Elfsborg",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🔴🟢🟢"
+            "racha_ultimos_5": "🟡🟢🔴🟢🔴"
         },
         "GAIS": {
             "ht_stats": {
@@ -2560,12 +2576,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Fri 14 Aug",
-            "Hora": "14:00",
-            "Local": "Elfsborg",
-            "Visita": "Vasteras"
-        },
         {
             "Fecha": "Sat 15 Aug",
             "Hora": "10:00",
