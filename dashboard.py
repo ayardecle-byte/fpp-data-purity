@@ -12,9 +12,14 @@ from scipy.stats import poisson
 import motor_v2
 import picks_dia
 import registro_predicciones as reg
+import movil
 
 # --- 1. CONFIGURACIÓN ---
 st.set_page_config(page_title="FPP - Data Purity Pro", page_icon="🛡️", layout="wide")
+
+# Ajustes automáticos para pantallas chicas (celular)
+movil.configurar()
+ES_MOVIL = movil.es_movil()
 
 def cambiar_pagina(nombre_pagina):
     st.session_state.pagina = nombre_pagina
@@ -702,6 +707,7 @@ with st.sidebar:
     st.button("⭐ Mis Apuestas (Radar)", on_click=cambiar_pagina, args=('Favoritos',), width="stretch")
     st.button("💼 Billetera", on_click=cambiar_pagina, args=('Billetera',), width="stretch")
     st.button("📈 Calibración en Vivo", on_click=cambiar_pagina, args=('Calibracion',), width="stretch")
+    movil.selector_vista()
     st.markdown("---")
 
     liga_sel = st.selectbox("Seleccionar Liga:", opciones_liga, key="sel_liga")
@@ -753,7 +759,9 @@ if st.session_state.pagina == 'Cartelera':
             
             with col_za:
                 st.markdown(f"#### {titulo_a}")
-                st.dataframe(tabla.iloc[:mitad], width="stretch", hide_index=True, column_order=orden_columnas)
+                st.dataframe(tabla.iloc[:mitad] if not movil.es_movil() else tabla,
+                             width="stretch", hide_index=True,
+                             column_order=movil.columnas_tabla() if movil.es_movil() else orden_columnas)
             with col_zb:
                 st.markdown(f"#### {titulo_b}")
                 st.dataframe(tabla.iloc[mitad:], width="stretch", hide_index=True, column_order=orden_columnas)
@@ -845,7 +853,7 @@ if st.session_state.pagina == 'Cartelera':
             
             with col_tabla:
                 st.markdown("#### 🏆 Tabla de Posiciones")
-                st.dataframe(tabla, width="stretch", hide_index=True, column_order=['Pos', 'Club', 'Pts', 'PJ', 'G', 'E', 'P'])
+                st.dataframe(tabla, width="stretch", hide_index=True, column_order=movil.columnas_tabla())
                 
             with col_fixture:
                 st.markdown("#### 📅 Fixture (Próximos Partidos)")
@@ -931,7 +939,7 @@ if st.session_state.pagina == 'Cartelera':
                     st.warning(f"⚠️ No se pudo cargar el archivo {archivo_fix}. Asegúrate de ejecutar el scraper.")
 
         else: 
-            st.dataframe(tabla, width="stretch", hide_index=True, column_order=['Pos', 'Club', 'Pts', 'PJ', 'G', 'E', 'P'])
+            st.dataframe(tabla, width="stretch", hide_index=True, column_order=movil.columnas_tabla())
         
         st.markdown("---")
         with st.expander("📅 Ver Cronograma de Partidos y Resultados (Google Live)", expanded=False):
