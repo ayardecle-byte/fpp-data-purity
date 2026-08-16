@@ -2,13 +2,15 @@ name: Actualizador Automático de Data Purity
 
 on:
   schedule:
+    # 10:00 UTC = 06:00 en Bolivia. Una vez por día alcanza:
+    # el scraper tarda ~20 min y GitHub limita los minutos mensuales.
     - cron: '0 10 * * *'
-  workflow_dispatch:
+  workflow_dispatch:        # permite lanzarlo a mano desde la pestaña Actions
 
 jobs:
   actualizar-datos:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 60     # el scraper tarda ~20 min; margen de sobra
     permissions:
       contents: write
 
@@ -19,18 +21,66 @@ jobs:
       - name: 🐍 Configurar entorno Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: 📦 Instalar librerías
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Ejecutar los Scrapers (Extrayendo Datos)
+      - name: 🚀 Actualizar datos de las ligas
+        env:
+          PYTHONIOENCODING: utf-8   # evita que los emojis rompan la salida
         run: |
-          python actualizar_todo.py
+          python actualizar_todas_ligas.py --forzar
 
-      - name: 💾 Guardar los nuevos datos (Commit & Push)
+      - name: 🔍 Verificar que los datos tengan sentido
+        run: |
+          python - <<'EOF'
+          import json, os, sys
+
+          if not os.path.isdir("data_json"):
+              print("ERROR: no existe la carpeta data_json")
+              sys.exit(1)
+
+          archivos = [f for f in os.listdir("data_json") if f.endswith(".json")]
+          print(f"Archivos encontrados: {len(archivos)}")
+
+          vacios = []
+          con_datos = 0
+
+          for nombre in sorted(archivos):
+              try:
+                  with open(f"data_json/{nombre}", encoding="utf-8") as f:
+                      d = json.load(f)
+              except Exception as e:
+                  print(f"  {nombre}: NO SE PUDO LEER ({e})")
+                  vacios.append(nombre)
+                  continue
+
+              pos = len(d.get("posiciones", []))
+              fix = len(d.get("fixture", []))
+              adv = d.get("estadisticas_avanzadas", {})
+              part = sum(len(v.get("historial", [])) for v in adv.values()) // 2
+
+              if pos == 0 and fix == 0:
+                  vacios.append(nombre)
+              else:
+                  con_datos += 1
+
+              print(f"  {nombre:<24} posiciones {pos:<5} fixture {fix:<5} partidos {part}")
+
+          print(f"\nCon datos: {con_datos} · Vacíos: {len(vacios)}")
+          if vacios:
+              print("Vacíos: " + ", ".join(vacios))
+
+          # Solo se falla si quedó casi todo vacío: eso indica un problema real
+          if con_datos < 5:
+              print("\nERROR: demasiados archivos vacíos. No se guardan estos datos.")
+              sys.exit(1)
+          EOF
+
+      - name: 💾 Guardar los nuevos datos
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
