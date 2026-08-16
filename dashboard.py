@@ -725,6 +725,14 @@ with st.sidebar:
     movil.selector_vista()
     st.markdown("---")
 
+    # Si vino un pedido desde Picks del Día, se aplica ANTES de dibujar el
+    # selector: Streamlit no permite cambiarlo una vez que ya está en pantalla.
+    _pedido = st.session_state.pop("pedido_analisis", None)
+    if _pedido:
+        if _pedido.get("liga") in opciones_liga:
+            st.session_state.sel_liga = _pedido["liga"]
+        st.session_state.equipos_pedidos = (_pedido.get("local"), _pedido.get("visita"))
+
     liga_sel = st.selectbox("Seleccionar Liga:", opciones_liga, key="sel_liga")
 
     # Estado del motor
@@ -1341,9 +1349,15 @@ elif st.session_state.pagina == 'Cartelera':
         idx_l = encontrar_indice_seguro(saved_l, lista, 0)
         idx_v = encontrar_indice_seguro(saved_v, lista, 1 if len(lista) > 1 else 0)
 
-        # Si el equipo guardado no está en la lista de esta liga (por ejemplo
-        # cuando llega desde Picks del Día con otro nombre), se busca el más
-        # parecido antes de reiniciar.
+        # Equipos que llegaron desde Picks del Día
+        _pedidos = st.session_state.pop("equipos_pedidos", None)
+        if _pedidos and _pedidos[0] and _pedidos[1]:
+            st.session_state.res_l = lista[encontrar_indice_seguro(_pedidos[0], lista, idx_l)]
+            st.session_state.res_v = lista[encontrar_indice_seguro(_pedidos[1], lista, idx_v)]
+            st.session_state.analizar = True
+
+        # Si el equipo guardado no está en la lista de esta liga, se busca el
+        # más parecido antes de reiniciar.
         for campo, respaldo in (("res_l", idx_l), ("res_v", idx_v)):
             valor = st.session_state.get(campo)
             if valor in lista:

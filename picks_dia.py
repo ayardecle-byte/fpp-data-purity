@@ -188,13 +188,15 @@ def _mostrar_pick(r, clave_unica="0"):
         if r.get("Local") and r.get("Visita"):
             clave = f"pick_analizar_{clave_unica}"
             if st.button("🔎 Ver análisis completo", key=clave, width="stretch"):
+                # No se puede escribir directo sobre 'sel_liga': Streamlit no
+                # deja modificar un selector que ya se dibujó en pantalla.
+                # Se deja el pedido anotado y el dashboard lo aplica al recargar.
+                st.session_state.pedido_analisis = {
+                    "liga": r["Liga"],
+                    "local": r["Local"],
+                    "visita": r["Visita"],
+                }
                 st.session_state.pagina = "Cartelera"
-                st.session_state.sel_liga = r["Liga"]
-                st.session_state.res_l = r["Local"]
-                st.session_state.res_v = r["Visita"]
-                st.session_state.last_l = r["Local"]
-                st.session_state.last_v = r["Visita"]
-                st.session_state.analizar = True
                 st.rerun()
     with cB:
         st.metric(r["Mercado"], f"{r['Prob']}%")
