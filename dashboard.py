@@ -21,6 +21,11 @@ st.set_page_config(page_title="FPP - Data Purity Pro", page_icon="🛡️", layo
 movil.configurar()
 ES_MOVIL = movil.es_movil()
 
+# MODO NUBE: si no existe la base de datos local, la app corre en
+# Streamlit Cloud. Ahí solo se consulta; las apuestas y la billetera
+# viven únicamente en tu computadora.
+MODO_NUBE = not os.path.exists("database/football_data.db")
+
 def cambiar_pagina(nombre_pagina):
     st.session_state.pagina = nombre_pagina
 
@@ -115,7 +120,8 @@ def actualizar_fila_billetera(id_apuesta, picks, inversion, cuota, estado, fecha
     conn.commit()
     conn.close()
 
-crear_tabla_apuestas()
+if not MODO_NUBE:
+    crear_tabla_apuestas()
 
 # --- FUNCIONES DE LIMPIEZA DE TEXTO ---
 def normalize_text(text):
@@ -704,9 +710,15 @@ with st.sidebar:
     st.button("⚽ Cartelera", on_click=cambiar_pagina, args=('Cartelera',), width="stretch")
     st.button("🎯 Picks del Día", on_click=cambiar_pagina, args=('Picks',), width="stretch")
     st.button("📅 Calendario Global", on_click=cambiar_pagina, args=('Calendario',), width="stretch")
-    st.button("⭐ Mis Apuestas (Radar)", on_click=cambiar_pagina, args=('Favoritos',), width="stretch")
-    st.button("💼 Billetera", on_click=cambiar_pagina, args=('Billetera',), width="stretch")
-    st.button("📈 Calibración en Vivo", on_click=cambiar_pagina, args=('Calibracion',), width="stretch")
+    if not MODO_NUBE:
+        st.button("⭐ Mis Apuestas (Radar)", on_click=cambiar_pagina, args=('Favoritos',), width="stretch")
+        st.button("💼 Billetera", on_click=cambiar_pagina, args=('Billetera',), width="stretch")
+        st.button("📈 Calibración en Vivo", on_click=cambiar_pagina, args=('Calibracion',), width="stretch")
+    else:
+        st.caption(
+            "☁️ Versión en línea: solo consulta. "
+            "Las apuestas y la billetera están en la app de tu computadora."
+        )
     movil.selector_vista()
     st.markdown("---")
 
@@ -1595,7 +1607,8 @@ if st.session_state.pagina == 'Cartelera':
                 stats = calcular_prediccion_avanzada(tabla, l, v, racha_l_df, racha_v_df, gf_lh, gc_lh, gf_va, gc_va, liga_sel)
 
             # Registrar la predicción para medir calibración en vivo
-            if usando_v2:
+            # (solo en la app local: en la nube no hay base de datos)
+            if usando_v2 and not MODO_NUBE:
                 try:
                     # Buscar la fecha real del partido en el fixture de la liga
                     fecha_real_partido = None
@@ -2108,6 +2121,17 @@ Cuotas introducidas:
 # ==========================================
 # PESTAÑA: CALIBRACIÓN EN VIVO
 # ==========================================
+elif st.session_state.pagina in ('Favoritos', 'Billetera', 'Calibracion') and MODO_NUBE:
+    st.header("☁️ Versión en línea")
+    st.info(
+        "Esta sección necesita la base de datos con tus apuestas, que vive "
+        "únicamente en tu computadora.\n\n"
+        "Acá podés consultar partidos, probabilidades, tablas y el calendario."
+    )
+    if st.button("← Volver a la Cartelera", width="stretch"):
+        st.session_state.pagina = 'Cartelera'
+        st.rerun()
+
 elif st.session_state.pagina == 'Calibracion':
     st.header("📈 Calibración en Vivo")
     st.markdown(
