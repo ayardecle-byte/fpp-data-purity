@@ -1176,11 +1176,18 @@ if st.session_state.pagina == 'Cartelera':
         idx_l = encontrar_indice_seguro(saved_l, lista, 0)
         idx_v = encontrar_indice_seguro(saved_v, lista, 1 if len(lista) > 1 else 0)
 
-        # Si el valor guardado ya no pertenece a la liga actual, se reinicia
-        if st.session_state.get("res_l") not in lista:
-            st.session_state.res_l = lista[idx_l]
-        if st.session_state.get("res_v") not in lista:
-            st.session_state.res_v = lista[idx_v]
+        # Si el equipo guardado no está en la lista de esta liga (por ejemplo
+        # cuando llega desde Picks del Día con otro nombre), se busca el más
+        # parecido antes de reiniciar.
+        for campo, respaldo in (("res_l", idx_l), ("res_v", idx_v)):
+            valor = st.session_state.get(campo)
+            if valor in lista:
+                continue
+            if valor:
+                pos = encontrar_indice_seguro(valor, lista, respaldo)
+                st.session_state[campo] = lista[pos]
+            else:
+                st.session_state[campo] = lista[respaldo]
 
         c1, c2 = st.columns(2)
         l = c1.selectbox("🏠 Local", lista, key="res_l")

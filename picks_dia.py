@@ -146,6 +146,8 @@ def escanear(fechas_objetivo, umbral_1x2, umbral_doble, margen_gris, solo_ligas_
                         "Fecha": p.get("Fecha", ""),
                         "Hora": p.get("Hora", ""),
                         "Partido": f"{local} vs {visita}",
+                        "Local": local,
+                        "Visita": visita,
                         "Tipo": tipo,
                         "Mercado": NOMBRES_MERCADO[mkt],
                         "Codigo": mkt,
@@ -161,7 +163,7 @@ def escanear(fechas_objetivo, umbral_1x2, umbral_doble, margen_gris, solo_ligas_
     return picks, ligas_sin_modelo, partidos_analizados
 
 
-def _mostrar_pick(r):
+def _mostrar_pick(r, clave_unica="0"):
     if r["Nivel"] == "VIABLE":
         borde = "🟢"
         etiqueta = ""
@@ -181,6 +183,19 @@ def _mostrar_pick(r):
         if r.get("Muestra"):
             detalle += f" · 📊 {r['Muestra']} partidos de respaldo"
         st.caption(detalle)
+
+        # Botón para abrir el análisis completo en la Cartelera
+        if r.get("Local") and r.get("Visita"):
+            clave = f"pick_analizar_{clave_unica}"
+            if st.button("🔎 Ver análisis completo", key=clave, width="stretch"):
+                st.session_state.pagina = "Cartelera"
+                st.session_state.sel_liga = r["Liga"]
+                st.session_state.res_l = r["Local"]
+                st.session_state.res_v = r["Visita"]
+                st.session_state.last_l = r["Local"]
+                st.session_state.last_v = r["Visita"]
+                st.session_state.analizar = True
+                st.rerun()
     with cB:
         st.metric(r["Mercado"], f"{r['Prob']}%")
     with cC:
@@ -200,8 +215,8 @@ def _mostrar_bloque(sub):
     if not viables.empty:
         n_part = len(set(viables["Partido"]))
         st.markdown(f"##### 🟢 Viables — {len(viables)} oportunidades en {n_part} partidos")
-        for _, r in viables.iterrows():
-            _mostrar_pick(r)
+        for i, (_, r) in enumerate(viables.iterrows()):
+            _mostrar_pick(r, f"v{i}_{r['Mercado']}_{r['Partido'][:18]}")
     else:
         st.info("No hay picks que superen el umbral hoy. Eso es normal y esperable.")
 
@@ -211,8 +226,8 @@ def _mostrar_bloque(sub):
                 "⚠️ Estos picks NO alcanzan el umbral validado. Se muestran solo como referencia. "
                 "Un día sin picks verdes es un resultado válido, no una falla del sistema."
             )
-            for _, r in grises.iterrows():
-                _mostrar_pick(r)
+            for i, (_, r) in enumerate(grises.iterrows()):
+                _mostrar_pick(r, f"g{i}_{r['Mercado']}_{r['Partido'][:18]}")
 
     sin_val = sub[sub["Nivel"] == "SIN VALIDAR"]
     if not sin_val.empty:
@@ -222,8 +237,8 @@ def _mostrar_bloque(sub):
                 "sin validar). La probabilidad puede ser alta, pero no sabemos si el modelo "
                 "acierta ahí. Apostá por criterio propio, no por lo que diga el sistema."
             )
-            for _, r in sin_val.iterrows():
-                _mostrar_pick(r)
+            for i, (_, r) in enumerate(sin_val.iterrows()):
+                _mostrar_pick(r, f"s{i}_{r['Mercado']}_{r['Partido'][:18]}")
 
 
 def renderizar_pestana():
