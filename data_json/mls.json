@@ -15,37 +15,37 @@
         [
             "1",
             "Nashville SC",
-            "18",
-            "12",
+            "19",
+            "13",
             "4",
             "2",
-            "35",
-            "14",
-            "21",
-            "40"
+            "39",
+            "15",
+            "24",
+            "43"
         ],
         [
             "2",
             "Inter Miami",
-            "18",
+            "19",
             "11",
             "5",
-            "2",
-            "45",
-            "32",
-            "13",
+            "3",
+            "46",
+            "36",
+            "10",
             "38"
         ],
         [
             "3",
             "New England",
-            "18",
+            "19",
             "9",
             "3",
-            "6",
-            "28",
-            "23",
-            "5",
+            "7",
+            "29",
+            "25",
+            "4",
             "30"
         ],
         [
@@ -62,6 +62,30 @@
         ],
         [
             "5",
+            "Charlotte",
+            "19",
+            "8",
+            "4",
+            "7",
+            "32",
+            "28",
+            "4",
+            "28"
+        ],
+        [
+            "6",
+            "Cincinnati",
+            "19",
+            "7",
+            "6",
+            "6",
+            "46",
+            "45",
+            "1",
+            "27"
+        ],
+        [
+            "7",
             "New York City",
             "18",
             "7",
@@ -73,91 +97,79 @@
             "26"
         ],
         [
-            "6",
-            "Cincinnati",
-            "18",
-            "7",
-            "5",
-            "6",
-            "45",
-            "44",
-            "1",
-            "26"
-        ],
-        [
-            "7",
-            "Charlotte",
-            "18",
-            "7",
-            "4",
-            "7",
-            "29",
-            "27",
-            "2",
-            "25"
-        ],
-        [
             "8",
             "New York RB",
-            "18",
+            "19",
             "7",
             "4",
-            "7",
-            "29",
-            "39",
-            "-10",
+            "8",
+            "30",
+            "41",
+            "-11",
             "25"
         ],
         [
             "9",
             "DC United",
-            "18",
+            "19",
             "5",
-            "8",
+            "9",
             "5",
-            "26",
-            "29",
+            "27",
+            "30",
             "-3",
-            "23"
+            "24"
         ],
         [
             "10",
-            "Columbus Crew",
-            "18",
-            "5",
-            "5",
-            "8",
-            "26",
-            "28",
-            "-2",
-            "20"
+            "Orlando City",
+            "19",
+            "6",
+            "3",
+            "10",
+            "31",
+            "48",
+            "-17",
+            "21"
         ],
         [
             "11",
-            "Orlando City",
-            "18",
-            "6",
-            "2",
-            "10",
-            "30",
-            "47",
-            "-17",
+            "Columbus Crew",
+            "19",
+            "5",
+            "5",
+            "9",
+            "27",
+            "31",
+            "-4",
             "20"
         ],
         [
             "12",
             "Toronto",
-            "18",
-            "3",
+            "19",
+            "4",
             "8",
             "7",
-            "24",
-            "32",
-            "-8",
-            "17"
+            "26",
+            "33",
+            "-7",
+            "20"
         ],
         [
             "13",
+            "CF Montreal",
+            "19",
+            "4",
+            "5",
+            "10",
+            "25",
+            "36",
+            "-11",
+            "17"
+        ],
+        [
+            "14",
             "Philadelphia",
             "18",
             "4",
@@ -169,31 +181,31 @@
             "16"
         ],
         [
-            "14",
-            "CF Montreal",
-            "18",
-            "4",
-            "4",
-            "10",
-            "24",
-            "35",
-            "-11",
-            "16"
-        ],
-        [
             "15",
             "Atlanta Utd",
-            "18",
-            "3",
+            "19",
+            "4",
             "3",
             "12",
-            "19",
-            "33",
-            "-14",
-            "12"
+            "21",
+            "34",
+            "-13",
+            "15"
         ],
         [
             "1",
+            "Houston Dynamo",
+            "19",
+            "11",
+            "2",
+            "6",
+            "28",
+            "24",
+            "4",
+            "35"
+        ],
+        [
+            "2",
             "Vancouver",
             "17",
             "10",
@@ -205,43 +217,55 @@
             "34"
         ],
         [
-            "2",
+            "3",
             "Los Angeles FC",
-            "19",
+            "20",
             "10",
             "4",
-            "5",
+            "6",
             "35",
-            "19",
-            "16",
+            "20",
+            "15",
             "34"
         ],
         [
-            "3",
+            "4",
             "SJ Earthquakes",
-            "18",
+            "19",
             "10",
             "3",
-            "5",
-            "37",
-            "24",
-            "13",
+            "6",
+            "38",
+            "27",
+            "11",
             "33"
         ],
         [
-            "4",
-            "Houston Dynamo",
-            "18",
-            "10",
-            "2",
+            "5",
+            "St. Louis City",
+            "19",
+            "8",
+            "5",
             "6",
             "27",
-            "24",
-            "3",
-            "32"
+            "25",
+            "2",
+            "29"
         ],
         [
-            "5",
+            "6",
+            "Real Salt Lake",
+            "18",
+            "8",
+            "4",
+            "6",
+            "30",
+            "26",
+            "4",
+            "28"
+        ],
+        [
+            "7",
             "Dallas",
             "18",
             "7",
@@ -253,31 +277,43 @@
             "27"
         ],
         [
-            "6",
-            "Real Salt Lake",
-            "17",
             "8",
-            "3",
-            "6",
+            "Colorado Rapids",
+            "19",
+            "8",
+            "1",
+            "10",
             "29",
             "25",
             "4",
-            "27"
+            "25"
         ],
         [
-            "7",
-            "St. Louis City",
-            "18",
-            "7",
-            "5",
+            "9",
+            "Minnesota Utd",
+            "19",
             "6",
-            "24",
-            "24",
-            "0",
-            "26"
+            "7",
+            "6",
+            "21",
+            "26",
+            "-5",
+            "25"
         ],
         [
-            "8",
+            "10",
+            "San Diego",
+            "19",
+            "6",
+            "6",
+            "7",
+            "33",
+            "29",
+            "4",
+            "24"
+        ],
+        [
+            "11",
             "Portland",
             "18",
             "7",
@@ -289,7 +325,7 @@
             "24"
         ],
         [
-            "9",
+            "12",
             "Seattle",
             "17",
             "7",
@@ -301,52 +337,16 @@
             "24"
         ],
         [
-            "10",
-            "Minnesota Utd",
-            "18",
-            "6",
-            "6",
-            "6",
-            "20",
-            "25",
-            "-5",
-            "24"
-        ],
-        [
-            "11",
-            "Colorado Rapids",
-            "18",
-            "7",
-            "1",
-            "10",
-            "27",
-            "25",
-            "2",
-            "22"
-        ],
-        [
-            "12",
-            "LA Galaxy",
-            "19",
-            "5",
-            "7",
-            "7",
-            "24",
-            "29",
-            "-5",
-            "22"
-        ],
-        [
             "13",
-            "San Diego",
-            "18",
+            "LA Galaxy",
+            "20",
             "5",
-            "6",
             "7",
-            "32",
-            "29",
-            "3",
-            "21"
+            "8",
+            "24",
+            "30",
+            "-6",
+            "22"
         ],
         [
             "14",
@@ -363,32 +363,32 @@
         [
             "15",
             "Sporting KC",
-            "18",
+            "19",
             "4",
             "2",
-            "12",
+            "13",
             "18",
-            "46",
-            "-28",
+            "48",
+            "-30",
             "14"
         ]
     ],
     "estadisticas_avanzadas": {
         "Nashville SC": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 11,
-                "over_15_ht": 9,
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 10,
                 "ganando_ht": 8,
-                "empatando_ht": 8,
+                "empatando_ht": 9,
                 "perdiendo_ht": 2,
-                "goles_a_favor_ht": 17,
-                "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 61.1,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 44.4,
-                "promedio_gf_ht": 0.94,
-                "promedio_gc_ht": 0.39
+                "goles_a_favor_ht": 18,
+                "goles_en_contra_ht": 8,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 42.1,
+                "promedio_gf_ht": 0.95,
+                "promedio_gc_ht": 0.42
             },
             "historial": [
                 {
@@ -534,25 +534,33 @@
                     "Res": "[2:2]",
                     "Visita": "Nashville SC",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Aug",
+                    "Local": "Nashville SC",
+                    "Res": "[4:1]",
+                    "Visita": "Inter Miami",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟢🔴🟡"
+            "racha_ultimos_5": "🟢🟢🔴🟡🟢"
         },
         "Inter Miami": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 12,
+                "partidos_jugados": 19,
+                "over_05_ht": 15,
+                "over_15_ht": 13,
                 "ganando_ht": 6,
-                "empatando_ht": 10,
+                "empatando_ht": 11,
                 "perdiendo_ht": 2,
-                "goles_a_favor_ht": 21,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 66.7,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 1.17,
-                "promedio_gc_ht": 0.78
+                "goles_a_favor_ht": 22,
+                "goles_en_contra_ht": 15,
+                "%_over_0.5_ht": 78.9,
+                "%_over_1.5_ht": 68.4,
+                "%_ganando_ht": 31.6,
+                "promedio_gf_ht": 1.16,
+                "promedio_gc_ht": 0.79
             },
             "historial": [
                 {
@@ -698,25 +706,33 @@
                     "Res": "[2:2]",
                     "Visita": "Columbus Crew",
                     "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Aug",
+                    "Local": "Nashville SC",
+                    "Res": "[4:1]",
+                    "Visita": "Inter Miami",
+                    "HT": "1-1"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟢🟢🟡"
+            "racha_ultimos_5": "🟢🟢🟢🟡🔴"
         },
         "New England": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 7,
+                "partidos_jugados": 19,
+                "over_05_ht": 15,
+                "over_15_ht": 8,
                 "ganando_ht": 5,
                 "empatando_ht": 5,
-                "perdiendo_ht": 8,
+                "perdiendo_ht": 9,
                 "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 38.9,
-                "%_ganando_ht": 27.8,
-                "promedio_gf_ht": 0.61,
-                "promedio_gc_ht": 0.78
+                "goles_en_contra_ht": 16,
+                "%_over_0.5_ht": 78.9,
+                "%_over_1.5_ht": 42.1,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 0.58,
+                "promedio_gc_ht": 0.84
             },
             "historial": [
                 {
@@ -862,9 +878,17 @@
                     "Res": "[0:2]",
                     "Visita": "Houston Dynamo",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Aug",
+                    "Local": "Toronto",
+                    "Res": "[2:1]",
+                    "Visita": "New England",
+                    "HT": "2-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟡🟢🟡🔴"
+            "racha_ultimos_5": "🟡🟢🟡🔴🔴"
         },
         "Chicago Fire": {
             "ht_stats": {
@@ -1021,6 +1045,350 @@
                 }
             ],
             "racha_ultimos_5": "🟢🟢🔴🔴🟢"
+        },
+        "Charlotte": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 15,
+                "over_15_ht": 10,
+                "ganando_ht": 7,
+                "empatando_ht": 7,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 15,
+                "goles_en_contra_ht": 14,
+                "%_over_0.5_ht": 78.9,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.79,
+                "promedio_gc_ht": 0.74
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "21 Feb",
+                    "Local": "St. Louis City",
+                    "Res": "[1:1]",
+                    "Visita": "Charlotte",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Mar",
+                    "Local": "LA Galaxy",
+                    "Res": "[3:0]",
+                    "Visita": "Charlotte",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Mar",
+                    "Local": "Charlotte",
+                    "Res": "[3:1]",
+                    "Visita": "Austin",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "14 Mar",
+                    "Local": "Charlotte",
+                    "Res": "[0:0]",
+                    "Visita": "Inter Miami",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Mar",
+                    "Local": "Charlotte",
+                    "Res": "[6:1]",
+                    "Visita": "New York RB",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Charlotte",
+                    "Res": "[2:1]",
+                    "Visita": "Philadelphia",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "Charlotte",
+                    "Res": "[1:2]",
+                    "Visita": "Nashville SC",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "New York City",
+                    "Res": "[1:2]",
+                    "Visita": "Charlotte",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Apr",
+                    "Local": "Orlando City",
+                    "Res": "[4:1]",
+                    "Visita": "Charlotte",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Nashville SC",
+                    "Res": "[4:2]",
+                    "Visita": "Charlotte",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "New England",
+                    "Res": "[1:0]",
+                    "Visita": "Charlotte",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 May",
+                    "Local": "Charlotte",
+                    "Res": "[2:2]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 May",
+                    "Local": "Charlotte",
+                    "Res": "[0:1]",
+                    "Visita": "New York City",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 May",
+                    "Local": "Charlotte",
+                    "Res": "[3:1]",
+                    "Visita": "Toronto",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Charlotte",
+                    "Res": "[1:0]",
+                    "Visita": "New England",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Jul",
+                    "Local": "Charlotte",
+                    "Res": "[2:2]",
+                    "Visita": "Atlanta Utd",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "New York RB",
+                    "Res": "[0:2]",
+                    "Visita": "Charlotte",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 Aug",
+                    "Local": "Chicago Fire",
+                    "Res": "[2:1]",
+                    "Visita": "Charlotte",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Aug",
+                    "Local": "Charlotte",
+                    "Res": "[3:1]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟡🟢🔴🟢"
+        },
+        "Cincinnati": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 15,
+                "over_15_ht": 14,
+                "ganando_ht": 5,
+                "empatando_ht": 9,
+                "perdiendo_ht": 5,
+                "goles_a_favor_ht": 21,
+                "goles_en_contra_ht": 20,
+                "%_over_0.5_ht": 78.9,
+                "%_over_1.5_ht": 73.7,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 1.11,
+                "promedio_gc_ht": 1.05
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "21 Feb",
+                    "Local": "Cincinnati",
+                    "Res": "[2:0]",
+                    "Visita": "Atlanta Utd",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Feb",
+                    "Local": "Minnesota Utd",
+                    "Res": "[1:0]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Mar",
+                    "Local": "Cincinnati",
+                    "Res": "[0:1]",
+                    "Visita": "Toronto",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Mar",
+                    "Local": "New England",
+                    "Res": "[6:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "3-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Mar",
+                    "Local": "Cincinnati",
+                    "Res": "[4:3]",
+                    "Visita": "CF Montreal",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "New York RB",
+                    "Res": "[4:2]",
+                    "Visita": "Cincinnati",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "11 Apr",
+                    "Local": "Toronto",
+                    "Res": "[1:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "18 Apr",
+                    "Local": "Cincinnati",
+                    "Res": "[3:3]",
+                    "Visita": "Chicago Fire",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Apr",
+                    "Local": "New York City",
+                    "Res": "[4:4]",
+                    "Visita": "Cincinnati",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Apr",
+                    "Local": "Cincinnati",
+                    "Res": "[2:0]",
+                    "Visita": "New York RB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Chicago Fire",
+                    "Res": "[2:3]",
+                    "Visita": "Cincinnati",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "9 May",
+                    "Local": "Charlotte",
+                    "Res": "[2:2]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 May",
+                    "Local": "Cincinnati",
+                    "Res": "[3:5]",
+                    "Visita": "Inter Miami",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "San Diego",
+                    "Res": "[3:3]",
+                    "Visita": "Cincinnati",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "Cincinnati",
+                    "Res": "[6:2]",
+                    "Visita": "Orlando City",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Jul",
+                    "Local": "Cincinnati",
+                    "Res": "[4:3]",
+                    "Visita": "Vancouver",
+                    "HT": "3-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Jul",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Cincinnati",
+                    "Res": "[4:2]",
+                    "Visita": "SJ Earthquakes",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "Orlando City",
+                    "Res": "[1:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🔴🟢🟡"
         },
         "New York City": {
             "ht_stats": {
@@ -1186,349 +1554,21 @@
             ],
             "racha_ultimos_5": "🟡🔴🟢🟢🟡"
         },
-        "Cincinnati": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 14,
-                "ganando_ht": 4,
-                "empatando_ht": 9,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 20,
-                "goles_en_contra_ht": 20,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 77.8,
-                "%_ganando_ht": 22.2,
-                "promedio_gf_ht": 1.11,
-                "promedio_gc_ht": 1.11
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Feb",
-                    "Local": "Cincinnati",
-                    "Res": "[2:0]",
-                    "Visita": "Atlanta Utd",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Feb",
-                    "Local": "Minnesota Utd",
-                    "Res": "[1:0]",
-                    "Visita": "Cincinnati",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Mar",
-                    "Local": "Cincinnati",
-                    "Res": "[0:1]",
-                    "Visita": "Toronto",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "New England",
-                    "Res": "[6:1]",
-                    "Visita": "Cincinnati",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Cincinnati",
-                    "Res": "[4:3]",
-                    "Visita": "CF Montreal",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "New York RB",
-                    "Res": "[4:2]",
-                    "Visita": "Cincinnati",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Apr",
-                    "Local": "Toronto",
-                    "Res": "[1:1]",
-                    "Visita": "Cincinnati",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Cincinnati",
-                    "Res": "[3:3]",
-                    "Visita": "Chicago Fire",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Apr",
-                    "Local": "New York City",
-                    "Res": "[4:4]",
-                    "Visita": "Cincinnati",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Apr",
-                    "Local": "Cincinnati",
-                    "Res": "[2:0]",
-                    "Visita": "New York RB",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 May",
-                    "Local": "Chicago Fire",
-                    "Res": "[2:3]",
-                    "Visita": "Cincinnati",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "9 May",
-                    "Local": "Charlotte",
-                    "Res": "[2:2]",
-                    "Visita": "Cincinnati",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 May",
-                    "Local": "Cincinnati",
-                    "Res": "[3:5]",
-                    "Visita": "Inter Miami",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 May",
-                    "Local": "San Diego",
-                    "Res": "[3:3]",
-                    "Visita": "Cincinnati",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 May",
-                    "Local": "Cincinnati",
-                    "Res": "[6:2]",
-                    "Visita": "Orlando City",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Jul",
-                    "Local": "Cincinnati",
-                    "Res": "[4:3]",
-                    "Visita": "Vancouver",
-                    "HT": "3-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Jul",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:1]",
-                    "Visita": "Cincinnati",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Cincinnati",
-                    "Res": "[4:2]",
-                    "Visita": "SJ Earthquakes",
-                    "HT": "1-1"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🟢🔴🟢"
-        },
-        "Charlotte": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 9,
-                "ganando_ht": 6,
-                "empatando_ht": 7,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 0.72,
-                "promedio_gc_ht": 0.72
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Feb",
-                    "Local": "St. Louis City",
-                    "Res": "[1:1]",
-                    "Visita": "Charlotte",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Mar",
-                    "Local": "LA Galaxy",
-                    "Res": "[3:0]",
-                    "Visita": "Charlotte",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Mar",
-                    "Local": "Charlotte",
-                    "Res": "[3:1]",
-                    "Visita": "Austin",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "14 Mar",
-                    "Local": "Charlotte",
-                    "Res": "[0:0]",
-                    "Visita": "Inter Miami",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "Charlotte",
-                    "Res": "[6:1]",
-                    "Visita": "New York RB",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Apr",
-                    "Local": "Charlotte",
-                    "Res": "[2:1]",
-                    "Visita": "Philadelphia",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "Charlotte",
-                    "Res": "[1:2]",
-                    "Visita": "Nashville SC",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Apr",
-                    "Local": "New York City",
-                    "Res": "[1:2]",
-                    "Visita": "Charlotte",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Apr",
-                    "Local": "Orlando City",
-                    "Res": "[4:1]",
-                    "Visita": "Charlotte",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Nashville SC",
-                    "Res": "[4:2]",
-                    "Visita": "Charlotte",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "New England",
-                    "Res": "[1:0]",
-                    "Visita": "Charlotte",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "9 May",
-                    "Local": "Charlotte",
-                    "Res": "[2:2]",
-                    "Visita": "Cincinnati",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 May",
-                    "Local": "Charlotte",
-                    "Res": "[0:1]",
-                    "Visita": "New York City",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Charlotte",
-                    "Res": "[3:1]",
-                    "Visita": "Toronto",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 May",
-                    "Local": "Charlotte",
-                    "Res": "[1:0]",
-                    "Visita": "New England",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 Jul",
-                    "Local": "Charlotte",
-                    "Res": "[2:2]",
-                    "Visita": "Atlanta Utd",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Jul",
-                    "Local": "New York RB",
-                    "Res": "[0:2]",
-                    "Visita": "Charlotte",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Chicago Fire",
-                    "Res": "[2:1]",
-                    "Visita": "Charlotte",
-                    "HT": "1-1"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟢🟡🟢🔴"
-        },
         "New York RB": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 16,
+                "partidos_jugados": 19,
+                "over_05_ht": 17,
                 "over_15_ht": 12,
-                "ganando_ht": 7,
+                "ganando_ht": 8,
                 "empatando_ht": 5,
                 "perdiendo_ht": 6,
-                "goles_a_favor_ht": 15,
+                "goles_a_favor_ht": 16,
                 "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 88.9,
-                "%_over_1.5_ht": 66.7,
-                "%_ganando_ht": 38.9,
-                "promedio_gf_ht": 0.83,
-                "promedio_gc_ht": 0.83
+                "%_over_0.5_ht": 89.5,
+                "%_over_1.5_ht": 63.2,
+                "%_ganando_ht": 42.1,
+                "promedio_gf_ht": 0.84,
+                "promedio_gc_ht": 0.79
             },
             "historial": [
                 {
@@ -1674,25 +1714,33 @@
                     "Res": "[3:2]",
                     "Visita": "Orlando City",
                     "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Aug",
+                    "Local": "Atlanta Utd",
+                    "Res": "[2:1]",
+                    "Visita": "New York RB",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🟢🔴🔴🟢"
+            "racha_ultimos_5": "🟢🔴🔴🟢🔴"
         },
         "DC United": {
             "ht_stats": {
-                "partidos_jugados": 18,
+                "partidos_jugados": 19,
                 "over_05_ht": 13,
                 "over_15_ht": 6,
                 "ganando_ht": 7,
-                "empatando_ht": 5,
+                "empatando_ht": 6,
                 "perdiendo_ht": 6,
                 "goles_a_favor_ht": 10,
                 "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 72.2,
-                "%_over_1.5_ht": 33.3,
-                "%_ganando_ht": 38.9,
-                "promedio_gf_ht": 0.56,
-                "promedio_gc_ht": 0.61
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.53,
+                "promedio_gc_ht": 0.58
             },
             "historial": [
                 {
@@ -1838,189 +1886,33 @@
                     "Res": "[2:2]",
                     "Visita": "Nashville SC",
                     "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "CF Montreal",
+                    "Res": "[1:1]",
+                    "Visita": "DC United",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟡🟡🟢🟡"
-        },
-        "Columbus Crew": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 15,
-                "over_15_ht": 7,
-                "ganando_ht": 9,
-                "empatando_ht": 4,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 16,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 83.3,
-                "%_over_1.5_ht": 38.9,
-                "%_ganando_ht": 50.0,
-                "promedio_gf_ht": 0.89,
-                "promedio_gc_ht": 0.61
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Feb",
-                    "Local": "Portland",
-                    "Res": "[3:2]",
-                    "Visita": "Columbus Crew",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Mar",
-                    "Local": "Sporting KC",
-                    "Res": "[2:2]",
-                    "Visita": "Columbus Crew",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "8 Mar",
-                    "Local": "Columbus Crew",
-                    "Res": "[0:0]",
-                    "Visita": "Chicago Fire",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "Columbus Crew",
-                    "Res": "[0:1]",
-                    "Visita": "Nashville SC",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "21 Mar",
-                    "Local": "Toronto",
-                    "Res": "[2:1]",
-                    "Visita": "Columbus Crew",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Apr",
-                    "Local": "Atlanta Utd",
-                    "Res": "[1:3]",
-                    "Visita": "Columbus Crew",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Columbus Crew",
-                    "Res": "[1:1]",
-                    "Visita": "Orlando City",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "New England",
-                    "Res": "[2:1]",
-                    "Visita": "Columbus Crew",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 Apr",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:1]",
-                    "Visita": "LA Galaxy",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Apr",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:0]",
-                    "Visita": "Philadelphia",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:3]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "New York City",
-                    "Res": "[3:0]",
-                    "Visita": "Columbus Crew",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "13 May",
-                    "Local": "New York RB",
-                    "Res": "[3:2]",
-                    "Visita": "Columbus Crew",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 May",
-                    "Local": "Philadelphia",
-                    "Res": "[1:1]",
-                    "Visita": "Columbus Crew",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:0]",
-                    "Visita": "Atlanta Utd",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Jul",
-                    "Local": "Columbus Crew",
-                    "Res": "[1:2]",
-                    "Visita": "New York City",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Jul",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:1]",
-                    "Visita": "Cincinnati",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Aug",
-                    "Local": "Inter Miami",
-                    "Res": "[2:2]",
-                    "Visita": "Columbus Crew",
-                    "HT": "2-1"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟢🔴🟢🟡"
+            "racha_ultimos_5": "🟡🟡🟢🟡🟡"
         },
         "Orlando City": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 15,
+                "partidos_jugados": 19,
+                "over_05_ht": 16,
                 "over_15_ht": 12,
                 "ganando_ht": 6,
                 "empatando_ht": 4,
-                "perdiendo_ht": 8,
+                "perdiendo_ht": 9,
                 "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 22,
-                "%_over_0.5_ht": 83.3,
-                "%_over_1.5_ht": 66.7,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 0.72,
-                "promedio_gc_ht": 1.22
+                "goles_en_contra_ht": 23,
+                "%_over_0.5_ht": 84.2,
+                "%_over_1.5_ht": 63.2,
+                "%_ganando_ht": 31.6,
+                "promedio_gf_ht": 0.68,
+                "promedio_gc_ht": 1.21
             },
             "historial": [
                 {
@@ -2166,25 +2058,205 @@
                     "Res": "[3:2]",
                     "Visita": "Orlando City",
                     "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "Orlando City",
+                    "Res": "[1:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🟢🟢🔴"
+            "racha_ultimos_5": "🔴🟢🟢🔴🟡"
+        },
+        "Columbus Crew": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 16,
+                "over_15_ht": 8,
+                "ganando_ht": 9,
+                "empatando_ht": 4,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 17,
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 84.2,
+                "%_over_1.5_ht": 42.1,
+                "%_ganando_ht": 47.4,
+                "promedio_gf_ht": 0.89,
+                "promedio_gc_ht": 0.68
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Feb",
+                    "Local": "Portland",
+                    "Res": "[3:2]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Mar",
+                    "Local": "Sporting KC",
+                    "Res": "[2:2]",
+                    "Visita": "Columbus Crew",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "8 Mar",
+                    "Local": "Columbus Crew",
+                    "Res": "[0:0]",
+                    "Visita": "Chicago Fire",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "Columbus Crew",
+                    "Res": "[0:1]",
+                    "Visita": "Nashville SC",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "21 Mar",
+                    "Local": "Toronto",
+                    "Res": "[2:1]",
+                    "Visita": "Columbus Crew",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Atlanta Utd",
+                    "Res": "[1:3]",
+                    "Visita": "Columbus Crew",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Apr",
+                    "Local": "Columbus Crew",
+                    "Res": "[1:1]",
+                    "Visita": "Orlando City",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "New England",
+                    "Res": "[2:1]",
+                    "Visita": "Columbus Crew",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Apr",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:1]",
+                    "Visita": "LA Galaxy",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Apr",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:0]",
+                    "Visita": "Philadelphia",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:3]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "New York City",
+                    "Res": "[3:0]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "13 May",
+                    "Local": "New York RB",
+                    "Res": "[3:2]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "Philadelphia",
+                    "Res": "[1:1]",
+                    "Visita": "Columbus Crew",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "24 May",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:0]",
+                    "Visita": "Atlanta Utd",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Jul",
+                    "Local": "Columbus Crew",
+                    "Res": "[1:2]",
+                    "Visita": "New York City",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Jul",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:1]",
+                    "Visita": "Cincinnati",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "2 Aug",
+                    "Local": "Inter Miami",
+                    "Res": "[2:2]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Aug",
+                    "Local": "Charlotte",
+                    "Res": "[3:1]",
+                    "Visita": "Columbus Crew",
+                    "HT": "2-1"
+                }
+            ],
+            "racha_ultimos_5": "🟢🔴🟢🟡🔴"
         },
         "Toronto": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 12,
-                "over_15_ht": 6,
-                "ganando_ht": 1,
+                "partidos_jugados": 19,
+                "over_05_ht": 13,
+                "over_15_ht": 7,
+                "ganando_ht": 2,
                 "empatando_ht": 9,
                 "perdiendo_ht": 8,
-                "goles_a_favor_ht": 6,
+                "goles_a_favor_ht": 8,
                 "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 66.7,
-                "%_over_1.5_ht": 33.3,
-                "%_ganando_ht": 5.6,
-                "promedio_gf_ht": 0.33,
-                "promedio_gc_ht": 0.83
+                "%_over_0.5_ht": 68.4,
+                "%_over_1.5_ht": 36.8,
+                "%_ganando_ht": 10.5,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.79
             },
             "historial": [
                 {
@@ -2330,9 +2402,189 @@
                     "Res": "[1:1]",
                     "Visita": "Toronto",
                     "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Aug",
+                    "Local": "Toronto",
+                    "Res": "[2:1]",
+                    "Visita": "New England",
+                    "HT": "2-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🟡🟡🔴🟡"
+            "racha_ultimos_5": "🟡🟡🔴🟡🟢"
+        },
+        "CF Montreal": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 9,
+                "ganando_ht": 6,
+                "empatando_ht": 5,
+                "perdiendo_ht": 8,
+                "goles_a_favor_ht": 13,
+                "goles_en_contra_ht": 15,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 47.4,
+                "%_ganando_ht": 31.6,
+                "promedio_gf_ht": 0.68,
+                "promedio_gc_ht": 0.79
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Feb",
+                    "Local": "San Diego",
+                    "Res": "[5:0]",
+                    "Visita": "CF Montreal",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "28 Feb",
+                    "Local": "Chicago Fire",
+                    "Res": "[3:0]",
+                    "Visita": "CF Montreal",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Mar",
+                    "Local": "New York RB",
+                    "Res": "[0:3]",
+                    "Visita": "CF Montreal",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "Orlando City",
+                    "Res": "[2:1]",
+                    "Visita": "CF Montreal",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Cincinnati",
+                    "Res": "[4:3]",
+                    "Visita": "CF Montreal",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "4 Apr",
+                    "Local": "New England",
+                    "Res": "[3:0]",
+                    "Visita": "CF Montreal",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "11 Apr",
+                    "Local": "CF Montreal",
+                    "Res": "[1:2]",
+                    "Visita": "Philadelphia",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "CF Montreal",
+                    "Res": "[4:1]",
+                    "Visita": "New York RB",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "25 Apr",
+                    "Local": "CF Montreal",
+                    "Res": "[1:0]",
+                    "Visita": "New York City",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "2 May",
+                    "Local": "Atlanta Utd",
+                    "Res": "[3:1]",
+                    "Visita": "CF Montreal",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "9 May",
+                    "Local": "CF Montreal",
+                    "Res": "[2:0]",
+                    "Visita": "Orlando City",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "13 May",
+                    "Local": "CF Montreal",
+                    "Res": "[2:2]",
+                    "Visita": "Portland",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 May",
+                    "Local": "CF Montreal",
+                    "Res": "[0:2]",
+                    "Visita": "Chicago Fire",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 May",
+                    "Local": "DC United",
+                    "Res": "[4:4]",
+                    "Visita": "CF Montreal",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 Jul",
+                    "Local": "CF Montreal",
+                    "Res": "[0:0]",
+                    "Visita": "Toronto",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Nashville SC",
+                    "Res": "[1:0]",
+                    "Visita": "CF Montreal",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Jul",
+                    "Local": "CF Montreal",
+                    "Res": "[0:1]",
+                    "Visita": "Inter Miami",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "1 Aug",
+                    "Local": "CF Montreal",
+                    "Res": "[2:2]",
+                    "Visita": "New England",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "CF Montreal",
+                    "Res": "[1:1]",
+                    "Visita": "DC United",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🔴🔴🟡🟡"
         },
         "Philadelphia": {
             "ht_stats": {
@@ -2498,185 +2750,21 @@
             ],
             "racha_ultimos_5": "🟡🔴🟢🟢🟢"
         },
-        "CF Montreal": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 9,
-                "ganando_ht": 6,
-                "empatando_ht": 4,
-                "perdiendo_ht": 8,
-                "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 0.72,
-                "promedio_gc_ht": 0.83
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Feb",
-                    "Local": "San Diego",
-                    "Res": "[5:0]",
-                    "Visita": "CF Montreal",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "28 Feb",
-                    "Local": "Chicago Fire",
-                    "Res": "[3:0]",
-                    "Visita": "CF Montreal",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Mar",
-                    "Local": "New York RB",
-                    "Res": "[0:3]",
-                    "Visita": "CF Montreal",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "Orlando City",
-                    "Res": "[2:1]",
-                    "Visita": "CF Montreal",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Cincinnati",
-                    "Res": "[4:3]",
-                    "Visita": "CF Montreal",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "New England",
-                    "Res": "[3:0]",
-                    "Visita": "CF Montreal",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "CF Montreal",
-                    "Res": "[1:2]",
-                    "Visita": "Philadelphia",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Apr",
-                    "Local": "CF Montreal",
-                    "Res": "[4:1]",
-                    "Visita": "New York RB",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Apr",
-                    "Local": "CF Montreal",
-                    "Res": "[1:0]",
-                    "Visita": "New York City",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "Atlanta Utd",
-                    "Res": "[3:1]",
-                    "Visita": "CF Montreal",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "9 May",
-                    "Local": "CF Montreal",
-                    "Res": "[2:0]",
-                    "Visita": "Orlando City",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "13 May",
-                    "Local": "CF Montreal",
-                    "Res": "[2:2]",
-                    "Visita": "Portland",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "CF Montreal",
-                    "Res": "[0:2]",
-                    "Visita": "Chicago Fire",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 May",
-                    "Local": "DC United",
-                    "Res": "[4:4]",
-                    "Visita": "CF Montreal",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "16 Jul",
-                    "Local": "CF Montreal",
-                    "Res": "[0:0]",
-                    "Visita": "Toronto",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Jul",
-                    "Local": "Nashville SC",
-                    "Res": "[1:0]",
-                    "Visita": "CF Montreal",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Jul",
-                    "Local": "CF Montreal",
-                    "Res": "[0:1]",
-                    "Visita": "Inter Miami",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "1 Aug",
-                    "Local": "CF Montreal",
-                    "Res": "[2:2]",
-                    "Visita": "New England",
-                    "HT": "0-2"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟡🔴🔴🟡"
-        },
         "Atlanta Utd": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 11,
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
                 "over_15_ht": 5,
                 "ganando_ht": 4,
                 "empatando_ht": 7,
-                "perdiendo_ht": 7,
+                "perdiendo_ht": 8,
                 "goles_a_favor_ht": 6,
-                "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 61.1,
-                "%_over_1.5_ht": 27.8,
-                "%_ganando_ht": 22.2,
-                "promedio_gf_ht": 0.33,
-                "promedio_gc_ht": 0.72
+                "goles_en_contra_ht": 14,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.32,
+                "promedio_gc_ht": 0.74
             },
             "historial": [
                 {
@@ -2822,9 +2910,189 @@
                     "Res": "[3:2]",
                     "Visita": "Atlanta Utd",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Aug",
+                    "Local": "Atlanta Utd",
+                    "Res": "[2:1]",
+                    "Visita": "New York RB",
+                    "HT": "0-1"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟡🔴🔴"
+            "racha_ultimos_5": "🔴🟡🔴🔴🟢"
+        },
+        "Houston Dynamo": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 6,
+                "ganando_ht": 7,
+                "empatando_ht": 8,
+                "perdiendo_ht": 4,
+                "goles_a_favor_ht": 13,
+                "goles_en_contra_ht": 10,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 31.6,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.68,
+                "promedio_gc_ht": 0.53
+            },
+            "historial": [
+                {
+                    "Status": "🟢",
+                    "Fecha": "22 Feb",
+                    "Local": "Houston Dynamo",
+                    "Res": "[2:1]",
+                    "Visita": "Chicago Fire",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "1 Mar",
+                    "Local": "Houston Dynamo",
+                    "Res": "[0:2]",
+                    "Visita": "Los Angeles FC",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Mar",
+                    "Local": "Houston Dynamo",
+                    "Res": "[3:2]",
+                    "Visita": "Portland",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Mar",
+                    "Local": "Dallas",
+                    "Res": "[4:3]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "2-3"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "Houston Dynamo",
+                    "Res": "[0:1]",
+                    "Visita": "Seattle",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "Colorado Rapids",
+                    "Res": "[6:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "18 Apr",
+                    "Local": "Orlando City",
+                    "Res": "[0:1]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Apr",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "San Diego",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "Austin",
+                    "Res": "[2:0]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "3 May",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "11 May",
+                    "Local": "Los Angeles FC",
+                    "Res": "[1:4]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 May",
+                    "Local": "Real Salt Lake",
+                    "Res": "[3:0]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 May",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "Vancouver",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "24 May",
+                    "Local": "LA Galaxy",
+                    "Res": "[1:1]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Jul",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:1]",
+                    "Visita": "DC United",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "Houston Dynamo",
+                    "Res": "[3:0]",
+                    "Visita": "Austin",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Sporting KC",
+                    "Res": "[0:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Aug",
+                    "Local": "New England",
+                    "Res": "[0:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Aug",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "LA Galaxy",
+                    "HT": "1-0"
+                }
+            ],
+            "racha_ultimos_5": "🟡🟢🟢🟢🟢"
         },
         "Vancouver": {
             "ht_stats": {
@@ -2984,19 +3252,19 @@
         },
         "Los Angeles FC": {
             "ht_stats": {
-                "partidos_jugados": 19,
+                "partidos_jugados": 20,
                 "over_05_ht": 12,
                 "over_15_ht": 6,
                 "ganando_ht": 7,
-                "empatando_ht": 7,
+                "empatando_ht": 8,
                 "perdiendo_ht": 5,
                 "goles_a_favor_ht": 17,
                 "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 63.2,
-                "%_over_1.5_ht": 31.6,
-                "%_ganando_ht": 36.8,
-                "promedio_gf_ht": 0.89,
-                "promedio_gc_ht": 0.37
+                "%_over_0.5_ht": 60.0,
+                "%_over_1.5_ht": 30.0,
+                "%_ganando_ht": 35.0,
+                "promedio_gf_ht": 0.85,
+                "promedio_gc_ht": 0.35
             },
             "historial": [
                 {
@@ -3150,25 +3418,33 @@
                     "Res": "[1:1]",
                     "Visita": "Los Angeles FC",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Aug",
+                    "Local": "Los Angeles FC",
+                    "Res": "[0:1]",
+                    "Visita": "San Diego",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟢🟢🟡"
+            "racha_ultimos_5": "🟢🟢🟢🟡🔴"
         },
         "SJ Earthquakes": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 16,
-                "over_15_ht": 9,
+                "partidos_jugados": 19,
+                "over_05_ht": 17,
+                "over_15_ht": 10,
                 "ganando_ht": 7,
                 "empatando_ht": 7,
-                "perdiendo_ht": 4,
+                "perdiendo_ht": 5,
                 "goles_a_favor_ht": 17,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 88.9,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 38.9,
-                "promedio_gf_ht": 0.94,
-                "promedio_gc_ht": 0.61
+                "goles_en_contra_ht": 13,
+                "%_over_0.5_ht": 89.5,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.89,
+                "promedio_gc_ht": 0.68
             },
             "historial": [
                 {
@@ -3314,117 +3590,297 @@
                     "Res": "[4:2]",
                     "Visita": "SJ Earthquakes",
                     "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Aug",
+                    "Local": "SJ Earthquakes",
+                    "Res": "[1:3]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-2"
                 }
             ],
-            "racha_ultimos_5": "🔴🟢🔴🟡🔴"
+            "racha_ultimos_5": "🟢🔴🟡🔴🔴"
         },
-        "Houston Dynamo": {
+        "St. Louis City": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 11,
-                "over_15_ht": 6,
-                "ganando_ht": 6,
-                "empatando_ht": 8,
-                "perdiendo_ht": 4,
-                "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 10,
-                "%_over_0.5_ht": 61.1,
-                "%_over_1.5_ht": 33.3,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 0.67,
-                "promedio_gc_ht": 0.56
+                "partidos_jugados": 19,
+                "over_05_ht": 10,
+                "over_15_ht": 5,
+                "ganando_ht": 7,
+                "empatando_ht": 9,
+                "perdiendo_ht": 3,
+                "goles_a_favor_ht": 11,
+                "goles_en_contra_ht": 6,
+                "%_over_0.5_ht": 52.6,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.58,
+                "promedio_gc_ht": 0.32
             },
             "historial": [
                 {
-                    "Status": "🟢",
-                    "Fecha": "22 Feb",
-                    "Local": "Houston Dynamo",
-                    "Res": "[2:1]",
-                    "Visita": "Chicago Fire",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Mar",
-                    "Local": "Houston Dynamo",
-                    "Res": "[0:2]",
-                    "Visita": "Los Angeles FC",
+                    "Status": "🟡",
+                    "Fecha": "21 Feb",
+                    "Local": "St. Louis City",
+                    "Res": "[1:1]",
+                    "Visita": "Charlotte",
                     "HT": "0-0"
                 },
                 {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Houston Dynamo",
-                    "Res": "[3:2]",
-                    "Visita": "Portland",
-                    "HT": "0-1"
+                    "Status": "🔴",
+                    "Fecha": "2 Mar",
+                    "Local": "San Diego",
+                    "Res": "[2:0]",
+                    "Visita": "St. Louis City",
+                    "HT": "1-0"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Dallas",
-                    "Res": "[4:3]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "2-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "Houston Dynamo",
+                    "Fecha": "8 Mar",
+                    "Local": "St. Louis City",
                     "Res": "[0:1]",
                     "Visita": "Seattle",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Colorado Rapids",
-                    "Res": "[6:2]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Apr",
-                    "Local": "Orlando City",
-                    "Res": "[0:1]",
-                    "Visita": "Houston Dynamo",
+                    "Fecha": "15 Mar",
+                    "Local": "Los Angeles FC",
+                    "Res": "[2:0]",
+                    "Visita": "St. Louis City",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "23 Apr",
-                    "Local": "Houston Dynamo",
-                    "Res": "[1:0]",
-                    "Visita": "San Diego",
-                    "HT": "1-0"
+                    "Fecha": "22 Mar",
+                    "Local": "St. Louis City",
+                    "Res": "[3:1]",
+                    "Visita": "New England",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "4 Apr",
+                    "Local": "New York City",
+                    "Res": "[1:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "12 Apr",
+                    "Local": "Dallas",
+                    "Res": "[1:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "19 Apr",
+                    "Local": "Seattle",
+                    "Res": "[4:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "2-0"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "26 Apr",
+                    "Local": "St. Louis City",
+                    "Res": "[2:3]",
+                    "Visita": "SJ Earthquakes",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "3 May",
                     "Local": "Austin",
                     "Res": "[2:0]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "2-0"
+                    "Visita": "St. Louis City",
+                    "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "3 May",
-                    "Local": "Houston Dynamo",
+                    "Fecha": "10 May",
+                    "Local": "Colorado Rapids",
+                    "Res": "[0:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 May",
+                    "Local": "St. Louis City",
+                    "Res": "[2:1]",
+                    "Visita": "Los Angeles FC",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 May",
+                    "Local": "DC United",
+                    "Res": "[1:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 May",
+                    "Local": "St. Louis City",
+                    "Res": "[3:0]",
+                    "Visita": "Austin",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "17 Jul",
+                    "Local": "St. Louis City",
+                    "Res": "[3:2]",
+                    "Visita": "Sporting KC",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jul",
+                    "Local": "LA Galaxy",
+                    "Res": "[1:3]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "26 Jul",
+                    "Local": "St. Louis City",
                     "Res": "[1:0]",
                     "Visita": "Colorado Rapids",
                     "HT": "0-0"
                 },
                 {
+                    "Status": "🟡",
+                    "Fecha": "2 Aug",
+                    "Local": "St. Louis City",
+                    "Res": "[1:1]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "0-0"
+                },
+                {
                     "Status": "🟢",
-                    "Fecha": "11 May",
-                    "Local": "Los Angeles FC",
-                    "Res": "[1:4]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "1-2"
+                    "Fecha": "16 Aug",
+                    "Local": "SJ Earthquakes",
+                    "Res": "[1:3]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-2"
+                }
+            ],
+            "racha_ultimos_5": "🟢🟢🟢🟡🟢"
+        },
+        "Real Salt Lake": {
+            "ht_stats": {
+                "partidos_jugados": 18,
+                "over_05_ht": 13,
+                "over_15_ht": 9,
+                "ganando_ht": 7,
+                "empatando_ht": 9,
+                "perdiendo_ht": 2,
+                "goles_a_favor_ht": 17,
+                "goles_en_contra_ht": 10,
+                "%_over_0.5_ht": 72.2,
+                "%_over_1.5_ht": 50.0,
+                "%_ganando_ht": 38.9,
+                "promedio_gf_ht": 0.94,
+                "promedio_gc_ht": 0.56
+            },
+            "historial": [
+                {
+                    "Status": "🔴",
+                    "Fecha": "22 Feb",
+                    "Local": "Vancouver",
+                    "Res": "[1:0]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "1 Mar",
+                    "Local": "Real Salt Lake",
+                    "Res": "[2:1]",
+                    "Visita": "Seattle",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "8 Mar",
+                    "Local": "Atlanta Utd",
+                    "Res": "[2:3]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "1-3"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "15 Mar",
+                    "Local": "Real Salt Lake",
+                    "Res": "[2:1]",
+                    "Visita": "Austin",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Mar",
+                    "Local": "San Diego",
+                    "Res": "[2:2]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "4 Apr",
+                    "Local": "Real Salt Lake",
+                    "Res": "[3:1]",
+                    "Visita": "Sporting KC",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Real Salt Lake",
+                    "Res": "[4:2]",
+                    "Visita": "San Diego",
+                    "HT": "4-1"
                 },
                 {
                     "Status": "🔴",
+                    "Fecha": "23 Apr",
+                    "Local": "Real Salt Lake",
+                    "Res": "[0:2]",
+                    "Visita": "Inter Miami",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Apr",
+                    "Local": "LA Galaxy",
+                    "Res": "[2:1]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 May",
+                    "Local": "Real Salt Lake",
+                    "Res": "[2:0]",
+                    "Visita": "Portland",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "10 May",
+                    "Local": "Dallas",
+                    "Res": "[3:1]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟢",
                     "Fecha": "14 May",
                     "Local": "Real Salt Lake",
                     "Res": "[3:0]",
@@ -3434,53 +3890,53 @@
                 {
                     "Status": "🟢",
                     "Fecha": "17 May",
-                    "Local": "Houston Dynamo",
-                    "Res": "[1:0]",
-                    "Visita": "Vancouver",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "24 May",
-                    "Local": "LA Galaxy",
-                    "Res": "[1:1]",
-                    "Visita": "Houston Dynamo",
+                    "Local": "Real Salt Lake",
+                    "Res": "[2:1]",
+                    "Visita": "Colorado Rapids",
                     "HT": "1-1"
                 },
                 {
                     "Status": "🟡",
-                    "Fecha": "23 Jul",
-                    "Local": "Houston Dynamo",
+                    "Fecha": "23 May",
+                    "Local": "Minnesota Utd",
                     "Res": "[1:1]",
-                    "Visita": "DC United",
-                    "HT": "1-0"
+                    "Visita": "Real Salt Lake",
+                    "HT": "0-1"
                 },
                 {
-                    "Status": "🟢",
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Los Angeles FC",
+                    "Res": "[3:1]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
                     "Fecha": "26 Jul",
-                    "Local": "Houston Dynamo",
-                    "Res": "[3:0]",
-                    "Visita": "Austin",
-                    "HT": "3-0"
+                    "Local": "Portland",
+                    "Res": "[2:1]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "0-1"
                 },
                 {
-                    "Status": "🟢",
+                    "Status": "🟡",
                     "Fecha": "2 Aug",
-                    "Local": "Sporting KC",
-                    "Res": "[0:2]",
-                    "Visita": "Houston Dynamo",
+                    "Local": "St. Louis City",
+                    "Res": "[1:1]",
+                    "Visita": "Real Salt Lake",
                     "HT": "0-0"
                 },
                 {
-                    "Status": "🟢",
-                    "Fecha": "8 Aug",
-                    "Local": "New England",
-                    "Res": "[0:2]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "0-1"
+                    "Status": "🟡",
+                    "Fecha": "16 Aug",
+                    "Local": "Real Salt Lake",
+                    "Res": "[1:1]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🟡🟢🟢🟢"
+            "racha_ultimos_5": "🟡🔴🔴🟡🟡"
         },
         "Dallas": {
             "ht_stats": {
@@ -3646,125 +4102,305 @@
             ],
             "racha_ultimos_5": "🟢🟢🟡🔴🟡"
         },
-        "Real Salt Lake": {
+        "Colorado Rapids": {
             "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 13,
-                "over_15_ht": 9,
-                "ganando_ht": 7,
+                "partidos_jugados": 19,
+                "over_05_ht": 12,
+                "over_15_ht": 7,
+                "ganando_ht": 5,
                 "empatando_ht": 8,
-                "perdiendo_ht": 2,
-                "goles_a_favor_ht": 17,
-                "goles_en_contra_ht": 10,
-                "%_over_0.5_ht": 76.5,
-                "%_over_1.5_ht": 52.9,
-                "%_ganando_ht": 41.2,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 0.59
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 11,
+                "goles_en_contra_ht": 12,
+                "%_over_0.5_ht": 63.2,
+                "%_over_1.5_ht": 36.8,
+                "%_ganando_ht": 26.3,
+                "promedio_gf_ht": 0.58,
+                "promedio_gc_ht": 0.63
             },
             "historial": [
                 {
                     "Status": "🔴",
-                    "Fecha": "22 Feb",
-                    "Local": "Vancouver",
-                    "Res": "[1:0]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "0-0"
+                    "Fecha": "23 Feb",
+                    "Local": "Seattle",
+                    "Res": "[2:0]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "1-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "1 Mar",
-                    "Local": "Real Salt Lake",
-                    "Res": "[2:1]",
-                    "Visita": "Seattle",
+                    "Fecha": "28 Feb",
+                    "Local": "Colorado Rapids",
+                    "Res": "[2:0]",
+                    "Visita": "Portland",
                     "HT": "1-0"
                 },
                 {
                     "Status": "🟢",
                     "Fecha": "8 Mar",
-                    "Local": "Atlanta Utd",
-                    "Res": "[2:3]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "1-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Real Salt Lake",
-                    "Res": "[2:1]",
-                    "Visita": "Austin",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Mar",
-                    "Local": "San Diego",
-                    "Res": "[2:2]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 Apr",
-                    "Local": "Real Salt Lake",
-                    "Res": "[3:1]",
-                    "Visita": "Sporting KC",
+                    "Local": "Colorado Rapids",
+                    "Res": "[4:1]",
+                    "Visita": "LA Galaxy",
                     "HT": "1-0"
                 },
                 {
+                    "Status": "🔴",
+                    "Fecha": "14 Mar",
+                    "Local": "New York City",
+                    "Res": "[3:1]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "2-1"
+                },
+                {
                     "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Real Salt Lake",
-                    "Res": "[4:2]",
-                    "Visita": "San Diego",
-                    "HT": "4-1"
+                    "Fecha": "22 Mar",
+                    "Local": "Sporting KC",
+                    "Res": "[1:4]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "1-2"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "23 Apr",
-                    "Local": "Real Salt Lake",
-                    "Res": "[0:2]",
+                    "Fecha": "4 Apr",
+                    "Local": "Toronto",
+                    "Res": "[3:2]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "Colorado Rapids",
+                    "Res": "[6:2]",
+                    "Visita": "Houston Dynamo",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "18 Apr",
+                    "Local": "Colorado Rapids",
+                    "Res": "[2:3]",
                     "Visita": "Inter Miami",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "23 Apr",
+                    "Local": "Los Angeles FC",
+                    "Res": "[0:0]",
+                    "Visita": "Colorado Rapids",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "26 Apr",
-                    "Local": "LA Galaxy",
-                    "Res": "[2:1]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "1-1"
+                    "Local": "Vancouver",
+                    "Res": "[3:1]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "2-1"
                 },
                 {
-                    "Status": "🟢",
-                    "Fecha": "2 May",
-                    "Local": "Real Salt Lake",
-                    "Res": "[2:0]",
-                    "Visita": "Portland",
-                    "HT": "2-0"
+                    "Status": "🔴",
+                    "Fecha": "3 May",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-0"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "10 May",
-                    "Local": "Dallas",
-                    "Res": "[3:1]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "2-0"
+                    "Local": "Colorado Rapids",
+                    "Res": "[0:1]",
+                    "Visita": "St. Louis City",
+                    "HT": "0-1"
                 },
                 {
                     "Status": "🟢",
                     "Fecha": "14 May",
-                    "Local": "Real Salt Lake",
-                    "Res": "[3:0]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "0-0"
+                    "Local": "Minnesota Utd",
+                    "Res": "[0:1]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-1"
                 },
                 {
-                    "Status": "🟢",
+                    "Status": "🔴",
                     "Fecha": "17 May",
                     "Local": "Real Salt Lake",
                     "Res": "[2:1]",
                     "Visita": "Colorado Rapids",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "Colorado Rapids",
+                    "Res": "[1:2]",
+                    "Visita": "Dallas",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Jul",
+                    "Local": "Colorado Rapids",
+                    "Res": "[1:0]",
+                    "Visita": "San Diego",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "26 Jul",
+                    "Local": "St. Louis City",
+                    "Res": "[1:0]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 Aug",
+                    "Local": "Colorado Rapids",
+                    "Res": "[1:0]",
+                    "Visita": "Austin",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Aug",
+                    "Local": "Colorado Rapids",
+                    "Res": "[2:0]",
+                    "Visita": "Sporting KC",
+                    "HT": "0-0"
+                }
+            ],
+            "racha_ultimos_5": "🔴🟢🔴🟢🟢"
+        },
+        "Minnesota Utd": {
+            "ht_stats": {
+                "partidos_jugados": 19,
+                "over_05_ht": 14,
+                "over_15_ht": 5,
+                "ganando_ht": 4,
+                "empatando_ht": 7,
+                "perdiendo_ht": 8,
+                "goles_a_favor_ht": 8,
+                "goles_en_contra_ht": 15,
+                "%_over_0.5_ht": 73.7,
+                "%_over_1.5_ht": 26.3,
+                "%_ganando_ht": 21.1,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 0.79
+            },
+            "historial": [
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Feb",
+                    "Local": "Austin",
+                    "Res": "[2:2]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "28 Feb",
+                    "Local": "Minnesota Utd",
+                    "Res": "[1:0]",
+                    "Visita": "Cincinnati",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "8 Mar",
+                    "Local": "Nashville SC",
+                    "Res": "[3:1]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "2-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "15 Mar",
+                    "Local": "Vancouver",
+                    "Res": "[6:0]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "4-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Mar",
+                    "Local": "Minnesota Utd",
+                    "Res": "[0:0]",
+                    "Visita": "Seattle",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "5 Apr",
+                    "Local": "LA Galaxy",
+                    "Res": "[1:2]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "0-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "12 Apr",
+                    "Local": "San Diego",
+                    "Res": "[1:2]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "19 Apr",
+                    "Local": "Minnesota Utd",
+                    "Res": "[2:0]",
+                    "Visita": "Portland",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "23 Apr",
+                    "Local": "Dallas",
+                    "Res": "[0:1]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "25 Apr",
+                    "Local": "Minnesota Utd",
+                    "Res": "[0:1]",
+                    "Visita": "Los Angeles FC",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "2 May",
+                    "Local": "Columbus Crew",
+                    "Res": "[2:3]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "10 May",
+                    "Local": "Minnesota Utd",
+                    "Res": "[2:2]",
+                    "Visita": "Austin",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "14 May",
+                    "Local": "Minnesota Utd",
+                    "Res": "[0:1]",
+                    "Visita": "Colorado Rapids",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 May",
+                    "Local": "New England",
+                    "Res": "[2:1]",
+                    "Visita": "Minnesota Utd",
                     "HT": "1-1"
                 },
                 {
@@ -3778,57 +4414,65 @@
                 {
                     "Status": "🔴",
                     "Fecha": "23 Jul",
-                    "Local": "Los Angeles FC",
-                    "Res": "[3:1]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "2-0"
+                    "Local": "Sporting KC",
+                    "Res": "[2:1]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-0"
                 },
                 {
-                    "Status": "🔴",
+                    "Status": "🟡",
                     "Fecha": "26 Jul",
-                    "Local": "Portland",
-                    "Res": "[2:1]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "0-1"
+                    "Local": "Minnesota Utd",
+                    "Res": "[0:0]",
+                    "Visita": "Vancouver",
+                    "HT": "0-0"
                 },
                 {
                     "Status": "🟡",
                     "Fecha": "2 Aug",
-                    "Local": "St. Louis City",
+                    "Local": "Minnesota Utd",
                     "Res": "[1:1]",
-                    "Visita": "Real Salt Lake",
+                    "Visita": "San Diego",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "16 Aug",
+                    "Local": "Real Salt Lake",
+                    "Res": "[1:1]",
+                    "Visita": "Minnesota Utd",
                     "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟡🔴🔴🟡"
+            "racha_ultimos_5": "🟡🔴🟡🟡🟡"
         },
-        "St. Louis City": {
+        "San Diego": {
             "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 9,
-                "over_15_ht": 4,
-                "ganando_ht": 6,
-                "empatando_ht": 9,
-                "perdiendo_ht": 3,
-                "goles_a_favor_ht": 9,
-                "goles_en_contra_ht": 6,
-                "%_over_0.5_ht": 50.0,
-                "%_over_1.5_ht": 22.2,
-                "%_ganando_ht": 33.3,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.33
+                "partidos_jugados": 19,
+                "over_05_ht": 16,
+                "over_15_ht": 10,
+                "ganando_ht": 7,
+                "empatando_ht": 6,
+                "perdiendo_ht": 6,
+                "goles_a_favor_ht": 15,
+                "goles_en_contra_ht": 17,
+                "%_over_0.5_ht": 84.2,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 36.8,
+                "promedio_gf_ht": 0.79,
+                "promedio_gc_ht": 0.89
             },
             "historial": [
                 {
-                    "Status": "🟡",
-                    "Fecha": "21 Feb",
-                    "Local": "St. Louis City",
-                    "Res": "[1:1]",
-                    "Visita": "Charlotte",
-                    "HT": "0-0"
+                    "Status": "🟢",
+                    "Fecha": "22 Feb",
+                    "Local": "San Diego",
+                    "Res": "[5:0]",
+                    "Visita": "CF Montreal",
+                    "HT": "2-0"
                 },
                 {
-                    "Status": "🔴",
+                    "Status": "🟢",
                     "Fecha": "2 Mar",
                     "Local": "San Diego",
                     "Res": "[2:0]",
@@ -3836,135 +4480,143 @@
                     "HT": "1-0"
                 },
                 {
-                    "Status": "🔴",
-                    "Fecha": "8 Mar",
-                    "Local": "St. Louis City",
-                    "Res": "[0:1]",
-                    "Visita": "Seattle",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Los Angeles FC",
-                    "Res": "[2:0]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-0"
-                },
-                {
                     "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "St. Louis City",
-                    "Res": "[3:1]",
-                    "Visita": "New England",
-                    "HT": "2-1"
+                    "Fecha": "8 Mar",
+                    "Local": "Sporting KC",
+                    "Res": "[0:1]",
+                    "Visita": "San Diego",
+                    "HT": "0-1"
                 },
                 {
                     "Status": "🟡",
-                    "Fecha": "4 Apr",
-                    "Local": "New York City",
-                    "Res": "[1:1]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
+                    "Fecha": "15 Mar",
                     "Local": "Dallas",
-                    "Res": "[1:1]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-0"
+                    "Res": "[3:3]",
+                    "Visita": "San Diego",
+                    "HT": "1-2"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "22 Mar",
+                    "Local": "San Diego",
+                    "Res": "[2:2]",
+                    "Visita": "Real Salt Lake",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "5 Apr",
+                    "Local": "SJ Earthquakes",
+                    "Res": "[3:0]",
+                    "Visita": "San Diego",
+                    "HT": "3-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "12 Apr",
+                    "Local": "San Diego",
+                    "Res": "[1:2]",
+                    "Visita": "Minnesota Utd",
+                    "HT": "1-2"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "19 Apr",
-                    "Local": "Seattle",
-                    "Res": "[4:1]",
-                    "Visita": "St. Louis City",
-                    "HT": "2-0"
+                    "Local": "Real Salt Lake",
+                    "Res": "[4:2]",
+                    "Visita": "San Diego",
+                    "HT": "4-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Apr",
+                    "Local": "Houston Dynamo",
+                    "Res": "[1:0]",
+                    "Visita": "San Diego",
+                    "HT": "1-0"
                 },
                 {
                     "Status": "🔴",
                     "Fecha": "26 Apr",
-                    "Local": "St. Louis City",
-                    "Res": "[2:3]",
-                    "Visita": "SJ Earthquakes",
-                    "HT": "0-1"
+                    "Local": "San Diego",
+                    "Res": "[1:2]",
+                    "Visita": "Portland",
+                    "HT": "1-1"
                 },
                 {
-                    "Status": "🔴",
+                    "Status": "🟡",
                     "Fecha": "3 May",
-                    "Local": "Austin",
-                    "Res": "[2:0]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Colorado Rapids",
-                    "Res": "[0:1]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 May",
-                    "Local": "St. Louis City",
-                    "Res": "[2:1]",
+                    "Local": "San Diego",
+                    "Res": "[2:2]",
                     "Visita": "Los Angeles FC",
                     "HT": "1-0"
                 },
                 {
                     "Status": "🟡",
-                    "Fecha": "16 May",
-                    "Local": "DC United",
+                    "Fecha": "10 May",
+                    "Local": "Seattle",
                     "Res": "[1:1]",
-                    "Visita": "St. Louis City",
+                    "Visita": "San Diego",
+                    "HT": "0-1"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "14 May",
+                    "Local": "San Diego",
+                    "Res": "[5:0]",
+                    "Visita": "Austin",
+                    "HT": "2-0"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "17 May",
+                    "Local": "San Diego",
+                    "Res": "[3:3]",
+                    "Visita": "Cincinnati",
+                    "HT": "1-1"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "24 May",
+                    "Local": "San Diego",
+                    "Res": "[2:4]",
+                    "Visita": "Vancouver",
+                    "HT": "0-2"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "23 Jul",
+                    "Local": "Colorado Rapids",
+                    "Res": "[1:0]",
+                    "Visita": "San Diego",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🟢",
-                    "Fecha": "23 May",
-                    "Local": "St. Louis City",
-                    "Res": "[3:0]",
-                    "Visita": "Austin",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Jul",
-                    "Local": "St. Louis City",
-                    "Res": "[3:2]",
-                    "Visita": "Sporting KC",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 Jul",
-                    "Local": "LA Galaxy",
-                    "Res": "[1:3]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
                     "Fecha": "26 Jul",
-                    "Local": "St. Louis City",
+                    "Local": "San Diego",
                     "Res": "[1:0]",
-                    "Visita": "Colorado Rapids",
+                    "Visita": "Dallas",
                     "HT": "0-0"
                 },
                 {
                     "Status": "🟡",
                     "Fecha": "2 Aug",
-                    "Local": "St. Louis City",
+                    "Local": "Minnesota Utd",
                     "Res": "[1:1]",
-                    "Visita": "Real Salt Lake",
+                    "Visita": "San Diego",
+                    "HT": "1-0"
+                },
+                {
+                    "Status": "🟢",
+                    "Fecha": "16 Aug",
+                    "Local": "Los Angeles FC",
+                    "Res": "[0:1]",
+                    "Visita": "San Diego",
                     "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🟢🟢🟡"
+            "racha_ultimos_5": "🔴🔴🟢🟡🟢"
         },
         "Portland": {
             "ht_stats": {
@@ -4286,349 +4938,21 @@
             ],
             "racha_ultimos_5": "🔴🔴🔴🔴🔴"
         },
-        "Minnesota Utd": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 14,
-                "over_15_ht": 5,
-                "ganando_ht": 4,
-                "empatando_ht": 6,
-                "perdiendo_ht": 8,
-                "goles_a_favor_ht": 8,
-                "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 77.8,
-                "%_over_1.5_ht": 27.8,
-                "%_ganando_ht": 22.2,
-                "promedio_gf_ht": 0.44,
-                "promedio_gc_ht": 0.83
-            },
-            "historial": [
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Feb",
-                    "Local": "Austin",
-                    "Res": "[2:2]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Feb",
-                    "Local": "Minnesota Utd",
-                    "Res": "[1:0]",
-                    "Visita": "Cincinnati",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Mar",
-                    "Local": "Nashville SC",
-                    "Res": "[3:1]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Vancouver",
-                    "Res": "[6:0]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "4-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Mar",
-                    "Local": "Minnesota Utd",
-                    "Res": "[0:0]",
-                    "Visita": "Seattle",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "5 Apr",
-                    "Local": "LA Galaxy",
-                    "Res": "[1:2]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "San Diego",
-                    "Res": "[1:2]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Minnesota Utd",
-                    "Res": "[2:0]",
-                    "Visita": "Portland",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 Apr",
-                    "Local": "Dallas",
-                    "Res": "[0:1]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Apr",
-                    "Local": "Minnesota Utd",
-                    "Res": "[0:1]",
-                    "Visita": "Los Angeles FC",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 May",
-                    "Local": "Columbus Crew",
-                    "Res": "[2:3]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "10 May",
-                    "Local": "Minnesota Utd",
-                    "Res": "[2:2]",
-                    "Visita": "Austin",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 May",
-                    "Local": "Minnesota Utd",
-                    "Res": "[0:1]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "New England",
-                    "Res": "[2:1]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 May",
-                    "Local": "Minnesota Utd",
-                    "Res": "[1:1]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Jul",
-                    "Local": "Sporting KC",
-                    "Res": "[2:1]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "Minnesota Utd",
-                    "Res": "[0:0]",
-                    "Visita": "Vancouver",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Aug",
-                    "Local": "Minnesota Utd",
-                    "Res": "[1:1]",
-                    "Visita": "San Diego",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🔴🟡🟡"
-        },
-        "Colorado Rapids": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 12,
-                "over_15_ht": 7,
-                "ganando_ht": 5,
-                "empatando_ht": 7,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 11,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 66.7,
-                "%_over_1.5_ht": 38.9,
-                "%_ganando_ht": 27.8,
-                "promedio_gf_ht": 0.61,
-                "promedio_gc_ht": 0.67
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Feb",
-                    "Local": "Seattle",
-                    "Res": "[2:0]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "28 Feb",
-                    "Local": "Colorado Rapids",
-                    "Res": "[2:0]",
-                    "Visita": "Portland",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Mar",
-                    "Local": "Colorado Rapids",
-                    "Res": "[4:1]",
-                    "Visita": "LA Galaxy",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "New York City",
-                    "Res": "[3:1]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Sporting KC",
-                    "Res": "[1:4]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 Apr",
-                    "Local": "Toronto",
-                    "Res": "[3:2]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Colorado Rapids",
-                    "Res": "[6:2]",
-                    "Visita": "Houston Dynamo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "Colorado Rapids",
-                    "Res": "[2:3]",
-                    "Visita": "Inter Miami",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "23 Apr",
-                    "Local": "Los Angeles FC",
-                    "Res": "[0:0]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Vancouver",
-                    "Res": "[3:1]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "Houston Dynamo",
-                    "Res": "[1:0]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Colorado Rapids",
-                    "Res": "[0:1]",
-                    "Visita": "St. Louis City",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 May",
-                    "Local": "Minnesota Utd",
-                    "Res": "[0:1]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 May",
-                    "Local": "Real Salt Lake",
-                    "Res": "[2:1]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Colorado Rapids",
-                    "Res": "[1:2]",
-                    "Visita": "Dallas",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "23 Jul",
-                    "Local": "Colorado Rapids",
-                    "Res": "[1:0]",
-                    "Visita": "San Diego",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "St. Louis City",
-                    "Res": "[1:0]",
-                    "Visita": "Colorado Rapids",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Colorado Rapids",
-                    "Res": "[1:0]",
-                    "Visita": "Austin",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🟢🔴🟢"
-        },
         "LA Galaxy": {
             "ht_stats": {
-                "partidos_jugados": 19,
-                "over_05_ht": 15,
+                "partidos_jugados": 20,
+                "over_05_ht": 16,
                 "over_15_ht": 8,
                 "ganando_ht": 5,
                 "empatando_ht": 8,
-                "perdiendo_ht": 6,
+                "perdiendo_ht": 7,
                 "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 78.9,
-                "%_over_1.5_ht": 42.1,
-                "%_ganando_ht": 26.3,
-                "promedio_gf_ht": 0.63,
-                "promedio_gc_ht": 0.74
+                "goles_en_contra_ht": 15,
+                "%_over_0.5_ht": 80.0,
+                "%_over_1.5_ht": 40.0,
+                "%_ganando_ht": 25.0,
+                "promedio_gf_ht": 0.6,
+                "promedio_gc_ht": 0.75
             },
             "historial": [
                 {
@@ -4782,173 +5106,17 @@
                     "Res": "[0:0]",
                     "Visita": "Dallas",
                     "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴🔴🟡🟡"
-        },
-        "San Diego": {
-            "ht_stats": {
-                "partidos_jugados": 18,
-                "over_05_ht": 16,
-                "over_15_ht": 10,
-                "ganando_ht": 7,
-                "empatando_ht": 5,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 15,
-                "goles_en_contra_ht": 17,
-                "%_over_0.5_ht": 88.9,
-                "%_over_1.5_ht": 55.6,
-                "%_ganando_ht": 38.9,
-                "promedio_gf_ht": 0.83,
-                "promedio_gc_ht": 0.94
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Feb",
-                    "Local": "San Diego",
-                    "Res": "[5:0]",
-                    "Visita": "CF Montreal",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Mar",
-                    "Local": "San Diego",
-                    "Res": "[2:0]",
-                    "Visita": "St. Louis City",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Mar",
-                    "Local": "Sporting KC",
-                    "Res": "[0:1]",
-                    "Visita": "San Diego",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Mar",
-                    "Local": "Dallas",
-                    "Res": "[3:3]",
-                    "Visita": "San Diego",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "22 Mar",
-                    "Local": "San Diego",
-                    "Res": "[2:2]",
-                    "Visita": "Real Salt Lake",
-                    "HT": "1-1"
                 },
                 {
                     "Status": "🔴",
-                    "Fecha": "5 Apr",
-                    "Local": "SJ Earthquakes",
-                    "Res": "[3:0]",
-                    "Visita": "San Diego",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "San Diego",
-                    "Res": "[1:2]",
-                    "Visita": "Minnesota Utd",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "Real Salt Lake",
-                    "Res": "[4:2]",
-                    "Visita": "San Diego",
-                    "HT": "4-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Apr",
+                    "Fecha": "16 Aug",
                     "Local": "Houston Dynamo",
                     "Res": "[1:0]",
-                    "Visita": "San Diego",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "San Diego",
-                    "Res": "[1:2]",
-                    "Visita": "Portland",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "San Diego",
-                    "Res": "[2:2]",
-                    "Visita": "Los Angeles FC",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "10 May",
-                    "Local": "Seattle",
-                    "Res": "[1:1]",
-                    "Visita": "San Diego",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 May",
-                    "Local": "San Diego",
-                    "Res": "[5:0]",
-                    "Visita": "Austin",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "17 May",
-                    "Local": "San Diego",
-                    "Res": "[3:3]",
-                    "Visita": "Cincinnati",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "San Diego",
-                    "Res": "[2:4]",
-                    "Visita": "Vancouver",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "23 Jul",
-                    "Local": "Colorado Rapids",
-                    "Res": "[1:0]",
-                    "Visita": "San Diego",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "San Diego",
-                    "Res": "[1:0]",
-                    "Visita": "Dallas",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Aug",
-                    "Local": "Minnesota Utd",
-                    "Res": "[1:1]",
-                    "Visita": "San Diego",
+                    "Visita": "LA Galaxy",
                     "HT": "1-0"
                 }
             ],
-            "racha_ultimos_5": "🟡🔴🔴🟢🟡"
+            "racha_ultimos_5": "🔴🔴🟡🟡🔴"
         },
         "Austin": {
             "ht_stats": {
@@ -5116,19 +5284,19 @@
         },
         "Sporting KC": {
             "ht_stats": {
-                "partidos_jugados": 18,
+                "partidos_jugados": 19,
                 "over_05_ht": 16,
                 "over_15_ht": 10,
                 "ganando_ht": 3,
-                "empatando_ht": 4,
+                "empatando_ht": 5,
                 "perdiendo_ht": 11,
                 "goles_a_favor_ht": 8,
                 "goles_en_contra_ht": 24,
-                "%_over_0.5_ht": 88.9,
-                "%_over_1.5_ht": 55.6,
-                "%_ganando_ht": 16.7,
-                "promedio_gf_ht": 0.44,
-                "promedio_gc_ht": 1.33
+                "%_over_0.5_ht": 84.2,
+                "%_over_1.5_ht": 52.6,
+                "%_ganando_ht": 15.8,
+                "promedio_gf_ht": 0.42,
+                "promedio_gc_ht": 1.26
             },
             "historial": [
                 {
@@ -5274,78 +5442,20 @@
                     "Res": "[0:2]",
                     "Visita": "Houston Dynamo",
                     "HT": "0-0"
+                },
+                {
+                    "Status": "🔴",
+                    "Fecha": "16 Aug",
+                    "Local": "Colorado Rapids",
+                    "Res": "[2:0]",
+                    "Visita": "Sporting KC",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🟢🔴🔴"
+            "racha_ultimos_5": "🔴🟢🔴🔴🔴"
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "20:30",
-            "Local": "Atlanta Utd",
-            "Visita": "New York RB"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "20:30",
-            "Local": "CF Montreal",
-            "Visita": "DC United"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "20:30",
-            "Local": "Charlotte",
-            "Visita": "Columbus Crew"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "20:30",
-            "Local": "Orlando City",
-            "Visita": "Cincinnati"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "20:30",
-            "Local": "Toronto",
-            "Visita": "New England"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "21:30",
-            "Local": "Houston Dynamo",
-            "Visita": "LA Galaxy"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "21:30",
-            "Local": "Nashville SC",
-            "Visita": "Inter Miami"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "22:30",
-            "Local": "Colorado Rapids",
-            "Visita": "Sporting KC"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "22:30",
-            "Local": "Real Salt Lake",
-            "Visita": "Minnesota Utd"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "23:30",
-            "Local": "Los Angeles FC",
-            "Visita": "San Diego"
-        },
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "23:30",
-            "Local": "SJ Earthquakes",
-            "Visita": "St. Louis City"
-        },
         {
             "Fecha": "Sun 16 Aug",
             "Hora": "19:00",

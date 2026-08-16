@@ -51,14 +51,14 @@
         [
             "4",
             "Lillestrom",
-            "16",
+            "17",
             "8",
-            "1",
-            "7",
-            "22",
-            "20",
             "2",
-            "25"
+            "7",
+            "23",
+            "21",
+            "2",
+            "26"
         ],
         [
             "5",
@@ -147,14 +147,14 @@
         [
             "12",
             "KFUM Oslo",
-            "16",
+            "17",
             "5",
-            "3",
+            "4",
             "8",
-            "18",
-            "26",
+            "19",
+            "27",
             "-8",
-            "18"
+            "19"
         ],
         [
             "13",
@@ -668,19 +668,19 @@
         },
         "Lillestrom": {
             "ht_stats": {
-                "partidos_jugados": 16,
+                "partidos_jugados": 17,
                 "over_05_ht": 12,
                 "over_15_ht": 6,
                 "ganando_ht": 3,
-                "empatando_ht": 6,
+                "empatando_ht": 7,
                 "perdiendo_ht": 7,
                 "goles_a_favor_ht": 7,
                 "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 75.0,
-                "%_over_1.5_ht": 37.5,
-                "%_ganando_ht": 18.8,
-                "promedio_gf_ht": 0.44,
-                "promedio_gc_ht": 0.69
+                "%_over_0.5_ht": 70.6,
+                "%_over_1.5_ht": 35.3,
+                "%_ganando_ht": 17.6,
+                "promedio_gf_ht": 0.41,
+                "promedio_gc_ht": 0.65
             },
             "historial": [
                 {
@@ -810,9 +810,17 @@
                     "Res": "[0:2]",
                     "Visita": "Rosenborg",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "KFUM Oslo",
+                    "Res": "[1:1]",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🟢🟢🔴🔴🔴"
+            "racha_ultimos_5": "🟢🔴🔴🔴🟡"
         },
         "Molde": {
             "ht_stats": {
@@ -1860,19 +1868,19 @@
         },
         "KFUM Oslo": {
             "ht_stats": {
-                "partidos_jugados": 16,
+                "partidos_jugados": 17,
                 "over_05_ht": 14,
                 "over_15_ht": 10,
                 "ganando_ht": 4,
-                "empatando_ht": 6,
+                "empatando_ht": 7,
                 "perdiendo_ht": 6,
                 "goles_a_favor_ht": 12,
                 "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 62.5,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.75,
-                "promedio_gc_ht": 0.94
+                "%_over_0.5_ht": 82.4,
+                "%_over_1.5_ht": 58.8,
+                "%_ganando_ht": 23.5,
+                "promedio_gf_ht": 0.71,
+                "promedio_gc_ht": 0.88
             },
             "historial": [
                 {
@@ -2002,9 +2010,17 @@
                     "Res": "[0:1]",
                     "Visita": "KFUM Oslo",
                     "HT": "0-1"
+                },
+                {
+                    "Status": "🟡",
+                    "Fecha": "15 Aug",
+                    "Local": "KFUM Oslo",
+                    "Res": "[1:1]",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0"
                 }
             ],
-            "racha_ultimos_5": "🔴🔴🔴🟢🟢"
+            "racha_ultimos_5": "🔴🔴🟢🟢🟡"
         },
         "Sandefjord": {
             "ht_stats": {
@@ -2608,12 +2624,6 @@
         }
     },
     "fixture": [
-        {
-            "Fecha": "Sat 15 Aug",
-            "Hora": "11:00",
-            "Local": "KFUM Oslo",
-            "Visita": "Lillestrom"
-        },
         {
             "Fecha": "Sun 16 Aug",
             "Hora": "09:30",
