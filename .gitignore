@@ -1,29 +1,55 @@
+# ==========================================================
+# .gitignore — qué NO se sube a GitHub
+# ==========================================================
+
+# --- Base de datos: pesa mucho y contiene tus apuestas ---
 database/
 *.db
+*.db-journal
 *.sqlite
+*.sqlite3
 
+# --- Claves y configuración privada ---
+.env
+.env.*
+*.key
+secrets.toml
+.streamlit/secrets.toml
+
+# --- Entorno virtual de Python ---
 venv/
 env/
+ENV/
 .venv/
 
+# --- Archivos temporales de Python ---
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
 
-modelos/
+# --- Modelos entrenados ---
+# El motor SÍ se sube: la app en la nube lo necesita para predecir.
+# Los demás modelos no.
 models/
 *.pkl
+!modelos/motor_v2.pkl
 
-archivo/
-data_json_backup/
-
+# --- Reportes y resultados generados ---
+resultados/
 *.log
-*_reporte.txt
-*_resultado.txt
+backtest_*.csv
+backtest_*.txt
+validacion_*.csv
+validacion_*.txt
 historial_*.csv
 historial_*.txt
-validacion_*.csv
 rentabilidad_*.csv
-backtest_*.csv
+rentabilidad_*.txt
 diagnostico_*.txt
 inspector_*.txt
 reparacion_*.txt
@@ -31,12 +57,23 @@ calibracion_*.txt
 mercados_*.csv
 goles_*.csv
 dc_detalle.csv
+comparacion_modelos.txt
 
-.env
-*.key
-secrets.toml
+# --- Copias de seguridad ---
+data_json_backup/
+*_backup/
+*.bak
 
-.vscode/
-.idea/
+# --- Carpeta de archivo (investigación ya ejecutada) ---
+archivo/
+
+# --- Sistema operativo ---
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# --- Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
