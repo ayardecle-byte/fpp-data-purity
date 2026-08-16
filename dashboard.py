@@ -120,8 +120,10 @@ def actualizar_fila_billetera(id_apuesta, picks, inversion, cuota, estado, fecha
     conn.commit()
     conn.close()
 
-if not MODO_NUBE:
-    crear_tabla_apuestas()
+# Se crea siempre: en la nube queda vacía, pero evita errores en las
+# funciones que consultan la base. MODO_NUBE ya se calculó más arriba,
+# así que las páginas de apuestas siguen ocultas.
+crear_tabla_apuestas()
 
 # --- FUNCIONES DE LIMPIEZA DE TEXTO ---
 def normalize_text(text):
