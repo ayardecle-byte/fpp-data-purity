@@ -684,7 +684,7 @@ def calcular_prediccion_corners(racha_l, racha_v, local, visita):
 bankroll_ini, meta, saved_api_key = obtener_config_billetera()
 
 # --- 4. INTERFAZ Y SIDEBAR ---
-if 'pagina' not in st.session_state: st.session_state.pagina = 'Cartelera'
+if 'pagina' not in st.session_state: st.session_state.pagina = 'Inicio'
 
 opciones_liga = [
     "Inglaterra - Premier League", "España - La Liga", "Italia - Serie A", 
@@ -709,6 +709,7 @@ opciones_liga = [
 
 with st.sidebar:
     st.title("💎 FPP - Data Purity")
+    st.button("🏠 Inicio", on_click=cambiar_pagina, args=('Inicio',), width="stretch")
     st.button("⚽ Cartelera", on_click=cambiar_pagina, args=('Cartelera',), width="stretch")
     st.button("🎯 Picks del Día", on_click=cambiar_pagina, args=('Picks',), width="stretch")
     st.button("📅 Calendario Global", on_click=cambiar_pagina, args=('Calendario',), width="stretch")
@@ -743,7 +744,171 @@ with st.sidebar:
 # ==========================================
 # PESTAÑA 1: CARTELERA
 # ==========================================
-if st.session_state.pagina == 'Cartelera':
+if st.session_state.pagina == 'Inicio':
+    st.title("💎 FPP — Data Purity")
+    st.markdown(
+        "Sistema de análisis estadístico de partidos de fútbol. "
+        "Antes de usarlo conviene saber **qué puede hacer y qué no**."
+    )
+
+    # ---------- Lo que hay que saber primero ----------
+    st.error(
+        "### ⚠️ Lo más importante\n\n"
+        "En un backtest sobre **14.656 partidos con cuotas reales**, este "
+        "sistema dio un rendimiento de **−12%**. Es decir: predice mejor que "
+        "el azar, pero **no mejor que las casas de apuestas**.\n\n"
+        "**No uses la «cuota mínima» como señal para apostar.** Ese número "
+        "supone que el modelo le gana al mercado, y no es así."
+    )
+
+    c1, c2 = st.columns(2)
+
+    with c1:
+        st.success(
+            "#### ✅ Para qué sirve\n\n"
+            "- Ver los partidos del día ordenados y con contexto\n"
+            "- Probabilidades **honestas**: cuando dice 60%, acierta cerca de 60%\n"
+            "- Comparar equipos: fuerza, racha, medio tiempo\n"
+            "- Llevar registro de apuestas con disciplina\n"
+            "- Sugerir tamaño de apuesta con Kelly fraccionado\n"
+            "- Medir si el modelo sigue acertando (Calibración en Vivo)"
+        )
+
+    with c2:
+        st.warning(
+            "#### ❌ Para qué NO sirve\n\n"
+            "- Encontrar apuestas rentables automáticamente\n"
+            "- Predecir goles, Over/Under o BTTS (sin ventaja, medido 4 veces)\n"
+            "- Evaluar equipos recién ascendidos (poca historia en su categoría)\n"
+            "- Reemplazar la comparación de cuotas entre casas\n"
+            "- Analizar copas internacionales (equipos que se cruzan poco)"
+        )
+
+    st.divider()
+
+    # ---------- Qué mejora de verdad el resultado ----------
+    st.markdown("### 💡 Lo que sí te puede hacer ganar")
+    ca, cb, cc = st.columns(3)
+    ca.info(
+        "**1. Comparar cuotas**\n\n"
+        "El margen de las casas es del **6.5%**. Que una pague 1.30 y otra "
+        "1.38 por lo mismo cambia todo. Abrí 2 o 3 casas y quedate con la mejor."
+    )
+    cb.info(
+        "**2. Apuestas simples**\n\n"
+        "En las combinadas el margen se multiplica en tu contra. Dos "
+        "selecciones con 6.5% cada una dan más del 13% de desventaja."
+    )
+    cc.info(
+        "**3. Apostar menos seguido**\n\n"
+        "Un día sin apuestas es un resultado válido. La ventaja está en "
+        "esperar pocas oportunidades buenas, no en analizar todo."
+    )
+
+    st.divider()
+
+    # ---------- Ligas ----------
+    st.markdown("### 🏆 Ligas según la validación")
+    st.caption(
+        "Medido sobre 37.863 predicciones. El *skill* compara al modelo contra "
+        "una referencia trivial (la frecuencia histórica), **no** contra las casas."
+    )
+
+    niveles = {"ALTA": [], "MEDIA": [], "BAJA": [], "NULA": [], "SIN_VALIDAR": []}
+    inverso = {v: k for k, v in motor_v2.MAPA_LIGAS.items()}
+    for interna, info in motor_v2.CALIDAD_LIGAS.items():
+        nombre = inverso.get(interna, interna)
+        niveles.setdefault(info["nivel"], []).append(
+            (nombre, info["skill"], info.get("n_test", 0))
+        )
+
+    t1, t2, t3 = st.tabs([
+        f"🟢 Mejores ({len(niveles['ALTA'])})",
+        f"🟡 Moderadas ({len(niveles['MEDIA'])})",
+        f"🔴 Sin ventaja ({len(niveles['BAJA']) + len(niveles['NULA'])})",
+    ])
+
+    def tabla_ligas(datos, nota):
+        if not datos:
+            st.info("Sin ligas en esta categoría.")
+            return
+        filas = []
+        for nombre, skill, n in sorted(datos, key=lambda x: -x[1]):
+            filas.append({
+                "Liga": nombre,
+                "Ventaja": f"{skill:+.4f}",
+                "Partidos medidos": n,
+                "Confianza": "Sólida" if n >= 300 else ("Provisional" if n > 0 else "—"),
+            })
+        st.dataframe(pd.DataFrame(filas), width="stretch", hide_index=True)
+        st.caption(nota)
+
+    with t1:
+        tabla_ligas(
+            niveles["ALTA"],
+            "Donde el modelo aporta más información. Las marcadas como "
+            "*Provisional* se validaron con poca muestra: tomalas con cautela "
+            "(a Brasil le pasó que parecía buena con 210 partidos y resultó "
+            "ordinaria con 1.055)."
+        )
+    with t2:
+        tabla_ligas(niveles["MEDIA"], "Ventaja moderada. El modelo ayuda, pero menos.")
+    with t3:
+        tabla_ligas(
+            niveles["BAJA"] + niveles["NULA"],
+            "Acá el modelo no aporta más que mirar la tabla de posiciones. "
+            "Podés consultarlas, pero sin apoyarte en sus porcentajes."
+        )
+
+    st.divider()
+
+    # ---------- Mercados ----------
+    st.markdown("### 🎯 Mercados")
+    m1, m2 = st.columns(2)
+    m1.success(
+        "**Con ventaja medida**\n\n"
+        "- 1X2 (Gana Local / Empate / Gana Visita)\n"
+        "- Doble oportunidad (1X, X2, 12)\n"
+        "- Hándicaps ±0.5 (equivalen a lo anterior)"
+    )
+    m2.warning(
+        "**Sin ventaja**\n\n"
+        "- Over/Under de goles — medido 4 veces, siempre cero\n"
+        "- Ambos anotan (BTTS)\n"
+        "- Mercados de medio tiempo — señal muy débil\n"
+        "- Córners — no hay datos por partido para validarlo"
+    )
+
+    st.divider()
+
+    # ---------- Estado del sistema ----------
+    st.markdown("### 📊 Estado del sistema")
+    e1, e2, e3, e4 = st.columns(4)
+    e1.metric("Partidos en la base", "44.674")
+    e2.metric("Ligas con modelo", str(len(motor_v2.CALIDAD_LIGAS)))
+    e3.metric("Acierto 1X2", "46.2%", "+6.3 pts vs versión inicial")
+    e4.metric("Margen de las casas", "6.46%", "la barrera a superar",
+              delta_color="inverse")
+
+    st.divider()
+
+    ci1, ci2 = st.columns(2)
+    with ci1:
+        if st.button("⚽ Ir a la Cartelera", width="stretch", type="primary"):
+            st.session_state.pagina = 'Cartelera'
+            st.rerun()
+    with ci2:
+        if st.button("🎯 Ver Picks del Día", width="stretch"):
+            st.session_state.pagina = 'Picks'
+            st.rerun()
+
+    st.caption(
+        "Las apuestas deportivas implican riesgo de pérdida. Este sistema es "
+        "una herramienta de análisis, no un consejo financiero. Apostá solo "
+        "lo que puedas permitirte perder."
+    )
+
+elif st.session_state.pagina == 'Cartelera':
     st.header(f"🏆 {liga_sel}")
     tabla = cargar_tabla_json(liga_sel)
     
