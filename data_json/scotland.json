@@ -1,210 +1,952 @@
 {
-    "corners": {
-        "Aberdeen": {
-            "local": {
-                "favor": "5.79",
-                "contra": "4.74"
-            },
-            "visitante": {}
+    "posiciones": [
+        [
+            "1",
+            "Celtic",
+            "2",
+            "2",
+            "0",
+            "0",
+            "6",
+            "1",
+            "+5",
+            "6",
+            "3 Aug Celtic - \r\nDundee FC 1:0 9 Aug Kilmarnock\r\n - Celtic 1:5 29 Aug Celtic - \r\nFalkirk -",
+            "3 Aug",
+            "Celtic - \r\nDundee FC",
+            "1:0",
+            "9 Aug",
+            "Kilmarnock\r\n - Celtic",
+            "1:5",
+            "29 Aug",
+            "Celtic - \r\nFalkirk",
+            "-",
+            "3.00",
+            "3.00",
+            "50%",
+            "100%"
+        ],
+        [
+            "2",
+            "St. Mirren",
+            "2",
+            "2",
+            "0",
+            "0",
+            "3",
+            "0",
+            "+3",
+            "6",
+            "1 Aug Falkirk\r\n - St. Mirren 0:2 8 Aug St. Mirren - \r\nSt. Johnstone 1:0 22 Aug Rangers\r\n - St. Mirren -",
+            "1 Aug",
+            "Falkirk\r\n - St. Mirren",
+            "0:2",
+            "8 Aug",
+            "St. Mirren - \r\nSt. Johnstone",
+            "1:0",
+            "22 Aug",
+            "Rangers\r\n - St. Mirren",
+            "-",
+            "3.00",
+            "3.00",
+            "100%",
+            "100%"
+        ],
+        [
+            "3",
+            "Motherwell",
+            "2",
+            "1",
+            "1",
+            "0",
+            "2",
+            "1",
+            "+1",
+            "4",
+            "2 Aug Hibernian\r\n - Motherwell 1:2 9 Aug Motherwell - \r\nFalkirk 0:0 30 Aug St. Mirren\r\n - Motherwell -",
+            "2 Aug",
+            "Hibernian\r\n - Motherwell",
+            "1:2",
+            "9 Aug",
+            "Motherwell - \r\nFalkirk",
+            "0:0",
+            "30 Aug",
+            "St. Mirren\r\n - Motherwell",
+            "-",
+            "2.00",
+            "2.00",
+            "50%",
+            "50%"
+        ],
+        [
+            "4",
+            "Hearts",
+            "2",
+            "1",
+            "0",
+            "1",
+            "5",
+            "2",
+            "+3",
+            "3",
+            "1 Aug Aberdeen\r\n - Hearts 2:1 9 Aug Hearts - \r\nDundee Utd 4:0 29 Aug Hearts - \r\nSt. Johnstone -",
+            "1 Aug",
+            "Aberdeen\r\n - Hearts",
+            "2:1",
+            "9 Aug",
+            "Hearts - \r\nDundee Utd",
+            "4:0",
+            "29 Aug",
+            "Hearts - \r\nSt. Johnstone",
+            "-",
+            "1.50",
+            "1.50",
+            "50%",
+            "100%"
+        ],
+        [
+            "5",
+            "Dundee FC",
+            "2",
+            "1",
+            "0",
+            "1",
+            "2",
+            "1",
+            "+1",
+            "3",
+            "3 Aug Celtic\r\n - Dundee FC 1:0 8 Aug Dundee FC - \r\nAberdeen 2:0 22 Aug Dundee Utd\r\n - Dundee FC -",
+            "3 Aug",
+            "Celtic\r\n - Dundee FC",
+            "1:0",
+            "8 Aug",
+            "Dundee FC - \r\nAberdeen",
+            "2:0",
+            "22 Aug",
+            "Dundee Utd\r\n - Dundee FC",
+            "-",
+            "1.50",
+            "1.50",
+            "50%",
+            "50%"
+        ],
+        [
+            "6",
+            "St. Johnstone",
+            "2",
+            "1",
+            "0",
+            "1",
+            "4",
+            "4",
+            "0",
+            "3",
+            "2 Aug St. Johnstone - \r\nKilmarnock 4:3 8 Aug St. Mirren\r\n - St. Johnstone 1:0 29 Aug Hearts\r\n - St. Johnstone -",
+            "2 Aug",
+            "St. Johnstone - \r\nKilmarnock",
+            "4:3",
+            "8 Aug",
+            "St. Mirren\r\n - St. Johnstone",
+            "1:0",
+            "29 Aug",
+            "Hearts\r\n - St. Johnstone",
+            "-",
+            "1.50",
+            "1.50",
+            "0%",
+            "50%"
+        ],
+        [
+            "7",
+            "Hibernian",
+            "2",
+            "1",
+            "0",
+            "1",
+            "3",
+            "3",
+            "0",
+            "3",
+            "2 Aug Hibernian - \r\nMotherwell 1:2 9 Aug Rangers\r\n - Hibernian 1:2 22 Aug Hibernian - \r\nKilmarnock -",
+            "2 Aug",
+            "Hibernian - \r\nMotherwell",
+            "1:2",
+            "9 Aug",
+            "Rangers\r\n - Hibernian",
+            "1:2",
+            "22 Aug",
+            "Hibernian - \r\nKilmarnock",
+            "-",
+            "1.50",
+            "1.50",
+            "0%",
+            "100%"
+        ],
+        [
+            "8",
+            "Aberdeen",
+            "2",
+            "1",
+            "0",
+            "1",
+            "2",
+            "3",
+            "-1",
+            "3",
+            "1 Aug Aberdeen - \r\nHearts 2:1 8 Aug Dundee FC\r\n - Aberdeen 2:0 30 Aug Aberdeen - \r\nRangers -",
+            "1 Aug",
+            "Aberdeen - \r\nHearts",
+            "2:1",
+            "8 Aug",
+            "Dundee FC\r\n - Aberdeen",
+            "2:0",
+            "30 Aug",
+            "Aberdeen - \r\nRangers",
+            "-",
+            "1.50",
+            "1.50",
+            "0%",
+            "50%"
+        ],
+        [
+            "9",
+            "Rangers",
+            "2",
+            "0",
+            "1",
+            "1",
+            "2",
+            "3",
+            "-1",
+            "1",
+            "31 Jul Dundee Utd\r\n - Rangers 1:1 9 Aug Rangers - \r\nHibernian 1:2 22 Aug Rangers - \r\nSt. Mirren -",
+            "31 Jul",
+            "Dundee Utd\r\n - Rangers",
+            "1:1",
+            "9 Aug",
+            "Rangers - \r\nHibernian",
+            "1:2",
+            "22 Aug",
+            "Rangers - \r\nSt. Mirren",
+            "-",
+            "0.50",
+            "0.50",
+            "0%",
+            "100%"
+        ],
+        [
+            "10",
+            "Falkirk",
+            "2",
+            "0",
+            "1",
+            "1",
+            "0",
+            "2",
+            "-2",
+            "1",
+            "1 Aug Falkirk - \r\nSt. Mirren 0:2 9 Aug Motherwell\r\n - Falkirk 0:0 29 Aug Celtic\r\n - Falkirk -",
+            "1 Aug",
+            "Falkirk - \r\nSt. Mirren",
+            "0:2",
+            "9 Aug",
+            "Motherwell\r\n - Falkirk",
+            "0:0",
+            "29 Aug",
+            "Celtic\r\n - Falkirk",
+            "-",
+            "0.50",
+            "0.50",
+            "50%",
+            "0%"
+        ],
+        [
+            "11",
+            "Dundee Utd",
+            "2",
+            "0",
+            "1",
+            "1",
+            "1",
+            "5",
+            "-4",
+            "1",
+            "31 Jul Dundee Utd - \r\nRangers 1:1 9 Aug Hearts\r\n - Dundee Utd 4:0 22 Aug Dundee Utd - \r\nDundee FC -",
+            "31 Jul",
+            "Dundee Utd - \r\nRangers",
+            "1:1",
+            "9 Aug",
+            "Hearts\r\n - Dundee Utd",
+            "4:0",
+            "22 Aug",
+            "Dundee Utd - \r\nDundee FC",
+            "-",
+            "0.50",
+            "0.50",
+            "0%",
+            "50%"
+        ],
+        [
+            "12",
+            "Kilmarnock",
+            "2",
+            "0",
+            "0",
+            "2",
+            "4",
+            "9",
+            "-5",
+            "0",
+            "2 Aug St. Johnstone\r\n - Kilmarnock 4:3 9 Aug Kilmarnock - \r\nCeltic 1:5 22 Aug Hibernian\r\n - Kilmarnock -",
+            "2 Aug",
+            "St. Johnstone\r\n - Kilmarnock",
+            "4:3",
+            "9 Aug",
+            "Kilmarnock - \r\nCeltic",
+            "1:5",
+            "22 Aug",
+            "Hibernian\r\n - Kilmarnock",
+            "-",
+            "0.00",
+            "0.00",
+            "0%",
+            "100%"
+        ]
+    ],
+    "goles": [],
+    "corners": {},
+    "fixture": [
+        {
+            "Fecha": "Sat 22 Aug",
+            "Hora": "10:00",
+            "Local": "Hibernian",
+            "Visita": "Kilmarnock"
         },
-        "Celtic": {
-            "local": {
-                "favor": "7.63",
-                "contra": "3.68"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sat 22 Aug",
+            "Hora": "10:00",
+            "Local": "Rangers",
+            "Visita": "St. Mirren"
         },
-        "Dundee FC": {
-            "local": {
-                "favor": "4.53",
-                "contra": "5.58"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sat 22 Aug",
+            "Hora": "12:45",
+            "Local": "Dundee Utd",
+            "Visita": "Dundee FC"
         },
-        "Dundee Utd": {
-            "local": {
-                "favor": "5.37",
-                "contra": "5.68"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "10:00",
+            "Local": "Celtic",
+            "Visita": "Falkirk"
         },
-        "Falkirk": {
-            "local": {
-                "favor": "4.50",
-                "contra": "3.95"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "10:00",
+            "Local": "Hearts",
+            "Visita": "St. Johnstone"
         },
-        "Hearts": {
-            "local": {
-                "favor": "5.42",
-                "contra": "4.53"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sat 29 Aug",
+            "Hora": "10:00",
+            "Local": "Kilmarnock",
+            "Visita": "Dundee Utd"
         },
-        "Hibernian": {
-            "local": {
-                "favor": "5.58",
-                "contra": "6.21"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "07:00",
+            "Local": "Aberdeen",
+            "Visita": "Rangers"
         },
-        "Kilmarnock": {
-            "local": {
-                "favor": "4.84",
-                "contra": "4.37"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "10:00",
+            "Local": "Dundee FC",
+            "Visita": "Hibernian"
         },
-        "Livingston": {
-            "local": {
-                "favor": "5.33",
-                "contra": "4.83"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Sun 30 Aug",
+            "Hora": "10:00",
+            "Local": "St. Mirren",
+            "Visita": "Motherwell"
         },
-        "Motherwell": {
-            "local": {
-                "favor": "3.84",
-                "contra": "3.74"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Wed 2 Sep",
+            "Hora": "14:45",
+            "Local": "Celtic",
+            "Visita": "Aberdeen"
         },
-        "Rangers": {
-            "local": {
-                "favor": "6.58",
-                "contra": "2.95"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Wed 2 Sep",
+            "Hora": "14:45",
+            "Local": "Dundee FC",
+            "Visita": "St. Johnstone"
         },
-        "St. Mirren": {
-            "local": {
-                "favor": "5.58",
-                "contra": "5.05"
-            },
-            "visitante": {}
+        {
+            "Fecha": "Wed 2 Sep",
+            "Hora": "14:45",
+            "Local": "Kilmarnock",
+            "Visita": "St. Mirren"
+        },
+        {
+            "Fecha": "Wed 2 Sep",
+            "Hora": "14:45",
+            "Local": "Motherwell",
+            "Visita": "Dundee Utd"
+        },
+        {
+            "Fecha": "Wed 2 Sep",
+            "Hora": "15:00",
+            "Local": "Falkirk",
+            "Visita": "Rangers"
+        },
+        {
+            "Fecha": "Thu 3 Sep",
+            "Hora": "14:45",
+            "Local": "Hibernian",
+            "Visita": "Hearts"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Aberdeen",
+            "Visita": "Kilmarnock"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Dundee Utd",
+            "Visita": "Falkirk"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Rangers",
+            "Visita": "Motherwell"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "15:00",
+            "Local": "St. Mirren",
+            "Visita": "Celtic"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "10:00",
+            "Local": "Hearts",
+            "Visita": "Dundee FC"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "10:00",
+            "Local": "St. Johnstone",
+            "Visita": "Hibernian"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Dundee FC",
+            "Visita": "Motherwell"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Hibernian",
+            "Visita": "Aberdeen"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "St. Johnstone",
+            "Visita": "Falkirk"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "St. Mirren",
+            "Visita": "Dundee Utd"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "12:45",
+            "Local": "Kilmarnock",
+            "Visita": "Hearts"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "07:00",
+            "Local": "Celtic",
+            "Visita": "Rangers"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Aberdeen",
+            "Visita": "St. Johnstone"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Dundee Utd",
+            "Visita": "Hibernian"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Falkirk",
+            "Visita": "Dundee FC"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Hearts",
+            "Visita": "St. Mirren"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Motherwell",
+            "Visita": "Celtic"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "10:00",
+            "Local": "Rangers",
+            "Visita": "Kilmarnock"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "Aberdeen",
+            "Visita": "St. Mirren"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "Celtic",
+            "Visita": "Hearts"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "Dundee FC",
+            "Visita": "Rangers"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "Hibernian",
+            "Visita": "Falkirk"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "Kilmarnock",
+            "Visita": "Motherwell"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "10:00",
+            "Local": "St. Johnstone",
+            "Visita": "Dundee Utd"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "Dundee Utd",
+            "Visita": "Aberdeen"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "Falkirk",
+            "Visita": "Kilmarnock"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "Hibernian",
+            "Visita": "Celtic"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "Motherwell",
+            "Visita": "Hearts"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "Rangers",
+            "Visita": "St. Johnstone"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:00",
+            "Local": "St. Mirren",
+            "Visita": "Dundee FC"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "Aberdeen",
+            "Visita": "Falkirk"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "Celtic",
+            "Visita": "Dundee Utd"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "Dundee FC",
+            "Visita": "Kilmarnock"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "Hearts",
+            "Visita": "Rangers"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "St. Johnstone",
+            "Visita": "Motherwell"
+        },
+        {
+            "Fecha": "Wed 28 Oct",
+            "Hora": "16:45",
+            "Local": "St. Mirren",
+            "Visita": "Hibernian"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Dundee Utd",
+            "Visita": "Hearts"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Falkirk",
+            "Visita": "Celtic"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Hibernian",
+            "Visita": "Dundee FC"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Kilmarnock",
+            "Visita": "St. Johnstone"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Motherwell",
+            "Visita": "St. Mirren"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "12:00",
+            "Local": "Rangers",
+            "Visita": "Aberdeen"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "12:00",
+            "Local": "Aberdeen",
+            "Visita": "Hibernian"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "12:00",
+            "Local": "Celtic",
+            "Visita": "Kilmarnock"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "12:00",
+            "Local": "Dundee Utd",
+            "Visita": "Motherwell"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "12:00",
+            "Local": "St. Johnstone",
+            "Visita": "Dundee FC"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "12:00",
+            "Local": "St. Mirren",
+            "Visita": "Rangers"
+        },
+        {
+            "Fecha": "Sun 8 Nov",
+            "Hora": "12:00",
+            "Local": "Hearts",
+            "Visita": "Falkirk"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "12:00",
+            "Local": "Celtic",
+            "Visita": "St. Mirren"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "12:00",
+            "Local": "Dundee FC",
+            "Visita": "Hearts"
         }
-    },
-    "goals": {
-        "Rangers": {
-            "over_2_5": "61%",
-            "bts": "66%"
-        },
-        "Kilmarnock": {
-            "over_2_5": "66%",
-            "bts": "55%"
-        },
-        "Livingston": {
-            "over_2_5": "63%",
-            "bts": "66%"
-        },
-        "Celtic": {
-            "over_2_5": "68%",
-            "bts": "58%"
-        },
+    ],
+    "estadisticas_avanzadas": {
         "Falkirk": {
-            "over_2_5": "58%",
-            "bts": "53%"
-        },
-        "Dundee Utd": {
-            "over_2_5": "50%",
-            "bts": "55%"
-        },
-        "Dundee FC": {
-            "over_2_5": "58%",
-            "bts": "47%"
-        },
-        "Hibernian": {
-            "over_2_5": "55%",
-            "bts": "53%"
-        },
-        "Hearts": {
-            "over_2_5": "53%",
-            "bts": "47%"
-        },
-        "Aberdeen": {
-            "over_2_5": "34%",
-            "bts": "37%"
-        },
-        "Motherwell": {
-            "over_2_5": "39%",
-            "bts": "47%"
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Falkirk",
+                    "Visita": "St. Mirren",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Motherwell",
+                    "Visita": "Falkirk",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
         },
         "St. Mirren": {
-            "over_2_5": "32%",
-            "bts": "37%"
-        },
-        "League average": {
-            "over_2_5": "32.5%",
-            "bts": "27.6%"
-        }
-    },
-    "positions": {
-        "Matches": {
-            "posicion": 1
-        },
-        "Any": {
-            "posicion": 2
-        },
-        "No goal": {
-            "posicion": 3
-        },
-        "Goal(s)": {
-            "posicion": 4
-        },
-        "Team": {
-            "posicion": 9
-        },
-        "Celtic": {
-            "posicion": 2
-        },
-        "Hearts": {
-            "posicion": 3
-        },
-        "Rangers": {
-            "posicion": 4
-        },
-        "Motherwell": {
-            "posicion": 5
-        },
-        "Hibernian": {
-            "posicion": 6
-        },
-        "Falkirk": {
-            "posicion": 7
-        },
-        "Relegation group\n\n\n\n\n\r\nTeam\r\n\n\r\nGP\r\n\n\r\nW\r\n\n\r\nD\r\n\n\r\nL\r\n\n\r\nGF\r\n\n\r\nGA\r\n\n\r\nGD\r\n\n\r\nPts\r\n\n\n\n\n1\n\n\r\n Dundee Utd \r\n\n\n\r\n38\r\n\n\n\r\n10\r\n\n\r\n15\r\n\n\r\n13\r\n\n\r\n49\r\n\n\r\n60\r\n\n\r\n-11\r\n\n\n45\n\n\n\n\n2\n\n\r\n Dundee FC \r\n\n\n\r\n38\r\n\n\n\r\n11\r\n\n\r\n9\r\n\n\r\n18\r\n\n\r\n42\r\n\n\r\n61\r\n\n\r\n-19\r\n\n\n42\n\n\n\n\n3\n\n\r\n Aberdeen \r\n\n\n\r\n38\r\n\n\n\r\n11\r\n\n\r\n7\r\n\n\r\n20\r\n\n\r\n40\r\n\n\r\n55\r\n\n\r\n-15\r\n\n\n40\n\n\n\n\n4\n\n\r\n Kilmarnock \r\n\n\n\r\n38\r\n\n\n\r\n10\r\n\n\r\n10\r\n\n\r\n18\r\n\n\r\n50\r\n\n\r\n68\r\n\n\r\n-18\r\n\n\n40\n\n\n\n\n5\n\n\r\n St. Mirren \r\n\n\n\r\n38\r\n\n\n\r\n8\r\n\n\r\n10\r\n\n\r\n20\r\n\n\r\n30\r\n\n\r\n55\r\n\n\r\n-25\r\n\n\n34\n\n\n\n\n6\n\n\r\n Livingston \r\n\n\n\r\n38\r\n\n\n\r\n2\r\n\n\r\n15\r\n\n\r\n21\r\n\n\r\n40\r\n\n\r\n75\r\n\n\r\n-35\r\n\n\n21": {
-            "posicion": 8
-        },
-        "Dundee Utd": {
-            "posicion": 10
-        },
-        "Dundee FC": {
-            "posicion": 11
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Falkirk",
+                    "Visita": "St. Mirren",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:0]",
+                    "Local": "St. Mirren",
+                    "Visita": "St. Johnstone",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
         },
         "Aberdeen": {
-            "posicion": 12
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Aberdeen",
+                    "Visita": "Hearts",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Dundee FC",
+                    "Visita": "Aberdeen",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Hearts": {
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Aberdeen",
+                    "Visita": "Hearts",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[4:0]",
+                    "Local": "Hearts",
+                    "Visita": "Dundee Utd",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "St. Johnstone": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[4:3]",
+                    "Local": "St. Johnstone",
+                    "Visita": "Kilmarnock",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:0]",
+                    "Local": "St. Mirren",
+                    "Visita": "St. Johnstone",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
         },
         "Kilmarnock": {
-            "posicion": 13
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[4:3]",
+                    "Local": "St. Johnstone",
+                    "Visita": "Kilmarnock",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:5]",
+                    "Local": "Kilmarnock",
+                    "Visita": "Celtic",
+                    "HT": "0-3",
+                    "Status": "🔴"
+                }
+            ]
         },
-        "St. Mirren": {
-            "posicion": 14
+        "Hibernian": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Hibernian",
+                    "Visita": "Motherwell",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Rangers",
+                    "Visita": "Hibernian",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                }
+            ]
         },
-        "Livingston": {
-            "posicion": 15
+        "Motherwell": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Hibernian",
+                    "Visita": "Motherwell",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Motherwell",
+                    "Visita": "Falkirk",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
         },
-        "Results\n\n\n\n\n\n\n\nSun 17 May\nDundee FC - Aberdeen\n\n\n\n3:2\n\n\n\n\n1-0  \r\nDrey Wright (10)\n\n\n    \r\n1-1  \r\n\r\nLiam Morrison (23)\n\n\n    \r\n1-2  \r\n\r\nToyosi Olusanya (45)\n\n\r\n---------------------------------------\r\n\n\n2-2  \r\nJoe Westley (61)\n\n\n\n3-2  \r\nRyan Astley (90)\n\n\n\n\n\n\nstats\n\n\n\nSun 17 May\nLivingston - Kilmarnock\n\n\n\n1:4\n\n\n\n\n1-0  \r\nStevie May (19)\n\n\n    \r\n1-1  \r\n\r\nJoe Hugill (24)\n\n\n    \r\n1-2  \r\n\r\nNicky Clescenco (34)\n\n\r\n---------------------------------------\r\n\n    \r\n1-3  \r\n\r\nFindlay Curtis (53)\n\n\n    \r\n1-4  \r\n\r\nJoe Hugill (58)\n\n\n\n\n\n\nstats\n\n\n\nSun 17 May\nSt. Mirren - Dundee Utd\n\n\n\n1:1\n\n\n\n    \r\n0-1  \r\n\r\nZachary Sapsford (27)\n\n\r\n---------------------------------------\r\n\n\n1-1  \r\nJ. Young (69)\n\n\n\n\n\n\nstats\n\n\n\nSat 16 May\nCeltic - Hearts\n\n\n\n3:1\n\n\n\n    \r\n0-1  \r\n\r\nLawrence Shankland (43)\n\n\n\n1-1  \r\nArne Engels (45) pen.\r\n\r\n\n\r\n---------------------------------------\r\n\n\n2-1  \r\nDaizen Maeda (87)\n\n\n\n3-1  \r\nCallum Osmand (90)\n\n\n\n\n\n\nstats\n\n\n\nSat 16 May\nFalkirk - Rangers\n\n\n\n2:5\n\n\n\n    \r\n0-1  \r\n\r\nChermiti (2)\n\n\n    \r\n0-2  \r\n\r\nChermiti (6)\n\n\n\n1-2  \r\nJack Butland (o.g.) (7)\n\n\n    \r\n1-3  \r\n\r\nDjeidi Gassama (27)\n\n\n\n2-3  \r\nCalvin Miller (44) pen.\r\n\r\n\n\r\n---------------------------------------\r\n\n    \r\n2-4  \r\n\r\nChermiti (47)\n\n\n    \r\n2-5  \r\n\r\nThelo Aasgaard (79) pen.\r\n\n\n\n\n\n\nstats\n\n\n\nSat 16 May\nHibernian - Motherwell\n\n\n\n0:1\n\n\n\n    \r\n0-1  \r\n\r\nLukas Fadinger (35)\n\n\n\n\n\n\n\nstats\n\n\n\nWed 13 May\nHearts - Falkirk\n\n\n\n3:0\n\n\n\n\n1-0  \r\nFrankie Kent (29)\n\n\n\n2-0  \r\nCammy Devlin (34)\n\n\r\n---------------------------------------\r\n\n\n3-0  \r\nBlair Spittal (86)\n\n\n\n\n\n\nstats": {
-            "posicion": 16
+        "Celtic": {
+            "historial": [
+                {
+                    "Fecha": "Mon 3 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Celtic",
+                    "Visita": "Dundee FC",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:5]",
+                    "Local": "Kilmarnock",
+                    "Visita": "Celtic",
+                    "HT": "0-3",
+                    "Status": "🟢"
+                }
+            ]
         },
-        "Sun 17 May": {
-            "posicion": 19
+        "Dundee FC": {
+            "historial": [
+                {
+                    "Fecha": "Mon 3 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Celtic",
+                    "Visita": "Dundee FC",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Dundee FC",
+                    "Visita": "Aberdeen",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                }
+            ]
         },
-        "Sat 16 May": {
-            "posicion": 22
+        "Dundee Utd": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[4:0]",
+                    "Local": "Hearts",
+                    "Visita": "Dundee Utd",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 31 Jul",
+                    "Res": "[1:1]",
+                    "Local": "Dundee Utd",
+                    "Visita": "Rangers",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
         },
-        "Wed 13 May": {
-            "posicion": 23
+        "Rangers": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Rangers",
+                    "Visita": "Hibernian",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 31 Jul",
+                    "Res": "[1:1]",
+                    "Local": "Dundee Utd",
+                    "Visita": "Rangers",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
         }
     }
 }

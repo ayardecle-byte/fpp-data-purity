@@ -1,18 +1,6 @@
 {
     "posiciones": [
         [
-            "",
-            "Team",
-            "GP",
-            "W",
-            "D",
-            "L",
-            "GF",
-            "GA",
-            "GD",
-            "Pts"
-        ],
-        [
             "1",
             "Bodo/Glimt",
             "17",
@@ -21,8 +9,35 @@
             "2",
             "43",
             "12",
-            "31",
-            "41"
+            "+31",
+            "41",
+            "12 Jul KFUM Oslo\r\n - Bodo/Glimt 0:2 17 Jul Bodo/Glimt - \r\nFredrikstad 1:0 22 Jul Bodo/Glimt - \r\nHamKam 3:0 26 Jul Sandefjord\r\n - Bodo/Glimt 0:3 31 Jul Bodo/Glimt - \r\nLillestrom 4:0 8 Aug Valerenga\r\n - Bodo/Glimt 1:2 30 Aug Bodo/Glimt - \r\nRosenborg -",
+            "12 Jul",
+            "KFUM Oslo\r\n - Bodo/Glimt",
+            "0:2",
+            "17 Jul",
+            "Bodo/Glimt - \r\nFredrikstad",
+            "1:0",
+            "22 Jul",
+            "Bodo/Glimt - \r\nHamKam",
+            "3:0",
+            "26 Jul",
+            "Sandefjord\r\n - Bodo/Glimt",
+            "0:3",
+            "31 Jul",
+            "Bodo/Glimt - \r\nLillestrom",
+            "4:0",
+            "8 Aug",
+            "Valerenga\r\n - Bodo/Glimt",
+            "1:2",
+            "30 Aug",
+            "Bodo/Glimt - \r\nRosenborg",
+            "-",
+            "2.41",
+            "2.75",
+            "59%",
+            "88%",
+            "80"
         ],
         [
             "2",
@@ -33,23 +48,116 @@
             "3",
             "40",
             "17",
-            "23",
-            "40"
+            "+23",
+            "40",
+            "18 Jul Viking - \r\nSandefjord 2:1 22 Jul Lillestrom\r\n - Viking 1:2 26 Jul Aalesund\r\n - Viking 1:1 1 Aug Start\r\n - Viking 0:3 8 Aug Viking - \r\nSarpsborg 08 2:1 14 Aug Rosenborg\r\n - Viking 2:1 29 Aug Viking - \r\nAalesund -",
+            "18 Jul",
+            "Viking - \r\nSandefjord",
+            "2:1",
+            "22 Jul",
+            "Lillestrom\r\n - Viking",
+            "1:2",
+            "26 Jul",
+            "Aalesund\r\n - Viking",
+            "1:1",
+            "1 Aug",
+            "Start\r\n - Viking",
+            "0:3",
+            "8 Aug",
+            "Viking - \r\nSarpsborg 08",
+            "2:1",
+            "14 Aug",
+            "Rosenborg\r\n - Viking",
+            "2:1",
+            "29 Aug",
+            "Viking - \r\nAalesund",
+            "-",
+            "2.35",
+            "2.00",
+            "29%",
+            "94%",
+            "79"
         ],
         [
             "3",
             "Tromso",
-            "16",
+            "17",
             "10",
             "4",
-            "2",
-            "32",
-            "17",
-            "15",
-            "34"
+            "3",
+            "34",
+            "20",
+            "+14",
+            "34",
+            "25 May Tromso - \r\nAalesund 1:1 29 May KFUM Oslo\r\n - Tromso 0:0 11 Jul Tromso - \r\nValerenga 4:0 18 Jul HamKam\r\n - Tromso 1:4 2 Aug Aalesund\r\n - Tromso 2:6 16 Aug Molde\r\n - Tromso 3:2 30 Aug Tromso - \r\nSarpsborg 08 -",
+            "25 May",
+            "Tromso - \r\nAalesund",
+            "1:1",
+            "29 May",
+            "KFUM Oslo\r\n - Tromso",
+            "0:0",
+            "11 Jul",
+            "Tromso - \r\nValerenga",
+            "4:0",
+            "18 Jul",
+            "HamKam\r\n - Tromso",
+            "1:4",
+            "2 Aug",
+            "Aalesund\r\n - Tromso",
+            "2:6",
+            "16 Aug",
+            "Molde\r\n - Tromso",
+            "3:2",
+            "30 Aug",
+            "Tromso - \r\nSarpsborg 08",
+            "-",
+            "2.00",
+            "1.75",
+            "47%",
+            "76%",
+            "73"
         ],
         [
             "4",
+            "Molde",
+            "17",
+            "8",
+            "3",
+            "6",
+            "32",
+            "26",
+            "+6",
+            "27",
+            "11 Jul Aalesund\r\n - Molde 2:2 18 Jul Molde - \r\nBrann 1:2 26 Jul KFUM Oslo\r\n - Molde 2:4 2 Aug Molde - \r\nSarpsborg 08 3:3 9 Aug Kristiansund\r\n - Molde 2:1 16 Aug Molde - \r\nTromso 3:2 29 Aug Valerenga\r\n - Molde -",
+            "11 Jul",
+            "Aalesund\r\n - Molde",
+            "2:2",
+            "18 Jul",
+            "Molde - \r\nBrann",
+            "1:2",
+            "26 Jul",
+            "KFUM Oslo\r\n - Molde",
+            "2:4",
+            "2 Aug",
+            "Molde - \r\nSarpsborg 08",
+            "3:3",
+            "9 Aug",
+            "Kristiansund\r\n - Molde",
+            "2:1",
+            "16 Aug",
+            "Molde - \r\nTromso",
+            "3:2",
+            "29 Aug",
+            "Valerenga\r\n - Molde",
+            "-",
+            "1.59",
+            "1.38",
+            "18%",
+            "88%",
+            "66"
+        ],
+        [
+            "5",
             "Lillestrom",
             "17",
             "8",
@@ -57,23 +165,77 @@
             "7",
             "23",
             "21",
-            "2",
-            "26"
+            "+2",
+            "26",
+            "11 Jul Fredrikstad\r\n - Lillestrom 0:2 18 Jul Lillestrom - \r\nKFUM Oslo 2:1 22 Jul Lillestrom - \r\nViking 1:2 31 Jul Bodo/Glimt\r\n - Lillestrom 4:0 9 Aug Lillestrom - \r\nRosenborg 0:2 15 Aug KFUM Oslo\r\n - Lillestrom 1:1 30 Aug Lillestrom - \r\nFredrikstad -",
+            "11 Jul",
+            "Fredrikstad\r\n - Lillestrom",
+            "0:2",
+            "18 Jul",
+            "Lillestrom - \r\nKFUM Oslo",
+            "2:1",
+            "22 Jul",
+            "Lillestrom - \r\nViking",
+            "1:2",
+            "31 Jul",
+            "Bodo/Glimt\r\n - Lillestrom",
+            "4:0",
+            "9 Aug",
+            "Lillestrom - \r\nRosenborg",
+            "0:2",
+            "15 Aug",
+            "KFUM Oslo\r\n - Lillestrom",
+            "1:1",
+            "30 Aug",
+            "Lillestrom - \r\nFredrikstad",
+            "-",
+            "1.53",
+            "0.88",
+            "29%",
+            "65%",
+            "65"
         ],
         [
-            "5",
-            "Molde",
-            "16",
+            "6",
+            "Brann",
+            "17",
+            "8",
+            "1",
+            "8",
+            "36",
+            "27",
+            "+9",
+            "25",
+            "29 May Brann - \r\nSarpsborg 08 1:2 12 Jul Brann - \r\nStart 2:1 18 Jul Molde\r\n - Brann 1:2 26 Jul Brann - \r\nValerenga 2:3 2 Aug Brann - \r\nRosenborg 3:2 16 Aug Brann - \r\nHamKam 3:0 30 Aug Sandefjord\r\n - Brann -",
+            "29 May",
+            "Brann - \r\nSarpsborg 08",
+            "1:2",
+            "12 Jul",
+            "Brann - \r\nStart",
+            "2:1",
+            "18 Jul",
+            "Molde\r\n - Brann",
+            "1:2",
+            "26 Jul",
+            "Brann - \r\nValerenga",
+            "2:3",
+            "2 Aug",
+            "Brann - \r\nRosenborg",
+            "3:2",
+            "16 Aug",
+            "Brann - \r\nHamKam",
+            "3:0",
+            "30 Aug",
+            "Sandefjord\r\n - Brann",
+            "-",
+            "1.47",
+            "1.50",
+            "12%",
+            "94%",
+            "64"
+        ],
+        [
             "7",
-            "3",
-            "6",
-            "29",
-            "24",
-            "5",
-            "24"
-        ],
-        [
-            "6",
             "Rosenborg",
             "17",
             "7",
@@ -81,68 +243,191 @@
             "7",
             "25",
             "22",
-            "3",
-            "24"
+            "+3",
+            "24",
+            "12 Jul Rosenborg - \r\nKristiansund 3:0 18 Jul Start\r\n - Rosenborg 0:3 27 Jul Rosenborg - \r\nFredrikstad 4:0 2 Aug Brann\r\n - Rosenborg 3:2 9 Aug Lillestrom\r\n - Rosenborg 0:2 14 Aug Rosenborg - \r\nViking 2:1 30 Aug Bodo/Glimt\r\n - Rosenborg -",
+            "12 Jul",
+            "Rosenborg - \r\nKristiansund",
+            "3:0",
+            "18 Jul",
+            "Start\r\n - Rosenborg",
+            "0:3",
+            "27 Jul",
+            "Rosenborg - \r\nFredrikstad",
+            "4:0",
+            "2 Aug",
+            "Brann\r\n - Rosenborg",
+            "3:2",
+            "9 Aug",
+            "Lillestrom\r\n - Rosenborg",
+            "0:2",
+            "14 Aug",
+            "Rosenborg - \r\nViking",
+            "2:1",
+            "30 Aug",
+            "Bodo/Glimt\r\n - Rosenborg",
+            "-",
+            "1.41",
+            "2.00",
+            "35%",
+            "65%",
+            "63"
         ],
         [
-            "7",
-            "Brann",
-            "16",
-            "7",
-            "1",
             "8",
-            "33",
+            "Fredrikstad",
+            "17",
+            "7",
+            "2",
+            "8",
+            "18",
             "27",
-            "6",
-            "22"
-        ],
-        [
-            "8",
-            "Sarpsborg 08",
-            "16",
-            "6",
-            "4",
-            "6",
-            "19",
-            "21",
-            "-2",
-            "22"
+            "-9",
+            "23",
+            "11 Jul Fredrikstad - \r\nLillestrom 0:2 17 Jul Bodo/Glimt\r\n - Fredrikstad 1:0 27 Jul Rosenborg\r\n - Fredrikstad 4:0 1 Aug Fredrikstad - \r\nSandefjord 1:0 8 Aug Start\r\n - Fredrikstad 0:1 16 Aug Fredrikstad - \r\nKristiansund 1:0 30 Aug Lillestrom\r\n - Fredrikstad -",
+            "11 Jul",
+            "Fredrikstad - \r\nLillestrom",
+            "0:2",
+            "17 Jul",
+            "Bodo/Glimt\r\n - Fredrikstad",
+            "1:0",
+            "27 Jul",
+            "Rosenborg\r\n - Fredrikstad",
+            "4:0",
+            "1 Aug",
+            "Fredrikstad - \r\nSandefjord",
+            "1:0",
+            "8 Aug",
+            "Start\r\n - Fredrikstad",
+            "0:1",
+            "16 Aug",
+            "Fredrikstad - \r\nKristiansund",
+            "1:0",
+            "30 Aug",
+            "Lillestrom\r\n - Fredrikstad",
+            "-",
+            "1.35",
+            "1.63",
+            "18%",
+            "71%",
+            "62"
         ],
         [
             "9",
-            "HamKam",
-            "16",
+            "Sarpsborg 08",
+            "17",
             "6",
             "4",
-            "6",
-            "24",
-            "27",
+            "7",
+            "20",
+            "23",
             "-3",
-            "22"
+            "22",
+            "12 Jul Sarpsborg 08 - \r\nViking 1:0 18 Jul Kristiansund\r\n - Sarpsborg 08 0:0 26 Jul Sarpsborg 08 - \r\nHamKam 1:0 2 Aug Molde\r\n - Sarpsborg 08 3:3 8 Aug Viking\r\n - Sarpsborg 08 2:1 16 Aug Sarpsborg 08 - \r\nSandefjord 1:2 30 Aug Tromso\r\n - Sarpsborg 08 -",
+            "12 Jul",
+            "Sarpsborg 08 - \r\nViking",
+            "1:0",
+            "18 Jul",
+            "Kristiansund\r\n - Sarpsborg 08",
+            "0:0",
+            "26 Jul",
+            "Sarpsborg 08 - \r\nHamKam",
+            "1:0",
+            "2 Aug",
+            "Molde\r\n - Sarpsborg 08",
+            "3:3",
+            "8 Aug",
+            "Viking\r\n - Sarpsborg 08",
+            "2:1",
+            "16 Aug",
+            "Sarpsborg 08 - \r\nSandefjord",
+            "1:2",
+            "30 Aug",
+            "Tromso\r\n - Sarpsborg 08",
+            "-",
+            "1.29",
+            "1.75",
+            "24%",
+            "76%",
+            "61"
         ],
         [
             "10",
-            "Valerenga",
-            "16",
+            "HamKam",
+            "17",
             "6",
-            "2",
-            "8",
-            "23",
-            "29",
+            "4",
+            "7",
+            "24",
+            "30",
             "-6",
-            "20"
+            "22",
+            "18 Jul HamKam - \r\nTromso 1:4 22 Jul Bodo/Glimt\r\n - HamKam 3:0 26 Jul Sarpsborg 08\r\n - HamKam 1:0 31 Jul Valerenga\r\n - HamKam 0:3 9 Aug HamKam - \r\nAalesund 1:1 16 Aug Brann\r\n - HamKam 3:0 30 Aug HamKam - \r\nKristiansund -",
+            "18 Jul",
+            "HamKam - \r\nTromso",
+            "1:4",
+            "22 Jul",
+            "Bodo/Glimt\r\n - HamKam",
+            "3:0",
+            "26 Jul",
+            "Sarpsborg 08\r\n - HamKam",
+            "1:0",
+            "31 Jul",
+            "Valerenga\r\n - HamKam",
+            "0:3",
+            "9 Aug",
+            "HamKam - \r\nAalesund",
+            "1:1",
+            "16 Aug",
+            "Brann\r\n - HamKam",
+            "3:0",
+            "30 Aug",
+            "HamKam - \r\nKristiansund",
+            "-",
+            "1.29",
+            "0.75",
+            "24%",
+            "82%",
+            "61"
         ],
         [
             "11",
-            "Fredrikstad",
-            "16",
-            "6",
-            "2",
-            "8",
+            "Valerenga",
             "17",
-            "27",
-            "-10",
-            "20"
+            "6",
+            "3",
+            "8",
+            "28",
+            "34",
+            "-6",
+            "21",
+            "11 Jul Tromso\r\n - Valerenga 4:0 16 Jul Valerenga - \r\nAalesund 6:1 26 Jul Brann\r\n - Valerenga 2:3 31 Jul Valerenga - \r\nHamKam 0:3 8 Aug Valerenga - \r\nBodo/Glimt 1:2 16 Aug Aalesund\r\n - Valerenga 5:5 29 Aug Valerenga - \r\nMolde -",
+            "11 Jul",
+            "Tromso\r\n - Valerenga",
+            "4:0",
+            "16 Jul",
+            "Valerenga - \r\nAalesund",
+            "6:1",
+            "26 Jul",
+            "Brann\r\n - Valerenga",
+            "2:3",
+            "31 Jul",
+            "Valerenga - \r\nHamKam",
+            "0:3",
+            "8 Aug",
+            "Valerenga - \r\nBodo/Glimt",
+            "1:2",
+            "16 Aug",
+            "Aalesund\r\n - Valerenga",
+            "5:5",
+            "29 Aug",
+            "Valerenga - \r\nMolde",
+            "-",
+            "1.24",
+            "1.25",
+            "12%",
+            "65%",
+            "60"
         ],
         [
             "12",
@@ -154,43 +439,151 @@
             "19",
             "27",
             "-8",
-            "19"
+            "19",
+            "12 Jul KFUM Oslo - \r\nBodo/Glimt 0:2 18 Jul Lillestrom\r\n - KFUM Oslo 2:1 26 Jul KFUM Oslo - \r\nMolde 2:4 2 Aug KFUM Oslo - \r\nKristiansund 2:1 7 Aug Sandefjord\r\n - KFUM Oslo 0:1 15 Aug KFUM Oslo - \r\nLillestrom 1:1 30 Aug Start\r\n - KFUM Oslo -",
+            "12 Jul",
+            "KFUM Oslo - \r\nBodo/Glimt",
+            "0:2",
+            "18 Jul",
+            "Lillestrom\r\n - KFUM Oslo",
+            "2:1",
+            "26 Jul",
+            "KFUM Oslo - \r\nMolde",
+            "2:4",
+            "2 Aug",
+            "KFUM Oslo - \r\nKristiansund",
+            "2:1",
+            "7 Aug",
+            "Sandefjord\r\n - KFUM Oslo",
+            "0:1",
+            "15 Aug",
+            "KFUM Oslo - \r\nLillestrom",
+            "1:1",
+            "30 Aug",
+            "Start\r\n - KFUM Oslo",
+            "-",
+            "1.12",
+            "1.38",
+            "29%",
+            "76%",
+            "58"
         ],
         [
             "13",
             "Sandefjord",
-            "16",
-            "4",
+            "17",
+            "5",
             "3",
             "9",
-            "13",
-            "22",
-            "-9",
-            "15"
+            "15",
+            "23",
+            "-8",
+            "18",
+            "12 Jul Sandefjord - \r\nHamKam 2:2 18 Jul Viking\r\n - Sandefjord 2:1 26 Jul Sandefjord - \r\nBodo/Glimt 0:3 1 Aug Fredrikstad\r\n - Sandefjord 1:0 7 Aug Sandefjord - \r\nKFUM Oslo 0:1 16 Aug Sarpsborg 08\r\n - Sandefjord 1:2 30 Aug Sandefjord - \r\nBrann -",
+            "12 Jul",
+            "Sandefjord - \r\nHamKam",
+            "2:2",
+            "18 Jul",
+            "Viking\r\n - Sandefjord",
+            "2:1",
+            "26 Jul",
+            "Sandefjord - \r\nBodo/Glimt",
+            "0:3",
+            "1 Aug",
+            "Fredrikstad\r\n - Sandefjord",
+            "1:0",
+            "7 Aug",
+            "Sandefjord - \r\nKFUM Oslo",
+            "0:1",
+            "16 Aug",
+            "Sarpsborg 08\r\n - Sandefjord",
+            "1:2",
+            "30 Aug",
+            "Sandefjord - \r\nBrann",
+            "-",
+            "1.06",
+            "0.63",
+            "24%",
+            "65%",
+            "57"
         ],
         [
             "14",
             "Kristiansund",
-            "16",
+            "17",
             "4",
             "3",
-            "9",
+            "10",
             "15",
-            "26",
-            "-11",
-            "15"
+            "27",
+            "-12",
+            "15",
+            "12 Jul Rosenborg\r\n - Kristiansund 3:0 18 Jul Kristiansund - \r\nSarpsborg 08 0:0 25 Jul Kristiansund - \r\nStart 1:2 2 Aug KFUM Oslo\r\n - Kristiansund 2:1 9 Aug Kristiansund - \r\nMolde 2:1 16 Aug Fredrikstad\r\n - Kristiansund 1:0 30 Aug HamKam\r\n - Kristiansund -",
+            "12 Jul",
+            "Rosenborg\r\n - Kristiansund",
+            "3:0",
+            "18 Jul",
+            "Kristiansund - \r\nSarpsborg 08",
+            "0:0",
+            "25 Jul",
+            "Kristiansund - \r\nStart",
+            "1:2",
+            "2 Aug",
+            "KFUM Oslo\r\n - Kristiansund",
+            "2:1",
+            "9 Aug",
+            "Kristiansund - \r\nMolde",
+            "2:1",
+            "16 Aug",
+            "Fredrikstad\r\n - Kristiansund",
+            "1:0",
+            "30 Aug",
+            "HamKam\r\n - Kristiansund",
+            "-",
+            "0.88",
+            "0.50",
+            "12%",
+            "59%",
+            "54"
         ],
         [
             "15",
             "Aalesund",
-            "16",
+            "17",
             "2",
-            "8",
+            "9",
             "6",
-            "22",
-            "36",
+            "27",
+            "41",
             "-14",
-            "14"
+            "15",
+            "11 Jul Aalesund - \r\nMolde 2:2 16 Jul Valerenga\r\n - Aalesund 6:1 26 Jul Aalesund - \r\nViking 1:1 2 Aug Aalesund - \r\nTromso 2:6 9 Aug HamKam\r\n - Aalesund 1:1 16 Aug Aalesund - \r\nValerenga 5:5 29 Aug Viking\r\n - Aalesund -",
+            "11 Jul",
+            "Aalesund - \r\nMolde",
+            "2:2",
+            "16 Jul",
+            "Valerenga\r\n - Aalesund",
+            "6:1",
+            "26 Jul",
+            "Aalesund - \r\nViking",
+            "1:1",
+            "2 Aug",
+            "Aalesund - \r\nTromso",
+            "2:6",
+            "9 Aug",
+            "HamKam\r\n - Aalesund",
+            "1:1",
+            "16 Aug",
+            "Aalesund - \r\nValerenga",
+            "5:5",
+            "29 Aug",
+            "Viking\r\n - Aalesund",
+            "-",
+            "0.88",
+            "0.75",
+            "0%",
+            "88%",
+            "54"
         ],
         [
             "16",
@@ -202,2505 +595,1592 @@
             "16",
             "38",
             "-22",
-            "10"
+            "10",
+            "29 May Fredrikstad\r\n - Start 2:1 12 Jul Brann\r\n - Start 2:1 18 Jul Start - \r\nRosenborg 0:3 25 Jul Kristiansund\r\n - Start 1:2 1 Aug Start - \r\nViking 0:3 8 Aug Start - \r\nFredrikstad 0:1 30 Aug Start - \r\nKFUM Oslo -",
+            "29 May",
+            "Fredrikstad\r\n - Start",
+            "2:1",
+            "12 Jul",
+            "Brann\r\n - Start",
+            "2:1",
+            "18 Jul",
+            "Start - \r\nRosenborg",
+            "0:3",
+            "25 Jul",
+            "Kristiansund\r\n - Start",
+            "1:2",
+            "1 Aug",
+            "Start - \r\nViking",
+            "0:3",
+            "8 Aug",
+            "Start - \r\nFredrikstad",
+            "0:1",
+            "30 Aug",
+            "Start - \r\nKFUM Oslo",
+            "-",
+            "0.59",
+            "0.75",
+            "6%",
+            "71%",
+            "49"
         ]
     ],
-    "estadisticas_avanzadas": {
-        "Bodo/Glimt": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 17,
-                "over_15_ht": 7,
-                "ganando_ht": 13,
-                "empatando_ht": 1,
-                "perdiendo_ht": 3,
-                "goles_a_favor_ht": 19,
-                "goles_en_contra_ht": 7,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 41.2,
-                "%_ganando_ht": 76.5,
-                "promedio_gf_ht": 1.12,
-                "promedio_gc_ht": 0.41
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "Kristiansund",
-                    "Res": "[0:3]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "Viking",
-                    "Res": "[5:0]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:1]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Apr",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:0]",
-                    "Visita": "Aalesund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Lillestrom",
-                    "Res": "[0:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "30 Apr",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[5:0]",
-                    "Visita": "Start",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "4 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[0:1]",
-                    "Visita": "Molde",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[5:0]",
-                    "Visita": "Tromso",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "20 May",
-                    "Local": "Start",
-                    "Res": "[1:4]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:1]",
-                    "Visita": "Brann",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Jul",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "17 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[1:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Sandefjord",
-                    "Res": "[0:3]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "31 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[4:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Aug",
-                    "Local": "Valerenga",
-                    "Res": "[1:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟢🟢🟢🟢"
-        },
-        "Viking": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 17,
-                "over_15_ht": 7,
-                "ganando_ht": 13,
-                "empatando_ht": 0,
-                "perdiendo_ht": 4,
-                "goles_a_favor_ht": 23,
-                "goles_en_contra_ht": 9,
-                "%_over_0.5_ht": 100.0,
-                "%_over_1.5_ht": 41.2,
-                "%_ganando_ht": 76.5,
-                "promedio_gf_ht": 1.35,
-                "promedio_gc_ht": 0.53
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Viking",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "21 Mar",
-                    "Local": "Viking",
-                    "Res": "[4:1]",
-                    "Visita": "Molde",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "Valerenga",
-                    "Res": "[0:1]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Apr",
-                    "Local": "Viking",
-                    "Res": "[5:0]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Apr",
-                    "Local": "Viking",
-                    "Res": "[3:2]",
-                    "Visita": "Brann",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Apr",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 May",
-                    "Local": "Viking",
-                    "Res": "[3:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Viking",
-                    "Res": "[6:3]",
-                    "Visita": "Start",
-                    "HT": "1-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "24 May",
-                    "Local": "Kristiansund",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:0]",
-                    "Visita": "Viking",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "Viking",
-                    "Res": "[2:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Jul",
-                    "Local": "Lillestrom",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "Aalesund",
-                    "Res": "[1:1]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 Aug",
-                    "Local": "Start",
-                    "Res": "[0:3]",
-                    "Visita": "Viking",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Aug",
-                    "Local": "Viking",
-                    "Res": "[2:1]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Aug",
-                    "Local": "Rosenborg",
-                    "Res": "[2:1]",
-                    "Visita": "Viking",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟡🟢🟢🔴"
-        },
-        "Tromso": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 11,
-                "over_15_ht": 5,
-                "ganando_ht": 7,
-                "empatando_ht": 7,
-                "perdiendo_ht": 2,
-                "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 6,
-                "%_over_0.5_ht": 68.8,
-                "%_over_1.5_ht": 31.2,
-                "%_ganando_ht": 43.8,
-                "promedio_gf_ht": 0.75,
-                "promedio_gc_ht": 0.38
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Tromso",
-                    "Res": "[4:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Brann",
-                    "Res": "[1:2]",
-                    "Visita": "Tromso",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Apr",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Apr",
-                    "Local": "Tromso",
-                    "Res": "[0:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[0:1]",
-                    "Visita": "Tromso",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Tromso",
-                    "Res": "[3:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 Apr",
-                    "Local": "Tromso",
-                    "Res": "[0:5]",
-                    "Visita": "Brann",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Tromso",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Molde",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[5:0]",
-                    "Visita": "Tromso",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 May",
-                    "Local": "Tromso",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:0]",
-                    "Visita": "Tromso",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Jul",
-                    "Local": "Tromso",
-                    "Res": "[4:0]",
-                    "Visita": "Valerenga",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "HamKam",
-                    "Res": "[1:4]",
-                    "Visita": "Tromso",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Aalesund",
-                    "Res": "[2:6]",
-                    "Visita": "Tromso",
-                    "HT": "1-1"
-                }
-            ],
-            "racha_ultimos_5": "🟡🟡🟢🟢🟢"
-        },
-        "Lillestrom": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 12,
-                "over_15_ht": 6,
-                "ganando_ht": 3,
-                "empatando_ht": 7,
-                "perdiendo_ht": 7,
-                "goles_a_favor_ht": 7,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 70.6,
-                "%_over_1.5_ht": 35.3,
-                "%_ganando_ht": 17.6,
-                "promedio_gf_ht": 0.41,
-                "promedio_gc_ht": 0.65
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Aalesund",
-                    "Res": "[1:3]",
-                    "Visita": "Lillestrom",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "Molde",
-                    "Res": "[0:1]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Apr",
-                    "Local": "Lillestrom",
-                    "Res": "[3:1]",
-                    "Visita": "Start",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Apr",
-                    "Local": "Tromso",
-                    "Res": "[0:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Valerenga",
-                    "Res": "[0:2]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Lillestrom",
-                    "Res": "[0:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 May",
-                    "Local": "Lillestrom",
-                    "Res": "[4:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Lillestrom",
-                    "Res": "[3:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "20 May",
-                    "Local": "Lillestrom",
-                    "Res": "[1:2]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 May",
-                    "Local": "HamKam",
-                    "Res": "[2:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "11 Jul",
-                    "Local": "Fredrikstad",
-                    "Res": "[0:2]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "Lillestrom",
-                    "Res": "[2:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Jul",
-                    "Local": "Lillestrom",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "31 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[4:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 Aug",
-                    "Local": "Lillestrom",
-                    "Res": "[0:2]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Aug",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:1]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🔴🔴🔴🟡"
-        },
-        "Molde": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 8,
-                "ganando_ht": 6,
-                "empatando_ht": 6,
-                "perdiendo_ht": 4,
-                "goles_a_favor_ht": 14,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 37.5,
-                "promedio_gf_ht": 0.88,
-                "promedio_gc_ht": 0.75
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Mar",
-                    "Local": "Molde",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "21 Mar",
-                    "Local": "Viking",
-                    "Res": "[4:1]",
-                    "Visita": "Molde",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "Molde",
-                    "Res": "[0:1]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Molde",
-                    "Res": "[4:1]",
-                    "Visita": "HamKam",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "19 Apr",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Molde",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "Molde",
-                    "Res": "[5:1]",
-                    "Visita": "Valerenga",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "4 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[0:1]",
-                    "Visita": "Molde",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Molde",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Molde",
-                    "Res": "[1:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 May",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[2:1]",
-                    "Visita": "Molde",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "30 May",
-                    "Local": "Molde",
-                    "Res": "[2:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Jul",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "Molde",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "Molde",
-                    "Res": "[1:2]",
-                    "Visita": "Brann",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:4]",
-                    "Visita": "Molde",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Aug",
-                    "Local": "Molde",
-                    "Res": "[3:3]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 Aug",
-                    "Local": "Kristiansund",
-                    "Res": "[2:1]",
-                    "Visita": "Molde",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴🟢🟡🔴"
-        },
-        "Rosenborg": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 15,
-                "over_15_ht": 9,
-                "ganando_ht": 6,
-                "empatando_ht": 6,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 88.2,
-                "%_over_1.5_ht": 52.9,
-                "%_ganando_ht": 35.3,
-                "promedio_gf_ht": 0.76,
-                "promedio_gc_ht": 0.65
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "14 Mar",
-                    "Local": "Molde",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Rosenborg",
-                    "Res": "[0:2]",
-                    "Visita": "Valerenga",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Rosenborg",
-                    "Res": "[2:1]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Sandefjord",
-                    "Res": "[0:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 Apr",
-                    "Local": "Rosenborg",
-                    "Res": "[1:1]",
-                    "Visita": "Brann",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 May",
-                    "Local": "Viking",
-                    "Res": "[3:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:3]",
-                    "Visita": "Aalesund",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Jul",
-                    "Local": "Rosenborg",
-                    "Res": "[3:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "Start",
-                    "Res": "[0:3]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "27 Jul",
-                    "Local": "Rosenborg",
-                    "Res": "[4:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Brann",
-                    "Res": "[3:2]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "9 Aug",
-                    "Local": "Lillestrom",
-                    "Res": "[0:2]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Aug",
-                    "Local": "Rosenborg",
-                    "Res": "[2:1]",
-                    "Visita": "Viking",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟢🔴🟢🟢"
-        },
-        "Brann": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 15,
-                "over_15_ht": 11,
-                "ganando_ht": 6,
-                "empatando_ht": 4,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 16,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 93.8,
-                "%_over_1.5_ht": 68.8,
-                "%_ganando_ht": 37.5,
-                "promedio_gf_ht": 1.0,
-                "promedio_gc_ht": 0.88
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Kristiansund",
-                    "Res": "[3:2]",
-                    "Visita": "Brann",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Brann",
-                    "Res": "[1:2]",
-                    "Visita": "Tromso",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "6 Apr",
-                    "Local": "HamKam",
-                    "Res": "[1:5]",
-                    "Visita": "Brann",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Brann",
-                    "Res": "[0:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "Viking",
-                    "Res": "[3:2]",
-                    "Visita": "Brann",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 Apr",
-                    "Local": "Rosenborg",
-                    "Res": "[1:1]",
-                    "Visita": "Brann",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "29 Apr",
-                    "Local": "Tromso",
-                    "Res": "[0:5]",
-                    "Visita": "Brann",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 May",
-                    "Local": "Brann",
-                    "Res": "[3:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Brann",
-                    "Res": "[2:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "20 May",
-                    "Local": "Aalesund",
-                    "Res": "[2:1]",
-                    "Visita": "Brann",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:1]",
-                    "Visita": "Brann",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 May",
-                    "Local": "Brann",
-                    "Res": "[1:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Jul",
-                    "Local": "Brann",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "18 Jul",
-                    "Local": "Molde",
-                    "Res": "[1:2]",
-                    "Visita": "Brann",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Brann",
-                    "Res": "[2:3]",
-                    "Visita": "Valerenga",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "Brann",
-                    "Res": "[3:2]",
-                    "Visita": "Rosenborg",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟢🟢🔴🟢"
-        },
-        "Sarpsborg 08": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 9,
-                "ganando_ht": 5,
-                "empatando_ht": 8,
-                "perdiendo_ht": 3,
-                "goles_a_favor_ht": 14,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 56.2,
-                "%_ganando_ht": 31.2,
-                "promedio_gf_ht": 0.88,
-                "promedio_gc_ht": 0.75
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Sandefjord",
-                    "Res": "[0:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "6 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:1]",
-                    "Visita": "Start",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Rosenborg",
-                    "Res": "[2:1]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:1]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[0:1]",
-                    "Visita": "Tromso",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "Lillestrom",
-                    "Res": "[4:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "9 May",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[2:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Valerenga",
-                    "Res": "[3:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 May",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[2:1]",
-                    "Visita": "Molde",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "29 May",
-                    "Local": "Brann",
-                    "Res": "[1:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Jul",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:0]",
-                    "Visita": "Viking",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Jul",
-                    "Local": "Kristiansund",
-                    "Res": "[0:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "2 Aug",
-                    "Local": "Molde",
-                    "Res": "[3:3]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Aug",
-                    "Local": "Viking",
-                    "Res": "[2:1]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🟢🟡🟢🟡🔴"
-        },
-        "HamKam": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 6,
-                "ganando_ht": 5,
-                "empatando_ht": 3,
-                "perdiendo_ht": 8,
-                "goles_a_favor_ht": 8,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 37.5,
-                "%_ganando_ht": 31.2,
-                "promedio_gf_ht": 0.5,
-                "promedio_gc_ht": 0.88
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "14 Mar",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Viking",
-                    "HT": "2-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "HamKam",
-                    "Res": "[1:5]",
-                    "Visita": "Brann",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Apr",
-                    "Local": "Molde",
-                    "Res": "[4:1]",
-                    "Visita": "HamKam",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "HamKam",
-                    "Res": "[4:0]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Kristiansund",
-                    "Res": "[1:1]",
-                    "Visita": "HamKam",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 May",
-                    "Local": "HamKam",
-                    "Res": "[1:0]",
-                    "Visita": "Valerenga",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Fredrikstad",
-                    "Res": "[2:1]",
-                    "Visita": "HamKam",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 May",
-                    "Local": "HamKam",
-                    "Res": "[2:0]",
-                    "Visita": "Lillestrom",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Jul",
-                    "Local": "Sandefjord",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "HamKam",
-                    "Res": "[1:4]",
-                    "Visita": "Tromso",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:0]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "31 Jul",
-                    "Local": "Valerenga",
-                    "Res": "[0:3]",
-                    "Visita": "HamKam",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "9 Aug",
-                    "Local": "HamKam",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🔴🟢🟡"
-        },
-        "Valerenga": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 7,
-                "ganando_ht": 5,
-                "empatando_ht": 5,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 13,
-                "goles_en_contra_ht": 13,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 43.8,
-                "%_ganando_ht": 31.2,
-                "promedio_gf_ht": 0.81,
-                "promedio_gc_ht": 0.81
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Valerenga",
-                    "Res": "[1:0]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Rosenborg",
-                    "Res": "[0:2]",
-                    "Visita": "Valerenga",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "Valerenga",
-                    "Res": "[0:1]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:1]",
-                    "Visita": "Valerenga",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "Valerenga",
-                    "Res": "[0:2]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Molde",
-                    "Res": "[5:1]",
-                    "Visita": "Valerenga",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Valerenga",
-                    "Res": "[2:2]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 May",
-                    "Local": "HamKam",
-                    "Res": "[1:0]",
-                    "Visita": "Valerenga",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Valerenga",
-                    "Res": "[3:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "2-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 May",
-                    "Local": "Start",
-                    "Res": "[2:0]",
-                    "Visita": "Valerenga",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "29 May",
-                    "Local": "Valerenga",
-                    "Res": "[3:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Jul",
-                    "Local": "Tromso",
-                    "Res": "[4:0]",
-                    "Visita": "Valerenga",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 Jul",
-                    "Local": "Valerenga",
-                    "Res": "[6:1]",
-                    "Visita": "Aalesund",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Jul",
-                    "Local": "Brann",
-                    "Res": "[2:3]",
-                    "Visita": "Valerenga",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "31 Jul",
-                    "Local": "Valerenga",
-                    "Res": "[0:3]",
-                    "Visita": "HamKam",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Aug",
-                    "Local": "Valerenga",
-                    "Res": "[1:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟢🟢🔴🔴"
-        },
-        "Fredrikstad": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 13,
-                "over_15_ht": 5,
-                "ganando_ht": 4,
-                "empatando_ht": 5,
-                "perdiendo_ht": 7,
-                "goles_a_favor_ht": 9,
-                "goles_en_contra_ht": 11,
-                "%_over_0.5_ht": 81.2,
-                "%_over_1.5_ht": 31.2,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.56,
-                "promedio_gc_ht": 0.69
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Tromso",
-                    "Res": "[4:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "22 Mar",
-                    "Local": "Fredrikstad",
-                    "Res": "[3:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "7 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[2:3]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:1]",
-                    "Visita": "Valerenga",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "Kristiansund",
-                    "Res": "[2:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Apr",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 May",
-                    "Local": "Brann",
-                    "Res": "[3:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "9 May",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[2:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Fredrikstad",
-                    "Res": "[2:1]",
-                    "Visita": "HamKam",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 May",
-                    "Local": "Sandefjord",
-                    "Res": "[1:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "29 May",
-                    "Local": "Fredrikstad",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Jul",
-                    "Local": "Fredrikstad",
-                    "Res": "[0:2]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "17 Jul",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[1:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "27 Jul",
-                    "Local": "Rosenborg",
-                    "Res": "[4:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "1 Aug",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:0]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "8 Aug",
-                    "Local": "Start",
-                    "Res": "[0:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🔴🟢🟢"
-        },
-        "KFUM Oslo": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 14,
-                "over_15_ht": 10,
-                "ganando_ht": 4,
-                "empatando_ht": 7,
-                "perdiendo_ht": 6,
-                "goles_a_favor_ht": 12,
-                "goles_en_contra_ht": 15,
-                "%_over_0.5_ht": 82.4,
-                "%_over_1.5_ht": 58.8,
-                "%_ganando_ht": 23.5,
-                "promedio_gf_ht": 0.71,
-                "promedio_gc_ht": 0.88
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:0]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Fredrikstad",
-                    "Res": "[3:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "3-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Apr",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:2]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "19 Apr",
-                    "Local": "HamKam",
-                    "Res": "[4:0]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "26 Apr",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Valerenga",
-                    "Res": "[2:2]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Brann",
-                    "Res": "[2:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:0]",
-                    "Visita": "Tromso",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "KFUM Oslo",
-                    "Res": "[0:2]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "Lillestrom",
-                    "Res": "[2:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:4]",
-                    "Visita": "Molde",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "2 Aug",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "7 Aug",
-                    "Local": "Sandefjord",
-                    "Res": "[0:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "15 Aug",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:1]",
-                    "Visita": "Lillestrom",
-                    "HT": "0-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🟢🟢🟡"
-        },
-        "Sandefjord": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 13,
-                "over_15_ht": 3,
-                "ganando_ht": 4,
-                "empatando_ht": 3,
-                "perdiendo_ht": 9,
-                "goles_a_favor_ht": 5,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 81.2,
-                "%_over_1.5_ht": 18.8,
-                "%_ganando_ht": 25.0,
-                "promedio_gf_ht": 0.31,
-                "promedio_gc_ht": 0.75
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Valerenga",
-                    "Res": "[1:0]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "22 Mar",
-                    "Local": "Sandefjord",
-                    "Res": "[0:2]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "7 Apr",
-                    "Local": "KFUM Oslo",
-                    "Res": "[1:2]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "12 Apr",
-                    "Local": "Brann",
-                    "Res": "[0:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Apr",
-                    "Local": "Sandefjord",
-                    "Res": "[0:0]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "Tromso",
-                    "Res": "[3:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "3 May",
-                    "Local": "Sandefjord",
-                    "Res": "[1:0]",
-                    "Visita": "Aalesund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "10 May",
-                    "Local": "Sandefjord",
-                    "Res": "[2:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Lillestrom",
-                    "Res": "[3:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 May",
-                    "Local": "Sandefjord",
-                    "Res": "[1:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 May",
-                    "Local": "Molde",
-                    "Res": "[2:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Jul",
-                    "Local": "Sandefjord",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "Viking",
-                    "Res": "[2:1]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Jul",
-                    "Local": "Sandefjord",
-                    "Res": "[0:3]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Aug",
-                    "Local": "Fredrikstad",
-                    "Res": "[1:0]",
-                    "Visita": "Sandefjord",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Aug",
-                    "Local": "Sandefjord",
-                    "Res": "[0:1]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴🔴🔴🔴"
-        },
-        "Kristiansund": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 11,
-                "over_15_ht": 5,
-                "ganando_ht": 2,
-                "empatando_ht": 7,
-                "perdiendo_ht": 7,
-                "goles_a_favor_ht": 4,
-                "goles_en_contra_ht": 12,
-                "%_over_0.5_ht": 68.8,
-                "%_over_1.5_ht": 31.2,
-                "%_ganando_ht": 12.5,
-                "promedio_gf_ht": 0.25,
-                "promedio_gc_ht": 0.75
-            },
-            "historial": [
-                {
-                    "Status": "🟢",
-                    "Fecha": "15 Mar",
-                    "Local": "Kristiansund",
-                    "Res": "[3:2]",
-                    "Visita": "Brann",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "6 Apr",
-                    "Local": "Kristiansund",
-                    "Res": "[0:3]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "0-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "Tromso",
-                    "Res": "[2:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "19 Apr",
-                    "Local": "Kristiansund",
-                    "Res": "[2:0]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[1:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Kristiansund",
-                    "Res": "[1:1]",
-                    "Visita": "HamKam",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "10 May",
-                    "Local": "Sandefjord",
-                    "Res": "[2:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Molde",
-                    "Res": "[1:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "20 May",
-                    "Local": "Lillestrom",
-                    "Res": "[1:2]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "24 May",
-                    "Local": "Kristiansund",
-                    "Res": "[1:2]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 May",
-                    "Local": "Valerenga",
-                    "Res": "[3:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Rosenborg",
-                    "Res": "[3:0]",
-                    "Visita": "Kristiansund",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "18 Jul",
-                    "Local": "Kristiansund",
-                    "Res": "[0:0]",
-                    "Visita": "Sarpsborg 08",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "25 Jul",
-                    "Local": "Kristiansund",
-                    "Res": "[1:2]",
-                    "Visita": "Start",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "9 Aug",
-                    "Local": "Kristiansund",
-                    "Res": "[2:1]",
-                    "Visita": "Molde",
-                    "HT": "1-0"
-                }
-            ],
-            "racha_ultimos_5": "🔴🟡🔴🔴🟢"
-        },
-        "Aalesund": {
-            "ht_stats": {
-                "partidos_jugados": 16,
-                "over_05_ht": 14,
-                "over_15_ht": 8,
-                "ganando_ht": 3,
-                "empatando_ht": 8,
-                "perdiendo_ht": 5,
-                "goles_a_favor_ht": 10,
-                "goles_en_contra_ht": 14,
-                "%_over_0.5_ht": 87.5,
-                "%_over_1.5_ht": 50.0,
-                "%_ganando_ht": 18.8,
-                "promedio_gf_ht": 0.62,
-                "promedio_gc_ht": 0.88
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "Aalesund",
-                    "Res": "[1:3]",
-                    "Visita": "Lillestrom",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Mar",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "7 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[2:3]",
-                    "Visita": "Fredrikstad",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "12 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "KFUM Oslo",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Apr",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[3:0]",
-                    "Visita": "Aalesund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Apr",
-                    "Local": "Aalesund",
-                    "Res": "[1:1]",
-                    "Visita": "Kristiansund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "3 May",
-                    "Local": "Sandefjord",
-                    "Res": "[1:0]",
-                    "Visita": "Aalesund",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "16 May",
-                    "Local": "Rosenborg",
-                    "Res": "[2:3]",
-                    "Visita": "Aalesund",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "20 May",
-                    "Local": "Aalesund",
-                    "Res": "[2:1]",
-                    "Visita": "Brann",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "25 May",
-                    "Local": "Tromso",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "29 May",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "HamKam",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "11 Jul",
-                    "Local": "Aalesund",
-                    "Res": "[2:2]",
-                    "Visita": "Molde",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 Jul",
-                    "Local": "Valerenga",
-                    "Res": "[6:1]",
-                    "Visita": "Aalesund",
-                    "HT": "3-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "26 Jul",
-                    "Local": "Aalesund",
-                    "Res": "[1:1]",
-                    "Visita": "Viking",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "2 Aug",
-                    "Local": "Aalesund",
-                    "Res": "[2:6]",
-                    "Visita": "Tromso",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "9 Aug",
-                    "Local": "HamKam",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🟡🔴🟡🔴🟡"
-        },
-        "Start": {
-            "ht_stats": {
-                "partidos_jugados": 17,
-                "over_05_ht": 14,
-                "over_15_ht": 8,
-                "ganando_ht": 4,
-                "empatando_ht": 5,
-                "perdiendo_ht": 8,
-                "goles_a_favor_ht": 10,
-                "goles_en_contra_ht": 16,
-                "%_over_0.5_ht": 82.4,
-                "%_over_1.5_ht": 47.1,
-                "%_ganando_ht": 23.5,
-                "promedio_gf_ht": 0.59,
-                "promedio_gc_ht": 0.94
-            },
-            "historial": [
-                {
-                    "Status": "🔴",
-                    "Fecha": "15 Mar",
-                    "Local": "KFUM Oslo",
-                    "Res": "[2:0]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "21 Mar",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Aalesund",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "6 Apr",
-                    "Local": "Sarpsborg 08",
-                    "Res": "[1:1]",
-                    "Visita": "Start",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "11 Apr",
-                    "Local": "Lillestrom",
-                    "Res": "[3:1]",
-                    "Visita": "Start",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "19 Apr",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Molde",
-                    "HT": "1-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "26 Apr",
-                    "Local": "HamKam",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "30 Apr",
-                    "Local": "Bodo/Glimt",
-                    "Res": "[5:0]",
-                    "Visita": "Start",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🟡",
-                    "Fecha": "3 May",
-                    "Local": "Start",
-                    "Res": "[1:1]",
-                    "Visita": "Tromso",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "16 May",
-                    "Local": "Viking",
-                    "Res": "[6:3]",
-                    "Visita": "Start",
-                    "HT": "1-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "20 May",
-                    "Local": "Start",
-                    "Res": "[1:4]",
-                    "Visita": "Bodo/Glimt",
-                    "HT": "1-2"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 May",
-                    "Local": "Start",
-                    "Res": "[2:0]",
-                    "Visita": "Valerenga",
-                    "HT": "2-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "29 May",
-                    "Local": "Fredrikstad",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "12 Jul",
-                    "Local": "Brann",
-                    "Res": "[2:1]",
-                    "Visita": "Start",
-                    "HT": "0-0"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "18 Jul",
-                    "Local": "Start",
-                    "Res": "[0:3]",
-                    "Visita": "Rosenborg",
-                    "HT": "0-1"
-                },
-                {
-                    "Status": "🟢",
-                    "Fecha": "25 Jul",
-                    "Local": "Kristiansund",
-                    "Res": "[1:2]",
-                    "Visita": "Start",
-                    "HT": "1-1"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "1 Aug",
-                    "Local": "Start",
-                    "Res": "[0:3]",
-                    "Visita": "Viking",
-                    "HT": "0-3"
-                },
-                {
-                    "Status": "🔴",
-                    "Fecha": "8 Aug",
-                    "Local": "Start",
-                    "Res": "[0:1]",
-                    "Visita": "Fredrikstad",
-                    "HT": "0-1"
-                }
-            ],
-            "racha_ultimos_5": "🔴🔴🟢🔴🔴"
-        }
-    },
+    "goles": [],
+    "corners": {},
     "fixture": [
         {
-            "Fecha": "Sun 16 Aug",
-            "Hora": "09:30",
-            "Local": "Aalesund",
-            "Visita": "Valerenga"
-        },
-        {
-            "Fecha": "Sun 16 Aug",
-            "Hora": "12:00",
-            "Local": "Brann",
-            "Visita": "HamKam"
-        },
-        {
-            "Fecha": "Sun 16 Aug",
-            "Hora": "12:00",
-            "Local": "Molde",
-            "Visita": "Tromso"
-        },
-        {
-            "Fecha": "Sun 16 Aug",
-            "Hora": "12:00",
-            "Local": "Sarpsborg 08",
-            "Visita": "Sandefjord"
-        },
-        {
-            "Fecha": "Sun 16 Aug",
-            "Hora": "14:15",
-            "Local": "Fredrikstad",
-            "Visita": "Kristiansund"
-        },
-        {
             "Fecha": "Sat 29 Aug",
-            "Hora": "11:00",
+            "Hora": "10:00",
             "Local": "Valerenga",
             "Visita": "Molde"
         },
         {
             "Fecha": "Sat 29 Aug",
-            "Hora": "13:00",
+            "Hora": "12:00",
             "Local": "Viking",
             "Visita": "Aalesund"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "09:30",
+            "Hora": "08:30",
             "Local": "Bodo/Glimt",
             "Visita": "Rosenborg"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "12:00",
+            "Hora": "11:00",
             "Local": "HamKam",
             "Visita": "Kristiansund"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "12:00",
+            "Hora": "11:00",
             "Local": "Sandefjord",
             "Visita": "Brann"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "12:00",
+            "Hora": "11:00",
             "Local": "Start",
             "Visita": "KFUM Oslo"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "12:00",
+            "Hora": "11:00",
             "Local": "Tromso",
             "Visita": "Sarpsborg 08"
         },
         {
             "Fecha": "Sun 30 Aug",
-            "Hora": "14:15",
+            "Hora": "13:15",
             "Local": "Lillestrom",
             "Visita": "Fredrikstad"
+        },
+        {
+            "Fecha": "Fri 18 Sep",
+            "Hora": "13:00",
+            "Local": "Sarpsborg 08",
+            "Visita": "KFUM Oslo"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Kristiansund",
+            "Visita": "Rosenborg"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "12:00",
+            "Local": "Molde",
+            "Visita": "Aalesund"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "08:30",
+            "Local": "Valerenga",
+            "Visita": "Fredrikstad"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "11:00",
+            "Local": "Sandefjord",
+            "Visita": "Start"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "11:00",
+            "Local": "Tromso",
+            "Visita": "HamKam"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "11:00",
+            "Local": "Viking",
+            "Visita": "Lillestrom"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "13:15",
+            "Local": "Brann",
+            "Visita": "Bodo/Glimt"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Bodo/Glimt",
+            "Visita": "Sarpsborg 08"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Brann",
+            "Visita": "Aalesund"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Fredrikstad",
+            "Visita": "Molde"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Lillestrom",
+            "Visita": "Tromso"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Rosenborg",
+            "Visita": "KFUM Oslo"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Sandefjord",
+            "Visita": "Valerenga"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Start",
+            "Visita": "Kristiansund"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "13:00",
+            "Local": "Viking",
+            "Visita": "HamKam"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Aalesund",
+            "Visita": "Rosenborg"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "HamKam",
+            "Visita": "Fredrikstad"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "KFUM Oslo",
+            "Visita": "Brann"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Kristiansund",
+            "Visita": "Sandefjord"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Molde",
+            "Visita": "Bodo/Glimt"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Sarpsborg 08",
+            "Visita": "Lillestrom"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Tromso",
+            "Visita": "Viking"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "13:00",
+            "Local": "Valerenga",
+            "Visita": "Start"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "13:00",
+            "Local": "Aalesund",
+            "Visita": "Start"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "13:00",
+            "Local": "Fredrikstad",
+            "Visita": "Bodo/Glimt"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "15:00",
+            "Local": "Sandefjord",
+            "Visita": "Viking"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Rosenborg",
+            "Visita": "HamKam"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "12:00",
+            "Local": "Brann",
+            "Visita": "Lillestrom"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "11:00",
+            "Local": "Molde",
+            "Visita": "KFUM Oslo"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "13:15",
+            "Local": "Kristiansund",
+            "Visita": "Tromso"
+        },
+        {
+            "Fecha": "Mon 7 Sep",
+            "Hora": "13:00",
+            "Local": "Sarpsborg 08",
+            "Visita": "Valerenga"
         }
-    ]
+    ],
+    "estadisticas_avanzadas": {
+        "Fredrikstad": {
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Start",
+                    "Visita": "Fredrikstad",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[0:2]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:1]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Start",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 17 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 2 May",
+                    "Res": "[3:1]",
+                    "Local": "Brann",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 9 May",
+                    "Res": "[2:1]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:1]",
+                    "Local": "Fredrikstad",
+                    "Visita": "HamKam",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[1:1]",
+                    "Local": "Sandefjord",
+                    "Visita": "Fredrikstad",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Sandefjord": {
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 7 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Sandefjord",
+                    "Visita": "KFUM Oslo",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Sandefjord",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[2:2]",
+                    "Local": "Sandefjord",
+                    "Visita": "HamKam",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 30 May",
+                    "Res": "[2:1]",
+                    "Local": "Molde",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Viking",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:0]",
+                    "Local": "Sandefjord",
+                    "Visita": "Aalesund",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Sandefjord",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[3:1]",
+                    "Local": "Lillestrom",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[1:1]",
+                    "Local": "Sandefjord",
+                    "Visita": "Fredrikstad",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Start": {
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[0:3]",
+                    "Local": "Start",
+                    "Visita": "Viking",
+                    "HT": "0-3",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Start",
+                    "Visita": "Fredrikstad",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 30 Apr",
+                    "Res": "[5:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Start",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Brann",
+                    "Visita": "Start",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:1]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Start",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:3]",
+                    "Local": "Start",
+                    "Visita": "Rosenborg",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:1]",
+                    "Local": "Start",
+                    "Visita": "Tromso",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[6:3]",
+                    "Local": "Viking",
+                    "Visita": "Start",
+                    "HT": "1-3",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[1:4]",
+                    "Local": "Start",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "1-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "Start",
+                    "Visita": "Valerenga",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Viking": {
+            "historial": [
+                {
+                    "Fecha": "Sat 1 Aug",
+                    "Res": "[0:3]",
+                    "Local": "Start",
+                    "Visita": "Viking",
+                    "HT": "0-3",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Viking",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 14 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Rosenborg",
+                    "Visita": "Viking",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Viking",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Viking",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 1 May",
+                    "Res": "[3:0]",
+                    "Local": "Viking",
+                    "Visita": "Rosenborg",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[0:2]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[6:3]",
+                    "Local": "Viking",
+                    "Visita": "Start",
+                    "HT": "1-3",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 24 May",
+                    "Res": "[1:2]",
+                    "Local": "Kristiansund",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Aalesund": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[2:6]",
+                    "Local": "Aalesund",
+                    "Visita": "Tromso",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:1]",
+                    "Local": "HamKam",
+                    "Visita": "Aalesund",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[5:5]",
+                    "Local": "Aalesund",
+                    "Visita": "Valerenga",
+                    "HT": "4-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[2:2]",
+                    "Local": "Aalesund",
+                    "Visita": "Molde",
+                    "HT": "1-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:2]",
+                    "Local": "Aalesund",
+                    "Visita": "HamKam",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 16 Jul",
+                    "Res": "[6:1]",
+                    "Local": "Valerenga",
+                    "Visita": "Aalesund",
+                    "HT": "3-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:0]",
+                    "Local": "Sandefjord",
+                    "Visita": "Aalesund",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:3]",
+                    "Local": "Rosenborg",
+                    "Visita": "Aalesund",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[2:1]",
+                    "Local": "Aalesund",
+                    "Visita": "Brann",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[1:1]",
+                    "Local": "Tromso",
+                    "Visita": "Aalesund",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Tromso": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[2:6]",
+                    "Local": "Aalesund",
+                    "Visita": "Tromso",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Molde",
+                    "Visita": "Tromso",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[4:0]",
+                    "Local": "Tromso",
+                    "Visita": "Valerenga",
+                    "HT": "3-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[0:0]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Tromso",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[1:4]",
+                    "Local": "HamKam",
+                    "Visita": "Tromso",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:1]",
+                    "Local": "Start",
+                    "Visita": "Tromso",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Tromso",
+                    "Visita": "Molde",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[5:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Tromso",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[1:1]",
+                    "Local": "Tromso",
+                    "Visita": "Aalesund",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "KFUM Oslo": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[2:1]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Kristiansund",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 7 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Sandefjord",
+                    "Visita": "KFUM Oslo",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[1:1]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[0:2]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[0:0]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Tromso",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Lillestrom",
+                    "Visita": "KFUM Oslo",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[2:2]",
+                    "Local": "Valerenga",
+                    "Visita": "KFUM Oslo",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[0:2]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:1]",
+                    "Local": "Brann",
+                    "Visita": "KFUM Oslo",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Rosenborg",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Kristiansund": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[2:1]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Kristiansund",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Kristiansund",
+                    "Visita": "Molde",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[3:0]",
+                    "Local": "Rosenborg",
+                    "Visita": "Kristiansund",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[3:1]",
+                    "Local": "Valerenga",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:0]",
+                    "Local": "Kristiansund",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:1]",
+                    "Local": "Kristiansund",
+                    "Visita": "HamKam",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Sandefjord",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[1:0]",
+                    "Local": "Molde",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[1:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Kristiansund",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 24 May",
+                    "Res": "[1:2]",
+                    "Local": "Kristiansund",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Molde": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[3:3]",
+                    "Local": "Molde",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Kristiansund",
+                    "Visita": "Molde",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Molde",
+                    "Visita": "Tromso",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[2:2]",
+                    "Local": "Aalesund",
+                    "Visita": "Molde",
+                    "HT": "1-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 30 May",
+                    "Res": "[2:1]",
+                    "Local": "Molde",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Molde",
+                    "Visita": "Brann",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 4 May",
+                    "Res": "[0:1]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Molde",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Tromso",
+                    "Visita": "Molde",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[1:0]",
+                    "Local": "Molde",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:1]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Molde",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Sarpsborg 08": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[3:3]",
+                    "Local": "Molde",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Viking",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Sandefjord",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Viking",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[1:2]",
+                    "Local": "Brann",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:0]",
+                    "Local": "Kristiansund",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[4:0]",
+                    "Local": "Lillestrom",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 9 May",
+                    "Res": "[2:1]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[3:2]",
+                    "Local": "Valerenga",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "2-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:1]",
+                    "Local": "Sarpsborg 08",
+                    "Visita": "Molde",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Brann": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Brann",
+                    "Visita": "Rosenborg",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Brann",
+                    "Visita": "HamKam",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Brann",
+                    "Visita": "Start",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[1:2]",
+                    "Local": "Brann",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "1-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Molde",
+                    "Visita": "Brann",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 2 May",
+                    "Res": "[3:1]",
+                    "Local": "Brann",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:1]",
+                    "Local": "Brann",
+                    "Visita": "KFUM Oslo",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[2:1]",
+                    "Local": "Aalesund",
+                    "Visita": "Brann",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 24 May",
+                    "Res": "[3:1]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Brann",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Rosenborg": {
+            "historial": [
+                {
+                    "Fecha": "Sun 2 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Brann",
+                    "Visita": "Rosenborg",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Rosenborg",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 14 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Rosenborg",
+                    "Visita": "Viking",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[3:0]",
+                    "Local": "Rosenborg",
+                    "Visita": "Kristiansund",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:2]",
+                    "Local": "Rosenborg",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:3]",
+                    "Local": "Start",
+                    "Visita": "Rosenborg",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 1 May",
+                    "Res": "[3:0]",
+                    "Local": "Viking",
+                    "Visita": "Rosenborg",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Rosenborg",
+                    "Visita": "Lillestrom",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:3]",
+                    "Local": "Rosenborg",
+                    "Visita": "Aalesund",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Rosenborg",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Valerenga": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Valerenga",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[5:5]",
+                    "Local": "Aalesund",
+                    "Visita": "Valerenga",
+                    "HT": "4-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[4:0]",
+                    "Local": "Tromso",
+                    "Visita": "Valerenga",
+                    "HT": "3-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[3:1]",
+                    "Local": "Valerenga",
+                    "Visita": "Kristiansund",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 16 Jul",
+                    "Res": "[6:1]",
+                    "Local": "Valerenga",
+                    "Visita": "Aalesund",
+                    "HT": "3-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[2:2]",
+                    "Local": "Valerenga",
+                    "Visita": "KFUM Oslo",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 8 May",
+                    "Res": "[1:0]",
+                    "Local": "HamKam",
+                    "Visita": "Valerenga",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[3:2]",
+                    "Local": "Valerenga",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "2-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "Start",
+                    "Visita": "Valerenga",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Bodo/Glimt": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Valerenga",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 30 Apr",
+                    "Res": "[5:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Start",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[0:2]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:2]",
+                    "Local": "Rosenborg",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 17 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Fredrikstad",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 4 May",
+                    "Res": "[0:1]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Molde",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[5:0]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Tromso",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[1:4]",
+                    "Local": "Start",
+                    "Visita": "Bodo/Glimt",
+                    "HT": "1-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 24 May",
+                    "Res": "[3:1]",
+                    "Local": "Bodo/Glimt",
+                    "Visita": "Brann",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Lillestrom": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Rosenborg",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[1:1]",
+                    "Local": "KFUM Oslo",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 11 Jul",
+                    "Res": "[0:2]",
+                    "Local": "Fredrikstad",
+                    "Visita": "Lillestrom",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Viking",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Lillestrom",
+                    "Visita": "KFUM Oslo",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[4:0]",
+                    "Local": "Lillestrom",
+                    "Visita": "Sarpsborg 08",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 10 May",
+                    "Res": "[2:0]",
+                    "Local": "Rosenborg",
+                    "Visita": "Lillestrom",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[3:1]",
+                    "Local": "Lillestrom",
+                    "Visita": "Sandefjord",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 20 May",
+                    "Res": "[1:2]",
+                    "Local": "Lillestrom",
+                    "Visita": "Kristiansund",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "HamKam",
+                    "Visita": "Lillestrom",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "HamKam": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:1]",
+                    "Local": "HamKam",
+                    "Visita": "Aalesund",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Brann",
+                    "Visita": "HamKam",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 12 Jul",
+                    "Res": "[2:2]",
+                    "Local": "Sandefjord",
+                    "Visita": "HamKam",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 29 May",
+                    "Res": "[2:2]",
+                    "Local": "Aalesund",
+                    "Visita": "HamKam",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[1:4]",
+                    "Local": "HamKam",
+                    "Visita": "Tromso",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 3 May",
+                    "Res": "[1:1]",
+                    "Local": "Kristiansund",
+                    "Visita": "HamKam",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 8 May",
+                    "Res": "[1:0]",
+                    "Local": "HamKam",
+                    "Visita": "Valerenga",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 16 May",
+                    "Res": "[2:1]",
+                    "Local": "Fredrikstad",
+                    "Visita": "HamKam",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 25 May",
+                    "Res": "[2:0]",
+                    "Local": "HamKam",
+                    "Visita": "Lillestrom",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                }
+            ]
+        }
+    }
 }
