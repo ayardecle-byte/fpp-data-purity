@@ -2,6 +2,38 @@
     "posiciones": [
         [
             "1",
+            "Brondby IF",
+            "4",
+            "3",
+            "1",
+            "0",
+            "7",
+            "3",
+            "+4",
+            "10",
+            "25 Jul AGF Aarhus\r\n - Brondby IF 1:1 2 Aug Brondby IF - \r\nViborg 1:0 9 Aug AC Horsens\r\n - Brondby IF 0:2 17 Aug Brondby IF - \r\nSonderjyskE 3:2 24 Aug Brondby IF - \r\nSilkeborg -",
+            "25 Jul",
+            "AGF Aarhus\r\n - Brondby IF",
+            "1:1",
+            "2 Aug",
+            "Brondby IF - \r\nViborg",
+            "1:0",
+            "9 Aug",
+            "AC Horsens\r\n - Brondby IF",
+            "0:2",
+            "17 Aug",
+            "Brondby IF - \r\nSonderjyskE",
+            "3:2",
+            "24 Aug",
+            "Brondby IF - \r\nSilkeborg",
+            "-",
+            "2.50",
+            "2.50",
+            "50%",
+            "100%"
+        ],
+        [
+            "2",
             "FC Kobenhavn",
             "3",
             "3",
@@ -27,35 +59,6 @@
             "3.00",
             "3.00",
             "33%",
-            "100%"
-        ],
-        [
-            "2",
-            "Brondby IF",
-            "3",
-            "2",
-            "1",
-            "0",
-            "4",
-            "1",
-            "+3",
-            "7",
-            "25 Jul AGF Aarhus\r\n - Brondby IF 1:1 2 Aug Brondby IF - \r\nViborg 1:0 9 Aug AC Horsens\r\n - Brondby IF 0:2 17 Aug Brondby IF - \r\nSonderjyskE -",
-            "25 Jul",
-            "AGF Aarhus\r\n - Brondby IF",
-            "1:1",
-            "2 Aug",
-            "Brondby IF - \r\nViborg",
-            "1:0",
-            "9 Aug",
-            "AC Horsens\r\n - Brondby IF",
-            "0:2",
-            "17 Aug",
-            "Brondby IF - \r\nSonderjyskE",
-            "-",
-            "2.33",
-            "2.33",
-            "67%",
             "100%"
         ],
         [
@@ -340,15 +343,15 @@
         [
             "12",
             "SonderjyskE",
-            "3",
+            "4",
             "0",
             "1",
-            "2",
-            "2",
+            "3",
             "4",
-            "-2",
+            "7",
+            "-3",
             "1",
-            "26 Jul SonderjyskE - \r\nFC Midtjylland 2:3 3 Aug Odense BK\r\n - SonderjyskE 1:0 7 Aug SonderjyskE - \r\nViborg 0:0 17 Aug Brondby IF\r\n - SonderjyskE -",
+            "26 Jul SonderjyskE - \r\nFC Midtjylland 2:3 3 Aug Odense BK\r\n - SonderjyskE 1:0 7 Aug SonderjyskE - \r\nViborg 0:0 17 Aug Brondby IF\r\n - SonderjyskE 3:2 23 Aug SonderjyskE - \r\nNordsjaelland -",
             "26 Jul",
             "SonderjyskE - \r\nFC Midtjylland",
             "2:3",
@@ -360,22 +363,19 @@
             "0:0",
             "17 Aug",
             "Brondby IF\r\n - SonderjyskE",
+            "3:2",
+            "23 Aug",
+            "SonderjyskE - \r\nNordsjaelland",
             "-",
-            "0.33",
-            "0.33",
-            "33%",
-            "33%"
+            "0.25",
+            "0.25",
+            "25%",
+            "50%"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Mon 17 Aug",
-            "Hora": "13:00",
-            "Local": "Brondby IF",
-            "Visita": "SonderjyskE"
-        },
         {
             "Fecha": "Sun 23 Aug",
             "Hora": "06:00",
@@ -449,112 +449,112 @@
             "Visita": "SonderjyskE"
         },
         {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "FC Kobenhavn",
-            "Visita": "Randers FC"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "FC Midtjylland",
-            "Visita": "Viborg"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Lyngby",
-            "Visita": "AC Horsens"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Nordsjaelland",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "AGF Aarhus",
             "Visita": "SonderjyskE"
         },
         {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Odense BK",
-            "Visita": "AGF Aarhus"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Silkeborg",
-            "Visita": "Brondby IF"
-        },
-        {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "AC Horsens",
-            "Visita": "Odense BK"
-        },
-        {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "AGF Aarhus",
-            "Visita": "Nordsjaelland"
-        },
-        {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "FC Kobenhavn",
-            "Visita": "Silkeborg"
-        },
-        {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "Randers FC",
-            "Visita": "FC Midtjylland"
-        },
-        {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "SonderjyskE",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Brondby IF",
             "Visita": "Lyngby"
         },
         {
-            "Fecha": "Fri 13 Mar",
-            "Hora": "21:00",
-            "Local": "Viborg",
-            "Visita": "Brondby IF"
-        },
-        {
-            "Fecha": "Fri 20 Mar",
-            "Hora": "21:00",
-            "Local": "Brondby IF",
-            "Visita": "AC Horsens"
-        },
-        {
-            "Fecha": "Fri 20 Mar",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "FC Midtjylland",
-            "Visita": "AGF Aarhus"
-        },
-        {
-            "Fecha": "Fri 20 Mar",
-            "Hora": "21:00",
-            "Local": "Lyngby",
             "Visita": "FC Kobenhavn"
         },
         {
-            "Fecha": "Fri 20 Mar",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Nordsjaelland",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Randers FC",
             "Visita": "Viborg"
         },
         {
-            "Fecha": "Fri 20 Mar",
-            "Hora": "21:00",
-            "Local": "Odense BK",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Silkeborg",
+            "Visita": "AC Horsens"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "AC Horsens",
             "Visita": "Randers FC"
         },
         {
-            "Fecha": "Fri 20 Mar",
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "FC Kobenhavn",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "Lyngby",
+            "Visita": "Nordsjaelland"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "Odense BK",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "SonderjyskE",
+            "Visita": "Silkeborg"
+        },
+        {
+            "Fecha": "Sat 17 Oct",
+            "Hora": "20:00",
+            "Local": "Viborg",
+            "Visita": "FC Midtjylland"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "AC Horsens",
+            "Visita": "SonderjyskE"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "AGF Aarhus",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "FC Kobenhavn",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "FC Midtjylland",
+            "Visita": "Lyngby"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Randers FC",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
             "Hora": "21:00",
             "Local": "Silkeborg",
-            "Visita": "SonderjyskE"
+            "Visita": "Nordsjaelland"
         },
         {
             "Fecha": "Wed 2 Sep",
@@ -677,6 +677,42 @@
             "Visita": "Nordsjaelland"
         },
         {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "AC Horsens",
+            "Visita": "FC Kobenhavn"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "AGF Aarhus",
+            "Visita": "Randers FC"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Brondby IF",
+            "Visita": "Odense BK"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "FC Midtjylland",
+            "Visita": "Silkeborg"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Nordsjaelland",
+            "Visita": "Lyngby"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Viborg",
+            "Visita": "SonderjyskE"
+        },
+        {
             "Fecha": "Fri 20 Feb",
             "Hora": "21:00",
             "Local": "FC Kobenhavn",
@@ -747,114 +783,6 @@
             "Hora": "21:00",
             "Local": "Viborg",
             "Visita": "Silkeborg"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "AGF Aarhus",
-            "Visita": "SonderjyskE"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Brondby IF",
-            "Visita": "Lyngby"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "FC Midtjylland",
-            "Visita": "FC Kobenhavn"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Nordsjaelland",
-            "Visita": "Odense BK"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Randers FC",
-            "Visita": "Viborg"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Silkeborg",
-            "Visita": "AC Horsens"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "AC Horsens",
-            "Visita": "Randers FC"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "FC Kobenhavn",
-            "Visita": "AGF Aarhus"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "Lyngby",
-            "Visita": "Nordsjaelland"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "Odense BK",
-            "Visita": "Brondby IF"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "SonderjyskE",
-            "Visita": "Silkeborg"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "20:00",
-            "Local": "Viborg",
-            "Visita": "FC Midtjylland"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "AC Horsens",
-            "Visita": "SonderjyskE"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "AGF Aarhus",
-            "Visita": "Viborg"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "FC Kobenhavn",
-            "Visita": "Odense BK"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "FC Midtjylland",
-            "Visita": "Lyngby"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "Randers FC",
-            "Visita": "Brondby IF"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "Silkeborg",
-            "Visita": "Nordsjaelland"
         },
         {
             "Fecha": "Sat 31 Oct",
@@ -1001,39 +929,111 @@
             "Visita": "Brondby IF"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Mar",
             "Hora": "21:00",
-            "Local": "AC Horsens",
-            "Visita": "FC Kobenhavn"
-        },
-        {
-            "Fecha": "Sat 5 Dec",
-            "Hora": "21:00",
-            "Local": "AGF Aarhus",
+            "Local": "FC Kobenhavn",
             "Visita": "Randers FC"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Mar",
             "Hora": "21:00",
-            "Local": "Brondby IF",
+            "Local": "FC Midtjylland",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Lyngby",
+            "Visita": "AC Horsens"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Nordsjaelland",
+            "Visita": "SonderjyskE"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Odense BK",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Silkeborg",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "AC Horsens",
             "Visita": "Odense BK"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
-            "Local": "FC Midtjylland",
+            "Local": "AGF Aarhus",
+            "Visita": "Nordsjaelland"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "FC Kobenhavn",
             "Visita": "Silkeborg"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
-            "Local": "Nordsjaelland",
+            "Local": "Randers FC",
+            "Visita": "FC Midtjylland"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "SonderjyskE",
             "Visita": "Lyngby"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
             "Local": "Viborg",
+            "Visita": "Brondby IF"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Brondby IF",
+            "Visita": "AC Horsens"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "FC Midtjylland",
+            "Visita": "AGF Aarhus"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Lyngby",
+            "Visita": "FC Kobenhavn"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Nordsjaelland",
+            "Visita": "Viborg"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Odense BK",
+            "Visita": "Randers FC"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Silkeborg",
             "Visita": "SonderjyskE"
         }
     ],
@@ -1063,14 +1063,6 @@
                     "Visita": "FC Midtjylland",
                     "HT": "0-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[3:2]",
-                    "Local": "FC Kobenhavn",
-                    "Visita": "Lyngby",
-                    "HT": "1-2",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1091,14 +1083,6 @@
                     "Visita": "AGF Aarhus",
                     "HT": "1-1",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:1]",
-                    "Local": "AGF Aarhus",
-                    "Visita": "Brondby IF",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1119,14 +1103,6 @@
                     "Visita": "FC Midtjylland",
                     "HT": "0-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[2:3]",
-                    "Local": "SonderjyskE",
-                    "Visita": "FC Midtjylland",
-                    "HT": "2-2",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1155,14 +1131,6 @@
                     "Visita": "AC Horsens",
                     "HT": "1-1",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:1]",
-                    "Local": "AC Horsens",
-                    "Visita": "Nordsjaelland",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1183,14 +1151,6 @@
                     "Visita": "Silkeborg",
                     "HT": "0-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:1]",
-                    "Local": "AC Horsens",
-                    "Visita": "Nordsjaelland",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1219,14 +1179,6 @@
                     "Visita": "FC Kobenhavn",
                     "HT": "0-3",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[1:1]",
-                    "Local": "Randers FC",
-                    "Visita": "Silkeborg",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1249,12 +1201,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:1]",
-                    "Local": "AGF Aarhus",
-                    "Visita": "Brondby IF",
-                    "HT": "0-0",
-                    "Status": "🟡"
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Brondby IF",
+                    "Visita": "SonderjyskE",
+                    "HT": "3-0",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1282,14 +1234,6 @@
                     "Local": "Viborg",
                     "Visita": "AGF Aarhus",
                     "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 24 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Viborg",
-                    "Visita": "Odense BK",
-                    "HT": "0-0",
                     "Status": "🟢"
                 }
             ]
@@ -1319,14 +1263,6 @@
                     "Visita": "Silkeborg",
                     "HT": "0-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[1:1]",
-                    "Local": "Randers FC",
-                    "Visita": "Silkeborg",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1346,14 +1282,6 @@
                     "Local": "Randers FC",
                     "Visita": "FC Kobenhavn",
                     "HT": "0-3",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[3:2]",
-                    "Local": "FC Kobenhavn",
-                    "Visita": "Lyngby",
-                    "HT": "1-2",
                     "Status": "🟢"
                 }
             ]
@@ -1383,14 +1311,6 @@
                     "Visita": "AC Horsens",
                     "HT": "1-1",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 24 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Viborg",
-                    "Visita": "Odense BK",
-                    "HT": "0-0",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1413,11 +1333,11 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[2:3]",
-                    "Local": "SonderjyskE",
-                    "Visita": "FC Midtjylland",
-                    "HT": "2-2",
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Brondby IF",
+                    "Visita": "SonderjyskE",
+                    "HT": "3-0",
                     "Status": "🔴"
                 }
             ]

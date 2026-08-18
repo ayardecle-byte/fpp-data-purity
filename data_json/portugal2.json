@@ -246,26 +246,29 @@
         [
             "10",
             "Felgueiras",
-            "1",
+            "2",
+            "0",
+            "2",
             "0",
             "1",
-            "0",
-            "0",
-            "0",
-            "0",
             "1",
-            "9 Aug Feirense\r\n - Felgueiras 0:0 17 Aug Felgueiras - \r\nAVS -",
+            "0",
+            "2",
+            "9 Aug Feirense\r\n - Felgueiras 0:0 17 Aug Felgueiras - \r\nAVS 1:1 24 Aug Farense\r\n - Felgueiras -",
             "9 Aug",
             "Feirense\r\n - Felgueiras",
             "0:0",
             "17 Aug",
             "Felgueiras - \r\nAVS",
+            "1:1",
+            "24 Aug",
+            "Farense\r\n - Felgueiras",
             "-",
             "1.00",
             "1.00",
-            "100%",
-            "0%",
-            "100"
+            "50%",
+            "50%",
+            "98"
         ],
         [
             "11",
@@ -323,6 +326,33 @@
         ],
         [
             "13",
+            "AVS",
+            "2",
+            "0",
+            "1",
+            "1",
+            "1",
+            "2",
+            "-1",
+            "1",
+            "9 Aug AVS - \r\nSporting CP B 0:1 17 Aug Felgueiras\r\n - AVS 1:1 23 Aug Chaves\r\n - AVS -",
+            "9 Aug",
+            "AVS - \r\nSporting CP B",
+            "0:1",
+            "17 Aug",
+            "Felgueiras\r\n - AVS",
+            "1:1",
+            "23 Aug",
+            "Chaves\r\n - AVS",
+            "-",
+            "0.50",
+            "0.50",
+            "0%",
+            "50%",
+            "97"
+        ],
+        [
+            "14",
             "Feirense",
             "2",
             "0",
@@ -347,30 +377,6 @@
             "50%",
             "0%",
             "97"
-        ],
-        [
-            "14",
-            "AVS",
-            "1",
-            "0",
-            "0",
-            "1",
-            "0",
-            "1",
-            "-1",
-            "0",
-            "9 Aug AVS - \r\nSporting CP B 0:1 17 Aug Felgueiras\r\n - AVS -",
-            "9 Aug",
-            "AVS - \r\nSporting CP B",
-            "0:1",
-            "17 Aug",
-            "Felgueiras\r\n - AVS",
-            "-",
-            "0.00",
-            "0.00",
-            "0%",
-            "0%",
-            "99"
         ],
         [
             "15",
@@ -485,12 +491,6 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Mon 17 Aug",
-            "Hora": "13:00",
-            "Local": "Felgueiras",
-            "Visita": "AVS"
-        },
-        {
             "Fecha": "Fri 21 Aug",
             "Hora": "13:00",
             "Local": "Benfica B",
@@ -599,166 +599,58 @@
             "Visita": "Farense"
         },
         {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "AVS",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Fri 1 May",
+            "Fecha": "Sat 5 Sep",
             "Hora": "20:00",
             "Local": "Benfica B",
-            "Visita": "Tondela"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Chaves",
-            "Visita": "Amarante"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Farense",
-            "Visita": "Leixoes"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Feirense",
             "Visita": "Torreense"
         },
         {
-            "Fecha": "Fri 1 May",
+            "Fecha": "Sat 5 Sep",
             "Hora": "20:00",
-            "Local": "Felgueiras",
-            "Visita": "Uniao de Leiria"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Lusitania FC",
-            "Visita": "Portimonense"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Penafiel",
-            "Visita": "Vizela"
-        },
-        {
-            "Fecha": "Fri 1 May",
-            "Hora": "20:00",
-            "Local": "Sporting CP B",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Académica",
+            "Local": "Farense",
             "Visita": "Chaves"
         },
         {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Amarante",
-            "Visita": "Tondela"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "FC Porto B",
-            "Visita": "Lusitania FC"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Felgueiras",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Leixoes",
-            "Visita": "Benfica B"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Portimonense",
-            "Visita": "Penafiel"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Sporting CP B",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Torreense",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Uniao de Leiria",
-            "Visita": "Vizela"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Amarante",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Benfica B",
-            "Visita": "Chaves"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Leixoes",
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Feirense",
             "Visita": "Sporting CP B"
         },
         {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Leixoes",
+            "Visita": "Amarante"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
             "Local": "Lusitania FC",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Penafiel",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Portimonense",
-            "Visita": "Torreense"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Tondela",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Uniao de Leiria",
             "Visita": "AVS"
         },
         {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "21:00",
-            "Local": "Vizela",
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Penafiel",
             "Visita": "Académica"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Tondela",
+            "Visita": "FC Porto B"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Uniao de Leiria",
+            "Visita": "Portimonense"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Vizela",
+            "Visita": "Felgueiras"
         },
         {
             "Fecha": "Sat 5 Dec",
@@ -977,382 +869,274 @@
             "Visita": "Leixoes"
         },
         {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Amarante",
-            "Visita": "Portimonense"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Benfica B",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Farense",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Leixoes",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Lusitania FC",
-            "Visita": "Chaves"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Penafiel",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Tondela",
-            "Visita": "Torreense"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Uniao de Leiria",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Vizela",
-            "Visita": "Sporting CP B"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Amarante",
-            "Visita": "Sporting CP B"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Benfica B",
-            "Visita": "Penafiel"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "FC Porto B",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Leixoes",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Portimonense",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Tondela",
-            "Visita": "Chaves"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Torreense",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Uniao de Leiria",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Vizela",
-            "Visita": "Lusitania FC"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Amarante",
-            "Visita": "Torreense"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Benfica B",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Leixoes",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Lusitania FC",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Penafiel",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Portimonense",
-            "Visita": "Sporting CP B"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Tondela",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Uniao de Leiria",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Vizela",
-            "Visita": "Chaves"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Benfica B",
-            "Visita": "Amarante"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Chaves",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Farense",
-            "Visita": "Sporting CP B"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Feirense",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Leixoes",
-            "Visita": "Portimonense"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Lusitania FC",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Penafiel",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Tondela",
-            "Visita": "Uniao de Leiria"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Vizela",
-            "Visita": "Torreense"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
             "Local": "Académica",
-            "Visita": "Penafiel"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Amarante",
-            "Visita": "Leixoes"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "AVS",
-            "Visita": "Lusitania FC"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Chaves",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "FC Porto B",
-            "Visita": "Tondela"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Felgueiras",
             "Visita": "Vizela"
         },
         {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
-            "Local": "Portimonense",
+            "Local": "AVS",
             "Visita": "Uniao de Leiria"
         },
         {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
-            "Local": "Sporting CP B",
-            "Visita": "Feirense"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Torreense",
+            "Local": "Chaves",
             "Visita": "Benfica B"
         },
         {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Benfica B",
-            "Visita": "Académica"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
             "Local": "Farense",
-            "Visita": "AVS"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Feirense",
-            "Visita": "Chaves"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Leixoes",
-            "Visita": "Torreense"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Lusitania FC",
-            "Visita": "Sporting CP B"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Penafiel",
-            "Visita": "Felgueiras"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Tondela",
-            "Visita": "Portimonense"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Uniao de Leiria",
-            "Visita": "Amarante"
-        },
-        {
-            "Fecha": "Fri 20 Feb",
-            "Hora": "21:00",
-            "Local": "Vizela",
-            "Visita": "FC Porto B"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Académica",
-            "Visita": "Uniao de Leiria"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "AVS",
-            "Visita": "Penafiel"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Chaves",
             "Visita": "Lusitania FC"
         },
         {
-            "Fecha": "Fri 27 Feb",
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
             "Local": "FC Porto B",
-            "Visita": "Leixoes"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Feirense",
-            "Visita": "Farense"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Felgueiras",
-            "Visita": "Benfica B"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Portimonense",
             "Visita": "Amarante"
         },
         {
-            "Fecha": "Fri 27 Feb",
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Feirense",
+            "Visita": "Penafiel"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Felgueiras",
+            "Visita": "Tondela"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
             "Hora": "21:00",
             "Local": "Sporting CP B",
+            "Visita": "Leixoes"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Torreense",
+            "Visita": "Portimonense"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "AVS",
+            "Visita": "Académica"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Benfica B",
+            "Visita": "Tondela"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Chaves",
+            "Visita": "Amarante"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Farense",
+            "Visita": "Leixoes"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Feirense",
+            "Visita": "Torreense"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Felgueiras",
+            "Visita": "Uniao de Leiria"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Lusitania FC",
+            "Visita": "Portimonense"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Penafiel",
             "Visita": "Vizela"
         },
         {
-            "Fecha": "Fri 27 Feb",
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Sporting CP B",
+            "Visita": "FC Porto B"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Amarante",
+            "Visita": "Portimonense"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Benfica B",
+            "Visita": "Felgueiras"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Farense",
+            "Visita": "Feirense"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Leixoes",
+            "Visita": "FC Porto B"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Lusitania FC",
+            "Visita": "Chaves"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Penafiel",
+            "Visita": "AVS"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Tondela",
+            "Visita": "Torreense"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Uniao de Leiria",
+            "Visita": "Académica"
+        },
+        {
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Vizela",
+            "Visita": "Sporting CP B"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Académica",
+            "Visita": "Leixoes"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "AVS",
+            "Visita": "Tondela"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Chaves",
+            "Visita": "Vizela"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Farense",
+            "Visita": "Penafiel"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "FC Porto B",
+            "Visita": "Uniao de Leiria"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Feirense",
+            "Visita": "Benfica B"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Felgueiras",
+            "Visita": "Lusitania FC"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Sporting CP B",
+            "Visita": "Portimonense"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
             "Hora": "21:00",
             "Local": "Torreense",
-            "Visita": "Tondela"
+            "Visita": "Amarante"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Amarante",
+            "Visita": "FC Porto B"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Benfica B",
+            "Visita": "Chaves"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Leixoes",
+            "Visita": "Sporting CP B"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Lusitania FC",
+            "Visita": "Farense"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Penafiel",
+            "Visita": "Feirense"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Portimonense",
+            "Visita": "Torreense"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Tondela",
+            "Visita": "Felgueiras"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Uniao de Leiria",
+            "Visita": "AVS"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "21:00",
+            "Local": "Vizela",
+            "Visita": "Académica"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1565,6 +1349,14 @@
                     "Visita": "Sporting CP B",
                     "HT": "0-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Felgueiras",
+                    "Visita": "AVS",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -1615,6 +1407,14 @@
                     "Res": "[0:0]",
                     "Local": "Feirense",
                     "Visita": "Felgueiras",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Felgueiras",
+                    "Visita": "AVS",
                     "HT": "0-0",
                     "Status": "🟡"
                 }
