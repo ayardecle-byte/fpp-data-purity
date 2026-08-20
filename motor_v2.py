@@ -28,69 +28,68 @@ MAX_GOLES = 8
 # =========================================================
 CALIDAD_LIGAS = {
     # ============================================================
-    # Validacion de agosto 2026 · 37.863 predicciones · test 18.932
-    # Base de 44.674 partidos
+    # Validacion de agosto 2026 · 39.588 predicciones · test 19.794
+    # Base de ~48.000 partidos
     # ============================================================
 
     # ===== ALTA: ventaja confirmada (skill > 0.010) =====
-    "estonia":        {"nivel": "ALTA",  "skill": 0.0239, "n_test": 246},
-    "czechrepublic":  {"nivel": "ALTA",  "skill": 0.0233, "n_test": 382},
-    "turkey":         {"nivel": "ALTA",  "skill": 0.0181, "n_test": 483},
-    "italy":          {"nivel": "ALTA",  "skill": 0.0175, "n_test": 1063},
-    "ukraine":        {"nivel": "ALTA",  "skill": 0.0171, "n_test": 354},
-    "china":          {"nivel": "ALTA",  "skill": 0.0164, "n_test": 580},
-    "mexico":         {"nivel": "ALTA",  "skill": 0.0148, "n_test": 161},
-    "champions":      {"nivel": "ALTA",  "skill": 0.0134, "n_test": 962},
-    "spain":          {"nivel": "ALTA",  "skill": 0.0113, "n_test": 1219},
-    "finland":        {"nivel": "ALTA",  "skill": 0.0113, "n_test": 449},
-    "norway":         {"nivel": "ALTA",  "skill": 0.0113, "n_test": 906},
+    "estonia":        {"nivel": "ALTA",  "skill": 0.0251, "n_test": 246},
+    "portugal":       {"nivel": "ALTA",  "skill": 0.0240, "n_test": 442},
+    "czechrepublic":  {"nivel": "ALTA",  "skill": 0.0240, "n_test": 382},
+    "netherlands":    {"nivel": "ALTA",  "skill": 0.0202, "n_test": 442},
+    "turkey":         {"nivel": "ALTA",  "skill": 0.0193, "n_test": 482},
+    "italy":          {"nivel": "ALTA",  "skill": 0.0182, "n_test": 1060},
+    "ukraine":        {"nivel": "ALTA",  "skill": 0.0178, "n_test": 357},
+    "china":          {"nivel": "ALTA",  "skill": 0.0170, "n_test": 581},
+    "mexico":         {"nivel": "ALTA",  "skill": 0.0162, "n_test": 161},
+    "champions":      {"nivel": "ALTA",  "skill": 0.0132, "n_test": 959},
+    "finland":        {"nivel": "ALTA",  "skill": 0.0122, "n_test": 449},
+    "spain":          {"nivel": "ALTA",  "skill": 0.0115, "n_test": 1216},
+    "norway":         {"nivel": "ALTA",  "skill": 0.0114, "n_test": 907},
 
     # ===== MEDIA: ventaja moderada (0.003 - 0.010) =====
-    "scotland":       {"nivel": "MEDIA", "skill": 0.0094, "n_test": 391},
-    "sweden":         {"nivel": "MEDIA", "skill": 0.0094, "n_test": 496},
-    "europa":         {"nivel": "MEDIA", "skill": 0.0093, "n_test": 449},
-    "netherlands2":   {"nivel": "MEDIA", "skill": 0.0093, "n_test": 528},
+    "netherlands2":   {"nivel": "MEDIA", "skill": 0.0100, "n_test": 525},
+    "scotland":       {"nivel": "MEDIA", "skill": 0.0096, "n_test": 387},
+    "sweden":         {"nivel": "MEDIA", "skill": 0.0093, "n_test": 496},
+    "europa":         {"nivel": "MEDIA", "skill": 0.0087, "n_test": 448},
+    "bolivia":        {"nivel": "MEDIA", "skill": 0.0081, "n_test": 251},
     "france":         {"nivel": "MEDIA", "skill": 0.0076, "n_test": 469},
-    "iceland":        {"nivel": "MEDIA", "skill": 0.0075, "n_test": 356},
-    "england":        {"nivel": "MEDIA", "skill": 0.0074, "n_test": 577},
-    "bolivia":        {"nivel": "MEDIA", "skill": 0.0072, "n_test": 251},
-    "germany2":       {"nivel": "MEDIA", "skill": 0.0064, "n_test": 429},
-    "portugal2":      {"nivel": "MEDIA", "skill": 0.0054, "n_test": 426},
-    "mls":            {"nivel": "MEDIA", "skill": 0.0046, "n_test": 1017},
-    "france2":        {"nivel": "MEDIA", "skill": 0.0043, "n_test": 456},
-    "poland":         {"nivel": "MEDIA", "skill": 0.0037, "n_test": 445},
-    "spain2":         {"nivel": "MEDIA", "skill": 0.0037, "n_test": 644},
-    "japan":          {"nivel": "MEDIA", "skill": 0.0032, "n_test": 756},
-    "england3":       {"nivel": "MEDIA", "skill": 0.0031, "n_test": 168},
+    "england":        {"nivel": "MEDIA", "skill": 0.0072, "n_test": 576},
+    "iceland":        {"nivel": "MEDIA", "skill": 0.0071, "n_test": 356},
+    "germany2":       {"nivel": "MEDIA", "skill": 0.0067, "n_test": 428},
+    "portugal2":      {"nivel": "MEDIA", "skill": 0.0054, "n_test": 424},
+    "mls":            {"nivel": "MEDIA", "skill": 0.0048, "n_test": 1016},
+    "japan":          {"nivel": "MEDIA", "skill": 0.0037, "n_test": 756},
+    "spain2":         {"nivel": "MEDIA", "skill": 0.0036, "n_test": 641},
+    "england3":       {"nivel": "MEDIA", "skill": 0.0036, "n_test": 170},
+    "poland":         {"nivel": "MEDIA", "skill": 0.0035, "n_test": 444},
+    "france2":        {"nivel": "MEDIA", "skill": 0.0030, "n_test": 455},
 
     # ===== BAJA: ventaja marginal (0 - 0.003) =====
-    # Brasil bajo de ALTA a BAJA al pasar de 210 a 1.055 partidos:
-    # su ventaja anterior era ruido de muestra chica.
-    "switzerland":    {"nivel": "BAJA",  "skill": 0.0029, "n_test": 340},
-    "argentina":      {"nivel": "BAJA",  "skill": 0.0028, "n_test": 1526},
-    "brazil":         {"nivel": "BAJA",  "skill": 0.0027, "n_test": 1055},
-    "serie_b_brasil": {"nivel": "BAJA",  "skill": 0.0010, "n_test": 211},
-    "southkorea":     {"nivel": "BAJA",  "skill": 0.0009, "n_test": 229},
+    "argentina":      {"nivel": "BAJA",  "skill": 0.0026, "n_test": 1516},
+    "brazil":         {"nivel": "BAJA",  "skill": 0.0025, "n_test": 1055},
+    "switzerland":    {"nivel": "BAJA",  "skill": 0.0020, "n_test": 339},
+    "southkorea":     {"nivel": "BAJA",  "skill": 0.0007, "n_test": 229},
+    "serie_b_brasil": {"nivel": "BAJA",  "skill": 0.0005, "n_test": 211},
 
     # ===== NULA: sin ventaja demostrable =====
-    "italy2":         {"nivel": "NULA",  "skill": -0.0002, "n_test": 288},
-    "england2":       {"nivel": "NULA",  "skill": -0.0011, "n_test": 174},
+    "italy2":         {"nivel": "NULA",  "skill": -0.0003, "n_test": 288},
+    "england2":       {"nivel": "NULA",  "skill": -0.0015, "n_test": 174},
 
     # ===== Sin validar: muestra insuficiente en el test =====
+    "denmark":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
+    "austria":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
+    "belgium":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
+    "greece":           {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
     "libertadores":     {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
     "sudamericana":     {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
     "primera_nacional": {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
-    "denmark":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
-    "greece":           {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
-    "austria":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
-    "belgium":          {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
     "scotland2":        {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
     "iceland2":         {"nivel": "SIN_VALIDAR", "skill": 0.0, "n_test": 0},
 }
 
 # Muestra minima para considerar solida una validacion.
-# Debajo de esto la categoria es provisional: Brasil parecia ALTA con
-# 210 partidos y resulto BAJA con 1.055.
+# Brasil parecia ALTA con 210 partidos y resulto BAJA con 1.055.
 N_TEST_CONFIABLE = 300
 
 # Mercados SIN ventaja estadística demostrada (backtest: skill <= 0)
@@ -125,6 +124,8 @@ MAPA_LIGAS = {
     "Islandia - 1ra División": "iceland",
 
     # --- Ligas agregadas tras la validación de agosto 2026 ---
+    "Portugal - Primeira Liga": "portugal",
+    "Países Bajos - Eredivisie": "netherlands",
     "Escocia - Premiership": "scotland",
     "Chequia - Fortuna Liga": "czechrepublic",
     "Turquía - Süper Lig": "turkey",

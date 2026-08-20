@@ -169,6 +169,8 @@ def cargar_tabla_json(nombre_liga):
         "Países Bajos - Eerste Divisie": "netherlands2",
         "Portugal - Liga 2": "portugal2",
         "Alemania - 2. Bundesliga": "germany2",
+        "Portugal - Primeira Liga": "portugal",
+        "Países Bajos - Eredivisie": "netherlands",
     }
     limite_equipos = {
         "Inglaterra - Premier League": 20, "España - La Liga": 20, "Italia - Serie A": 20, "Francia - Ligue 1": 18,
@@ -188,6 +190,8 @@ def cargar_tabla_json(nombre_liga):
         "Países Bajos - Eerste Divisie": 20,
         "Portugal - Liga 2": 18,
         "Alemania - 2. Bundesliga": 18,
+        "Portugal - Primeira Liga": 18,
+        "Países Bajos - Eredivisie": 18,
     }
 
     path = f"data_json/{mapa_archivos.get(nombre_liga)}.json"
@@ -705,6 +709,9 @@ opciones_liga = [
     "Países Bajos - Eerste Divisie",
     "Portugal - Liga 2",
     "Alemania - 2. Bundesliga",
+    # --- Validadas en agosto 2026: ambas nivel ALTA ---
+    "Portugal - Primeira Liga",
+    "Países Bajos - Eredivisie",
 ]
 
 with st.sidebar:
@@ -1029,12 +1036,16 @@ elif st.session_state.pagina == 'Cartelera':
             "Países Bajos - Eerste Divisie",
             "Portugal - Liga 2",
             "Alemania - 2. Bundesliga",
+            "Portugal - Primeira Liga",
+            "Países Bajos - Eredivisie",
             # --- Las cinco grandes: antes solo mostraban la tabla ---
             "Inglaterra - Premier League",
             "España - La Liga",
             "Italia - Serie A",
             "Francia - Ligue 1",
             "Bolivia - Div. Profesional",
+            "Portugal - Primeira Liga",
+            "Países Bajos - Eredivisie",
         ]:
             col_tabla, col_fixture = st.columns([1.3, 1])
             
@@ -1064,6 +1075,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Italia - Serie A": 'data_json/italy.json',
                         "Francia - Ligue 1": 'data_json/france.json',
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1074,6 +1087,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Países Bajos - Eerste Divisie": 'data_json/netherlands2.json',
                         "Portugal - Liga 2": 'data_json/portugal2.json',
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                     }
                     archivo_fix = mapa_archivos_fix.get(liga_sel)
                     with open(archivo_fix, 'r', encoding='utf-8') as f:
@@ -1162,6 +1177,8 @@ elif st.session_state.pagina == 'Cartelera':
                 "Países Bajos - Eerste Divisie": "partidos+eerste+divisie",
                 "Portugal - Liga 2": "partidos+liga+portugal+2",
                 "Alemania - 2. Bundesliga": "partidos+2+bundesliga",
+                "Portugal - Primeira Liga": "partidos+primeira+liga+portugal",
+                "Países Bajos - Eredivisie": "partidos+eredivisie",
             }
             query = mapa_busquedas.get(liga_sel, "partidos+de+futbol")
             url_widget = f"https://www.google.com/search?igu=1&q={query}"
@@ -1220,6 +1237,8 @@ elif st.session_state.pagina == 'Cartelera':
             "Países Bajos - Eerste Divisie",
             "Portugal - Liga 2",
             "Alemania - 2. Bundesliga",
+            "Portugal - Primeira Liga",
+            "Países Bajos - Eredivisie",
         ]
         
         if liga_sel in ligas_radar:
@@ -1244,6 +1263,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Italia - Serie A": 'data_json/italy.json',
                         "Francia - Ligue 1": 'data_json/france.json',
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1254,6 +1275,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Países Bajos - Eerste Divisie": 'data_json/netherlands2.json',
                         "Portugal - Liga 2": 'data_json/portugal2.json',
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                     }
                     archivo_json = mapa_archivos_avanzados.get(liga_sel)
                     with open(archivo_json, 'r', encoding='utf-8') as f:
@@ -1412,6 +1435,10 @@ elif st.session_state.pagina == 'Cartelera':
                 "Países Bajos - Eerste Divisie",
                 "Portugal - Liga 2",
                 "Alemania - 2. Bundesliga",
+                "Portugal - Primeira Liga",
+                "Países Bajos - Eredivisie",
+            "Portugal - Primeira Liga",
+            "Países Bajos - Eredivisie",
             ]
             
             if liga_sel in ligas_json_avanzadas:
@@ -1439,6 +1466,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Italia - Serie A": 'data_json/italy.json',
                         "Francia - Ligue 1": 'data_json/france.json',
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1449,6 +1478,8 @@ elif st.session_state.pagina == 'Cartelera':
                         "Países Bajos - Eerste Divisie": 'data_json/netherlands2.json',
                         "Portugal - Liga 2": 'data_json/portugal2.json',
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
+                        "Portugal - Primeira Liga": 'data_json/portugal.json',
+                        "Países Bajos - Eredivisie": 'data_json/netherlands.json',
                     }
                     archivo_json = mapa_archivos_avanzados.get(liga_sel)
                     with open(archivo_json, 'r', encoding='utf-8') as f:
@@ -2003,6 +2034,10 @@ elif st.session_state.pagina == 'Cartelera':
                 "Países Bajos - Eerste Divisie",
                 "Portugal - Liga 2",
                 "Alemania - 2. Bundesliga",
+                "Portugal - Primeira Liga",
+                "Países Bajos - Eredivisie",
+            "Portugal - Primeira Liga",
+            "Países Bajos - Eredivisie",
             ]
 
             if stats and liga_sel in ligas_manuales:
@@ -2469,6 +2504,8 @@ elif st.session_state.pagina == 'Calendario':
         ("Países Bajos - Eerste Divisie", "netherlands2", "🇳🇱"),
         ("Portugal - Liga 2", "portugal2", "🇵🇹"),
         ("Alemania - 2. Bundesliga", "germany2", "🇩🇪"),
+        ("Portugal - Primeira Liga", "portugal", "🇵🇹"),
+        ("Países Bajos - Eredivisie", "netherlands", "🇳🇱"),
     ]
 
     ICONO_CAL = {"ALTA": "🟢", "MEDIA": "🟡", "BAJA": "🔴", "NULA": "⛔"}

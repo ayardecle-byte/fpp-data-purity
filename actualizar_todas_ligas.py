@@ -85,6 +85,10 @@ LIGAS = {
     "netherlands2":     ("netherlands2", False),
     "portugal2":        ("portugal2", False),
     "germany2":         ("germany2", False),
+
+    # --- Validadas en agosto 2026 (ambas nivel ALTA) ---
+    "portugal":         ("portugal", False),
+    "netherlands":      ("netherlands", False),
 }
 
 sesion = requests.Session()
