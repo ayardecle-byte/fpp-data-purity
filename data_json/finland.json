@@ -49,7 +49,7 @@
             "16",
             "+12",
             "38",
-            "27 Jun Mariehamn\r\n - Inter Turku 0:2 19 Jul Jaro\r\n - Inter Turku 0:0 26 Jul Inter Turku - \r\nGnistan 1:2 2 Aug VPS\r\n - Inter Turku 0:1 9 Aug Inter Turku - \r\nLahti 0:0 16 Aug Oulu\r\n - Inter Turku 2:3 22 Aug TPS\r\n - Inter Turku -",
+            "27 Jun Mariehamn\r\n - Inter Turku 0:2 19 Jul Jaro\r\n - Inter Turku 0:0 26 Jul Inter Turku - \r\nGnistan 1:2 2 Aug VPS\r\n - Inter Turku 0:1 9 Aug Inter Turku - \r\nLahti 0:0 16 Aug Oulu\r\n - Inter Turku 2:3 23 Aug TPS\r\n - Inter Turku -",
             "27 Jun",
             "Mariehamn\r\n - Inter Turku",
             "0:2",
@@ -68,7 +68,7 @@
             "16 Aug",
             "Oulu\r\n - Inter Turku",
             "2:3",
-            "22 Aug",
+            "23 Aug",
             "TPS\r\n - Inter Turku",
             "-",
             "1.90",
@@ -239,7 +239,7 @@
             "22",
             "+5",
             "29",
-            "11 Jul TPS - \r\nOulu 3:0 20 Jul TPS - \r\nIlves 1:3 26 Jul HJK Helsinki\r\n - TPS 1:0 1 Aug TPS - \r\nMariehamn 3:0 9 Aug KuPS\r\n - TPS 1:1 14 Aug VPS\r\n - TPS 1:3 22 Aug TPS - \r\nInter Turku -",
+            "11 Jul TPS - \r\nOulu 3:0 20 Jul TPS - \r\nIlves 1:3 26 Jul HJK Helsinki\r\n - TPS 1:0 1 Aug TPS - \r\nMariehamn 3:0 9 Aug KuPS\r\n - TPS 1:1 14 Aug VPS\r\n - TPS 1:3 23 Aug TPS - \r\nInter Turku -",
             "11 Jul",
             "TPS - \r\nOulu",
             "3:0",
@@ -258,7 +258,7 @@
             "14 Aug",
             "VPS\r\n - TPS",
             "1:3",
-            "22 Aug",
+            "23 Aug",
             "TPS - \r\nInter Turku",
             "-",
             "1.45",
@@ -468,12 +468,6 @@
         },
         {
             "Fecha": "Sat 22 Aug",
-            "Hora": "07:00",
-            "Local": "TPS",
-            "Visita": "Inter Turku"
-        },
-        {
-            "Fecha": "Sat 22 Aug",
             "Hora": "10:00",
             "Local": "Ilves",
             "Visita": "VPS"
@@ -495,6 +489,12 @@
             "Hora": "08:00",
             "Local": "KuPS",
             "Visita": "Mariehamn"
+        },
+        {
+            "Fecha": "Sun 23 Aug",
+            "Hora": "11:00",
+            "Local": "TPS",
+            "Visita": "Inter Turku"
         },
         {
             "Fecha": "Mon 31 Aug",
@@ -561,43 +561,35 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[2:2]",
-                    "Local": "Jaro",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Ilves",
                     "Visita": "TPS",
-                    "HT": "1-1",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "TPS",
+                    "Visita": "KuPS",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Lahti",
+                    "Visita": "TPS",
+                    "HT": "0-0",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 8 May",
-                    "Res": "[1:0]",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[3:2]",
                     "Local": "TPS",
-                    "Visita": "HJK Helsinki",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[1:0]",
-                    "Local": "Oulu",
-                    "Visita": "TPS",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:1]",
-                    "Local": "Inter Turku",
-                    "Visita": "TPS",
-                    "HT": "2-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:0]",
-                    "Local": "TPS",
-                    "Visita": "VPS",
-                    "HT": "0-0",
+                    "Visita": "Jaro",
+                    "HT": "1-2",
                     "Status": "🟢"
                 },
                 {
@@ -631,38 +623,6 @@
                     "Visita": "Gnistan",
                     "HT": "0-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Ilves",
-                    "Visita": "TPS",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "TPS",
-                    "Visita": "KuPS",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Lahti",
-                    "Visita": "TPS",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[3:2]",
-                    "Local": "TPS",
-                    "Visita": "Jaro",
-                    "HT": "1-2",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 4 Jul",
@@ -725,43 +685,35 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[0:1]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:3]",
                     "Local": "Mariehamn",
-                    "Visita": "VPS",
+                    "Visita": "Gnistan",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 18 Jun",
+                    "Res": "[2:1]",
+                    "Local": "Oulu",
+                    "Visita": "Mariehamn",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[0:4]",
+                    "Local": "Mariehamn",
+                    "Visita": "HJK Helsinki",
                     "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 10 May",
-                    "Res": "[1:1]",
-                    "Local": "Lahti",
-                    "Visita": "Mariehamn",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[1:1]",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[0:2]",
                     "Local": "Mariehamn",
-                    "Visita": "KuPS",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[3:0]",
-                    "Local": "Jaro",
-                    "Visita": "Mariehamn",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:0]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Mariehamn",
-                    "HT": "0-0",
+                    "Visita": "Inter Turku",
+                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
@@ -794,38 +746,6 @@
                     "Local": "Inter Turku",
                     "Visita": "Mariehamn",
                     "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:3]",
-                    "Local": "Mariehamn",
-                    "Visita": "Gnistan",
-                    "HT": "0-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Thu 18 Jun",
-                    "Res": "[2:1]",
-                    "Local": "Oulu",
-                    "Visita": "Mariehamn",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[0:4]",
-                    "Local": "Mariehamn",
-                    "Visita": "HJK Helsinki",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[0:2]",
-                    "Local": "Mariehamn",
-                    "Visita": "Inter Turku",
-                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
@@ -889,44 +809,36 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Mon 4 May",
-                    "Res": "[1:0]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Lahti",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 10 May",
-                    "Res": "[1:1]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:3]",
                     "Local": "Lahti",
-                    "Visita": "Mariehamn",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 18 May",
-                    "Res": "[1:1]",
-                    "Local": "Lahti",
-                    "Visita": "VPS",
+                    "Visita": "SJK",
                     "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:1]",
-                    "Local": "KuPS",
-                    "Visita": "Lahti",
-                    "HT": "2-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[5:0]",
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Gnistan",
+                    "Visita": "Lahti",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[0:0]",
                     "Local": "Lahti",
-                    "Visita": "Ilves",
-                    "HT": "3-0",
-                    "Status": "🟢"
+                    "Visita": "TPS",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Oulu",
+                    "Visita": "Lahti",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -959,38 +871,6 @@
                     "Visita": "Oulu",
                     "HT": "2-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:3]",
-                    "Local": "Lahti",
-                    "Visita": "SJK",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Gnistan",
-                    "Visita": "Lahti",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Lahti",
-                    "Visita": "TPS",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Oulu",
-                    "Visita": "Lahti",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Jul",
@@ -1053,51 +933,35 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[2:2]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:5]",
                     "Local": "Jaro",
-                    "Visita": "TPS",
-                    "HT": "1-1",
+                    "Visita": "HJK Helsinki",
+                    "HT": "2-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[5:0]",
+                    "Local": "Ilves",
+                    "Visita": "Jaro",
+                    "HT": "4-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Jaro",
+                    "Visita": "Gnistan",
+                    "HT": "0-1",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sat 9 May",
-                    "Res": "[2:0]",
-                    "Local": "Inter Turku",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[3:2]",
+                    "Local": "TPS",
                     "Visita": "Jaro",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[5:0]",
-                    "Local": "Gnistan",
-                    "Visita": "Jaro",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Wed 20 May",
-                    "Res": "[3:0]",
-                    "Local": "KuPS",
-                    "Visita": "Jaro",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[3:0]",
-                    "Local": "Jaro",
-                    "Visita": "Mariehamn",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 31 May",
-                    "Res": "[2:1]",
-                    "Local": "Oulu",
-                    "Visita": "Jaro",
-                    "HT": "0-0",
+                    "HT": "1-2",
                     "Status": "🔴"
                 },
                 {
@@ -1131,38 +995,6 @@
                     "Visita": "Jaro",
                     "HT": "0-1",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:5]",
-                    "Local": "Jaro",
-                    "Visita": "HJK Helsinki",
-                    "HT": "2-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[5:0]",
-                    "Local": "Ilves",
-                    "Visita": "Jaro",
-                    "HT": "4-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Jaro",
-                    "Visita": "Gnistan",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[3:2]",
-                    "Local": "TPS",
-                    "Visita": "Jaro",
-                    "HT": "1-2",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 4 Jul",
@@ -1217,44 +1049,36 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Tue 5 May",
-                    "Res": "[2:0]",
-                    "Local": "Gnistan",
-                    "Visita": "Inter Turku",
-                    "HT": "1-0",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:3]",
+                    "Local": "Mariehamn",
+                    "Visita": "Gnistan",
+                    "HT": "0-2",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 9 May",
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Gnistan",
+                    "Visita": "Lahti",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
                     "Res": "[1:1]",
-                    "Local": "VPS",
+                    "Local": "Jaro",
                     "Visita": "Gnistan",
-                    "HT": "1-0",
+                    "HT": "0-1",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[5:0]",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[1:1]",
                     "Local": "Gnistan",
-                    "Visita": "Jaro",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:0]",
-                    "Local": "Ilves",
-                    "Visita": "Gnistan",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[3:2]",
-                    "Local": "Gnistan",
-                    "Visita": "SJK",
+                    "Visita": "VPS",
                     "HT": "1-1",
-                    "Status": "🟢"
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1286,38 +1110,6 @@
                     "Local": "TPS",
                     "Visita": "Gnistan",
                     "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:3]",
-                    "Local": "Mariehamn",
-                    "Visita": "Gnistan",
-                    "HT": "0-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Gnistan",
-                    "Visita": "Lahti",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Jaro",
-                    "Visita": "Gnistan",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Gnistan",
-                    "Visita": "VPS",
-                    "HT": "1-1",
                     "Status": "🟡"
                 },
                 {
@@ -1381,52 +1173,36 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[2:0]",
-                    "Local": "Oulu",
-                    "Visita": "KuPS",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 8 May",
-                    "Res": "[0:0]",
-                    "Local": "KuPS",
-                    "Visita": "SJK",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 16 May",
+                    "Fecha": "Sat 13 Jun",
                     "Res": "[1:1]",
-                    "Local": "Mariehamn",
+                    "Local": "VPS",
                     "Visita": "KuPS",
-                    "HT": "1-1",
+                    "HT": "1-0",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 20 May",
-                    "Res": "[3:0]",
-                    "Local": "KuPS",
-                    "Visita": "Jaro",
-                    "HT": "1-0",
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "TPS",
+                    "Visita": "KuPS",
+                    "HT": "0-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:1]",
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[4:3]",
                     "Local": "KuPS",
-                    "Visita": "Lahti",
-                    "HT": "2-1",
+                    "Visita": "Ilves",
+                    "HT": "4-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:1]",
-                    "Local": "KuPS",
-                    "Visita": "Inter Turku",
-                    "HT": "0-0",
-                    "Status": "🟡"
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[0:4]",
+                    "Local": "HJK Helsinki",
+                    "Visita": "KuPS",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1467,38 +1243,6 @@
                     "Visita": "HJK Helsinki",
                     "HT": "1-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:1]",
-                    "Local": "VPS",
-                    "Visita": "KuPS",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "TPS",
-                    "Visita": "KuPS",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[4:3]",
-                    "Local": "KuPS",
-                    "Visita": "Ilves",
-                    "HT": "4-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[0:4]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "KuPS",
-                    "HT": "0-1",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 18 Jul",
@@ -1545,44 +1289,36 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[0:1]",
-                    "Local": "Mariehamn",
-                    "Visita": "VPS",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 9 May",
+                    "Fecha": "Sat 13 Jun",
                     "Res": "[1:1]",
                     "Local": "VPS",
-                    "Visita": "Gnistan",
+                    "Visita": "KuPS",
                     "HT": "1-0",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Mon 18 May",
-                    "Res": "[1:1]",
-                    "Local": "Lahti",
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "SJK",
                     "Visita": "VPS",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 22 May",
-                    "Res": "[2:1]",
-                    "Local": "VPS",
-                    "Visita": "HJK Helsinki",
-                    "HT": "0-1",
+                    "HT": "1-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:0]",
-                    "Local": "TPS",
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[5:1]",
+                    "Local": "VPS",
+                    "Visita": "Oulu",
+                    "HT": "3-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Gnistan",
                     "Visita": "VPS",
-                    "HT": "0-0",
-                    "Status": "🔴"
+                    "HT": "1-1",
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1615,38 +1351,6 @@
                     "Visita": "Ilves",
                     "HT": "3-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:1]",
-                    "Local": "VPS",
-                    "Visita": "KuPS",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "SJK",
-                    "Visita": "VPS",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[5:1]",
-                    "Local": "VPS",
-                    "Visita": "Oulu",
-                    "HT": "3-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Gnistan",
-                    "Visita": "VPS",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Jul",
@@ -1709,52 +1413,36 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Tue 5 May",
-                    "Res": "[2:0]",
-                    "Local": "Gnistan",
-                    "Visita": "Inter Turku",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 9 May",
-                    "Res": "[2:0]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:0]",
                     "Local": "Inter Turku",
-                    "Visita": "Jaro",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[1:3]",
-                    "Local": "SJK",
-                    "Visita": "Inter Turku",
-                    "HT": "0-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 20 May",
-                    "Res": "[1:3]",
-                    "Local": "Ilves",
-                    "Visita": "Inter Turku",
-                    "HT": "1-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:1]",
-                    "Local": "Inter Turku",
-                    "Visita": "TPS",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:1]",
-                    "Local": "KuPS",
-                    "Visita": "Inter Turku",
+                    "Visita": "Oulu",
                     "HT": "0-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[3:3]",
+                    "Local": "HJK Helsinki",
+                    "Visita": "Inter Turku",
+                    "HT": "1-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Inter Turku",
+                    "Visita": "SJK",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[0:2]",
+                    "Local": "Mariehamn",
+                    "Visita": "Inter Turku",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1795,38 +1483,6 @@
                     "Visita": "HJK Helsinki",
                     "HT": "1-1",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Inter Turku",
-                    "Visita": "Oulu",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[3:3]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Inter Turku",
-                    "HT": "1-2",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Inter Turku",
-                    "Visita": "SJK",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[0:2]",
-                    "Local": "Mariehamn",
-                    "Visita": "Inter Turku",
-                    "HT": "0-1",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 19 Jul",
@@ -1873,44 +1529,36 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[2:0]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Inter Turku",
+                    "Visita": "Oulu",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 18 Jun",
+                    "Res": "[2:1]",
                     "Local": "Oulu",
-                    "Visita": "KuPS",
-                    "HT": "1-0",
+                    "Visita": "Mariehamn",
+                    "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 8 May",
-                    "Res": "[1:0]",
-                    "Local": "Ilves",
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[5:1]",
+                    "Local": "VPS",
                     "Visita": "Oulu",
-                    "HT": "1-0",
+                    "HT": "3-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[1:0]",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[1:1]",
                     "Local": "Oulu",
-                    "Visita": "TPS",
+                    "Visita": "Lahti",
                     "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[0:1]",
-                    "Local": "SJK",
-                    "Visita": "Oulu",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 31 May",
-                    "Res": "[2:1]",
-                    "Local": "Oulu",
-                    "Visita": "Jaro",
-                    "HT": "0-0",
-                    "Status": "🟢"
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1951,38 +1599,6 @@
                     "Visita": "Oulu",
                     "HT": "2-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Inter Turku",
-                    "Visita": "Oulu",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Thu 18 Jun",
-                    "Res": "[2:1]",
-                    "Local": "Oulu",
-                    "Visita": "Mariehamn",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[5:1]",
-                    "Local": "VPS",
-                    "Visita": "Oulu",
-                    "HT": "3-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Oulu",
-                    "Visita": "Lahti",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 11 Jul",
@@ -2037,52 +1653,36 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:1]",
-                    "Local": "SJK",
-                    "Visita": "Ilves",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 8 May",
+                    "Fecha": "Sat 13 Jun",
                     "Res": "[1:0]",
                     "Local": "Ilves",
-                    "Visita": "Oulu",
-                    "HT": "1-0",
+                    "Visita": "TPS",
+                    "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[2:2]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Ilves",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 20 May",
-                    "Res": "[1:3]",
-                    "Local": "Ilves",
-                    "Visita": "Inter Turku",
-                    "HT": "1-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:0]",
-                    "Local": "Ilves",
-                    "Visita": "Gnistan",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 30 May",
+                    "Fecha": "Wed 17 Jun",
                     "Res": "[5:0]",
-                    "Local": "Lahti",
+                    "Local": "Ilves",
+                    "Visita": "Jaro",
+                    "HT": "4-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[4:3]",
+                    "Local": "KuPS",
                     "Visita": "Ilves",
-                    "HT": "3-0",
+                    "HT": "4-1",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[2:2]",
+                    "Local": "Ilves",
+                    "Visita": "SJK",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2115,38 +1715,6 @@
                     "Visita": "Ilves",
                     "HT": "3-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Ilves",
-                    "Visita": "TPS",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[5:0]",
-                    "Local": "Ilves",
-                    "Visita": "Jaro",
-                    "HT": "4-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[4:3]",
-                    "Local": "KuPS",
-                    "Visita": "Ilves",
-                    "HT": "4-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[2:2]",
-                    "Local": "Ilves",
-                    "Visita": "SJK",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sat 4 Jul",
@@ -2201,44 +1769,36 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:1]",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:3]",
+                    "Local": "Lahti",
+                    "Visita": "SJK",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
                     "Local": "SJK",
-                    "Visita": "Ilves",
+                    "Visita": "VPS",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Inter Turku",
+                    "Visita": "SJK",
                     "HT": "0-1",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 8 May",
-                    "Res": "[0:0]",
-                    "Local": "KuPS",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[2:2]",
+                    "Local": "Ilves",
                     "Visita": "SJK",
                     "HT": "0-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[1:3]",
-                    "Local": "SJK",
-                    "Visita": "Inter Turku",
-                    "HT": "0-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[0:1]",
-                    "Local": "SJK",
-                    "Visita": "Oulu",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[3:2]",
-                    "Local": "Gnistan",
-                    "Visita": "SJK",
-                    "HT": "1-1",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2270,38 +1830,6 @@
                     "Local": "SJK",
                     "Visita": "Jaro",
                     "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:3]",
-                    "Local": "Lahti",
-                    "Visita": "SJK",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "SJK",
-                    "Visita": "VPS",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Inter Turku",
-                    "Visita": "SJK",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[2:2]",
-                    "Local": "Ilves",
-                    "Visita": "SJK",
-                    "HT": "0-0",
                     "Status": "🟡"
                 },
                 {
@@ -2365,44 +1893,36 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Mon 4 May",
-                    "Res": "[1:0]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Lahti",
-                    "HT": "1-0",
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:5]",
+                    "Local": "Jaro",
+                    "Visita": "HJK Helsinki",
+                    "HT": "2-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 8 May",
-                    "Res": "[1:0]",
-                    "Local": "TPS",
-                    "Visita": "HJK Helsinki",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 16 May",
-                    "Res": "[2:2]",
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[3:3]",
                     "Local": "HJK Helsinki",
-                    "Visita": "Ilves",
-                    "HT": "1-1",
+                    "Visita": "Inter Turku",
+                    "HT": "1-2",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 22 May",
-                    "Res": "[2:1]",
-                    "Local": "VPS",
+                    "Fecha": "Tue 23 Jun",
+                    "Res": "[0:4]",
+                    "Local": "Mariehamn",
                     "Visita": "HJK Helsinki",
                     "HT": "0-1",
-                    "Status": "🔴"
+                    "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 30 May",
-                    "Res": "[1:0]",
+                    "Fecha": "Sat 27 Jun",
+                    "Res": "[0:4]",
                     "Local": "HJK Helsinki",
-                    "Visita": "Mariehamn",
-                    "HT": "0-0",
-                    "Status": "🟢"
+                    "Visita": "KuPS",
+                    "HT": "0-1",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2443,38 +1963,6 @@
                     "Visita": "HJK Helsinki",
                     "HT": "1-1",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:5]",
-                    "Local": "Jaro",
-                    "Visita": "HJK Helsinki",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[3:3]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "Inter Turku",
-                    "HT": "1-2",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Tue 23 Jun",
-                    "Res": "[0:4]",
-                    "Local": "Mariehamn",
-                    "Visita": "HJK Helsinki",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 27 Jun",
-                    "Res": "[0:4]",
-                    "Local": "HJK Helsinki",
-                    "Visita": "KuPS",
-                    "HT": "0-1",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 11 Jul",
