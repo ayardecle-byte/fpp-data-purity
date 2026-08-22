@@ -2898,6 +2898,121 @@ elif st.session_state.pagina == 'Billetera':
         </style>
     """, unsafe_allow_html=True)
 
+    # ================================================================
+    # RESUMEN DIARIO
+    # Se muestra el día de hoy junto a la tendencia, para no reaccionar
+    # a resultados sueltos: con una ventaja del 2-3%, la mayoría de los
+    # días son ruido.
+    # ================================================================
+    if not df_billetera.empty and "Fecha" in df_billetera:
+        d = df_billetera.copy()
+        d["_fecha"] = pd.to_datetime(d["Fecha"], errors="coerce").dt.date
+        d = d.dropna(subset=["_fecha"])
+        cerradas = d[d["Estado"].isin(["Ganada", "Perdida"])]
+
+        if not cerradas.empty:
+            hoy_fecha = datetime.date.today()
+            ayer_fecha = hoy_fecha - datetime.timedelta(days=1)
+            hace_7 = hoy_fecha - datetime.timedelta(days=7)
+            hace_30 = hoy_fecha - datetime.timedelta(days=30)
+
+            def resumen(sub):
+                if sub.empty:
+                    return {"n": 0, "neto": 0.0, "inv": 0.0, "yield": 0.0, "g": 0, "p": 0}
+                neto = sub["Ganancia Neta"].sum()
+                inv = sub["Inversión"].sum()
+                return {
+                    "n": len(sub), "neto": neto, "inv": inv,
+                    "yield": (neto / inv * 100) if inv else 0.0,
+                    "g": int((sub["Estado"] == "Ganada").sum()),
+                    "p": int((sub["Estado"] == "Perdida").sum()),
+                }
+
+            r_hoy = resumen(cerradas[cerradas["_fecha"] == hoy_fecha])
+            r_ayer = resumen(cerradas[cerradas["_fecha"] == ayer_fecha])
+            r_semana = resumen(cerradas[cerradas["_fecha"] >= hace_7])
+            r_mes = resumen(cerradas[cerradas["_fecha"] >= hace_30])
+
+            st.markdown("### 📅 Resumen")
+
+            q1, q2, q3, q4 = st.columns(4)
+            q1.metric(
+                f"HOY ({r_hoy['n']} apuestas)",
+                f"$ {r_hoy['neto']:+.2f}",
+                f"{r_hoy['g']}G · {r_hoy['p']}P" if r_hoy["n"] else "sin apuestas cerradas",
+                delta_color="off",
+            )
+            q2.metric(
+                f"Ayer ({r_ayer['n']})",
+                f"$ {r_ayer['neto']:+.2f}",
+                delta_color="off",
+            )
+            q3.metric(
+                f"Últimos 7 días ({r_semana['n']})",
+                f"$ {r_semana['neto']:+.2f}",
+                f"yield {r_semana['yield']:+.1f}%" if r_semana["inv"] else None,
+                delta_color="off",
+            )
+            q4.metric(
+                f"Últimos 30 días ({r_mes['n']})",
+                f"$ {r_mes['neto']:+.2f}",
+                f"yield {r_mes['yield']:+.1f}%" if r_mes["inv"] else None,
+                delta_color="off",
+            )
+
+            # Aviso proporcional a la muestra
+            total_cerradas = len(cerradas)
+            if total_cerradas < 30:
+                st.caption(
+                    f"ℹ️ Llevás {total_cerradas} apuestas cerradas. Con menos de 100, "
+                    "cualquier resultado —bueno o malo— es principalmente azar. "
+                    "El día a día no dice nada todavía."
+                )
+            elif r_hoy["n"] and abs(r_hoy["neto"]) > 0:
+                st.caption(
+                    "ℹ️ Un día suelto no es señal de nada. Lo que importa es la "
+                    "columna de 30 días, y aun así hacen falta unas 100 apuestas "
+                    "para sacar conclusiones."
+                )
+
+            # ---- Evolución del bankroll ----
+            with st.expander("📈 Ver evolución del bankroll", expanded=False):
+                por_dia = (cerradas.groupby("_fecha")["Ganancia Neta"]
+                           .sum().sort_index().reset_index())
+                por_dia["Bankroll"] = bankroll_ini + por_dia["Ganancia Neta"].cumsum()
+                por_dia = por_dia.rename(columns={"_fecha": "Fecha",
+                                                  "Ganancia Neta": "Resultado del día"})
+
+                st.line_chart(por_dia.set_index("Fecha")["Bankroll"], height=260)
+
+                mejor = por_dia.loc[por_dia["Resultado del día"].idxmax()]
+                peor = por_dia.loc[por_dia["Resultado del día"].idxmin()]
+                pico = por_dia["Bankroll"].cummax()
+                caida = ((pico - por_dia["Bankroll"]) / pico * 100).max()
+
+                e1, e2, e3 = st.columns(3)
+                e1.metric("Mejor día", f"$ {mejor['Resultado del día']:+.2f}",
+                          str(mejor["Fecha"]), delta_color="off")
+                e2.metric("Peor día", f"$ {peor['Resultado del día']:+.2f}",
+                          str(peor["Fecha"]), delta_color="off")
+                e3.metric("Mayor caída", f"{caida:.1f}%",
+                          "desde el punto más alto", delta_color="off")
+
+                st.caption(
+                    "La «mayor caída» es cuánto perdiste desde tu mejor momento. "
+                    "Sirve para saber si podrías haber sostenido el sistema en la "
+                    "peor racha."
+                )
+
+                st.dataframe(
+                    por_dia.sort_values("Fecha", ascending=False).head(30)
+                          .style.format({"Resultado del día": "{:+.2f}",
+                                         "Bankroll": "{:.2f}"}),
+                    width="stretch", hide_index=True,
+                )
+
+            st.divider()
+
     colA, colB, colC, colD = st.columns([2, 3, 2, 2])
     
     with colA:
