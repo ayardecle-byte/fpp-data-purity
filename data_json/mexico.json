@@ -3,15 +3,15 @@
         [
             "1",
             "CF America",
+            "5",
             "4",
-            "3",
             "1",
             "0",
-            "8",
-            "1",
-            "+7",
             "10",
-            "19 Jul Queretaro\r\n - CF America 0:1 25 Jul Atlante\r\n - CF America 1:1 2 Aug CF America - \r\nSantos Laguna 3:0 16 Aug CF America - \r\nA. San Luis 3:0 22 Aug Juarez\r\n - CF America -",
+            "2",
+            "+8",
+            "13",
+            "19 Jul Queretaro\r\n - CF America 0:1 25 Jul Atlante\r\n - CF America 1:1 2 Aug CF America - \r\nSantos Laguna 3:0 16 Aug CF America - \r\nA. San Luis 3:0 22 Aug Juarez\r\n - CF America 1:2 30 Aug CF America - \r\nPuebla -",
             "19 Jul",
             "Queretaro\r\n - CF America",
             "0:1",
@@ -26,14 +26,52 @@
             "3:0",
             "22 Aug",
             "Juarez\r\n - CF America",
+            "1:2",
+            "30 Aug",
+            "CF America - \r\nPuebla",
             "-",
-            "2.50",
-            "2.50",
-            "75%",
+            "2.60",
+            "2.60",
+            "60%",
             "100%"
         ],
         [
             "2",
+            "Toluca",
+            "5",
+            "3",
+            "1",
+            "1",
+            "8",
+            "4",
+            "+4",
+            "10",
+            "19 Jul Guadalajara\r\n - Toluca 0:2 22 Jul Toluca - \r\nPumas UNAM 1:2 3 Aug Toluca - \r\nNecaxa 3:1 15 Aug Atlante\r\n - Toluca 0:0 22 Aug Queretaro\r\n - Toluca 1:2 31 Aug Toluca - \r\nJuarez -",
+            "19 Jul",
+            "Guadalajara\r\n - Toluca",
+            "0:2",
+            "22 Jul",
+            "Toluca - \r\nPumas UNAM",
+            "1:2",
+            "3 Aug",
+            "Toluca - \r\nNecaxa",
+            "3:1",
+            "15 Aug",
+            "Atlante\r\n - Toluca",
+            "0:0",
+            "22 Aug",
+            "Queretaro\r\n - Toluca",
+            "1:2",
+            "31 Aug",
+            "Toluca - \r\nJuarez",
+            "-",
+            "2.00",
+            "2.00",
+            "40%",
+            "80%"
+        ],
+        [
+            "3",
             "Tijuana",
             "4",
             "3",
@@ -65,17 +103,17 @@
             "75%"
         ],
         [
-            "3",
-            "Monterrey",
             "4",
+            "Monterrey",
+            "5",
             "3",
             "0",
-            "1",
+            "2",
             "12",
-            "5",
-            "+7",
+            "7",
+            "+5",
             "9",
-            "19 Jul Monterrey - \r\nSantos Laguna 3:2 26 Jul Necaxa\r\n - Monterrey 2:1 2 Aug Atlas\r\n - Monterrey 0:2 16 Aug Monterrey - \r\nJuarez 6:1 23 Aug Club Leon\r\n - Monterrey -",
+            "19 Jul Monterrey - \r\nSantos Laguna 3:2 26 Jul Necaxa\r\n - Monterrey 2:1 2 Aug Atlas\r\n - Monterrey 0:2 16 Aug Monterrey - \r\nJuarez 6:1 22 Aug Club Leon\r\n - Monterrey 2:0 31 Aug Monterrey - \r\nA. San Luis -",
             "19 Jul",
             "Monterrey - \r\nSantos Laguna",
             "3:2",
@@ -88,16 +126,54 @@
             "16 Aug",
             "Monterrey - \r\nJuarez",
             "6:1",
-            "23 Aug",
+            "22 Aug",
             "Club Leon\r\n - Monterrey",
+            "2:0",
+            "31 Aug",
+            "Monterrey - \r\nA. San Luis",
             "-",
-            "2.25",
-            "2.25",
-            "25%",
-            "100%"
+            "1.80",
+            "1.80",
+            "20%",
+            "80%"
         ],
         [
-            "4",
+            "5",
+            "Club Leon",
+            "5",
+            "3",
+            "0",
+            "2",
+            "7",
+            "5",
+            "+2",
+            "9",
+            "18 Jul Club Leon - \r\nAtlas 2:3 25 Jul Tijuana\r\n - Club Leon 1:0 2 Aug Club Leon - \r\nPachuca 1:0 18 Aug Necaxa\r\n - Club Leon 1:2 22 Aug Club Leon - \r\nMonterrey 2:0 29 Aug Atlante\r\n - Club Leon -",
+            "18 Jul",
+            "Club Leon - \r\nAtlas",
+            "2:3",
+            "25 Jul",
+            "Tijuana\r\n - Club Leon",
+            "1:0",
+            "2 Aug",
+            "Club Leon - \r\nPachuca",
+            "1:0",
+            "18 Aug",
+            "Necaxa\r\n - Club Leon",
+            "1:2",
+            "22 Aug",
+            "Club Leon - \r\nMonterrey",
+            "2:0",
+            "29 Aug",
+            "Atlante\r\n - Club Leon",
+            "-",
+            "1.80",
+            "1.80",
+            "40%",
+            "80%"
+        ],
+        [
+            "6",
             "Atlas",
             "4",
             "3",
@@ -129,39 +205,7 @@
             "75%"
         ],
         [
-            "5",
-            "Toluca",
-            "4",
-            "2",
-            "1",
-            "1",
-            "6",
-            "3",
-            "+3",
             "7",
-            "19 Jul Guadalajara\r\n - Toluca 0:2 22 Jul Toluca - \r\nPumas UNAM 1:2 3 Aug Toluca - \r\nNecaxa 3:1 15 Aug Atlante\r\n - Toluca 0:0 22 Aug Queretaro\r\n - Toluca -",
-            "19 Jul",
-            "Guadalajara\r\n - Toluca",
-            "0:2",
-            "22 Jul",
-            "Toluca - \r\nPumas UNAM",
-            "1:2",
-            "3 Aug",
-            "Toluca - \r\nNecaxa",
-            "3:1",
-            "15 Aug",
-            "Atlante\r\n - Toluca",
-            "0:0",
-            "22 Aug",
-            "Queretaro\r\n - Toluca",
-            "-",
-            "1.75",
-            "1.75",
-            "50%",
-            "75%"
-        ],
-        [
-            "6",
             "Pumas UNAM",
             "4",
             "2",
@@ -193,7 +237,7 @@
             "50%"
         ],
         [
-            "7",
+            "8",
             "Puebla",
             "4",
             "2",
@@ -225,17 +269,17 @@
             "100%"
         ],
         [
-            "8",
+            "9",
             "Queretaro",
-            "4",
+            "5",
             "2",
             "1",
-            "1",
-            "5",
-            "4",
-            "+1",
+            "2",
+            "6",
+            "6",
+            "0",
             "7",
-            "19 Jul Queretaro - \r\nCF America 0:1 27 Jul Pachuca\r\n - Queretaro 1:2 1 Aug Queretaro - \r\nTigres 3:2 16 Aug Pumas UNAM\r\n - Queretaro 0:0 22 Aug Queretaro - \r\nToluca -",
+            "19 Jul Queretaro - \r\nCF America 0:1 27 Jul Pachuca\r\n - Queretaro 1:2 1 Aug Queretaro - \r\nTigres 3:2 16 Aug Pumas UNAM\r\n - Queretaro 0:0 22 Aug Queretaro - \r\nToluca 1:2 29 Aug Atlas\r\n - Queretaro -",
             "19 Jul",
             "Queretaro - \r\nCF America",
             "0:1",
@@ -250,14 +294,17 @@
             "0:0",
             "22 Aug",
             "Queretaro - \r\nToluca",
+            "1:2",
+            "29 Aug",
+            "Atlas\r\n - Queretaro",
             "-",
-            "1.75",
-            "1.75",
-            "25%",
-            "50%"
+            "1.40",
+            "1.40",
+            "20%",
+            "60%"
         ],
         [
-            "9",
+            "10",
             "Guadalajara",
             "4",
             "2",
@@ -289,7 +336,7 @@
             "75%"
         ],
         [
-            "10",
+            "11",
             "Cruz Azul",
             "4",
             "2",
@@ -319,38 +366,6 @@
             "1.50",
             "0%",
             "100%"
-        ],
-        [
-            "11",
-            "Club Leon",
-            "4",
-            "2",
-            "0",
-            "2",
-            "5",
-            "5",
-            "0",
-            "6",
-            "18 Jul Club Leon - \r\nAtlas 2:3 25 Jul Tijuana\r\n - Club Leon 1:0 2 Aug Club Leon - \r\nPachuca 1:0 18 Aug Necaxa\r\n - Club Leon 1:2 23 Aug Club Leon - \r\nMonterrey -",
-            "18 Jul",
-            "Club Leon - \r\nAtlas",
-            "2:3",
-            "25 Jul",
-            "Tijuana\r\n - Club Leon",
-            "1:0",
-            "2 Aug",
-            "Club Leon - \r\nPachuca",
-            "1:0",
-            "18 Aug",
-            "Necaxa\r\n - Club Leon",
-            "1:2",
-            "23 Aug",
-            "Club Leon - \r\nMonterrey",
-            "-",
-            "1.50",
-            "1.50",
-            "25%",
-            "75%"
         ],
         [
             "12",
@@ -387,15 +402,15 @@
         [
             "13",
             "Atlante",
-            "4",
+            "5",
             "1",
             "2",
-            "1",
+            "2",
             "5",
+            "7",
+            "-2",
             "5",
-            "0",
-            "5",
-            "17 Jul Necaxa\r\n - Atlante 2:1 25 Jul Atlante - \r\nCF America 1:1 2 Aug Cruz Azul\r\n - Atlante 2:3 15 Aug Atlante - \r\nToluca 0:0 22 Aug Tigres\r\n - Atlante -",
+            "17 Jul Necaxa\r\n - Atlante 2:1 25 Jul Atlante - \r\nCF America 1:1 2 Aug Cruz Azul\r\n - Atlante 2:3 15 Aug Atlante - \r\nToluca 0:0 22 Aug Tigres\r\n - Atlante 2:0 29 Aug Atlante - \r\nClub Leon -",
             "17 Jul",
             "Necaxa\r\n - Atlante",
             "2:1",
@@ -410,14 +425,52 @@
             "0:0",
             "22 Aug",
             "Tigres\r\n - Atlante",
+            "2:0",
+            "29 Aug",
+            "Atlante - \r\nClub Leon",
             "-",
-            "1.25",
-            "1.25",
-            "25%",
-            "75%"
+            "1.00",
+            "1.00",
+            "20%",
+            "60%"
         ],
         [
             "14",
+            "Tigres",
+            "5",
+            "1",
+            "1",
+            "3",
+            "8",
+            "10",
+            "-2",
+            "4",
+            "17 Jul Tijuana\r\n - Tigres 3:1 26 Jul Tigres - \r\nA. San Luis 2:2 1 Aug Queretaro\r\n - Tigres 3:2 16 Aug Atlas\r\n - Tigres 2:1 22 Aug Tigres - \r\nAtlante 2:0 30 Aug Santos Laguna\r\n - Tigres -",
+            "17 Jul",
+            "Tijuana\r\n - Tigres",
+            "3:1",
+            "26 Jul",
+            "Tigres - \r\nA. San Luis",
+            "2:2",
+            "1 Aug",
+            "Queretaro\r\n - Tigres",
+            "3:2",
+            "16 Aug",
+            "Atlas\r\n - Tigres",
+            "2:1",
+            "22 Aug",
+            "Tigres - \r\nAtlante",
+            "2:0",
+            "30 Aug",
+            "Santos Laguna\r\n - Tigres",
+            "-",
+            "0.80",
+            "0.80",
+            "20%",
+            "100%"
+        ],
+        [
+            "15",
             "Pachuca",
             "4",
             "1",
@@ -449,7 +502,7 @@
             "75%"
         ],
         [
-            "15",
+            "16",
             "A. San Luis",
             "4",
             "0",
@@ -479,38 +532,6 @@
             "0.50",
             "25%",
             "50%"
-        ],
-        [
-            "16",
-            "Tigres",
-            "4",
-            "0",
-            "1",
-            "3",
-            "6",
-            "10",
-            "-4",
-            "1",
-            "17 Jul Tijuana\r\n - Tigres 3:1 26 Jul Tigres - \r\nA. San Luis 2:2 1 Aug Queretaro\r\n - Tigres 3:2 16 Aug Atlas\r\n - Tigres 2:1 22 Aug Tigres - \r\nAtlante -",
-            "17 Jul",
-            "Tijuana\r\n - Tigres",
-            "3:1",
-            "26 Jul",
-            "Tigres - \r\nA. San Luis",
-            "2:2",
-            "1 Aug",
-            "Queretaro\r\n - Tigres",
-            "3:2",
-            "16 Aug",
-            "Atlas\r\n - Tigres",
-            "2:1",
-            "22 Aug",
-            "Tigres - \r\nAtlante",
-            "-",
-            "0.25",
-            "0.25",
-            "0%",
-            "100%"
         ],
         [
             "17",
@@ -547,15 +568,15 @@
         [
             "18",
             "Juarez",
-            "4",
+            "5",
             "0",
             "0",
-            "4",
-            "2",
-            "13",
-            "-11",
+            "5",
+            "3",
+            "15",
+            "-12",
             "0",
-            "18 Jul Juarez - \r\nPuebla 0:1 25 Jul Guadalajara\r\n - Juarez 1:0 1 Aug Juarez - \r\nPumas UNAM 1:5 16 Aug Monterrey\r\n - Juarez 6:1 22 Aug Juarez - \r\nCF America -",
+            "18 Jul Juarez - \r\nPuebla 0:1 25 Jul Guadalajara\r\n - Juarez 1:0 1 Aug Juarez - \r\nPumas UNAM 1:5 16 Aug Monterrey\r\n - Juarez 6:1 22 Aug Juarez - \r\nCF America 1:2 31 Aug Toluca\r\n - Juarez -",
             "18 Jul",
             "Juarez - \r\nPuebla",
             "0:1",
@@ -570,45 +591,24 @@
             "6:1",
             "22 Aug",
             "Juarez - \r\nCF America",
+            "1:2",
+            "31 Aug",
+            "Toluca\r\n - Juarez",
             "-",
             "0.00",
             "0.00",
             "0%",
-            "50%"
+            "60%"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Fri 21 Aug",
-            "Hora": "21:00",
-            "Local": "Tigres",
-            "Visita": "Atlante"
-        },
-        {
-            "Fecha": "Fri 21 Aug",
-            "Hora": "23:00",
-            "Local": "Juarez",
-            "Visita": "CF America"
-        },
-        {
             "Fecha": "Sat 22 Aug",
             "Hora": "19:00",
             "Local": "Guadalajara",
             "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Sat 22 Aug",
-            "Hora": "19:00",
-            "Local": "Queretaro",
-            "Visita": "Toluca"
-        },
-        {
-            "Fecha": "Sat 22 Aug",
-            "Hora": "21:00",
-            "Local": "Club Leon",
-            "Visita": "Monterrey"
         },
         {
             "Fecha": "Sat 22 Aug",
@@ -689,114 +689,6 @@
             "Visita": "A. San Luis"
         },
         {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "21:00",
-            "Local": "Puebla",
-            "Visita": "Club Leon"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "21:00",
-            "Local": "Queretaro",
-            "Visita": "Atlante"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "23:00",
-            "Local": "Tigres",
-            "Visita": "Toluca"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "19:00",
-            "Local": "Juarez",
-            "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "21:00",
-            "Local": "Atlas",
-            "Visita": "Guadalajara"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "23:00",
-            "Local": "CF America",
-            "Visita": "Monterrey"
-        },
-        {
-            "Fecha": "Sun 11 Oct",
-            "Hora": "19:00",
-            "Local": "A. San Luis",
-            "Visita": "Santos Laguna"
-        },
-        {
-            "Fecha": "Sun 11 Oct",
-            "Hora": "19:00",
-            "Local": "Pachuca",
-            "Visita": "Necaxa"
-        },
-        {
-            "Fecha": "Sun 11 Oct",
-            "Hora": "21:00",
-            "Local": "Pumas UNAM",
-            "Visita": "Cruz Azul"
-        },
-        {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "21:00",
-            "Local": "Puebla",
-            "Visita": "Toluca"
-        },
-        {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "23:00",
-            "Local": "Juarez",
-            "Visita": "Pachuca"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "19:00",
-            "Local": "A. San Luis",
-            "Visita": "Guadalajara"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "19:00",
-            "Local": "Queretaro",
-            "Visita": "Monterrey"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "21:00",
-            "Local": "CF America",
-            "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "21:00",
-            "Local": "Tigres",
-            "Visita": "Necaxa"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "23:00",
-            "Local": "Atlas",
-            "Visita": "Atlante"
-        },
-        {
-            "Fecha": "Sun 6 Sep",
-            "Hora": "14:00",
-            "Local": "Pumas UNAM",
-            "Visita": "Club Leon"
-        },
-        {
-            "Fecha": "Sun 6 Sep",
-            "Hora": "22:00",
-            "Local": "Cruz Azul",
-            "Visita": "Santos Laguna"
-        },
-        {
             "Fecha": "Fri 11 Sep",
             "Hora": "20:00",
             "Local": "Toluca",
@@ -849,60 +741,6 @@
             "Hora": "22:00",
             "Local": "Monterrey",
             "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "21:00",
-            "Local": "Puebla",
-            "Visita": "Atlante"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "23:00",
-            "Local": "Juarez",
-            "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Sat 19 Sep",
-            "Hora": "19:00",
-            "Local": "A. San Luis",
-            "Visita": "Necaxa"
-        },
-        {
-            "Fecha": "Sat 19 Sep",
-            "Hora": "19:00",
-            "Local": "Atlas",
-            "Visita": "Pumas UNAM"
-        },
-        {
-            "Fecha": "Sat 19 Sep",
-            "Hora": "21:00",
-            "Local": "Monterrey",
-            "Visita": "Cruz Azul"
-        },
-        {
-            "Fecha": "Sat 19 Sep",
-            "Hora": "23:00",
-            "Local": "CF America",
-            "Visita": "Guadalajara"
-        },
-        {
-            "Fecha": "Sun 20 Sep",
-            "Hora": "20:00",
-            "Local": "Pachuca",
-            "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Sun 20 Sep",
-            "Hora": "20:00",
-            "Local": "Toluca",
-            "Visita": "Santos Laguna"
-        },
-        {
-            "Fecha": "Sun 20 Sep",
-            "Hora": "22:00",
-            "Local": "Queretaro",
-            "Visita": "Club Leon"
         },
         {
             "Fecha": "Fri 25 Sep",
@@ -959,274 +797,58 @@
             "Visita": "CF America"
         },
         {
-            "Fecha": "Fri 16 Oct",
+            "Fecha": "Fri 9 Oct",
             "Hora": "21:00",
-            "Local": "Necaxa",
-            "Visita": "Atlas"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "23:00",
-            "Local": "Atlante",
-            "Visita": "Pumas UNAM"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "23:00",
-            "Local": "Tijuana",
-            "Visita": "Puebla"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "19:00",
-            "Local": "Guadalajara",
-            "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "19:00",
-            "Local": "Santos Laguna",
-            "Visita": "Queretaro"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "21:00",
-            "Local": "Club Leon",
-            "Visita": "CF America"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "21:00",
-            "Local": "Toluca",
-            "Visita": "A. San Luis"
-        },
-        {
-            "Fecha": "Sat 17 Oct",
-            "Hora": "23:00",
-            "Local": "Cruz Azul",
-            "Visita": "Juarez"
-        },
-        {
-            "Fecha": "Sun 18 Oct",
-            "Hora": "21:00",
-            "Local": "Monterrey",
-            "Visita": "Pachuca"
-        },
-        {
-            "Fecha": "Tue 20 Oct",
-            "Hora": "21:00",
-            "Local": "A. San Luis",
-            "Visita": "Queretaro"
-        },
-        {
-            "Fecha": "Tue 20 Oct",
-            "Hora": "21:00",
-            "Local": "Juarez",
-            "Visita": "Atlante"
-        },
-        {
-            "Fecha": "Tue 20 Oct",
-            "Hora": "23:00",
-            "Local": "Guadalajara",
-            "Visita": "Necaxa"
-        },
-        {
-            "Fecha": "Tue 20 Oct",
-            "Hora": "23:00",
-            "Local": "Tigres",
+            "Local": "Puebla",
             "Visita": "Club Leon"
         },
         {
-            "Fecha": "Wed 21 Oct",
+            "Fecha": "Fri 9 Oct",
             "Hora": "21:00",
-            "Local": "Atlas",
-            "Visita": "CF America"
-        },
-        {
-            "Fecha": "Wed 21 Oct",
-            "Hora": "21:00",
-            "Local": "Puebla",
-            "Visita": "Monterrey"
-        },
-        {
-            "Fecha": "Wed 21 Oct",
-            "Hora": "21:00",
-            "Local": "Toluca",
-            "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Wed 21 Oct",
-            "Hora": "23:00",
-            "Local": "Pachuca",
-            "Visita": "Cruz Azul"
-        },
-        {
-            "Fecha": "Wed 21 Oct",
-            "Hora": "23:00",
-            "Local": "Santos Laguna",
-            "Visita": "Pumas UNAM"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "21:00",
-            "Local": "Necaxa",
-            "Visita": "Juarez"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "23:00",
-            "Local": "Atlante",
-            "Visita": "A. San Luis"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "20:00",
-            "Local": "Club Leon",
-            "Visita": "Toluca"
-        },
-        {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "21:00",
-            "Local": "Monterrey",
-            "Visita": "Guadalajara"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "00:00",
-            "Local": "Pumas UNAM",
-            "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "20:00",
-            "Local": "Atlas",
-            "Visita": "Puebla"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "20:00",
-            "Local": "CF America",
-            "Visita": "Pachuca"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "22:00",
             "Local": "Queretaro",
-            "Visita": "Cruz Azul"
-        },
-        {
-            "Fecha": "Mon 26 Oct",
-            "Hora": "00:00",
-            "Local": "Tijuana",
-            "Visita": "Santos Laguna"
-        },
-        {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "22:00",
-            "Local": "A. San Luis",
-            "Visita": "Atlas"
-        },
-        {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "22:00",
-            "Local": "Juarez",
-            "Visita": "Queretaro"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "00:00",
-            "Local": "Puebla",
-            "Visita": "Pumas UNAM"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "20:00",
-            "Local": "Pachuca",
-            "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "22:00",
-            "Local": "Guadalajara",
             "Visita": "Atlante"
         },
         {
-            "Fecha": "Sat 31 Oct",
-            "Hora": "22:00",
-            "Local": "Monterrey",
-            "Visita": "Tijuana"
-        },
-        {
-            "Fecha": "Sun 1 Nov",
-            "Hora": "00:00",
-            "Local": "CF America",
+            "Fecha": "Fri 9 Oct",
+            "Hora": "23:00",
+            "Local": "Tigres",
             "Visita": "Toluca"
         },
         {
-            "Fecha": "Sun 1 Nov",
-            "Hora": "20:00",
-            "Local": "Santos Laguna",
-            "Visita": "Necaxa"
-        },
-        {
-            "Fecha": "Sun 1 Nov",
-            "Hora": "22:00",
-            "Local": "Cruz Azul",
-            "Visita": "Club Leon"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "22:00",
-            "Local": "A. San Luis",
-            "Visita": "Juarez"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "22:00",
-            "Local": "Necaxa",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "19:00",
+            "Local": "Juarez",
             "Visita": "Tijuana"
         },
         {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "00:00",
-            "Local": "Atlante",
-            "Visita": "Santos Laguna"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "20:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "21:00",
             "Local": "Atlas",
-            "Visita": "Pachuca"
+            "Visita": "Guadalajara"
         },
         {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "20:00",
-            "Local": "Tigres",
-            "Visita": "Cruz Azul"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "22:00",
-            "Local": "Toluca",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "23:00",
+            "Local": "CF America",
             "Visita": "Monterrey"
         },
         {
-            "Fecha": "Sun 8 Nov",
-            "Hora": "00:00",
-            "Local": "Pumas UNAM",
-            "Visita": "CF America"
+            "Fecha": "Sun 11 Oct",
+            "Hora": "19:00",
+            "Local": "A. San Luis",
+            "Visita": "Santos Laguna"
         },
         {
-            "Fecha": "Sun 8 Nov",
+            "Fecha": "Sun 11 Oct",
+            "Hora": "19:00",
+            "Local": "Pachuca",
+            "Visita": "Necaxa"
+        },
+        {
+            "Fecha": "Sun 11 Oct",
             "Hora": "21:00",
-            "Local": "Queretaro",
-            "Visita": "Puebla"
-        },
-        {
-            "Fecha": "Sun 8 Nov",
-            "Hora": "22:00",
-            "Local": "Club Leon",
-            "Visita": "Guadalajara"
+            "Local": "Pumas UNAM",
+            "Visita": "Cruz Azul"
         },
         {
             "Fecha": "Fri 20 Nov",
@@ -1281,6 +903,144 @@
             "Hora": "22:00",
             "Local": "Queretaro",
             "Visita": "Necaxa"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "21:00",
+            "Local": "Puebla",
+            "Visita": "Toluca"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "23:00",
+            "Local": "Juarez",
+            "Visita": "Pachuca"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "19:00",
+            "Local": "A. San Luis",
+            "Visita": "Guadalajara"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "19:00",
+            "Local": "Queretaro",
+            "Visita": "Monterrey"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "21:00",
+            "Local": "CF America",
+            "Visita": "Tijuana"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "21:00",
+            "Local": "Tigres",
+            "Visita": "Necaxa"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "23:00",
+            "Local": "Atlas",
+            "Visita": "Atlante"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "14:00",
+            "Local": "Pumas UNAM",
+            "Visita": "Club Leon"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "22:00",
+            "Local": "Cruz Azul",
+            "Visita": "Santos Laguna"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "22:00",
+            "Local": "Guadalajara",
+            "Visita": "Atlante"
+        },
+        {
+            "Fecha": "Sat 31 Oct",
+            "Hora": "22:00",
+            "Local": "Monterrey",
+            "Visita": "Tijuana"
+        },
+        {
+            "Fecha": "Sun 1 Nov",
+            "Hora": "00:00",
+            "Local": "CF America",
+            "Visita": "Toluca"
+        },
+        {
+            "Fecha": "Sun 1 Nov",
+            "Hora": "20:00",
+            "Local": "Santos Laguna",
+            "Visita": "Necaxa"
+        },
+        {
+            "Fecha": "Sun 1 Nov",
+            "Hora": "22:00",
+            "Local": "Cruz Azul",
+            "Visita": "Club Leon"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "22:00",
+            "Local": "A. San Luis",
+            "Visita": "Juarez"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "22:00",
+            "Local": "Necaxa",
+            "Visita": "Tijuana"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "00:00",
+            "Local": "Atlante",
+            "Visita": "Santos Laguna"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "20:00",
+            "Local": "Atlas",
+            "Visita": "Pachuca"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "20:00",
+            "Local": "Tigres",
+            "Visita": "Cruz Azul"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "22:00",
+            "Local": "Toluca",
+            "Visita": "Monterrey"
+        },
+        {
+            "Fecha": "Sun 8 Nov",
+            "Hora": "00:00",
+            "Local": "Pumas UNAM",
+            "Visita": "CF America"
+        },
+        {
+            "Fecha": "Sun 8 Nov",
+            "Hora": "21:00",
+            "Local": "Queretaro",
+            "Visita": "Puebla"
+        },
+        {
+            "Fecha": "Sun 8 Nov",
+            "Hora": "22:00",
+            "Local": "Club Leon",
+            "Visita": "Guadalajara"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1301,14 +1061,6 @@
                     "Visita": "Puebla",
                     "HT": "1-2",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Puebla",
-                    "HT": "1-1",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 18 Jul",
@@ -1335,14 +1087,6 @@
                     "Res": "[0:1]",
                     "Local": "Santos Laguna",
                     "Visita": "Guadalajara",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Guadalajara",
-                    "Visita": "Juarez",
                     "HT": "0-0",
                     "Status": "🟢"
                 },
@@ -1375,14 +1119,6 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[2:2]",
-                    "Local": "Tigres",
-                    "Visita": "A. San Luis",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
                     "Fecha": "Sat 18 Jul",
                     "Res": "[2:3]",
                     "Local": "A. San Luis",
@@ -1408,14 +1144,6 @@
                     "Local": "Tijuana",
                     "Visita": "Cruz Azul",
                     "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Club Leon",
-                    "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
@@ -1447,11 +1175,11 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Guadalajara",
-                    "Visita": "Juarez",
-                    "HT": "0-0",
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Juarez",
+                    "Visita": "CF America",
+                    "HT": "1-1",
                     "Status": "🔴"
                 },
                 {
@@ -1483,14 +1211,6 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Toluca",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sun 19 Jul",
                     "Res": "[0:3]",
                     "Local": "Pumas UNAM",
@@ -1519,12 +1239,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Mon 27 Jul",
+                    "Fecha": "Sat 22 Aug",
                     "Res": "[1:2]",
-                    "Local": "Pachuca",
-                    "Visita": "Queretaro",
-                    "HT": "1-0",
-                    "Status": "🟢"
+                    "Local": "Queretaro",
+                    "Visita": "Toluca",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sun 19 Jul",
@@ -1555,11 +1275,19 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 26 Jul",
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Tigres",
+                    "Visita": "Atlante",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Próximamente",
                     "Res": "[2:2]",
                     "Local": "Tigres",
-                    "Visita": "A. San Luis",
-                    "HT": "1-1",
+                    "Visita": "2-0",
+                    "HT": "-",
                     "Status": "🟡"
                 },
                 {
@@ -1591,12 +1319,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Club Leon",
-                    "HT": "0-0",
-                    "Status": "🔴"
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Club Leon",
+                    "Visita": "Monterrey",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 18 Jul",
@@ -1624,14 +1352,6 @@
                     "Local": "Pachuca",
                     "Visita": "Puebla",
                     "HT": "1-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Pachuca",
-                    "Visita": "Queretaro",
-                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1663,14 +1383,6 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Atlas",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sat 18 Jul",
                     "Res": "[2:3]",
                     "Local": "Club Leon",
@@ -1699,11 +1411,11 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Club Leon",
                     "Visita": "Monterrey",
-                    "HT": "0-0",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1735,14 +1447,6 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Puebla",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sat 18 Jul",
                     "Res": "[2:3]",
                     "Local": "A. San Luis",
@@ -1771,12 +1475,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:1]",
-                    "Local": "Atlante",
-                    "Visita": "CF America",
-                    "HT": "0-1",
-                    "Status": "🟡"
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Tigres",
+                    "Visita": "Atlante",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Fri 17 Jul",
@@ -1807,12 +1511,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:1]",
-                    "Local": "Atlante",
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Juarez",
                     "Visita": "CF America",
-                    "HT": "0-1",
-                    "Status": "🟡"
+                    "HT": "1-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 19 Jul",
@@ -1839,14 +1543,6 @@
                     "Res": "[0:1]",
                     "Local": "Santos Laguna",
                     "Visita": "Guadalajara",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Atlas",
                     "HT": "0-0",
                     "Status": "🔴"
                 },
@@ -1879,12 +1575,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 22 Jul",
+                    "Fecha": "Sat 22 Aug",
                     "Res": "[1:2]",
-                    "Local": "Toluca",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-0",
-                    "Status": "🔴"
+                    "Local": "Queretaro",
+                    "Visita": "Toluca",
+                    "HT": "0-0",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 19 Jul",
@@ -1915,20 +1611,24 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
-                    "Visita": "Monterrey",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Fri 17 Jul",
                     "Res": "[2:1]",
                     "Local": "Necaxa",
                     "Visita": "Atlante",
                     "HT": "0-0",
                     "Status": "🟢"
+                }
+            ]
+        },
+        "2-0": {
+            "historial": [
+                {
+                    "Fecha": "Próximamente",
+                    "Res": "[2:2]",
+                    "Local": "Tigres",
+                    "Visita": "2-0",
+                    "HT": "-",
+                    "Status": "🟡"
                 }
             ]
         }

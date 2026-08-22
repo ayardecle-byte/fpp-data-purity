@@ -2,6 +2,33 @@
     "posiciones": [
         [
             "1",
+            "Galatasaray",
+            "2",
+            "1",
+            "1",
+            "0",
+            "6",
+            "2",
+            "+4",
+            "4",
+            "14 Aug Galatasaray - \r\nCorum 2:2 21 Aug Erzurum BB\r\n - Galatasaray 0:4 29 Aug Galatasaray - \r\nGoztepe -",
+            "14 Aug",
+            "Galatasaray - \r\nCorum",
+            "2:2",
+            "21 Aug",
+            "Erzurum BB\r\n - Galatasaray",
+            "0:4",
+            "29 Aug",
+            "Galatasaray - \r\nGoztepe",
+            "-",
+            "2.00",
+            "2.00",
+            "50%",
+            "100%",
+            "100"
+        ],
+        [
+            "2",
             "Amed SK",
             "1",
             "1",
@@ -25,7 +52,7 @@
             "102"
         ],
         [
-            "2",
+            "3",
             "Basaksehir",
             "1",
             "1",
@@ -49,7 +76,7 @@
             "102"
         ],
         [
-            "3",
+            "4",
             "Genclerbirligi",
             "1",
             "1",
@@ -73,7 +100,7 @@
             "102"
         ],
         [
-            "4",
+            "5",
             "Besiktas",
             "1",
             "1",
@@ -97,7 +124,7 @@
             "102"
         ],
         [
-            "5",
+            "6",
             "Rizespor",
             "1",
             "1",
@@ -121,7 +148,7 @@
             "102"
         ],
         [
-            "6",
+            "7",
             "Goztepe",
             "1",
             "0",
@@ -145,7 +172,7 @@
             "100"
         ],
         [
-            "7",
+            "8",
             "Samsunspor",
             "1",
             "0",
@@ -169,7 +196,7 @@
             "100"
         ],
         [
-            "8",
+            "9",
             "Corum",
             "1",
             "0",
@@ -185,30 +212,6 @@
             "2:2",
             "22 Aug",
             "Corum - \r\nKasimpasa",
-            "-",
-            "1.00",
-            "1.00",
-            "0%",
-            "100%",
-            "100"
-        ],
-        [
-            "9",
-            "Galatasaray",
-            "1",
-            "0",
-            "1",
-            "0",
-            "2",
-            "2",
-            "0",
-            "1",
-            "14 Aug Galatasaray - \r\nCorum 2:2 21 Aug Erzurum BB\r\n - Galatasaray -",
-            "14 Aug",
-            "Galatasaray - \r\nCorum",
-            "2:2",
-            "21 Aug",
-            "Erzurum BB\r\n - Galatasaray",
             "-",
             "1.00",
             "1.00",
@@ -411,37 +414,34 @@
         [
             "18",
             "Erzurum BB",
-            "1",
+            "2",
             "0",
             "0",
-            "1",
+            "2",
             "0",
-            "3",
-            "-3",
+            "7",
+            "-7",
             "0",
-            "16 Aug Amed SK\r\n - Erzurum BB 3:0 21 Aug Erzurum BB - \r\nGalatasaray -",
+            "16 Aug Amed SK\r\n - Erzurum BB 3:0 21 Aug Erzurum BB - \r\nGalatasaray 0:4 28 Aug Genclerbirligi\r\n - Erzurum BB -",
             "16 Aug",
             "Amed SK\r\n - Erzurum BB",
             "3:0",
             "21 Aug",
             "Erzurum BB - \r\nGalatasaray",
+            "0:4",
+            "28 Aug",
+            "Genclerbirligi\r\n - Erzurum BB",
             "-",
             "0.00",
             "0.00",
             "0%",
             "0%",
-            "99"
+            "96"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Fri 21 Aug",
-            "Hora": "14:30",
-            "Local": "Erzurum BB",
-            "Visita": "Galatasaray"
-        },
         {
             "Fecha": "Sat 22 Aug",
             "Hora": "12:00",
@@ -545,111 +545,435 @@
             "Visita": "Corum"
         },
         {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Amed SK",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Basaksehir",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Erzurum BB",
-            "Visita": "Rizespor"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Fenerbahce",
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Alanyaspor",
             "Visita": "Corum"
         },
         {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Genclerbirligi",
-            "Visita": "Besiktas"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Kasimpasa",
-            "Visita": "Gaziantep"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Kocaelispor",
-            "Visita": "Eyupspor"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Konyaspor",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Fri 10 Apr",
-            "Hora": "20:00",
-            "Local": "Trabzonspor",
-            "Visita": "Alanyaspor"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Rizespor"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Amed SK",
-            "Visita": "Kasimpasa"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 27 Feb",
             "Hora": "21:00",
             "Local": "Besiktas",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Eyupspor",
             "Visita": "Fenerbahce"
         },
         {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Eyupspor",
-            "Visita": "Corum"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 27 Feb",
             "Hora": "21:00",
             "Local": "Galatasaray",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Gaziantep",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Fri 13 Feb",
-            "Hora": "21:00",
-            "Local": "Genclerbirligi",
             "Visita": "Trabzonspor"
         },
         {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Gaziantep",
+            "Visita": "Kocaelispor"
+        },
+        {
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Genclerbirligi",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Fri 27 Feb",
             "Hora": "21:00",
             "Local": "Konyaspor",
+            "Visita": "Kasimpasa"
+        },
+        {
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Rizespor",
+            "Visita": "Goztepe"
+        },
+        {
+            "Fecha": "Fri 27 Feb",
+            "Hora": "21:00",
+            "Local": "Samsunspor",
             "Visita": "Erzurum BB"
         },
         {
-            "Fecha": "Fri 13 Feb",
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Alanyaspor",
+            "Visita": "Galatasaray"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Corum",
+            "Visita": "Genclerbirligi"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Erzurum BB",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Eyupspor",
+            "Visita": "Konyaspor"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Fenerbahce",
+            "Visita": "Kasimpasa"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Gaziantep",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Goztepe",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Kocaelispor",
+            "Visita": "Trabzonspor"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Rizespor",
+            "Visita": "Besiktas"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Alanyaspor",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Corum",
+            "Visita": "Konyaspor"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Erzurum BB",
+            "Visita": "Trabzonspor"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Eyupspor",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Fenerbahce",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Gaziantep",
+            "Visita": "Galatasaray"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Goztepe",
+            "Visita": "Besiktas"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Kocaelispor",
+            "Visita": "Kasimpasa"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Rizespor",
+            "Visita": "Genclerbirligi"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Alanyaspor",
+            "Visita": "Gaziantep"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Corum",
+            "Visita": "Galatasaray"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Erzurum BB",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Eyupspor",
+            "Visita": "Besiktas"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Fenerbahce",
+            "Visita": "Genclerbirligi"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Goztepe",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Kocaelispor",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Rizespor",
+            "Visita": "Konyaspor"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Trabzonspor",
+            "Visita": "Kasimpasa"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Amed SK",
+            "Visita": "Kocaelispor"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Basaksehir",
+            "Visita": "Trabzonspor"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Besiktas",
+            "Visita": "Alanyaspor"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Galatasaray",
+            "Visita": "Erzurum BB"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Gaziantep",
+            "Visita": "Eyupspor"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Genclerbirligi",
+            "Visita": "Goztepe"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Kasimpasa",
+            "Visita": "Corum"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Konyaspor",
+            "Visita": "Fenerbahce"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
             "Hora": "21:00",
             "Local": "Samsunspor",
+            "Visita": "Rizespor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Amed SK",
+            "Visita": "Alanyaspor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Basaksehir",
+            "Visita": "Fenerbahce"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Besiktas",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Erzurum BB",
+            "Visita": "Kocaelispor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Galatasaray",
+            "Visita": "Rizespor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Genclerbirligi",
+            "Visita": "Eyupspor"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Kasimpasa",
+            "Visita": "Goztepe"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Konyaspor",
+            "Visita": "Gaziantep"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Trabzonspor",
+            "Visita": "Corum"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Alanyaspor",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Corum",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Erzurum BB",
+            "Visita": "Kasimpasa"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Eyupspor",
+            "Visita": "Galatasaray"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Fenerbahce",
+            "Visita": "Trabzonspor"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Gaziantep",
+            "Visita": "Besiktas"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Goztepe",
+            "Visita": "Konyaspor"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Kocaelispor",
+            "Visita": "Genclerbirligi"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Rizespor",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Amed SK",
+            "Visita": "Goztepe"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Basaksehir",
+            "Visita": "Erzurum BB"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Besiktas",
+            "Visita": "Rizespor"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Galatasaray",
+            "Visita": "Alanyaspor"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Genclerbirligi",
+            "Visita": "Corum"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Kasimpasa",
+            "Visita": "Fenerbahce"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Konyaspor",
+            "Visita": "Eyupspor"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Samsunspor",
+            "Visita": "Gaziantep"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Trabzonspor",
             "Visita": "Kocaelispor"
         },
         {
@@ -1193,382 +1517,112 @@
             "Visita": "Genclerbirligi"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
-            "Local": "Amed SK",
-            "Visita": "Alanyaspor"
+            "Local": "Alanyaspor",
+            "Visita": "Eyupspor"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
-            "Local": "Basaksehir",
-            "Visita": "Fenerbahce"
+            "Local": "Corum",
+            "Visita": "Besiktas"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
-            "Local": "Besiktas",
+            "Local": "Erzurum BB",
+            "Visita": "Genclerbirligi"
+        },
+        {
+            "Fecha": "Fri 6 Feb",
+            "Hora": "21:00",
+            "Local": "Fenerbahce",
             "Visita": "Samsunspor"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
-            "Local": "Erzurum BB",
-            "Visita": "Kocaelispor"
+            "Local": "Goztepe",
+            "Visita": "Galatasaray"
         },
         {
-            "Fecha": "Sat 5 Dec",
+            "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
-            "Local": "Galatasaray",
+            "Local": "Kasimpasa",
+            "Visita": "Basaksehir"
+        },
+        {
+            "Fecha": "Fri 6 Feb",
+            "Hora": "21:00",
+            "Local": "Kocaelispor",
+            "Visita": "Konyaspor"
+        },
+        {
+            "Fecha": "Fri 6 Feb",
+            "Hora": "21:00",
+            "Local": "Rizespor",
+            "Visita": "Gaziantep"
+        },
+        {
+            "Fecha": "Fri 6 Feb",
+            "Hora": "21:00",
+            "Local": "Trabzonspor",
+            "Visita": "Amed SK"
+        },
+        {
+            "Fecha": "Fri 13 Feb",
+            "Hora": "21:00",
+            "Local": "Alanyaspor",
             "Visita": "Rizespor"
         },
         {
-            "Fecha": "Sat 5 Dec",
-            "Hora": "21:00",
-            "Local": "Genclerbirligi",
-            "Visita": "Eyupspor"
-        },
-        {
-            "Fecha": "Sat 5 Dec",
-            "Hora": "21:00",
-            "Local": "Kasimpasa",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Sat 5 Dec",
-            "Hora": "21:00",
-            "Local": "Konyaspor",
-            "Visita": "Gaziantep"
-        },
-        {
-            "Fecha": "Sat 5 Dec",
-            "Hora": "21:00",
-            "Local": "Trabzonspor",
-            "Visita": "Corum"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Corum",
-            "Visita": "Amed SK"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Erzurum BB",
-            "Visita": "Kasimpasa"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Eyupspor",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Fenerbahce",
-            "Visita": "Trabzonspor"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Gaziantep",
-            "Visita": "Besiktas"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Goztepe",
-            "Visita": "Konyaspor"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Kocaelispor",
-            "Visita": "Genclerbirligi"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Rizespor",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
             "Local": "Amed SK",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Basaksehir",
-            "Visita": "Erzurum BB"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Besiktas",
-            "Visita": "Rizespor"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Galatasaray",
-            "Visita": "Alanyaspor"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Genclerbirligi",
-            "Visita": "Corum"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Kasimpasa",
-            "Visita": "Fenerbahce"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Konyaspor",
-            "Visita": "Eyupspor"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Samsunspor",
-            "Visita": "Gaziantep"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Trabzonspor",
-            "Visita": "Kocaelispor"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Corum",
-            "Visita": "Konyaspor"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Erzurum BB",
-            "Visita": "Trabzonspor"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Eyupspor",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Fenerbahce",
-            "Visita": "Amed SK"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Gaziantep",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Goztepe",
-            "Visita": "Besiktas"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Kocaelispor",
             "Visita": "Kasimpasa"
         },
         {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Rizespor",
-            "Visita": "Genclerbirligi"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Gaziantep"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Corum",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Erzurum BB",
-            "Visita": "Amed SK"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Eyupspor",
-            "Visita": "Besiktas"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Fenerbahce",
-            "Visita": "Genclerbirligi"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Goztepe",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Kocaelispor",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Rizespor",
-            "Visita": "Konyaspor"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Trabzonspor",
-            "Visita": "Kasimpasa"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Amed SK",
-            "Visita": "Kocaelispor"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Basaksehir",
-            "Visita": "Trabzonspor"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
             "Local": "Besiktas",
-            "Visita": "Alanyaspor"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Galatasaray",
-            "Visita": "Erzurum BB"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Gaziantep",
-            "Visita": "Eyupspor"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Genclerbirligi",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Kasimpasa",
-            "Visita": "Corum"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Konyaspor",
             "Visita": "Fenerbahce"
         },
         {
-            "Fecha": "Sat 30 Jan",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
-            "Local": "Samsunspor",
-            "Visita": "Rizespor"
+            "Local": "Eyupspor",
+            "Visita": "Corum"
         },
         {
-            "Fecha": "Fri 6 Feb",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Eyupspor"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Corum",
-            "Visita": "Besiktas"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Erzurum BB",
-            "Visita": "Genclerbirligi"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Fenerbahce",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Goztepe",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Fri 6 Feb",
-            "Hora": "21:00",
-            "Local": "Kasimpasa",
+            "Local": "Galatasaray",
             "Visita": "Basaksehir"
         },
         {
-            "Fecha": "Fri 6 Feb",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
-            "Local": "Kocaelispor",
-            "Visita": "Konyaspor"
+            "Local": "Gaziantep",
+            "Visita": "Goztepe"
         },
         {
-            "Fecha": "Fri 6 Feb",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
-            "Local": "Rizespor",
-            "Visita": "Gaziantep"
+            "Local": "Genclerbirligi",
+            "Visita": "Trabzonspor"
         },
         {
-            "Fecha": "Fri 6 Feb",
+            "Fecha": "Fri 13 Feb",
             "Hora": "21:00",
-            "Local": "Trabzonspor",
-            "Visita": "Amed SK"
+            "Local": "Konyaspor",
+            "Visita": "Erzurum BB"
+        },
+        {
+            "Fecha": "Fri 13 Feb",
+            "Hora": "21:00",
+            "Local": "Samsunspor",
+            "Visita": "Kocaelispor"
         },
         {
             "Fecha": "Fri 20 Feb",
@@ -1623,60 +1677,6 @@
             "Hora": "21:00",
             "Local": "Trabzonspor",
             "Visita": "Konyaspor"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Alanyaspor",
-            "Visita": "Corum"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Besiktas",
-            "Visita": "Amed SK"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Eyupspor",
-            "Visita": "Fenerbahce"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Galatasaray",
-            "Visita": "Trabzonspor"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Gaziantep",
-            "Visita": "Kocaelispor"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Genclerbirligi",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Konyaspor",
-            "Visita": "Kasimpasa"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Rizespor",
-            "Visita": "Goztepe"
-        },
-        {
-            "Fecha": "Fri 27 Feb",
-            "Hora": "21:00",
-            "Local": "Samsunspor",
-            "Visita": "Erzurum BB"
         },
         {
             "Fecha": "Fri 6 Mar",
@@ -1895,6 +1895,60 @@
             "Visita": "Basaksehir"
         },
         {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Amed SK",
+            "Visita": "Galatasaray"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Basaksehir",
+            "Visita": "Goztepe"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Erzurum BB",
+            "Visita": "Rizespor"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Fenerbahce",
+            "Visita": "Corum"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Genclerbirligi",
+            "Visita": "Besiktas"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Kasimpasa",
+            "Visita": "Gaziantep"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Kocaelispor",
+            "Visita": "Eyupspor"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Konyaspor",
+            "Visita": "Samsunspor"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Trabzonspor",
+            "Visita": "Alanyaspor"
+        },
+        {
             "Fecha": "Fri 17 Apr",
             "Hora": "20:00",
             "Local": "Alanyaspor",
@@ -2109,60 +2163,6 @@
             "Hora": "20:00",
             "Local": "Trabzonspor",
             "Visita": "Fenerbahce"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Alanyaspor",
-            "Visita": "Galatasaray"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Corum",
-            "Visita": "Genclerbirligi"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Erzurum BB",
-            "Visita": "Basaksehir"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Eyupspor",
-            "Visita": "Konyaspor"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Fenerbahce",
-            "Visita": "Kasimpasa"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Gaziantep",
-            "Visita": "Samsunspor"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Goztepe",
-            "Visita": "Amed SK"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Kocaelispor",
-            "Visita": "Trabzonspor"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Rizespor",
-            "Visita": "Besiktas"
         },
         {
             "Fecha": "Fri 22 May",
@@ -2229,6 +2229,14 @@
                     "Visita": "Corum",
                     "HT": "0-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 21 Aug",
+                    "Res": "[0:4]",
+                    "Local": "Erzurum BB",
+                    "Visita": "Galatasaray",
+                    "HT": "0-3",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -2384,6 +2392,14 @@
                     "Local": "Amed SK",
                     "Visita": "Erzurum BB",
                     "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 21 Aug",
+                    "Res": "[0:4]",
+                    "Local": "Erzurum BB",
+                    "Visita": "Galatasaray",
+                    "HT": "0-3",
                     "Status": "🔴"
                 }
             ]
