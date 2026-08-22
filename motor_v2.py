@@ -403,6 +403,14 @@ def revisar_discrepancia(prob_modelo, cuota_casa):
     if not prob_modelo or not cuota_casa or cuota_casa <= 1:
         return None
 
+    # La probabilidad puede llegar en decimal (0.55) o en porcentaje (55).
+    # Se normaliza a decimal para que el calculo sea siempre correcto.
+    prob_modelo = float(prob_modelo)
+    if prob_modelo > 1.0:
+        prob_modelo = prob_modelo / 100.0
+    if prob_modelo <= 0 or prob_modelo > 1:
+        return None
+
     prob_casa = 1.0 / cuota_casa
     diferencia = (prob_modelo - prob_casa) * 100  # en puntos porcentuales
 
