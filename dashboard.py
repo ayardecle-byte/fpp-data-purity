@@ -2866,7 +2866,10 @@ elif st.session_state.pagina == 'Billetera':
             nulas += 1
             inv_total += inv
 
+        marca = {"Ganada": "🟢", "Perdida": "🔴", "Nula": "⚪"}.get(estado, "⏳")
+
         df_display.append({
+            "Res": marca,
             "ID": row['id'], 
             "Fecha": str(row.get('fecha_apuesta', '')),
             "Local": row['equipo_local'],
@@ -2936,29 +2939,32 @@ elif st.session_state.pagina == 'Billetera':
             st.markdown("### 📅 Resumen")
 
             q1, q2, q3, q4 = st.columns(4)
-            q1.metric(
-                f"HOY ({r_hoy['n']} apuestas)",
-                f"$ {r_hoy['neto']:+.2f}",
-                f"{r_hoy['g']}G · {r_hoy['p']}P" if r_hoy["n"] else "sin apuestas cerradas",
-                delta_color="off",
-            )
-            q2.metric(
-                f"Ayer ({r_ayer['n']})",
-                f"$ {r_ayer['neto']:+.2f}",
-                delta_color="off",
-            )
-            q3.metric(
-                f"Últimos 7 días ({r_semana['n']})",
-                f"$ {r_semana['neto']:+.2f}",
-                f"yield {r_semana['yield']:+.1f}%" if r_semana["inv"] else None,
-                delta_color="off",
-            )
-            q4.metric(
-                f"Últimos 30 días ({r_mes['n']})",
-                f"$ {r_mes['neto']:+.2f}",
-                f"yield {r_mes['yield']:+.1f}%" if r_mes["inv"] else None,
-                delta_color="off",
-            )
+            def pie_hoy(r):
+                if not r["n"]:
+                    return "sin apuestas cerradas"
+                acierto = r["g"] / r["n"] * 100
+                txt = f"{r['g']}G · {r['p']}P · {acierto:.0f}% acierto"
+                if r["inv"]:
+                    txt += f" · yield {r['yield']:+.1f}%"
+                return txt
+
+            q1.metric(f"HOY ({r_hoy['n']} apuestas)", f"$ {r_hoy['neto']:+.2f}",
+                      pie_hoy(r_hoy), delta_color="off")
+            def pie(r):
+                if not r["n"]:
+                    return "sin apuestas cerradas"
+                acierto = r["g"] / r["n"] * 100
+                txt = f"{r['g']}G · {r['p']}P · {acierto:.0f}% acierto"
+                if r["inv"]:
+                    txt += f" · yield {r['yield']:+.1f}%"
+                return txt
+
+            q2.metric(f"Ayer ({r_ayer['n']})", f"$ {r_ayer['neto']:+.2f}",
+                      pie(r_ayer), delta_color="off")
+            q3.metric(f"Últimos 7 días ({r_semana['n']})", f"$ {r_semana['neto']:+.2f}",
+                      pie(r_semana), delta_color="off")
+            q4.metric(f"Últimos 30 días ({r_mes['n']})", f"$ {r_mes['neto']:+.2f}",
+                      pie(r_mes), delta_color="off")
 
             # Aviso proporcional a la muestra
             total_cerradas = len(cerradas)
@@ -2977,9 +2983,18 @@ elif st.session_state.pagina == 'Billetera':
 
             # ---- Evolución del bankroll ----
             with st.expander("📈 Ver evolución del bankroll", expanded=False):
-                por_dia = (cerradas.groupby("_fecha")["Ganancia Neta"]
-                           .sum().sort_index().reset_index())
+                por_dia = cerradas.groupby("_fecha").agg(
+                    Apuestas=("Estado", "size"),
+                    Ganadas=("Estado", lambda x: int((x == "Ganada").sum())),
+                    Perdidas=("Estado", lambda x: int((x == "Perdida").sum())),
+                    Invertido=("Inversión", "sum"),
+                    **{"Ganancia Neta": ("Ganancia Neta", "sum")},
+                ).sort_index().reset_index()
+
                 por_dia["Bankroll"] = bankroll_ini + por_dia["Ganancia Neta"].cumsum()
+                por_dia["Yield"] = por_dia.apply(
+                    lambda r: (r["Ganancia Neta"] / r["Invertido"] * 100)
+                    if r["Invertido"] else 0.0, axis=1)
                 por_dia = por_dia.rename(columns={"_fecha": "Fecha",
                                                   "Ganancia Neta": "Resultado del día"})
 
@@ -3004,11 +3019,39 @@ elif st.session_state.pagina == 'Billetera':
                     "peor racha."
                 )
 
+                st.markdown("##### Detalle día por día")
+                tabla_dias = por_dia.sort_values("Fecha", ascending=False).head(30).copy()
+                tabla_dias["Res"] = tabla_dias["Resultado del día"].apply(
+                    lambda x: "🟢" if x > 0 else ("🔴" if x < 0 else "⚪"))
+                tabla_dias = tabla_dias[["Res", "Fecha", "Apuestas", "Ganadas",
+                                         "Perdidas", "Invertido",
+                                         "Resultado del día", "Yield", "Bankroll"]]
+
+                def pintar_dia(fila):
+                    v = fila["Resultado del día"]
+                    if v > 0:
+                        c = "background-color: rgba(0, 200, 83, 0.18)"
+                    elif v < 0:
+                        c = "background-color: rgba(244, 67, 54, 0.13)"
+                    else:
+                        c = ""
+                    return [c] * len(fila)
+
                 st.dataframe(
-                    por_dia.sort_values("Fecha", ascending=False).head(30)
-                          .style.format({"Resultado del día": "{:+.2f}",
-                                         "Bankroll": "{:.2f}"}),
+                    tabla_dias.style.apply(pintar_dia, axis=1).format({
+                        "Invertido": "$ {:.2f}",
+                        "Resultado del día": "$ {:+.2f}",
+                        "Yield": "{:+.1f}%",
+                        "Bankroll": "$ {:.2f}",
+                    }),
                     width="stretch", hide_index=True,
+                )
+
+                dias_verdes = int((por_dia["Resultado del día"] > 0).sum())
+                dias_rojos = int((por_dia["Resultado del día"] < 0).sum())
+                st.caption(
+                    f"Días con ganancia: {dias_verdes} · Días con pérdida: {dias_rojos} "
+                    f"· Total de días con actividad: {len(por_dia)}"
                 )
 
             st.divider()
@@ -3083,6 +3126,8 @@ elif st.session_state.pagina == 'Billetera':
             df_billetera,
             column_config={
                 "ID": None,
+                "Res": st.column_config.TextColumn("", width="small", disabled=True,
+                                                   help="🟢 ganada · 🔴 perdida · ⚪ nula · ⏳ pendiente"),
                 "Fecha": st.column_config.TextColumn("Fecha"),
                 "Local": st.column_config.TextColumn(disabled=True),
                 "VS": st.column_config.TextColumn(disabled=True),
@@ -3100,6 +3145,32 @@ elif st.session_state.pagina == 'Billetera':
             key="editor_billetera"
         )
         
+        with st.expander("🎨 Ver tabla con colores (solo lectura)", expanded=False):
+            vista = df_billetera.drop(columns=["ID", "🗑️ Eliminar", "Res"], errors="ignore")
+
+            def pintar_fila(fila):
+                estado = fila.get("Estado", "")
+                if estado == "Ganada":
+                    color = "background-color: rgba(0, 200, 83, 0.18)"
+                elif estado == "Perdida":
+                    color = "background-color: rgba(244, 67, 54, 0.13)"
+                elif estado == "Nula":
+                    color = "background-color: rgba(158, 158, 158, 0.12)"
+                else:
+                    color = ""
+                return [color] * len(fila)
+
+            st.dataframe(
+                vista.style.apply(pintar_fila, axis=1).format({
+                    "Inversión": "$ {:.2f}",
+                    "Cuota": "{:.2f}",
+                    "Ganancia": "$ {:.2f}",
+                    "Ganancia Neta": "$ {:+.2f}",
+                }),
+                width="stretch", hide_index=True,
+            )
+            st.caption("Verde: ganada · Rojo: perdida · Gris: nula · Sin color: pendiente")
+
         if st.button("💾 Guardar Cambios en la Billetera", type="primary"):
             for i in range(len(edited_df)):
                 id_ap = int(edited_df.iloc[i]['ID'])
