@@ -2,6 +2,38 @@
     "posiciones": [
         [
             "1",
+            "BSC Young Boys",
+            "4",
+            "3",
+            "1",
+            "0",
+            "16",
+            "6",
+            "+10",
+            "10",
+            "26 Jul BSC Young Boys - \r\nSion 4:2 1 Aug Thun\r\n - BSC Young Boys 0:6 8 Aug Lausanne Sport\r\n - BSC Young Boys 2:2 23 Aug BSC Young Boys - \r\nVaduz 4:2 29 Aug BSC Young Boys - \r\nFC Basel -",
+            "26 Jul",
+            "BSC Young Boys - \r\nSion",
+            "4:2",
+            "1 Aug",
+            "Thun\r\n - BSC Young Boys",
+            "0:6",
+            "8 Aug",
+            "Lausanne Sport\r\n - BSC Young Boys",
+            "2:2",
+            "23 Aug",
+            "BSC Young Boys - \r\nVaduz",
+            "4:2",
+            "29 Aug",
+            "BSC Young Boys - \r\nFC Basel",
+            "-",
+            "2.50",
+            "2.50",
+            "25%",
+            "100%"
+        ],
+        [
+            "2",
             "Lugano",
             "3",
             "3",
@@ -30,7 +62,7 @@
             "100%"
         ],
         [
-            "2",
+            "3",
             "FC Basel",
             "4",
             "3",
@@ -60,35 +92,6 @@
             "2.25",
             "25%",
             "75%"
-        ],
-        [
-            "3",
-            "BSC Young Boys",
-            "3",
-            "2",
-            "1",
-            "0",
-            "12",
-            "4",
-            "+8",
-            "7",
-            "26 Jul BSC Young Boys - \r\nSion 4:2 1 Aug Thun\r\n - BSC Young Boys 0:6 8 Aug Lausanne Sport\r\n - BSC Young Boys 2:2 23 Aug BSC Young Boys - \r\nVaduz -",
-            "26 Jul",
-            "BSC Young Boys - \r\nSion",
-            "4:2",
-            "1 Aug",
-            "Thun\r\n - BSC Young Boys",
-            "0:6",
-            "8 Aug",
-            "Lausanne Sport\r\n - BSC Young Boys",
-            "2:2",
-            "23 Aug",
-            "BSC Young Boys - \r\nVaduz",
-            "-",
-            "2.33",
-            "2.33",
-            "33%",
-            "100%"
         ],
         [
             "4",
@@ -223,7 +226,7 @@
             "4",
             "-1",
             "3",
-            "25 Jul Servette - \r\nFC Basel 0:1 1 Aug FC Zurich\r\n - Servette 2:1 8 Aug Servette - \r\nGrasshopper 2:1 23 Aug Thun\r\n - Servette -",
+            "25 Jul Servette - \r\nFC Basel 0:1 1 Aug FC Zurich\r\n - Servette 2:1 8 Aug Servette - \r\nGrasshopper 2:1 29 Aug Servette - \r\nLuzern -",
             "25 Jul",
             "Servette - \r\nFC Basel",
             "0:1",
@@ -233,8 +236,8 @@
             "8 Aug",
             "Servette - \r\nGrasshopper",
             "2:1",
-            "23 Aug",
-            "Thun\r\n - Servette",
+            "29 Aug",
+            "Servette - \r\nLuzern",
             "-",
             "1.00",
             "1.00",
@@ -252,7 +255,7 @@
             "11",
             "-6",
             "3",
-            "25 Jul Luzern\r\n - Thun 1:3 1 Aug Thun - \r\nBSC Young Boys 0:6 9 Aug FC Basel\r\n - Thun 4:2 23 Aug Thun - \r\nServette -",
+            "25 Jul Luzern\r\n - Thun 1:3 1 Aug Thun - \r\nBSC Young Boys 0:6 9 Aug FC Basel\r\n - Thun 4:2 30 Aug St. Gallen\r\n - Thun -",
             "25 Jul",
             "Luzern\r\n - Thun",
             "1:3",
@@ -262,8 +265,8 @@
             "9 Aug",
             "FC Basel\r\n - Thun",
             "4:2",
-            "23 Aug",
-            "Thun - \r\nServette",
+            "30 Aug",
+            "St. Gallen\r\n - Thun",
             "-",
             "1.00",
             "1.00",
@@ -334,15 +337,15 @@
         [
             "12",
             "Vaduz",
-            "3",
+            "4",
             "0",
             "0",
-            "3",
-            "5",
-            "8",
-            "-3",
+            "4",
+            "7",
+            "12",
+            "-5",
             "0",
-            "26 Jul Lugano\r\n - Vaduz 2:1 2 Aug Vaduz - \r\nSt. Gallen 2:3 9 Aug Sion\r\n - Vaduz 3:2 23 Aug BSC Young Boys\r\n - Vaduz -",
+            "26 Jul Lugano\r\n - Vaduz 2:1 2 Aug Vaduz - \r\nSt. Gallen 2:3 9 Aug Sion\r\n - Vaduz 3:2 23 Aug BSC Young Boys\r\n - Vaduz 4:2 30 Aug Vaduz - \r\nGrasshopper -",
             "26 Jul",
             "Lugano\r\n - Vaduz",
             "2:1",
@@ -354,6 +357,9 @@
             "3:2",
             "23 Aug",
             "BSC Young Boys\r\n - Vaduz",
+            "4:2",
+            "30 Aug",
+            "Vaduz - \r\nGrasshopper",
             "-",
             "0.00",
             "0.00",
@@ -364,18 +370,6 @@
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Sun 23 Aug",
-            "Hora": "08:00",
-            "Local": "BSC Young Boys",
-            "Visita": "Vaduz"
-        },
-        {
-            "Fecha": "Sun 23 Aug",
-            "Hora": "11:00",
-            "Local": "Thun",
-            "Visita": "Servette"
-        },
         {
             "Fecha": "Sat 29 Aug",
             "Hora": "12:00",
@@ -411,6 +405,114 @@
             "Hora": "10:30",
             "Local": "Vaduz",
             "Visita": "Grasshopper"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Grasshopper",
+            "Visita": "Lausanne Sport"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Luzern",
+            "Visita": "BSC Young Boys"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Servette",
+            "Visita": "FC Zurich"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "St. Gallen",
+            "Visita": "Lugano"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Thun",
+            "Visita": "FC Basel"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Vaduz",
+            "Visita": "Sion"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "BSC Young Boys",
+            "Visita": "Thun"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "FC Basel",
+            "Visita": "Luzern"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "FC Zurich",
+            "Visita": "St. Gallen"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Lausanne Sport",
+            "Visita": "Vaduz"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Lugano",
+            "Visita": "Grasshopper"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Sion",
+            "Visita": "Servette"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Grasshopper",
+            "Visita": "FC Basel"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Luzern",
+            "Visita": "Lugano"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Servette",
+            "Visita": "Lausanne Sport"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Sion",
+            "Visita": "BSC Young Boys"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Thun",
+            "Visita": "St. Gallen"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Vaduz",
+            "Visita": "FC Zurich"
         },
         {
             "Fecha": "Tue 1 Sep",
@@ -557,220 +659,148 @@
             "Visita": "Lugano"
         },
         {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "21:00",
-            "Local": "BSC Young Boys",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
             "Local": "FC Basel",
-            "Visita": "Vaduz"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "21:00",
-            "Local": "FC Zurich",
-            "Visita": "Lausanne Sport"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "21:00",
-            "Local": "Luzern",
-            "Visita": "St. Gallen"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "21:00",
-            "Local": "Servette",
-            "Visita": "Thun"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "21:00",
-            "Local": "Sion",
-            "Visita": "Grasshopper"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Grasshopper",
             "Visita": "Servette"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
-            "Local": "Lausanne Sport",
-            "Visita": "FC Basel"
+            "Local": "FC Zurich",
+            "Visita": "Lugano"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
-            "Local": "Lugano",
+            "Local": "Lausanne Sport",
             "Visita": "Sion"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
             "Local": "St. Gallen",
-            "Visita": "BSC Young Boys"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Thun",
-            "Visita": "FC Zurich"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Vaduz",
-            "Visita": "Luzern"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "FC Basel",
-            "Visita": "BSC Young Boys"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "Grasshopper",
-            "Visita": "Thun"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "Lugano",
-            "Visita": "Lausanne Sport"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "Luzern",
-            "Visita": "FC Zurich"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "Sion",
-            "Visita": "St. Gallen"
-        },
-        {
-            "Fecha": "Fri 29 Jan",
-            "Hora": "21:00",
-            "Local": "Vaduz",
-            "Visita": "Servette"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Grasshopper",
-            "Visita": "Lausanne Sport"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Luzern",
-            "Visita": "BSC Young Boys"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Servette",
-            "Visita": "FC Zurich"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "St. Gallen",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Thun",
-            "Visita": "FC Basel"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Vaduz",
-            "Visita": "Sion"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "BSC Young Boys",
-            "Visita": "Thun"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "FC Basel",
-            "Visita": "Luzern"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "FC Zurich",
-            "Visita": "St. Gallen"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Lausanne Sport",
-            "Visita": "Vaduz"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Lugano",
             "Visita": "Grasshopper"
         },
         {
-            "Fecha": "Fri 20 Nov",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
-            "Local": "Sion",
-            "Visita": "Servette"
+            "Local": "Thun",
+            "Visita": "Luzern"
         },
         {
-            "Fecha": "Fri 27 Nov",
+            "Fecha": "Fri 4 Dec",
             "Hora": "21:00",
-            "Local": "Grasshopper",
-            "Visita": "FC Basel"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Luzern",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Servette",
-            "Visita": "Lausanne Sport"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Sion",
+            "Local": "Vaduz",
             "Visita": "BSC Young Boys"
         },
         {
-            "Fecha": "Fri 27 Nov",
+            "Fecha": "Fri 11 Dec",
             "Hora": "21:00",
-            "Local": "Thun",
+            "Local": "BSC Young Boys",
+            "Visita": "Lausanne Sport"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "FC Zurich",
+            "Visita": "Grasshopper"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Lugano",
+            "Visita": "Thun"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Luzern",
+            "Visita": "Servette"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Sion",
+            "Visita": "FC Basel"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "St. Gallen",
+            "Visita": "Vaduz"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "FC Basel",
+            "Visita": "FC Zurich"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Grasshopper",
+            "Visita": "Luzern"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Lausanne Sport",
             "Visita": "St. Gallen"
         },
         {
-            "Fecha": "Fri 27 Nov",
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Servette",
+            "Visita": "BSC Young Boys"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Thun",
+            "Visita": "Sion"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
             "Hora": "21:00",
             "Local": "Vaduz",
-            "Visita": "FC Zurich"
+            "Visita": "Lugano"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "BSC Young Boys",
+            "Visita": "Grasshopper"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "FC Zurich",
+            "Visita": "Sion"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Lausanne Sport",
+            "Visita": "Luzern"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Servette",
+            "Visita": "Lugano"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "St. Gallen",
+            "Visita": "FC Basel"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Thun",
+            "Visita": "Vaduz"
         },
         {
             "Fecha": "Sat 10 Oct",
@@ -879,150 +909,6 @@
             "Hora": "21:00",
             "Local": "St. Gallen",
             "Visita": "Servette"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "FC Basel",
-            "Visita": "Servette"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "FC Zurich",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "Lausanne Sport",
-            "Visita": "Sion"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "St. Gallen",
-            "Visita": "Grasshopper"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "Thun",
-            "Visita": "Luzern"
-        },
-        {
-            "Fecha": "Fri 4 Dec",
-            "Hora": "21:00",
-            "Local": "Vaduz",
-            "Visita": "BSC Young Boys"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "BSC Young Boys",
-            "Visita": "Lausanne Sport"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "FC Zurich",
-            "Visita": "Grasshopper"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "Lugano",
-            "Visita": "Thun"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "Luzern",
-            "Visita": "Servette"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "Sion",
-            "Visita": "FC Basel"
-        },
-        {
-            "Fecha": "Fri 11 Dec",
-            "Hora": "21:00",
-            "Local": "St. Gallen",
-            "Visita": "Vaduz"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "FC Basel",
-            "Visita": "FC Zurich"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Grasshopper",
-            "Visita": "Luzern"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Lausanne Sport",
-            "Visita": "St. Gallen"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Servette",
-            "Visita": "BSC Young Boys"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Thun",
-            "Visita": "Sion"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Vaduz",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "BSC Young Boys",
-            "Visita": "Grasshopper"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "FC Zurich",
-            "Visita": "Sion"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "Lausanne Sport",
-            "Visita": "Luzern"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "Servette",
-            "Visita": "Lugano"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "St. Gallen",
-            "Visita": "FC Basel"
-        },
-        {
-            "Fecha": "Thu 5 Feb",
-            "Hora": "21:00",
-            "Local": "Thun",
-            "Visita": "Vaduz"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1209,6 +1095,14 @@
                     "Status": "🟡"
                 },
                 {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[4:2]",
+                    "Local": "BSC Young Boys",
+                    "Visita": "Vaduz",
+                    "HT": "2-2",
+                    "Status": "🟢"
+                },
+                {
                     "Fecha": "Sun 26 Jul",
                     "Res": "[4:2]",
                     "Local": "BSC Young Boys",
@@ -1234,6 +1128,14 @@
                     "Local": "Sion",
                     "Visita": "Vaduz",
                     "HT": "1-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[4:2]",
+                    "Local": "BSC Young Boys",
+                    "Visita": "Vaduz",
+                    "HT": "2-2",
                     "Status": "🔴"
                 },
                 {

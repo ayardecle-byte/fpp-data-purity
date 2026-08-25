@@ -81,18 +81,15 @@
         [
             "3",
             "Athletico PR",
-            "23",
-            "12",
+            "24",
+            "13",
             "5",
             "6",
-            "31",
-            "20",
-            "+11",
-            "41",
-            "30 May Athletico PR - \r\nMirassol 1:0 23 Jul Sao Paulo\r\n - Athletico PR 1:2 25 Jul Athletico PR - \r\nInternacional 2:0 30 Jul Corinthians\r\n - Athletico PR 0:0 9 Aug Santos\r\n - Athletico PR 0:2 15 Aug Athletico PR - \r\nBragantino 1:1 24 Aug Botafogo\r\n - Athletico PR -",
-            "30 May",
-            "Athletico PR - \r\nMirassol",
-            "1:0",
+            "34",
+            "22",
+            "+12",
+            "44",
+            "23 Jul Sao Paulo\r\n - Athletico PR 1:2 25 Jul Athletico PR - \r\nInternacional 2:0 30 Jul Corinthians\r\n - Athletico PR 0:0 9 Aug Santos\r\n - Athletico PR 0:2 15 Aug Athletico PR - \r\nBragantino 1:1 24 Aug Botafogo\r\n - Athletico PR 2:3 30 Aug Athletico PR - \r\nFluminense -",
             "23 Jul",
             "Sao Paulo\r\n - Athletico PR",
             "1:2",
@@ -110,11 +107,14 @@
             "1:1",
             "24 Aug",
             "Botafogo\r\n - Athletico PR",
+            "2:3",
+            "30 Aug",
+            "Athletico PR - \r\nFluminense",
             "-",
-            "1.78",
-            "2.25",
-            "35%",
-            "74%",
+            "1.83",
+            "2.50",
+            "33%",
+            "75%",
             "86"
         ],
         [
@@ -393,18 +393,15 @@
         [
             "11",
             "Botafogo",
-            "22",
+            "23",
             "8",
             "6",
-            "8",
-            "35",
-            "34",
-            "+1",
+            "9",
+            "37",
+            "37",
+            "0",
             "30",
-            "30 May Bahia\r\n - Botafogo 2:1 16 Jul Botafogo - \r\nSantos 2:1 23 Jul Botafogo - \r\nVitoria 0:0 26 Jul Cruzeiro\r\n - Botafogo 0:1 9 Aug Botafogo - \r\nFluminense 1:1 16 Aug Vitoria\r\n - Botafogo 1:0 24 Aug Botafogo - \r\nAthletico PR -",
-            "30 May",
-            "Bahia\r\n - Botafogo",
-            "2:1",
+            "16 Jul Botafogo - \r\nSantos 2:1 23 Jul Botafogo - \r\nVitoria 0:0 26 Jul Cruzeiro\r\n - Botafogo 0:1 9 Aug Botafogo - \r\nFluminense 1:1 16 Aug Vitoria\r\n - Botafogo 1:0 24 Aug Botafogo - \r\nAthletico PR 2:3 30 Aug Flamengo\r\n - Botafogo -",
             "16 Jul",
             "Botafogo - \r\nSantos",
             "2:1",
@@ -422,12 +419,15 @@
             "1:0",
             "24 Aug",
             "Botafogo - \r\nAthletico PR",
+            "2:3",
+            "30 Aug",
+            "Flamengo\r\n - Botafogo",
             "-",
-            "1.36",
-            "1.50",
-            "14%",
-            "82%",
-            "78"
+            "1.30",
+            "1.13",
+            "13%",
+            "83%",
+            "75"
         ],
         [
             "12",
@@ -785,12 +785,6 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Mon 24 Aug",
-            "Hora": "19:00",
-            "Local": "Botafogo",
-            "Visita": "Athletico PR"
-        },
-        {
             "Fecha": "Sat 29 Aug",
             "Hora": "17:30",
             "Local": "Atletico MG",
@@ -849,6 +843,186 @@
             "Hora": "19:00",
             "Local": "Remo",
             "Visita": "Coritiba"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Athletico PR",
+            "Visita": "Palmeiras"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Atletico MG",
+            "Visita": "Coritiba"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Bahia",
+            "Visita": "Flamengo"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Botafogo",
+            "Visita": "Chapecoense"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Corinthians",
+            "Visita": "Vitoria"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Fluminense",
+            "Visita": "Santos"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Gremio",
+            "Visita": "Cruzeiro"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Mirassol",
+            "Visita": "Internacional"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Remo",
+            "Visita": "Bragantino"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Sao Paulo",
+            "Visita": "Vasco da Gama"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "15:00",
+            "Local": "Bragantino",
+            "Visita": "Bahia"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "17:30",
+            "Local": "Coritiba",
+            "Visita": "Mirassol"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "17:30",
+            "Local": "Sao Paulo",
+            "Visita": "Atletico MG"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "20:00",
+            "Local": "Fluminense",
+            "Visita": "Vasco da Gama"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "15:00",
+            "Local": "Cruzeiro",
+            "Visita": "Athletico PR"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "15:00",
+            "Local": "Internacional",
+            "Visita": "Santos"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "15:00",
+            "Local": "Remo",
+            "Visita": "Flamengo"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "17:30",
+            "Local": "Botafogo",
+            "Visita": "Palmeiras"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "18:30",
+            "Local": "Corinthians",
+            "Visita": "Chapecoense"
+        },
+        {
+            "Fecha": "Mon 7 Sep",
+            "Hora": "19:00",
+            "Local": "Vitoria",
+            "Visita": "Gremio"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Atletico MG",
+            "Visita": "Fluminense"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Bahia",
+            "Visita": "Remo"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Botafogo",
+            "Visita": "Bragantino"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Chapecoense",
+            "Visita": "Internacional"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Coritiba",
+            "Visita": "Athletico PR"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Flamengo",
+            "Visita": "Corinthians"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Gremio",
+            "Visita": "Vasco da Gama"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Mirassol",
+            "Visita": "Vitoria"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Palmeiras",
+            "Visita": "Sao Paulo"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Santos",
+            "Visita": "Cruzeiro"
         },
         {
             "Fecha": "Fri 18 Sep",
@@ -911,64 +1085,124 @@
             "Visita": "Cruzeiro"
         },
         {
-            "Fecha": "Tue 27 Oct",
+            "Fecha": "Fri 27 Nov",
             "Hora": "21:00",
             "Local": "Atletico MG",
-            "Visita": "Cruzeiro"
+            "Visita": "Vasco da Gama"
         },
         {
-            "Fecha": "Tue 27 Oct",
+            "Fecha": "Fri 27 Nov",
             "Hora": "21:00",
-            "Local": "Bahia",
-            "Visita": "Sao Paulo"
+            "Local": "Botafogo",
+            "Visita": "Bahia"
         },
         {
-            "Fecha": "Tue 27 Oct",
+            "Fecha": "Fri 27 Nov",
             "Hora": "21:00",
-            "Local": "Bragantino",
-            "Visita": "Chapecoense"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Corinthians",
-            "Visita": "Mirassol"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Coritiba",
-            "Visita": "Vitoria"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Fluminense",
-            "Visita": "Internacional"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Gremio",
-            "Visita": "Athletico PR"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Remo",
-            "Visita": "Botafogo"
-        },
-        {
-            "Fecha": "Tue 27 Oct",
-            "Hora": "21:00",
-            "Local": "Santos",
+            "Local": "Chapecoense",
             "Visita": "Palmeiras"
         },
         {
-            "Fecha": "Tue 27 Oct",
+            "Fecha": "Fri 27 Nov",
             "Hora": "21:00",
-            "Local": "Vasco da Gama",
+            "Local": "Corinthians",
+            "Visita": "Gremio"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Coritiba",
             "Visita": "Flamengo"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Fluminense",
+            "Visita": "Cruzeiro"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Internacional",
+            "Visita": "Bragantino"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Mirassol",
+            "Visita": "Athletico PR"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Sao Paulo",
+            "Visita": "Remo"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Vitoria",
+            "Visita": "Santos"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Athletico PR",
+            "Visita": "Atletico MG"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Botafogo",
+            "Visita": "Vasco da Gama"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Bragantino",
+            "Visita": "Mirassol"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Cruzeiro",
+            "Visita": "Sao Paulo"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Fluminense",
+            "Visita": "Coritiba"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Internacional",
+            "Visita": "Corinthians"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Palmeiras",
+            "Visita": "Bahia"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Remo",
+            "Visita": "Gremio"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Santos",
+            "Visita": "Flamengo"
+        },
+        {
+            "Fecha": "Tue 6 Oct",
+            "Hora": "20:00",
+            "Local": "Vitoria",
+            "Visita": "Chapecoense"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1007,20 +1241,44 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[2:1]",
-                    "Local": "Fluminense",
-                    "Visita": "Gremio",
-                    "HT": "0-0",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[1:3]",
+                    "Local": "Gremio",
+                    "Visita": "Corinthians",
+                    "HT": "1-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[0:0]",
-                    "Local": "Athletico PR",
-                    "Visita": "Gremio",
-                    "HT": "0-0",
+                    "Fecha": "Fri 13 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Gremio",
+                    "Visita": "Bragantino",
+                    "HT": "1-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Tue 17 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Chapecoense",
+                    "Visita": "Gremio",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Gremio",
+                    "Visita": "Vitoria",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Gremio",
+                    "HT": "2-1",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -1029,22 +1287,6 @@
                     "Visita": "Gremio",
                     "HT": "0-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[5:3]",
-                    "Local": "Gremio",
-                    "Visita": "Botafogo",
-                    "HT": "1-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[3:2]",
-                    "Local": "Gremio",
-                    "Visita": "Santos",
-                    "HT": "1-1",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1083,20 +1325,44 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[2:1]",
+                    "Fecha": "Mon 1 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Remo",
+                    "Visita": "Sao Paulo",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 13 Mar",
+                    "Res": "[2:0]",
                     "Local": "Sao Paulo",
-                    "Visita": "Flamengo",
+                    "Visita": "Chapecoense",
                     "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[2:2]",
-                    "Local": "Sao Paulo",
-                    "Visita": "Bahia",
+                    "Fecha": "Mon 16 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Bragantino",
+                    "Visita": "Sao Paulo",
                     "HT": "1-0",
-                    "Status": "🟡"
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Atletico MG",
+                    "Visita": "Sao Paulo",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[0:1]",
+                    "Local": "Sao Paulo",
+                    "Visita": "Palmeiras",
+                    "HT": "0-1",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 16 May",
@@ -1105,22 +1371,6 @@
                     "Visita": "Sao Paulo",
                     "HT": "2-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Santos",
-                    "Visita": "Sao Paulo",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[1:1]",
-                    "Local": "Sao Paulo",
-                    "Visita": "Botafogo",
-                    "HT": "1-0",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1159,19 +1409,43 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[2:0]",
-                    "Local": "Vitoria",
-                    "Visita": "Remo",
+                    "Fecha": "Mon 1 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Remo",
+                    "Visita": "Sao Paulo",
                     "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[0:2]",
+                    "Local": "Remo",
+                    "Visita": "Fluminense",
+                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:2]",
-                    "Local": "Botafogo",
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Coritiba",
                     "Visita": "Remo",
                     "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 20 Mar",
+                    "Res": "[3:0]",
+                    "Local": "Flamengo",
+                    "Visita": "Remo",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[4:1]",
+                    "Local": "Remo",
+                    "Visita": "Bahia",
+                    "HT": "1-1",
                     "Status": "🟢"
                 },
                 {
@@ -1183,27 +1457,11 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[2:2]",
-                    "Local": "Remo",
-                    "Visita": "Mirassol",
-                    "HT": "2-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[1:2]",
-                    "Local": "Remo",
-                    "Visita": "Athletico PR",
+                    "Fecha": "Wed 29 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Mirassol",
+                    "Visita": "Remo",
                     "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:2]",
-                    "Local": "Remo",
-                    "Visita": "2-2",
-                    "HT": "-",
                     "Status": "🔴"
                 }
             ]
@@ -1243,20 +1501,44 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[2:2]",
-                    "Local": "Atletico MG",
-                    "Visita": "Palmeiras",
-                    "HT": "1-1",
-                    "Status": "🟡"
+                    "Fecha": "Sun 31 May",
+                    "Res": "[0:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Atletico MG",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[1:3]",
-                    "Local": "Cruzeiro",
-                    "Visita": "Atletico MG",
-                    "HT": "0-2",
+                    "Fecha": "Wed 11 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Atletico MG",
+                    "Visita": "Internacional",
+                    "HT": "1-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 14 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Vitoria",
+                    "Visita": "Atletico MG",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Atletico MG",
+                    "Visita": "Sao Paulo",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 21 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Fluminense",
+                    "Visita": "Atletico MG",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 16 May",
@@ -1265,22 +1547,6 @@
                     "Visita": "Mirassol",
                     "HT": "1-1",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 4 Feb",
-                    "Res": "[1:0]",
-                    "Local": "Bragantino",
-                    "Visita": "Atletico MG",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[1:0]",
-                    "Local": "Corinthians",
-                    "Visita": "Atletico MG",
-                    "HT": "0-0",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1319,19 +1585,43 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[0:1]",
-                    "Local": "Coritiba",
-                    "Visita": "Bragantino",
-                    "HT": "0-0",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[3:0]",
+                    "Local": "Flamengo",
+                    "Visita": "Coritiba",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[4:1]",
-                    "Local": "Vitoria",
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[0:2]",
+                    "Local": "Corinthians",
                     "Visita": "Coritiba",
-                    "HT": "2-1",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Coritiba",
+                    "Visita": "Remo",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[0:1]",
+                    "Local": "Mirassol",
+                    "Visita": "Coritiba",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Athletico PR",
+                    "Visita": "Coritiba",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1343,20 +1633,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 6 Feb",
-                    "Res": "[1:2]",
-                    "Local": "Cruzeiro",
-                    "Visita": "Coritiba",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 26 May",
-                    "Res": "[3:2]",
+                    "Fecha": "Fri 31 Jul",
+                    "Res": "[0:1]",
                     "Local": "Coritiba",
-                    "Visita": "Bahia",
-                    "HT": "0-1",
-                    "Status": "🟢"
+                    "Visita": "Cruzeiro",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1395,19 +1677,43 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[4:2]",
-                    "Local": "Chapecoense",
-                    "Visita": "Santos",
-                    "HT": "1-1",
-                    "Status": "🟢"
+                    "Fecha": "Sun 31 May",
+                    "Res": "[1:0]",
+                    "Local": "Palmeiras",
+                    "Visita": "Chapecoense",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[1:2]",
+                    "Fecha": "Fri 13 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Sao Paulo",
+                    "Visita": "Chapecoense",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 17 Mar",
+                    "Res": "[1:1]",
                     "Local": "Chapecoense",
-                    "Visita": "Bragantino",
+                    "Visita": "Gremio",
                     "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 20 Mar",
+                    "Res": "[0:0]",
+                    "Local": "Chapecoense",
+                    "Visita": "Corinthians",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Internacional",
+                    "Visita": "Chapecoense",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1416,22 +1722,6 @@
                     "Local": "Chapecoense",
                     "Visita": "Remo",
                     "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 6 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "Chapecoense",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[2:1]",
-                    "Local": "Cruzeiro",
-                    "Visita": "Chapecoense",
-                    "HT": "1-0",
                     "Status": "🔴"
                 }
             ]
@@ -1455,6 +1745,14 @@
                     "Status": "🔴"
                 },
                 {
+                    "Fecha": "Tue 25 Aug",
+                    "Res": "[2:3]",
+                    "Local": "Botafogo",
+                    "Visita": "Athletico PR",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
                     "Fecha": "Sun 5 Apr",
                     "Res": "[1:2]",
                     "Local": "Vasco da Gama",
@@ -1463,19 +1761,43 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 30 Jan",
-                    "Res": "[4:0]",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[2:1]",
+                    "Local": "Bahia",
+                    "Visita": "Botafogo",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[0:3]",
                     "Local": "Botafogo",
-                    "Visita": "Cruzeiro",
-                    "HT": "0-0",
+                    "Visita": "Flamengo",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Palmeiras",
+                    "Visita": "Botafogo",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 21 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Bragantino",
+                    "Visita": "Botafogo",
+                    "HT": "1-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:2]",
-                    "Local": "Botafogo",
-                    "Visita": "Remo",
-                    "HT": "1-0",
+                    "Fecha": "Sun 29 Mar",
+                    "Res": "[4:1]",
+                    "Local": "Athletico PR",
+                    "Visita": "Botafogo",
+                    "HT": "2-1",
                     "Status": "🔴"
                 },
                 {
@@ -1485,22 +1807,6 @@
                     "Visita": "Corinthians",
                     "HT": "2-1",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[5:3]",
-                    "Local": "Gremio",
-                    "Visita": "Botafogo",
-                    "HT": "1-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[1:1]",
-                    "Local": "Sao Paulo",
-                    "Visita": "Botafogo",
-                    "HT": "1-0",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1539,20 +1845,44 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[2:1]",
-                    "Local": "Fluminense",
-                    "Visita": "Gremio",
-                    "HT": "0-0",
+                    "Fecha": "Mon 1 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Cruzeiro",
+                    "Visita": "Fluminense",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[0:2]",
+                    "Local": "Remo",
+                    "Visita": "Fluminense",
+                    "HT": "0-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[2:0]",
-                    "Local": "Internacional",
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[3:2]",
+                    "Local": "Fluminense",
+                    "Visita": "Athletico PR",
+                    "HT": "2-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[3:2]",
+                    "Local": "Vasco da Gama",
                     "Visita": "Fluminense",
-                    "HT": "1-0",
+                    "HT": "0-1",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 21 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Fluminense",
+                    "Visita": "Atletico MG",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 16 May",
@@ -1563,28 +1893,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Bahia",
-                    "Visita": "Fluminense",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[1:0]",
-                    "Local": "Mirassol",
-                    "Visita": "Fluminense",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[3:2]",
+                    "Fecha": "Thu 30 Jul",
+                    "Res": "[0:0]",
                     "Local": "Fluminense",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🟢"
+                    "Visita": "Bahia",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -1623,20 +1937,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 30 Jan",
-                    "Res": "[4:0]",
-                    "Local": "Botafogo",
+                    "Fecha": "Mon 1 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Cruzeiro",
+                    "Visita": "Fluminense",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Flamengo",
                     "Visita": "Cruzeiro",
-                    "HT": "0-0",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[1:3]",
+                    "Fecha": "Mon 16 Mar",
+                    "Res": "[3:3]",
                     "Local": "Cruzeiro",
-                    "Visita": "Atletico MG",
-                    "HT": "0-2",
+                    "Visita": "Vasco da Gama",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Athletico PR",
+                    "Visita": "Cruzeiro",
+                    "HT": "2-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[0:0]",
+                    "Local": "Cruzeiro",
+                    "Visita": "Santos",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -1647,19 +1985,11 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 6 Feb",
-                    "Res": "[1:2]",
-                    "Local": "Cruzeiro",
-                    "Visita": "Coritiba",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[2:1]",
-                    "Local": "Cruzeiro",
-                    "Visita": "Chapecoense",
-                    "HT": "1-0",
+                    "Fecha": "Fri 31 Jul",
+                    "Res": "[0:1]",
+                    "Local": "Coritiba",
+                    "Visita": "Cruzeiro",
+                    "HT": "0-0",
                     "Status": "🟢"
                 }
             ]
@@ -1699,20 +2029,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 30 Jan",
-                    "Res": "[2:1]",
-                    "Local": "Mirassol",
-                    "Visita": "Vasco da Gama",
-                    "HT": "1-1",
-                    "Status": "🟢"
+                    "Fecha": "Sat 30 May",
+                    "Res": "[1:0]",
+                    "Local": "Athletico PR",
+                    "Visita": "Mirassol",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 },
                 {
-                    "Fecha": "Mon 4 May",
-                    "Res": "[2:1]",
+                    "Fecha": "Wed 11 Mar",
+                    "Res": "[2:2]",
                     "Local": "Mirassol",
-                    "Visita": "Corinthians",
-                    "HT": "2-0",
-                    "Status": "🟢"
+                    "Visita": "Santos",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Palmeiras",
+                    "Visita": "Mirassol",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[0:1]",
+                    "Local": "Mirassol",
+                    "Visita": "Coritiba",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Vitoria",
+                    "Visita": "Mirassol",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 16 May",
@@ -1723,19 +2077,11 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[2:2]",
-                    "Local": "Remo",
-                    "Visita": "Mirassol",
-                    "HT": "2-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[1:0]",
+                    "Fecha": "Wed 29 Jul",
+                    "Res": "[2:1]",
                     "Local": "Mirassol",
-                    "Visita": "Fluminense",
-                    "HT": "1-0",
+                    "Visita": "Remo",
+                    "HT": "1-1",
                     "Status": "🟢"
                 }
             ]
@@ -1775,20 +2121,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[1:2]",
-                    "Local": "Corinthians",
-                    "Visita": "Bahia",
-                    "HT": "1-2",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[2:1]",
+                    "Local": "Bahia",
+                    "Visita": "Botafogo",
+                    "HT": "0-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[2:2]",
-                    "Local": "Sao Paulo",
-                    "Visita": "Bahia",
-                    "HT": "1-0",
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Bahia",
+                    "Visita": "Vitoria",
+                    "HT": "1-1",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[0:1]",
+                    "Local": "Internacional",
+                    "Visita": "Bahia",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Bahia",
+                    "Visita": "Bragantino",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[4:1]",
+                    "Local": "Remo",
+                    "Visita": "Bahia",
+                    "HT": "1-1",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -1799,20 +2169,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Bahia",
-                    "Visita": "Fluminense",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Tue 26 May",
-                    "Res": "[3:2]",
-                    "Local": "Coritiba",
+                    "Fecha": "Thu 30 Jul",
+                    "Res": "[0:0]",
+                    "Local": "Fluminense",
                     "Visita": "Bahia",
-                    "HT": "0-1",
-                    "Status": "🔴"
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -1851,20 +2213,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 30 Jan",
-                    "Res": "[2:1]",
-                    "Local": "Mirassol",
-                    "Visita": "Vasco da Gama",
-                    "HT": "1-1",
+                    "Fecha": "Sun 31 May",
+                    "Res": "[0:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Atletico MG",
+                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[2:2]",
-                    "Local": "Flamengo",
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Palmeiras",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 16 Mar",
+                    "Res": "[3:3]",
+                    "Local": "Cruzeiro",
                     "Visita": "Vasco da Gama",
                     "HT": "1-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[3:2]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Fluminense",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Gremio",
+                    "HT": "2-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 16 May",
@@ -1873,30 +2259,6 @@
                     "Visita": "Vasco da Gama",
                     "HT": "2-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 6 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "Chapecoense",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 25 May",
-                    "Res": "[0:3]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "Bragantino",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:0]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "0-1",
-                    "HT": "-",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1935,20 +2297,44 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[2:2]",
-                    "Local": "Atletico MG",
-                    "Visita": "Palmeiras",
-                    "HT": "1-1",
-                    "Status": "🟡"
+                    "Fecha": "Sun 31 May",
+                    "Res": "[1:0]",
+                    "Local": "Palmeiras",
+                    "Visita": "Chapecoense",
+                    "HT": "0-0",
+                    "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:1]",
-                    "Local": "Palmeiras",
-                    "Visita": "Santos",
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Vasco da Gama",
+                    "Visita": "Palmeiras",
                     "HT": "0-1",
-                    "Status": "🟡"
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Palmeiras",
+                    "Visita": "Mirassol",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:1]",
+                    "Local": "Palmeiras",
+                    "Visita": "Botafogo",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[0:1]",
+                    "Local": "Sao Paulo",
+                    "Visita": "Palmeiras",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -1959,27 +2345,11 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[5:1]",
-                    "Local": "Palmeiras",
-                    "Visita": "Vitoria",
-                    "HT": "3-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[0:3]",
-                    "Local": "Flamengo",
+                    "Fecha": "Thu 30 Jul",
+                    "Res": "[0:4]",
+                    "Local": "Vitoria",
                     "Visita": "Palmeiras",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:0]",
-                    "Local": "Palmeiras",
-                    "Visita": "1-2",
-                    "HT": "-",
+                    "HT": "0-2",
                     "Status": "🟢"
                 }
             ]
@@ -2019,18 +2389,42 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
+                    "Fecha": "Sun 31 May",
+                    "Res": "[3:1]",
+                    "Local": "Bragantino",
+                    "Visita": "Internacional",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 11 Mar",
+                    "Res": "[1:0]",
+                    "Local": "Atletico MG",
+                    "Visita": "Internacional",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
                     "Res": "[0:1]",
                     "Local": "Internacional",
-                    "Visita": "Athletico PR",
+                    "Visita": "Bahia",
                     "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 3 May",
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Santos",
+                    "Visita": "Internacional",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
                     "Res": "[2:0]",
                     "Local": "Internacional",
-                    "Visita": "Fluminense",
+                    "Visita": "Chapecoense",
                     "HT": "1-0",
                     "Status": "🟢"
                 },
@@ -2043,28 +2437,12 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Wed 4 Feb",
+                    "Fecha": "Wed 29 Jul",
                     "Res": "[1:1]",
-                    "Local": "Flamengo",
-                    "Visita": "Internacional",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:0]",
-                    "Local": "Vitoria",
-                    "Visita": "Internacional",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[0:1]",
                     "Local": "Internacional",
-                    "Visita": "0-0",
-                    "HT": "-",
-                    "Status": "🔴"
+                    "Visita": "Flamengo",
+                    "HT": "1-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -2103,20 +2481,44 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[0:1]",
-                    "Local": "Coritiba",
-                    "Visita": "Bragantino",
-                    "HT": "0-0",
+                    "Fecha": "Sun 31 May",
+                    "Res": "[3:1]",
+                    "Local": "Bragantino",
+                    "Visita": "Internacional",
+                    "HT": "2-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[1:2]",
-                    "Local": "Chapecoense",
+                    "Fecha": "Fri 13 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Gremio",
                     "Visita": "Bragantino",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 16 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Bragantino",
+                    "Visita": "Sao Paulo",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Bahia",
+                    "Visita": "Bragantino",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 21 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Bragantino",
+                    "Visita": "Botafogo",
                     "HT": "1-1",
-                    "Status": "🟢"
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -2125,30 +2527,6 @@
                     "Visita": "Vitoria",
                     "HT": "1-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 4 Feb",
-                    "Res": "[1:0]",
-                    "Local": "Bragantino",
-                    "Visita": "Atletico MG",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Mon 25 May",
-                    "Res": "[0:3]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "Bragantino",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:1]",
-                    "Local": "Bragantino",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -2187,20 +2565,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[1:2]",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[1:3]",
+                    "Local": "Gremio",
+                    "Visita": "Corinthians",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[0:2]",
                     "Local": "Corinthians",
-                    "Visita": "Bahia",
-                    "HT": "1-2",
+                    "Visita": "Coritiba",
+                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Mon 4 May",
-                    "Res": "[2:1]",
-                    "Local": "Mirassol",
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Santos",
                     "Visita": "Corinthians",
-                    "HT": "2-0",
-                    "Status": "🔴"
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 20 Mar",
+                    "Res": "[0:0]",
+                    "Local": "Chapecoense",
+                    "Visita": "Corinthians",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 23 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Corinthians",
+                    "Visita": "Flamengo",
+                    "HT": "1-1",
+                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -2211,27 +2613,11 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 19 Feb",
-                    "Res": "[0:1]",
-                    "Local": "Athletico PR",
-                    "Visita": "Corinthians",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[1:0]",
-                    "Local": "Corinthians",
-                    "Visita": "Atletico MG",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Próximamente",
+                    "Fecha": "Thu 30 Jul",
                     "Res": "[0:0]",
                     "Local": "Corinthians",
-                    "Visita": "1-0",
-                    "HT": "-",
+                    "Visita": "Athletico PR",
+                    "HT": "0-0",
                     "Status": "🟡"
                 }
             ]
@@ -2271,19 +2657,43 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[4:2]",
-                    "Local": "Chapecoense",
+                    "Fecha": "Sun 31 May",
+                    "Res": "[3:1]",
+                    "Local": "Santos",
+                    "Visita": "Vitoria",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 11 Mar",
+                    "Res": "[2:2]",
+                    "Local": "Mirassol",
                     "Visita": "Santos",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Santos",
+                    "Visita": "Corinthians",
                     "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[1:2]",
+                    "Local": "Santos",
+                    "Visita": "Internacional",
+                    "HT": "0-0",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[1:1]",
-                    "Local": "Palmeiras",
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[0:0]",
+                    "Local": "Cruzeiro",
                     "Visita": "Santos",
-                    "HT": "0-1",
+                    "HT": "0-0",
                     "Status": "🟡"
                 },
                 {
@@ -2292,30 +2702,6 @@
                     "Local": "Santos",
                     "Visita": "Coritiba",
                     "HT": "0-3",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[1:1]",
-                    "Local": "Santos",
-                    "Visita": "Sao Paulo",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[3:2]",
-                    "Local": "Gremio",
-                    "Visita": "Santos",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[0:2]",
-                    "Local": "Santos",
-                    "Visita": "1-0",
-                    "HT": "-",
                     "Status": "🔴"
                 }
             ]
@@ -2339,6 +2725,14 @@
                     "Status": "🟡"
                 },
                 {
+                    "Fecha": "Tue 25 Aug",
+                    "Res": "[2:3]",
+                    "Local": "Botafogo",
+                    "Visita": "Athletico PR",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
                     "Fecha": "Sun 5 Apr",
                     "Res": "[2:1]",
                     "Local": "Atletico MG",
@@ -2347,20 +2741,44 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
-                    "Res": "[0:1]",
-                    "Local": "Internacional",
-                    "Visita": "Athletico PR",
-                    "HT": "0-1",
+                    "Fecha": "Sat 30 May",
+                    "Res": "[1:0]",
+                    "Local": "Athletico PR",
+                    "Visita": "Mirassol",
+                    "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[0:0]",
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[3:2]",
+                    "Local": "Fluminense",
+                    "Visita": "Athletico PR",
+                    "HT": "2-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 18 Mar",
+                    "Res": "[2:1]",
                     "Local": "Athletico PR",
-                    "Visita": "Gremio",
-                    "HT": "0-0",
-                    "Status": "🟡"
+                    "Visita": "Cruzeiro",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Athletico PR",
+                    "Visita": "Coritiba",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 29 Mar",
+                    "Res": "[4:1]",
+                    "Local": "Athletico PR",
+                    "Visita": "Botafogo",
+                    "HT": "2-1",
+                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 17 May",
@@ -2371,20 +2789,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Thu 19 Feb",
-                    "Res": "[0:1]",
-                    "Local": "Athletico PR",
-                    "Visita": "Corinthians",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[1:2]",
-                    "Local": "Remo",
+                    "Fecha": "Thu 30 Jul",
+                    "Res": "[0:0]",
+                    "Local": "Corinthians",
                     "Visita": "Athletico PR",
-                    "HT": "1-1",
-                    "Status": "🟢"
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -2423,19 +2833,43 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Thu 29 Jan",
-                    "Res": "[2:1]",
-                    "Local": "Sao Paulo",
-                    "Visita": "Flamengo",
-                    "HT": "0-0",
-                    "Status": "🔴"
+                    "Fecha": "Sat 30 May",
+                    "Res": "[3:0]",
+                    "Local": "Flamengo",
+                    "Visita": "Coritiba",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 3 May",
-                    "Res": "[2:2]",
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[2:0]",
                     "Local": "Flamengo",
-                    "Visita": "Vasco da Gama",
+                    "Visita": "Cruzeiro",
                     "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 15 Mar",
+                    "Res": "[0:3]",
+                    "Local": "Botafogo",
+                    "Visita": "Flamengo",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 20 Mar",
+                    "Res": "[3:0]",
+                    "Local": "Flamengo",
+                    "Visita": "Remo",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 23 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Corinthians",
+                    "Visita": "Flamengo",
+                    "HT": "1-1",
                     "Status": "🟡"
                 },
                 {
@@ -2447,20 +2881,12 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 4 Feb",
+                    "Fecha": "Wed 29 Jul",
                     "Res": "[1:1]",
-                    "Local": "Flamengo",
-                    "Visita": "Internacional",
-                    "HT": "0-1",
+                    "Local": "Internacional",
+                    "Visita": "Flamengo",
+                    "HT": "1-0",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 24 May",
-                    "Res": "[0:3]",
-                    "Local": "Flamengo",
-                    "Visita": "Palmeiras",
-                    "HT": "0-1",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -2499,19 +2925,43 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Wed 28 Jan",
+                    "Fecha": "Sun 31 May",
+                    "Res": "[3:1]",
+                    "Local": "Santos",
+                    "Visita": "Vitoria",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 12 Mar",
+                    "Res": "[1:1]",
+                    "Local": "Bahia",
+                    "Visita": "Vitoria",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 14 Mar",
                     "Res": "[2:0]",
                     "Local": "Vitoria",
-                    "Visita": "Remo",
-                    "HT": "0-0",
+                    "Visita": "Atletico MG",
+                    "HT": "1-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 2 May",
-                    "Res": "[4:1]",
+                    "Fecha": "Thu 19 Mar",
+                    "Res": "[2:0]",
+                    "Local": "Gremio",
+                    "Visita": "Vitoria",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 22 Mar",
+                    "Res": "[1:0]",
                     "Local": "Vitoria",
-                    "Visita": "Coritiba",
-                    "HT": "2-1",
+                    "Visita": "Mirassol",
+                    "HT": "1-0",
                     "Status": "🟢"
                 },
                 {
@@ -2523,103 +2973,11 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Thu 5 Feb",
-                    "Res": "[5:1]",
-                    "Local": "Palmeiras",
-                    "Visita": "Vitoria",
-                    "HT": "3-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 23 May",
-                    "Res": "[2:0]",
+                    "Fecha": "Thu 30 Jul",
+                    "Res": "[0:4]",
                     "Local": "Vitoria",
-                    "Visita": "Internacional",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "1-0": {
-            "historial": [
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:1]",
-                    "Local": "Bragantino",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[0:0]",
-                    "Local": "Corinthians",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[3:2]",
-                    "Local": "Fluminense",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[0:2]",
-                    "Local": "Santos",
-                    "Visita": "1-0",
-                    "HT": "-",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "0-0": {
-            "historial": [
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[0:1]",
-                    "Local": "Internacional",
-                    "Visita": "0-0",
-                    "HT": "-",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "1-2": {
-            "historial": [
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:0]",
-                    "Local": "Palmeiras",
-                    "Visita": "1-2",
-                    "HT": "-",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "2-2": {
-            "historial": [
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:2]",
-                    "Local": "Remo",
-                    "Visita": "2-2",
-                    "HT": "-",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "0-1": {
-            "historial": [
-                {
-                    "Fecha": "Próximamente",
-                    "Res": "[1:0]",
-                    "Local": "Vasco da Gama",
-                    "Visita": "0-1",
-                    "HT": "-",
+                    "Visita": "Palmeiras",
+                    "HT": "0-2",
                     "Status": "🔴"
                 }
             ]
