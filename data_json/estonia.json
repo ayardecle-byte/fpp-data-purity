@@ -547,48 +547,6 @@
             "Visita": "Levadia"
         },
         {
-            "Fecha": "Sun 1 Nov",
-            "Hora": "07:30",
-            "Local": "Nomme Kalju",
-            "Visita": "Kuressaare"
-        },
-        {
-            "Fecha": "Sun 1 Nov",
-            "Hora": "09:30",
-            "Local": "Flora",
-            "Visita": "Narva Trans"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "07:30",
-            "Local": "Kuressaare",
-            "Visita": "Nomme Utd"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "07:30",
-            "Local": "Levadia",
-            "Visita": "Nomme Kalju"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "07:30",
-            "Local": "Narva Trans",
-            "Visita": "Harju JK"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "07:30",
-            "Local": "Paide",
-            "Visita": "Flora"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "07:30",
-            "Local": "Tammeka",
-            "Visita": "Vaprus"
-        },
-        {
             "Fecha": "Sat 10 Oct",
             "Hora": "07:30",
             "Local": "Nomme Kalju",
@@ -755,6 +713,48 @@
             "Hora": "09:30",
             "Local": "Vaprus",
             "Visita": "Paide"
+        },
+        {
+            "Fecha": "Sun 1 Nov",
+            "Hora": "07:30",
+            "Local": "Nomme Kalju",
+            "Visita": "Kuressaare"
+        },
+        {
+            "Fecha": "Sun 1 Nov",
+            "Hora": "09:30",
+            "Local": "Flora",
+            "Visita": "Narva Trans"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "07:30",
+            "Local": "Kuressaare",
+            "Visita": "Nomme Utd"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "07:30",
+            "Local": "Levadia",
+            "Visita": "Nomme Kalju"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "07:30",
+            "Local": "Narva Trans",
+            "Visita": "Harju JK"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "07:30",
+            "Local": "Paide",
+            "Visita": "Flora"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "07:30",
+            "Local": "Tammeka",
+            "Visita": "Vaprus"
         }
     ],
     "estadisticas_avanzadas": {
@@ -815,38 +815,6 @@
                     "Visita": "Kuressaare",
                     "HT": "2-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 14 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Paide",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Tammeka",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 20 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Levadia",
-                    "Visita": "Nomme Kalju",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 28 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Paide",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Fri 3 Apr",
@@ -949,6 +917,38 @@
                     "Res": "[0:0]",
                     "Local": "Kuressaare",
                     "Visita": "Nomme Kalju",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 14 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Paide",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Tammeka",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 20 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Levadia",
+                    "Visita": "Nomme Kalju",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 28 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Paide",
                     "HT": "0-0",
                     "Status": "🟡"
                 }
@@ -1013,30 +1013,6 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Tammeka",
-                    "Visita": "Vaprus",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Tammeka",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 21 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Tammeka",
-                    "Visita": "Narva Trans",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Fri 3 Apr",
                     "Res": "[3:1]",
                     "Local": "Tammeka",
@@ -1131,6 +1107,30 @@
                     "Visita": "Tammeka",
                     "HT": "3-1",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Tammeka",
+                    "Visita": "Vaprus",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Tammeka",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 21 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Tammeka",
+                    "Visita": "Narva Trans",
+                    "HT": "0-0",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1182,38 +1182,6 @@
                     "Local": "Levadia",
                     "Visita": "Paide",
                     "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 14 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Paide",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Paide",
-                    "Visita": "Harju JK",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 21 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Flora",
-                    "Visita": "Paide",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 28 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Nomme Kalju",
-                    "Visita": "Paide",
-                    "HT": "0-0",
                     "Status": "🟡"
                 },
                 {
@@ -1319,6 +1287,38 @@
                     "Visita": "Paide",
                     "HT": "5-1",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 14 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Paide",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Paide",
+                    "Visita": "Harju JK",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 21 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Flora",
+                    "Visita": "Paide",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 28 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Nomme Kalju",
+                    "Visita": "Paide",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -1378,30 +1378,6 @@
                     "Local": "Nomme Kalju",
                     "Visita": "Kuressaare",
                     "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:3]",
-                    "Local": "Harju JK",
-                    "Visita": "Kuressaare",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 16 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Kuressaare",
-                    "Visita": "Narva Trans",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 26 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Vaprus",
-                    "Visita": "Kuressaare",
-                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1515,6 +1491,30 @@
                     "Visita": "Nomme Kalju",
                     "HT": "0-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:3]",
+                    "Local": "Harju JK",
+                    "Visita": "Kuressaare",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Tue 16 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Kuressaare",
+                    "Visita": "Narva Trans",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 26 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Vaprus",
+                    "Visita": "Kuressaare",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1575,38 +1575,6 @@
                     "Visita": "Flora",
                     "HT": "0-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:3]",
-                    "Local": "Flora",
-                    "Visita": "Levadia",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 16 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Vaprus",
-                    "Visita": "Flora",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 21 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Flora",
-                    "Visita": "Paide",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 28 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Levadia",
-                    "Visita": "Flora",
-                    "HT": "1-0",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Fri 3 Apr",
@@ -1703,6 +1671,38 @@
                     "Visita": "Nomme Utd",
                     "HT": "0-2",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[1:3]",
+                    "Local": "Flora",
+                    "Visita": "Levadia",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 16 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Vaprus",
+                    "Visita": "Flora",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 21 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Flora",
+                    "Visita": "Paide",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 28 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Levadia",
+                    "Visita": "Flora",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1763,30 +1763,6 @@
                     "Visita": "Flora",
                     "HT": "0-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[2:3]",
-                    "Local": "Harju JK",
-                    "Visita": "Kuressaare",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Paide",
-                    "Visita": "Harju JK",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 20 Jun",
-                    "Res": "[1:3]",
-                    "Local": "Harju JK",
-                    "Visita": "Nomme Utd",
-                    "HT": "1-0",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -1899,6 +1875,30 @@
                     "Visita": "Paide",
                     "HT": "5-1",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[2:3]",
+                    "Local": "Harju JK",
+                    "Visita": "Kuressaare",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Paide",
+                    "Visita": "Harju JK",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 20 Jun",
+                    "Res": "[1:3]",
+                    "Local": "Harju JK",
+                    "Visita": "Nomme Utd",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1951,30 +1951,6 @@
                     "Visita": "Vaprus",
                     "HT": "1-1",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Tammeka",
-                    "Visita": "Vaprus",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Tue 16 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Vaprus",
-                    "Visita": "Flora",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 26 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Vaprus",
-                    "Visita": "Kuressaare",
-                    "HT": "1-0",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2087,6 +2063,30 @@
                     "Visita": "Vaprus",
                     "HT": "2-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Tammeka",
+                    "Visita": "Vaprus",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Tue 16 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Vaprus",
+                    "Visita": "Flora",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 26 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Vaprus",
+                    "Visita": "Kuressaare",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -2147,38 +2147,6 @@
                     "Visita": "Paide",
                     "HT": "1-1",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:3]",
-                    "Local": "Flora",
-                    "Visita": "Levadia",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Nomme Utd",
-                    "Visita": "Levadia",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 20 Jun",
-                    "Res": "[1:1]",
-                    "Local": "Levadia",
-                    "Visita": "Nomme Kalju",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 28 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Levadia",
-                    "Visita": "Flora",
-                    "HT": "1-0",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2275,6 +2243,38 @@
                     "Visita": "Levadia",
                     "HT": "0-2",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[1:3]",
+                    "Local": "Flora",
+                    "Visita": "Levadia",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Nomme Utd",
+                    "Visita": "Levadia",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 20 Jun",
+                    "Res": "[1:1]",
+                    "Local": "Levadia",
+                    "Visita": "Nomme Kalju",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 28 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Levadia",
+                    "Visita": "Flora",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -2327,30 +2327,6 @@
                     "Visita": "Vaprus",
                     "HT": "1-1",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Narva Trans",
-                    "Visita": "Nomme Utd",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Tue 16 Jun",
-                    "Res": "[0:0]",
-                    "Local": "Kuressaare",
-                    "Visita": "Narva Trans",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 21 Jun",
-                    "Res": "[1:0]",
-                    "Local": "Tammeka",
-                    "Visita": "Narva Trans",
-                    "HT": "0-0",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Fri 3 Apr",
@@ -2471,6 +2447,30 @@
                     "Visita": "Narva Trans",
                     "HT": "0-2",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Narva Trans",
+                    "Visita": "Nomme Utd",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Tue 16 Jun",
+                    "Res": "[0:0]",
+                    "Local": "Kuressaare",
+                    "Visita": "Narva Trans",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 21 Jun",
+                    "Res": "[1:0]",
+                    "Local": "Tammeka",
+                    "Visita": "Narva Trans",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -2523,30 +2523,6 @@
                     "Visita": "Tammeka",
                     "HT": "2-2",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 13 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Narva Trans",
-                    "Visita": "Nomme Utd",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Wed 17 Jun",
-                    "Res": "[1:2]",
-                    "Local": "Nomme Utd",
-                    "Visita": "Levadia",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 20 Jun",
-                    "Res": "[1:3]",
-                    "Local": "Harju JK",
-                    "Visita": "Nomme Utd",
-                    "HT": "1-0",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 4 Apr",
@@ -2667,6 +2643,30 @@
                     "Visita": "Narva Trans",
                     "HT": "0-2",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 13 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Narva Trans",
+                    "Visita": "Nomme Utd",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 17 Jun",
+                    "Res": "[1:2]",
+                    "Local": "Nomme Utd",
+                    "Visita": "Levadia",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 20 Jun",
+                    "Res": "[1:3]",
+                    "Local": "Harju JK",
+                    "Visita": "Nomme Utd",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 }
             ]
         }

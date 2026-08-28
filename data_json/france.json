@@ -438,7 +438,7 @@
     "fixture": [
         {
             "Fecha": "Fri 28 Aug",
-            "Hora": "14:45",
+            "Hora": "15:00",
             "Local": "Lille",
             "Visita": "Paris SG"
         },
@@ -491,112 +491,274 @@
             "Visita": "Marseille"
         },
         {
-            "Fecha": "Fri 11 Sep",
-            "Hora": "14:45",
-            "Local": "Rennes",
-            "Visita": "Marseille"
-        },
-        {
-            "Fecha": "Sat 12 Sep",
-            "Hora": "11:15",
-            "Local": "Strasbourg",
-            "Visita": "Monaco"
-        },
-        {
-            "Fecha": "Sat 12 Sep",
-            "Hora": "14:45",
-            "Local": "Auxerre",
-            "Visita": "Nice"
-        },
-        {
-            "Fecha": "Sat 12 Sep",
-            "Hora": "14:45",
-            "Local": "Le Havre",
-            "Visita": "Angers"
-        },
-        {
-            "Fecha": "Sat 12 Sep",
-            "Hora": "14:45",
-            "Local": "Lorient",
-            "Visita": "Toulouse"
-        },
-        {
-            "Fecha": "Sat 12 Sep",
-            "Hora": "14:45",
-            "Local": "Paris FC",
-            "Visita": "Lyon"
-        },
-        {
-            "Fecha": "Sun 13 Sep",
-            "Hora": "09:00",
-            "Local": "Lille",
-            "Visita": "Troyes"
-        },
-        {
-            "Fecha": "Sun 13 Sep",
-            "Hora": "11:15",
-            "Local": "Le Mans",
-            "Visita": "Lens"
-        },
-        {
-            "Fecha": "Sun 13 Sep",
-            "Hora": "14:45",
-            "Local": "Brest",
-            "Visita": "Paris SG"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
             "Local": "Angers",
-            "Visita": "Troyes"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Auxerre",
-            "Visita": "Brest"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Le Mans",
-            "Visita": "Lorient"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Lyon",
-            "Visita": "Rennes"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Monaco",
-            "Visita": "Lens"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Nice",
-            "Visita": "Lille"
-        },
-        {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Paris FC",
             "Visita": "Strasbourg"
         },
         {
-            "Fecha": "Fri 18 Sep",
-            "Hora": "20:00",
-            "Local": "Toulouse",
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Auxerre",
+            "Visita": "Toulouse"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Brest",
+            "Visita": "Troyes"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Le Havre",
+            "Visita": "Le Mans"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Lorient",
+            "Visita": "Lille"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Nice",
+            "Visita": "Lens"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Paris SG",
+            "Visita": "Paris FC"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Rennes",
+            "Visita": "Monaco"
+        },
+        {
+            "Fecha": "Sun 13 Dec",
+            "Hora": "16:45",
+            "Local": "Lyon",
+            "Visita": "Marseille"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Lens",
             "Visita": "Le Havre"
         },
         {
-            "Fecha": "Sun 20 Sep",
-            "Hora": "14:45",
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Lille",
+            "Visita": "Auxerre"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
             "Local": "Marseille",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Monaco",
+            "Visita": "Angers"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Paris FC",
+            "Visita": "Le Mans"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Rennes",
+            "Visita": "Brest"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Strasbourg",
+            "Visita": "Lorient"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Toulouse",
             "Visita": "Paris SG"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Troyes",
+            "Visita": "Lyon"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Brest",
+            "Visita": "Marseille"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Le Mans",
+            "Visita": "Lyon"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Lille",
+            "Visita": "Strasbourg"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Lorient",
+            "Visita": "Auxerre"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Monaco",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Paris FC",
+            "Visita": "Le Havre"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Toulouse",
+            "Visita": "Angers"
+        },
+        {
+            "Fecha": "Fri 1 Jan",
+            "Hora": "21:00",
+            "Local": "Troyes",
+            "Visita": "Rennes"
+        },
+        {
+            "Fecha": "Sun 3 Jan",
+            "Hora": "16:45",
+            "Local": "Lens",
+            "Visita": "Paris SG"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Auxerre",
+            "Visita": "Rennes"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Brest",
+            "Visita": "Le Havre"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Lille",
+            "Visita": "Angers"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Lyon",
+            "Visita": "Le Mans"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Marseille",
+            "Visita": "Lens"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Monaco",
+            "Visita": "Paris FC"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Paris SG",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Strasbourg",
+            "Visita": "Troyes"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "20:00",
+            "Local": "Toulouse",
+            "Visita": "Lorient"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Angers",
+            "Visita": "Auxerre"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Le Havre",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Lens",
+            "Visita": "Strasbourg"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Lille",
+            "Visita": "Marseille"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Monaco",
+            "Visita": "Lyon"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Paris FC",
+            "Visita": "Brest"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Rennes",
+            "Visita": "Paris SG"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Toulouse",
+            "Visita": "Le Mans"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Troyes",
+            "Visita": "Lorient"
         },
         {
             "Fecha": "Thu 12 Mar",
@@ -605,327 +767,141 @@
             "Visita": "Angers"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 16 Apr",
             "Hora": "20:00",
-            "Local": "Brest",
-            "Visita": "Angers"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Lens",
+            "Local": "Angers",
             "Visita": "Lyon"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 16 Apr",
             "Hora": "20:00",
-            "Local": "Lille",
-            "Visita": "Le Havre"
+            "Local": "Auxerre",
+            "Visita": "Lorient"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 16 Apr",
             "Hora": "20:00",
-            "Local": "Lorient",
-            "Visita": "Paris FC"
+            "Local": "Brest",
+            "Visita": "Le Mans"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 16 Apr",
             "Hora": "20:00",
-            "Local": "Monaco",
+            "Local": "Le Havre",
+            "Visita": "Marseille"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Lens",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Auxerre",
+            "Visita": "Monaco"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Le Havre",
             "Visita": "Toulouse"
         },
         {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Nice",
-            "Visita": "Strasbourg"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Paris SG",
-            "Visita": "Le Mans"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Rennes",
-            "Visita": "Auxerre"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Troyes",
-            "Visita": "Marseille"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Angers",
-            "Visita": "Lorient"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Auxerre",
-            "Visita": "Le Mans"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Brest",
-            "Visita": "Nice"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
             "Local": "Lens",
-            "Visita": "Paris FC"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Marseille",
-            "Visita": "Le Havre"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Monaco",
-            "Visita": "Lille"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Rennes",
-            "Visita": "Strasbourg"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Toulouse",
-            "Visita": "Troyes"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "16:45",
-            "Local": "Paris SG",
-            "Visita": "Lyon"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Angers",
-            "Visita": "Nice"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Auxerre",
-            "Visita": "Paris FC"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Brest",
-            "Visita": "Lyon"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Le Havre",
-            "Visita": "Lorient"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Le Mans",
-            "Visita": "Monaco"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Paris SG",
-            "Visita": "Troyes"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Rennes",
-            "Visita": "Lille"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Toulouse",
-            "Visita": "Strasbourg"
-        },
-        {
-            "Fecha": "Sat 7 Nov",
-            "Hora": "16:45",
-            "Local": "Lens",
-            "Visita": "Marseille"
-        },
-        {
-            "Fecha": "Thu 3 Sep",
-            "Hora": "14:45",
-            "Local": "Toulouse",
-            "Visita": "Lille"
-        },
-        {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "13:00",
-            "Local": "Lyon",
-            "Visita": "Auxerre"
-        },
-        {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "15:05",
-            "Local": "Paris SG",
-            "Visita": "Monaco"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "11:15",
-            "Local": "Lens",
-            "Visita": "Lorient"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "14:45",
-            "Local": "Le Havre",
-            "Visita": "Brest"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "14:45",
-            "Local": "Nice",
-            "Visita": "Le Mans"
-        },
-        {
-            "Fecha": "Sun 6 Sep",
-            "Hora": "09:00",
-            "Local": "Troyes",
-            "Visita": "Strasbourg"
-        },
-        {
-            "Fecha": "Sun 6 Sep",
-            "Hora": "11:15",
-            "Local": "Angers",
-            "Visita": "Rennes"
-        },
-        {
-            "Fecha": "Sun 6 Sep",
-            "Hora": "14:45",
-            "Local": "Marseille",
-            "Visita": "Paris FC"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Le Havre",
-            "Visita": "Rennes"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Le Mans",
             "Visita": "Angers"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Thu 5 Feb",
             "Hora": "21:00",
-            "Local": "Lens",
+            "Local": "Lorient",
+            "Visita": "Le Mans"
+        },
+        {
+            "Fecha": "Thu 5 Feb",
+            "Hora": "21:00",
+            "Local": "Nice",
             "Visita": "Brest"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Thu 5 Feb",
             "Hora": "21:00",
-            "Local": "Lille",
-            "Visita": "Paris FC"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Lorient",
-            "Visita": "Marseille"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Paris SG",
-            "Visita": "Auxerre"
-        },
-        {
-            "Fecha": "Fri 22 Jan",
-            "Hora": "21:00",
-            "Local": "Strasbourg",
+            "Local": "Rennes",
             "Visita": "Lyon"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Thu 5 Feb",
             "Hora": "21:00",
-            "Local": "Toulouse",
-            "Visita": "Nice"
+            "Local": "Strasbourg",
+            "Visita": "Paris FC"
         },
         {
-            "Fecha": "Fri 22 Jan",
+            "Fecha": "Thu 5 Feb",
             "Hora": "21:00",
             "Local": "Troyes",
-            "Visita": "Monaco"
+            "Visita": "Lille"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Angers",
+            "Fecha": "Sat 7 Feb",
+            "Hora": "16:45",
+            "Local": "Paris SG",
             "Visita": "Marseille"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Le Havre",
-            "Visita": "Auxerre"
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Auxerre",
+            "Visita": "Lille"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Le Mans",
-            "Visita": "Toulouse"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Lille",
-            "Visita": "Brest"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Lorient",
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Brest",
             "Visita": "Monaco"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Lyon",
-            "Visita": "Nice"
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Le Mans",
+            "Visita": "Paris FC"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Paris FC",
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Lorient",
+            "Visita": "Angers"
+        },
+        {
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Lyon",
+            "Visita": "Toulouse"
+        },
+        {
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
+            "Local": "Marseille",
             "Visita": "Rennes"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
             "Local": "Strasbourg",
-            "Visita": "Paris SG"
+            "Visita": "Le Havre"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
+            "Fecha": "Thu 26 Feb",
+            "Hora": "21:00",
             "Local": "Troyes",
+            "Visita": "Nice"
+        },
+        {
+            "Fecha": "Sat 28 Feb",
+            "Hora": "16:45",
+            "Local": "Paris SG",
             "Visita": "Lens"
         }
     ],
