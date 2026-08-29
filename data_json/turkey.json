@@ -3,15 +3,15 @@
         [
             "1",
             "Genclerbirligi",
-            "2",
-            "2",
-            "0",
-            "0",
             "3",
+            "2",
             "1",
+            "0",
+            "4",
+            "2",
             "+2",
-            "6",
-            "15 Aug Genclerbirligi - \r\nFenerbahce 2:1 23 Aug Goztepe\r\n - Genclerbirligi 0:1 28 Aug Genclerbirligi - \r\nErzurum BB -",
+            "7",
+            "15 Aug Genclerbirligi - \r\nFenerbahce 2:1 23 Aug Goztepe\r\n - Genclerbirligi 0:1 28 Aug Genclerbirligi - \r\nErzurum BB 1:1 6 Sep Trabzonspor\r\n - Genclerbirligi -",
             "15 Aug",
             "Genclerbirligi - \r\nFenerbahce",
             "2:1",
@@ -20,12 +20,15 @@
             "0:1",
             "28 Aug",
             "Genclerbirligi - \r\nErzurum BB",
+            "1:1",
+            "6 Sep",
+            "Trabzonspor\r\n - Genclerbirligi",
             "-",
-            "3.00",
-            "3.00",
-            "50%",
+            "2.33",
+            "2.33",
+            "33%",
             "100%",
-            "102"
+            "100"
         ],
         [
             "2",
@@ -407,6 +410,36 @@
         ],
         [
             "16",
+            "Erzurum BB",
+            "3",
+            "0",
+            "1",
+            "2",
+            "1",
+            "8",
+            "-7",
+            "1",
+            "16 Aug Amed SK\r\n - Erzurum BB 3:0 21 Aug Erzurum BB - \r\nGalatasaray 0:4 28 Aug Genclerbirligi\r\n - Erzurum BB 1:1 6 Sep Erzurum BB - \r\nKonyaspor -",
+            "16 Aug",
+            "Amed SK\r\n - Erzurum BB",
+            "3:0",
+            "21 Aug",
+            "Erzurum BB - \r\nGalatasaray",
+            "0:4",
+            "28 Aug",
+            "Genclerbirligi\r\n - Erzurum BB",
+            "1:1",
+            "6 Sep",
+            "Erzurum BB - \r\nKonyaspor",
+            "-",
+            "0.33",
+            "0.33",
+            "0%",
+            "33%",
+            "94"
+        ],
+        [
+            "17",
             "Eyupspor",
             "2",
             "0",
@@ -433,7 +466,7 @@
             "96"
         ],
         [
-            "17",
+            "18",
             "Konyaspor",
             "2",
             "0",
@@ -458,44 +491,11 @@
             "0%",
             "50%",
             "96"
-        ],
-        [
-            "18",
-            "Erzurum BB",
-            "2",
-            "0",
-            "0",
-            "2",
-            "0",
-            "7",
-            "-7",
-            "0",
-            "16 Aug Amed SK\r\n - Erzurum BB 3:0 21 Aug Erzurum BB - \r\nGalatasaray 0:4 28 Aug Genclerbirligi\r\n - Erzurum BB -",
-            "16 Aug",
-            "Amed SK\r\n - Erzurum BB",
-            "3:0",
-            "21 Aug",
-            "Erzurum BB - \r\nGalatasaray",
-            "0:4",
-            "28 Aug",
-            "Genclerbirligi\r\n - Erzurum BB",
-            "-",
-            "0.00",
-            "0.00",
-            "0%",
-            "0%",
-            "96"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Fri 28 Aug",
-            "Hora": "14:30",
-            "Local": "Genclerbirligi",
-            "Visita": "Erzurum BB"
-        },
         {
             "Fecha": "Sat 29 Aug",
             "Hora": "12:00",
@@ -2397,6 +2397,14 @@
                     "Visita": "Genclerbirligi",
                     "HT": "0-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Genclerbirligi",
+                    "Visita": "Erzurum BB",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -2497,6 +2505,14 @@
                     "Visita": "Galatasaray",
                     "HT": "0-3",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Genclerbirligi",
+                    "Visita": "Erzurum BB",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
