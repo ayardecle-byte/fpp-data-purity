@@ -3,15 +3,15 @@
         [
             "1",
             "Karpaty Lviv",
+            "4",
             "3",
-            "3",
-            "0",
-            "0",
-            "10",
             "1",
+            "0",
+            "11",
+            "2",
             "+9",
-            "9",
-            "1 Aug Kryvbas KR\r\n - Karpaty Lviv 1:4 10 Aug Karpaty Lviv - \r\nLNZ Cherkasy 3:0 15 Aug Karpaty Lviv - \r\nBukovyna 3:0 29 Aug Livyi Bereh\r\n - Karpaty Lviv -",
+            "10",
+            "1 Aug Kryvbas KR\r\n - Karpaty Lviv 1:4 10 Aug Karpaty Lviv - \r\nLNZ Cherkasy 3:0 15 Aug Karpaty Lviv - \r\nBukovyna 3:0 29 Aug Livyi Bereh\r\n - Karpaty Lviv 1:1 5 Sep Karpaty Lviv - \r\nShakhtar -",
             "1 Aug",
             "Kryvbas KR\r\n - Karpaty Lviv",
             "1:4",
@@ -23,24 +23,27 @@
             "3:0",
             "29 Aug",
             "Livyi Bereh\r\n - Karpaty Lviv",
+            "1:1",
+            "5 Sep",
+            "Karpaty Lviv - \r\nShakhtar",
             "-",
-            "3.00",
-            "3.00",
-            "67%",
+            "2.50",
+            "2.50",
+            "50%",
             "100%"
         ],
         [
             "2",
             "Shakhtar",
-            "3",
+            "4",
             "3",
             "0",
-            "0",
-            "8",
             "1",
-            "+7",
+            "8",
+            "3",
+            "+5",
             "9",
-            "3 Aug Shakhtar - \r\nKudrivka 5:1 9 Aug Episentr\r\n - Shakhtar 0:2 16 Aug Metalist 1925\r\n - Shakhtar 0:1 29 Aug Shakhtar - \r\nPolessya -",
+            "3 Aug Shakhtar - \r\nKudrivka 5:1 9 Aug Episentr\r\n - Shakhtar 0:2 16 Aug Metalist 1925\r\n - Shakhtar 0:1 29 Aug Shakhtar - \r\nPolessya 0:2 5 Sep Karpaty Lviv\r\n - Shakhtar -",
             "3 Aug",
             "Shakhtar - \r\nKudrivka",
             "5:1",
@@ -52,14 +55,49 @@
             "0:1",
             "29 Aug",
             "Shakhtar - \r\nPolessya",
+            "0:2",
+            "5 Sep",
+            "Karpaty Lviv\r\n - Shakhtar",
             "-",
-            "3.00",
-            "3.00",
-            "67%",
-            "100%"
+            "2.25",
+            "2.25",
+            "50%",
+            "75%"
         ],
         [
             "3",
+            "Polessya",
+            "4",
+            "3",
+            "0",
+            "1",
+            "8",
+            "4",
+            "+4",
+            "9",
+            "2 Aug Chornomorets\r\n - Polessya 1:2 10 Aug Polessya - \r\nMetalist 1925 3:1 17 Aug Polessya - \r\nZorya Luhansk 1:2 29 Aug Shakhtar\r\n - Polessya 0:2 4 Sep Polessya - \r\nKudrivka -",
+            "2 Aug",
+            "Chornomorets\r\n - Polessya",
+            "1:2",
+            "10 Aug",
+            "Polessya - \r\nMetalist 1925",
+            "3:1",
+            "17 Aug",
+            "Polessya - \r\nZorya Luhansk",
+            "1:2",
+            "29 Aug",
+            "Shakhtar\r\n - Polessya",
+            "0:2",
+            "4 Sep",
+            "Polessya - \r\nKudrivka",
+            "-",
+            "2.25",
+            "2.25",
+            "25%",
+            "100%"
+        ],
+        [
+            "4",
             "Episentr",
             "4",
             "2",
@@ -89,35 +127,6 @@
             "1.75",
             "75%",
             "50%"
-        ],
-        [
-            "4",
-            "Polessya",
-            "3",
-            "2",
-            "0",
-            "1",
-            "6",
-            "4",
-            "+2",
-            "6",
-            "2 Aug Chornomorets\r\n - Polessya 1:2 10 Aug Polessya - \r\nMetalist 1925 3:1 17 Aug Polessya - \r\nZorya Luhansk 1:2 29 Aug Shakhtar\r\n - Polessya -",
-            "2 Aug",
-            "Chornomorets\r\n - Polessya",
-            "1:2",
-            "10 Aug",
-            "Polessya - \r\nMetalist 1925",
-            "3:1",
-            "17 Aug",
-            "Polessya - \r\nZorya Luhansk",
-            "1:2",
-            "29 Aug",
-            "Shakhtar\r\n - Polessya",
-            "-",
-            "2.00",
-            "2.00",
-            "0%",
-            "100%"
         ],
         [
             "5",
@@ -176,35 +185,6 @@
         ],
         [
             "7",
-            "Kryvbas KR",
-            "3",
-            "1",
-            "1",
-            "1",
-            "5",
-            "6",
-            "-1",
-            "4",
-            "1 Aug Kryvbas KR - \r\nKarpaty Lviv 1:4 9 Aug Zorya Luhansk\r\n - Kryvbas KR 1:3 15 Aug Kryvbas KR - \r\nLivyi Bereh 1:1 30 Aug Chornomorets\r\n - Kryvbas KR -",
-            "1 Aug",
-            "Kryvbas KR - \r\nKarpaty Lviv",
-            "1:4",
-            "9 Aug",
-            "Zorya Luhansk\r\n - Kryvbas KR",
-            "1:3",
-            "15 Aug",
-            "Kryvbas KR - \r\nLivyi Bereh",
-            "1:1",
-            "30 Aug",
-            "Chornomorets\r\n - Kryvbas KR",
-            "-",
-            "1.33",
-            "1.33",
-            "0%",
-            "100%"
-        ],
-        [
-            "8",
             "LNZ Cherkasy",
             "3",
             "1",
@@ -233,7 +213,97 @@
             "33%"
         ],
         [
+            "8",
+            "Kryvbas KR",
+            "4",
+            "1",
+            "1",
+            "2",
+            "5",
+            "7",
+            "-2",
+            "4",
+            "1 Aug Kryvbas KR - \r\nKarpaty Lviv 1:4 9 Aug Zorya Luhansk\r\n - Kryvbas KR 1:3 15 Aug Kryvbas KR - \r\nLivyi Bereh 1:1 30 Aug Chornomorets\r\n - Kryvbas KR 1:0 5 Sep Kryvbas KR - \r\nKolos Kovalivka -",
+            "1 Aug",
+            "Kryvbas KR - \r\nKarpaty Lviv",
+            "1:4",
+            "9 Aug",
+            "Zorya Luhansk\r\n - Kryvbas KR",
+            "1:3",
+            "15 Aug",
+            "Kryvbas KR - \r\nLivyi Bereh",
+            "1:1",
+            "30 Aug",
+            "Chornomorets\r\n - Kryvbas KR",
+            "1:0",
+            "5 Sep",
+            "Kryvbas KR - \r\nKolos Kovalivka",
+            "-",
+            "1.00",
+            "1.00",
+            "0%",
+            "75%"
+        ],
+        [
             "9",
+            "Livyi Bereh",
+            "3",
+            "0",
+            "3",
+            "0",
+            "2",
+            "2",
+            "0",
+            "3",
+            "8 Aug Livyi Bereh - \r\nKudrivka 0:0 15 Aug Kryvbas KR\r\n - Livyi Bereh 1:1 29 Aug Livyi Bereh - \r\nKarpaty Lviv 1:1 4 Sep Chornomorets\r\n - Livyi Bereh -",
+            "8 Aug",
+            "Livyi Bereh - \r\nKudrivka",
+            "0:0",
+            "15 Aug",
+            "Kryvbas KR\r\n - Livyi Bereh",
+            "1:1",
+            "29 Aug",
+            "Livyi Bereh - \r\nKarpaty Lviv",
+            "1:1",
+            "4 Sep",
+            "Chornomorets\r\n - Livyi Bereh",
+            "-",
+            "1.00",
+            "1.00",
+            "33%",
+            "67%"
+        ],
+        [
+            "10",
+            "Chornomorets",
+            "3",
+            "1",
+            "0",
+            "2",
+            "2",
+            "4",
+            "-2",
+            "3",
+            "2 Aug Chornomorets - \r\nPolessya 1:2 16 Aug LNZ Cherkasy\r\n - Chornomorets 2:0 30 Aug Chornomorets - \r\nKryvbas KR 1:0 4 Sep Chornomorets - \r\nLivyi Bereh -",
+            "2 Aug",
+            "Chornomorets - \r\nPolessya",
+            "1:2",
+            "16 Aug",
+            "LNZ Cherkasy\r\n - Chornomorets",
+            "2:0",
+            "30 Aug",
+            "Chornomorets - \r\nKryvbas KR",
+            "1:0",
+            "4 Sep",
+            "Chornomorets - \r\nLivyi Bereh",
+            "-",
+            "1.00",
+            "1.00",
+            "33%",
+            "67%"
+        ],
+        [
+            "11",
             "Metalist 1925",
             "3",
             "1",
@@ -262,7 +332,7 @@
             "67%"
         ],
         [
-            "10",
+            "12",
             "Obolon",
             "4",
             "0",
@@ -294,33 +364,7 @@
             "0%"
         ],
         [
-            "11",
-            "Livyi Bereh",
-            "2",
-            "0",
-            "2",
-            "0",
-            "1",
-            "1",
-            "0",
-            "2",
-            "8 Aug Livyi Bereh - \r\nKudrivka 0:0 15 Aug Kryvbas KR\r\n - Livyi Bereh 1:1 29 Aug Livyi Bereh - \r\nKarpaty Lviv -",
-            "8 Aug",
-            "Livyi Bereh - \r\nKudrivka",
-            "0:0",
-            "15 Aug",
-            "Kryvbas KR\r\n - Livyi Bereh",
-            "1:1",
-            "29 Aug",
-            "Livyi Bereh - \r\nKarpaty Lviv",
-            "-",
-            "1.00",
-            "1.00",
-            "50%",
-            "50%"
-        ],
-        [
-            "12",
+            "13",
             "Bukovyna",
             "3",
             "0",
@@ -349,7 +393,7 @@
             "0%"
         ],
         [
-            "13",
+            "14",
             "Kudrivka",
             "4",
             "0",
@@ -381,7 +425,7 @@
             "25%"
         ],
         [
-            "14",
+            "15",
             "Veres",
             "3",
             "0",
@@ -410,7 +454,7 @@
             "33%"
         ],
         [
-            "15",
+            "16",
             "Kolos Kovalivka",
             "3",
             "0",
@@ -437,55 +481,11 @@
             "0.33",
             "33%",
             "33%"
-        ],
-        [
-            "16",
-            "Chornomorets",
-            "2",
-            "0",
-            "0",
-            "2",
-            "1",
-            "4",
-            "-3",
-            "0",
-            "2 Aug Chornomorets - \r\nPolessya 1:2 16 Aug LNZ Cherkasy\r\n - Chornomorets 2:0 30 Aug Chornomorets - \r\nKryvbas KR -",
-            "2 Aug",
-            "Chornomorets - \r\nPolessya",
-            "1:2",
-            "16 Aug",
-            "LNZ Cherkasy\r\n - Chornomorets",
-            "2:0",
-            "30 Aug",
-            "Chornomorets - \r\nKryvbas KR",
-            "-",
-            "0.00",
-            "0.00",
-            "0%",
-            "50%"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Sat 29 Aug",
-            "Hora": "08:30",
-            "Local": "Livyi Bereh",
-            "Visita": "Karpaty Lviv"
-        },
-        {
-            "Fecha": "Sat 29 Aug",
-            "Hora": "11:00",
-            "Local": "Shakhtar",
-            "Visita": "Polessya"
-        },
-        {
-            "Fecha": "Sun 30 Aug",
-            "Hora": "06:00",
-            "Local": "Chornomorets",
-            "Visita": "Kryvbas KR"
-        },
         {
             "Fecha": "Sun 30 Aug",
             "Hora": "08:30",
@@ -505,390 +505,6 @@
             "Visita": "Dynamo Kyiv"
         },
         {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Karpaty Lviv",
-            "Visita": "Chornomorets"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Kolos Kovalivka",
-            "Visita": "Veres"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Kryvbas KR",
-            "Visita": "Bukovyna"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Kudrivka",
-            "Visita": "Dynamo Kyiv"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "LNZ Cherkasy",
-            "Visita": "Livyi Bereh"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Metalist 1925",
-            "Visita": "Episentr"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Obolon",
-            "Visita": "Polessya"
-        },
-        {
-            "Fecha": "Thu 30 Apr",
-            "Hora": "20:00",
-            "Local": "Zorya Luhansk",
-            "Visita": "Shakhtar"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Bukovyna",
-            "Visita": "Livyi Bereh"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Chornomorets",
-            "Visita": "Veres"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Dynamo Kyiv",
-            "Visita": "Kryvbas KR"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Episentr",
-            "Visita": "Zorya Luhansk"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Kudrivka",
-            "Visita": "Karpaty Lviv"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Metalist 1925",
-            "Visita": "LNZ Cherkasy"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Polessya",
-            "Visita": "Kolos Kovalivka"
-        },
-        {
-            "Fecha": "Thu 7 May",
-            "Hora": "20:00",
-            "Local": "Shakhtar",
-            "Visita": "Obolon"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Chornomorets",
-            "Visita": "Kudrivka"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Dynamo Kyiv",
-            "Visita": "Shakhtar"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Karpaty Lviv",
-            "Visita": "Metalist 1925"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Kolos Kovalivka",
-            "Visita": "Bukovyna"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Kryvbas KR",
-            "Visita": "Episentr"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Livyi Bereh",
-            "Visita": "Obolon"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "LNZ Cherkasy",
-            "Visita": "Zorya Luhansk"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Veres",
-            "Visita": "Polessya"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Bukovyna",
-            "Visita": "Veres"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Episentr",
-            "Visita": "Chornomorets"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Kudrivka",
-            "Visita": "Kryvbas KR"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Metalist 1925",
-            "Visita": "Kolos Kovalivka"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Obolon",
-            "Visita": "Dynamo Kyiv"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Polessya",
-            "Visita": "LNZ Cherkasy"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Shakhtar",
-            "Visita": "Livyi Bereh"
-        },
-        {
-            "Fecha": "Thu 21 May",
-            "Hora": "20:00",
-            "Local": "Zorya Luhansk",
-            "Visita": "Karpaty Lviv"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Bukovyna",
-            "Visita": "Shakhtar"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Chornomorets",
-            "Visita": "Dynamo Kyiv"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Kolos Kovalivka",
-            "Visita": "Livyi Bereh"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "LNZ Cherkasy",
-            "Visita": "Episentr"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Metalist 1925",
-            "Visita": "Kudrivka"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Polessya",
-            "Visita": "Karpaty Lviv"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Veres",
-            "Visita": "Kryvbas KR"
-        },
-        {
-            "Fecha": "Thu 28 May",
-            "Hora": "20:00",
-            "Local": "Zorya Luhansk",
-            "Visita": "Obolon"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Bukovyna",
-            "Visita": "Kolos Kovalivka"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Episentr",
-            "Visita": "Kryvbas KR"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Kudrivka",
-            "Visita": "Chornomorets"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Metalist 1925",
-            "Visita": "Karpaty Lviv"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Obolon",
-            "Visita": "Livyi Bereh"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Polessya",
-            "Visita": "Veres"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Shakhtar",
-            "Visita": "Dynamo Kyiv"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Zorya Luhansk",
-            "Visita": "LNZ Cherkasy"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Chornomorets",
-            "Visita": "Episentr"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Dynamo Kyiv",
-            "Visita": "Obolon"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Karpaty Lviv",
-            "Visita": "Zorya Luhansk"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Kolos Kovalivka",
-            "Visita": "Metalist 1925"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Kryvbas KR",
-            "Visita": "Kudrivka"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Livyi Bereh",
-            "Visita": "Shakhtar"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "LNZ Cherkasy",
-            "Visita": "Polessya"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "21:00",
-            "Local": "Veres",
-            "Visita": "Bukovyna"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Dynamo Kyiv",
-            "Visita": "Chornomorets"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Episentr",
-            "Visita": "LNZ Cherkasy"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Karpaty Lviv",
-            "Visita": "Polessya"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Kryvbas KR",
-            "Visita": "Veres"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Kudrivka",
-            "Visita": "Metalist 1925"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Livyi Bereh",
-            "Visita": "Kolos Kovalivka"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Obolon",
-            "Visita": "Zorya Luhansk"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Shakhtar",
-            "Visita": "Bukovyna"
-        },
-        {
             "Fecha": "Fri 4 Sep",
             "Hora": "06:00",
             "Local": "Chornomorets",
@@ -1223,6 +839,150 @@
             "Hora": "21:00",
             "Local": "Zorya Luhansk",
             "Visita": "Episentr"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Bukovyna",
+            "Visita": "Kolos Kovalivka"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Episentr",
+            "Visita": "Kryvbas KR"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Kudrivka",
+            "Visita": "Chornomorets"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Metalist 1925",
+            "Visita": "Karpaty Lviv"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Obolon",
+            "Visita": "Livyi Bereh"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Polessya",
+            "Visita": "Veres"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Shakhtar",
+            "Visita": "Dynamo Kyiv"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Zorya Luhansk",
+            "Visita": "LNZ Cherkasy"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Chornomorets",
+            "Visita": "Episentr"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Dynamo Kyiv",
+            "Visita": "Obolon"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Karpaty Lviv",
+            "Visita": "Zorya Luhansk"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Kolos Kovalivka",
+            "Visita": "Metalist 1925"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Kryvbas KR",
+            "Visita": "Kudrivka"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Livyi Bereh",
+            "Visita": "Shakhtar"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "LNZ Cherkasy",
+            "Visita": "Polessya"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "21:00",
+            "Local": "Veres",
+            "Visita": "Bukovyna"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Dynamo Kyiv",
+            "Visita": "Chornomorets"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Episentr",
+            "Visita": "LNZ Cherkasy"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Karpaty Lviv",
+            "Visita": "Polessya"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Kryvbas KR",
+            "Visita": "Veres"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Kudrivka",
+            "Visita": "Metalist 1925"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Livyi Bereh",
+            "Visita": "Kolos Kovalivka"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Obolon",
+            "Visita": "Zorya Luhansk"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Shakhtar",
+            "Visita": "Bukovyna"
         },
         {
             "Fecha": "Tue 1 Dec",
@@ -1711,6 +1471,246 @@
             "Visita": "Obolon"
         },
         {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Karpaty Lviv",
+            "Visita": "Chornomorets"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Kolos Kovalivka",
+            "Visita": "Veres"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Kryvbas KR",
+            "Visita": "Bukovyna"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Kudrivka",
+            "Visita": "Dynamo Kyiv"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "LNZ Cherkasy",
+            "Visita": "Livyi Bereh"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Metalist 1925",
+            "Visita": "Episentr"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Obolon",
+            "Visita": "Polessya"
+        },
+        {
+            "Fecha": "Thu 30 Apr",
+            "Hora": "20:00",
+            "Local": "Zorya Luhansk",
+            "Visita": "Shakhtar"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Bukovyna",
+            "Visita": "Livyi Bereh"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Chornomorets",
+            "Visita": "Veres"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Dynamo Kyiv",
+            "Visita": "Kryvbas KR"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Episentr",
+            "Visita": "Zorya Luhansk"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Kudrivka",
+            "Visita": "Karpaty Lviv"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Metalist 1925",
+            "Visita": "LNZ Cherkasy"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Polessya",
+            "Visita": "Kolos Kovalivka"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Shakhtar",
+            "Visita": "Obolon"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Chornomorets",
+            "Visita": "Kudrivka"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Dynamo Kyiv",
+            "Visita": "Shakhtar"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Karpaty Lviv",
+            "Visita": "Metalist 1925"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Kolos Kovalivka",
+            "Visita": "Bukovyna"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Kryvbas KR",
+            "Visita": "Episentr"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Livyi Bereh",
+            "Visita": "Obolon"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "LNZ Cherkasy",
+            "Visita": "Zorya Luhansk"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Veres",
+            "Visita": "Polessya"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Bukovyna",
+            "Visita": "Veres"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Episentr",
+            "Visita": "Chornomorets"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Kudrivka",
+            "Visita": "Kryvbas KR"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Metalist 1925",
+            "Visita": "Kolos Kovalivka"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Obolon",
+            "Visita": "Dynamo Kyiv"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Polessya",
+            "Visita": "LNZ Cherkasy"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Shakhtar",
+            "Visita": "Livyi Bereh"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Zorya Luhansk",
+            "Visita": "Karpaty Lviv"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Bukovyna",
+            "Visita": "Shakhtar"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Chornomorets",
+            "Visita": "Dynamo Kyiv"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Kolos Kovalivka",
+            "Visita": "Livyi Bereh"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "LNZ Cherkasy",
+            "Visita": "Episentr"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Metalist 1925",
+            "Visita": "Kudrivka"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Polessya",
+            "Visita": "Karpaty Lviv"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Veres",
+            "Visita": "Kryvbas KR"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Zorya Luhansk",
+            "Visita": "Obolon"
+        },
+        {
             "Fecha": "Wed 3 Jun",
             "Hora": "20:00",
             "Local": "Chornomorets",
@@ -1785,6 +1785,14 @@
                     "Visita": "Livyi Bereh",
                     "HT": "1-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Chornomorets",
+                    "Visita": "Kryvbas KR",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1813,6 +1821,14 @@
                     "Visita": "Bukovyna",
                     "HT": "2-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Livyi Bereh",
+                    "Visita": "Karpaty Lviv",
+                    "HT": "0-0",
+                    "Status": "🟡"
                 }
             ]
         },
@@ -1889,6 +1905,14 @@
                     "Visita": "Chornomorets",
                     "HT": "1-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Chornomorets",
+                    "Visita": "Kryvbas KR",
+                    "HT": "0-0",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1917,6 +1941,14 @@
                     "Visita": "Zorya Luhansk",
                     "HT": "1-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Shakhtar",
+                    "Visita": "Polessya",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -2073,6 +2105,14 @@
                     "Visita": "Shakhtar",
                     "HT": "0-1",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Shakhtar",
+                    "Visita": "Polessya",
+                    "HT": "0-1",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -2128,6 +2168,14 @@
                     "Local": "Kryvbas KR",
                     "Visita": "Livyi Bereh",
                     "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Livyi Bereh",
+                    "Visita": "Karpaty Lviv",
+                    "HT": "0-0",
                     "Status": "🟡"
                 }
             ]
