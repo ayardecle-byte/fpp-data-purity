@@ -2,6 +2,33 @@
     "posiciones": [
         [
             "1",
+            "Inter Milan",
+            "2",
+            "2",
+            "0",
+            "0",
+            "5",
+            "1",
+            "+4",
+            "6",
+            "22 Aug Inter Milan - \r\nMonza 4:1 30 Aug Cagliari\r\n - Inter Milan 0:1 5 Sep Inter Milan - \r\nNapoli -",
+            "22 Aug",
+            "Inter Milan - \r\nMonza",
+            "4:1",
+            "30 Aug",
+            "Cagliari\r\n - Inter Milan",
+            "0:1",
+            "5 Sep",
+            "Inter Milan - \r\nNapoli",
+            "-",
+            "3.00",
+            "3.00",
+            "50%",
+            "100%",
+            "114"
+        ],
+        [
+            "2",
             "AC Milan",
             "2",
             "2",
@@ -28,7 +55,7 @@
             "114"
         ],
         [
-            "2",
+            "3",
             "Juventus",
             "2",
             "2",
@@ -55,7 +82,34 @@
             "114"
         ],
         [
-            "3",
+            "4",
+            "Lazio",
+            "2",
+            "2",
+            "0",
+            "0",
+            "2",
+            "0",
+            "+2",
+            "6",
+            "24 Aug Bologna\r\n - Lazio 0:1 30 Aug Lazio - \r\nGenoa 1:0 7 Sep Udinese\r\n - Lazio -",
+            "24 Aug",
+            "Bologna\r\n - Lazio",
+            "0:1",
+            "30 Aug",
+            "Lazio - \r\nGenoa",
+            "1:0",
+            "7 Sep",
+            "Udinese\r\n - Lazio",
+            "-",
+            "3.00",
+            "3.00",
+            "100%",
+            "100%",
+            "114"
+        ],
+        [
+            "5",
             "Udinese",
             "2",
             "1",
@@ -82,7 +136,34 @@
             "112"
         ],
         [
+            "6",
+            "Como",
+            "2",
+            "1",
+            "1",
+            "0",
+            "3",
+            "2",
+            "+1",
             "4",
+            "22 Aug Udinese\r\n - Como 1:1 30 Aug Napoli\r\n - Como 1:2 4 Sep Genoa\r\n - Como -",
+            "22 Aug",
+            "Udinese\r\n - Como",
+            "1:1",
+            "30 Aug",
+            "Napoli\r\n - Como",
+            "1:2",
+            "4 Sep",
+            "Genoa\r\n - Como",
+            "-",
+            "2.00",
+            "2.00",
+            "0%",
+            "100%",
+            "112"
+        ],
+        [
+            "7",
             "AS Roma",
             "1",
             "1",
@@ -106,31 +187,7 @@
             "114"
         ],
         [
-            "5",
-            "Inter Milan",
-            "1",
-            "1",
-            "0",
-            "0",
-            "4",
-            "1",
-            "+3",
-            "3",
-            "22 Aug Inter Milan - \r\nMonza 4:1 30 Aug Cagliari\r\n - Inter Milan -",
-            "22 Aug",
-            "Inter Milan - \r\nMonza",
-            "4:1",
-            "30 Aug",
-            "Cagliari\r\n - Inter Milan",
-            "-",
-            "3.00",
-            "3.00",
-            "0%",
-            "100%",
-            "114"
-        ],
-        [
-            "6",
+            "8",
             "Frosinone",
             "2",
             "1",
@@ -157,7 +214,7 @@
             "111"
         ],
         [
-            "7",
+            "9",
             "Lecce",
             "1",
             "1",
@@ -181,31 +238,34 @@
             "114"
         ],
         [
-            "8",
+            "10",
             "Napoli",
-            "1",
-            "1",
-            "0",
-            "0",
             "2",
+            "1",
             "0",
-            "+2",
+            "1",
             "3",
-            "22 Aug Genoa\r\n - Napoli 0:2 30 Aug Napoli - \r\nComo -",
+            "2",
+            "+1",
+            "3",
+            "22 Aug Genoa\r\n - Napoli 0:2 30 Aug Napoli - \r\nComo 1:2 5 Sep Inter Milan\r\n - Napoli -",
             "22 Aug",
             "Genoa\r\n - Napoli",
             "0:2",
             "30 Aug",
             "Napoli - \r\nComo",
+            "1:2",
+            "5 Sep",
+            "Inter Milan\r\n - Napoli",
             "-",
-            "3.00",
-            "3.00",
+            "1.50",
+            "1.50",
+            "50%",
             "100%",
-            "100%",
-            "114"
+            "111"
         ],
         [
-            "9",
+            "11",
             "Atalanta",
             "1",
             "1",
@@ -225,54 +285,6 @@
             "3.00",
             "3.00",
             "0%",
-            "100%",
-            "114"
-        ],
-        [
-            "10",
-            "Cagliari",
-            "1",
-            "1",
-            "0",
-            "0",
-            "1",
-            "0",
-            "+1",
-            "3",
-            "22 Aug Parma\r\n - Cagliari 0:1 30 Aug Cagliari - \r\nInter Milan -",
-            "22 Aug",
-            "Parma\r\n - Cagliari",
-            "0:1",
-            "30 Aug",
-            "Cagliari - \r\nInter Milan",
-            "-",
-            "3.00",
-            "3.00",
-            "100%",
-            "100%",
-            "114"
-        ],
-        [
-            "11",
-            "Lazio",
-            "1",
-            "1",
-            "0",
-            "0",
-            "1",
-            "0",
-            "+1",
-            "3",
-            "24 Aug Bologna\r\n - Lazio 0:1 30 Aug Lazio - \r\nGenoa -",
-            "24 Aug",
-            "Bologna\r\n - Lazio",
-            "0:1",
-            "30 Aug",
-            "Lazio - \r\nGenoa",
-            "-",
-            "3.00",
-            "3.00",
-            "100%",
             "100%",
             "114"
         ],
@@ -305,27 +317,30 @@
         ],
         [
             "13",
-            "Como",
+            "Cagliari",
+            "2",
             "1",
             "0",
             "1",
-            "0",
             "1",
             "1",
             "0",
-            "1",
-            "22 Aug Udinese\r\n - Como 1:1 30 Aug Napoli\r\n - Como -",
+            "3",
+            "22 Aug Parma\r\n - Cagliari 0:1 30 Aug Cagliari - \r\nInter Milan 0:1 7 Sep Cagliari - \r\nLecce -",
             "22 Aug",
-            "Udinese\r\n - Como",
-            "1:1",
+            "Parma\r\n - Cagliari",
+            "0:1",
             "30 Aug",
-            "Napoli\r\n - Como",
+            "Cagliari - \r\nInter Milan",
+            "0:1",
+            "7 Sep",
+            "Cagliari - \r\nLecce",
             "-",
-            "1.00",
-            "1.00",
-            "0%",
-            "100%",
-            "112"
+            "1.50",
+            "1.50",
+            "50%",
+            "50%",
+            "111"
         ],
         [
             "14",
@@ -381,26 +396,29 @@
         [
             "16",
             "Genoa",
-            "1",
+            "2",
             "0",
-            "0",
-            "1",
             "0",
             "2",
-            "-2",
             "0",
-            "22 Aug Genoa - \r\nNapoli 0:2 30 Aug Lazio\r\n - Genoa -",
+            "3",
+            "-3",
+            "0",
+            "22 Aug Genoa - \r\nNapoli 0:2 30 Aug Lazio\r\n - Genoa 1:0 4 Sep Genoa - \r\nComo -",
             "22 Aug",
             "Genoa - \r\nNapoli",
             "0:2",
             "30 Aug",
             "Lazio\r\n - Genoa",
+            "1:0",
+            "4 Sep",
+            "Genoa - \r\nComo",
             "-",
             "0.00",
             "0.00",
             "0%",
             "0%",
-            "111"
+            "108"
         ],
         [
             "17",
@@ -515,24 +533,6 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Sun 30 Aug",
-            "Hora": "12:30",
-            "Local": "Napoli",
-            "Visita": "Como"
-        },
-        {
-            "Fecha": "Sun 30 Aug",
-            "Hora": "14:45",
-            "Local": "Cagliari",
-            "Visita": "Inter Milan"
-        },
-        {
-            "Fecha": "Sun 30 Aug",
-            "Hora": "14:45",
-            "Local": "Lazio",
-            "Visita": "Genoa"
-        },
-        {
             "Fecha": "Mon 31 Aug",
             "Hora": "12:30",
             "Local": "Lecce",
@@ -543,6 +543,426 @@
             "Hora": "14:45",
             "Local": "Atalanta",
             "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "AC Milan",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "AS Roma",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Cagliari",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Como",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Frosinone",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Genoa",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Lecce",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Sassuolo",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Torino",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Venezia",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Bologna",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Cagliari",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Fiorentina",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Frosinone",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Inter Milan",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Juventus",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Lazio",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Napoli",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Parma",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "20:00",
+            "Local": "Udinese",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "AC Milan",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "AS Roma",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Atalanta",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Bologna",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Como",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Fiorentina",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Monza",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Sassuolo",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Torino",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Venezia",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Cagliari",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Frosinone",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Genoa",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Inter Milan",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Juventus",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Lazio",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Lecce",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Napoli",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Parma",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Fri 24 Apr",
+            "Hora": "20:00",
+            "Local": "Venezia",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Bologna",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Fri 4 Sep",
+            "Hora": "14:45",
+            "Local": "Genoa",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "09:00",
+            "Local": "Fiorentina",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "12:00",
+            "Local": "Inter Milan",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "14:45",
+            "Local": "AS Roma",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "09:00",
+            "Local": "Frosinone",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "09:00",
+            "Local": "Parma",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "12:00",
+            "Local": "Bologna",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "14:45",
+            "Local": "Juventus",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Mon 7 Sep",
+            "Hora": "12:30",
+            "Local": "Cagliari",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Mon 7 Sep",
+            "Hora": "14:45",
+            "Local": "Udinese",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "14:45",
+            "Local": "Venezia",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Fri 11 Sep",
+            "Hora": "20:00",
+            "Local": "Sassuolo",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "09:00",
+            "Local": "Genoa",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "14:45",
+            "Local": "Atalanta",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "20:00",
+            "Local": "Como",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "20:00",
+            "Local": "Lazio",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "20:00",
+            "Local": "Torino",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sun 13 Sep",
+            "Hora": "09:00",
+            "Local": "Lecce",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sun 13 Sep",
+            "Hora": "12:00",
+            "Local": "Napoli",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Mon 14 Sep",
+            "Hora": "14:45",
+            "Local": "Inter Milan",
+            "Visita": "Udinese"
         },
         {
             "Fecha": "Fri 18 Sep",
@@ -605,364 +1025,244 @@
             "Visita": "Lecce"
         },
         {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "AS Roma",
-            "Visita": "Udinese"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Bologna",
-            "Visita": "Atalanta"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Como",
-            "Visita": "Napoli"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Fiorentina",
-            "Visita": "Sassuolo"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Frosinone",
-            "Visita": "AC Milan"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Genoa",
-            "Visita": "Parma"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Inter Milan",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Atalanta",
             "Visita": "Venezia"
         },
         {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Juventus",
-            "Visita": "Cagliari"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Lecce",
-            "Visita": "Torino"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Monza",
-            "Visita": "Lazio"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "AS Roma",
-            "Visita": "Frosinone"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Bologna",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Cagliari",
             "Visita": "Juventus"
         },
         {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Cagliari",
-            "Visita": "Genoa"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Como",
-            "Visita": "Lecce"
+            "Visita": "AS Roma"
         },
         {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Fiorentina",
-            "Visita": "Lazio"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Inter Milan",
-            "Visita": "Sassuolo"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Monza",
-            "Visita": "AC Milan"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Parma",
-            "Visita": "Napoli"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Torino",
-            "Visita": "Venezia"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Udinese",
-            "Visita": "Atalanta"
-        },
-        {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "AC Milan",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Genoa",
             "Visita": "Fiorentina"
         },
         {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Atalanta",
-            "Visita": "Como"
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Inter Milan",
+            "Visita": "Parma"
         },
         {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Frosinone",
-            "Visita": "Bologna"
-        },
-        {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Genoa",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
+            "Local": "Lazio",
             "Visita": "Monza"
         },
         {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Juventus",
-            "Visita": "Torino"
-        },
-        {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Lazio",
-            "Visita": "Inter Milan"
-        },
-        {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Lecce",
-            "Visita": "Parma"
+            "Visita": "Bologna"
         },
         {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Napoli",
-            "Visita": "Cagliari"
+            "Visita": "Frosinone"
         },
         {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Sassuolo",
-            "Visita": "Udinese"
-        },
-        {
-            "Fecha": "Tue 5 Jan",
-            "Hora": "21:00",
-            "Local": "Venezia",
-            "Visita": "AS Roma"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "AS Roma",
             "Visita": "AC Milan"
         },
         {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Bologna",
-            "Visita": "Genoa"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Cagliari",
-            "Visita": "Sassuolo"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Como",
-            "Visita": "Lazio"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Fiorentina",
-            "Visita": "Lecce"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Inter Milan",
-            "Visita": "Juventus"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Monza",
-            "Visita": "Frosinone"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Parma",
-            "Visita": "Venezia"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
+            "Fecha": "Sat 10 Oct",
+            "Hora": "20:00",
             "Local": "Torino",
-            "Visita": "Atalanta"
-        },
-        {
-            "Fecha": "Sat 9 Jan",
-            "Hora": "21:00",
-            "Local": "Udinese",
-            "Visita": "Napoli"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "AC Milan",
-            "Visita": "Torino"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Atalanta",
-            "Visita": "AS Roma"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Cagliari",
-            "Visita": "Como"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Juventus",
-            "Visita": "Genoa"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Lazio",
-            "Visita": "Bologna"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Lecce",
             "Visita": "Udinese"
         },
         {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Napoli",
-            "Visita": "Fiorentina"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Parma",
-            "Visita": "Inter Milan"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Sassuolo",
-            "Visita": "Monza"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Venezia",
-            "Visita": "Frosinone"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
             "Local": "AC Milan",
-            "Visita": "Juventus"
+            "Visita": "Atalanta"
         },
         {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Atalanta",
-            "Visita": "Fiorentina"
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "AS Roma",
+            "Visita": "Genoa"
         },
         {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Cagliari",
-            "Visita": "Parma"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Genoa",
-            "Visita": "Lecce"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Lazio",
-            "Visita": "Venezia"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Monza",
-            "Visita": "AS Roma"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Napoli",
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Bologna",
             "Visita": "Inter Milan"
         },
         {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Sassuolo",
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Fiorentina",
             "Visita": "Como"
         },
         {
-            "Fecha": "Sat 30 Jan",
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Frosinone",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Juventus",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Monza",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Parma",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Udinese",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Venezia",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
             "Hora": "21:00",
-            "Local": "Torino",
+            "Local": "Atalanta",
             "Visita": "Frosinone"
         },
         {
-            "Fecha": "Sat 30 Jan",
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
             "Hora": "21:00",
             "Local": "Udinese",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "AC Milan",
             "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "AS Roma",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Tue 27 Oct",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "Inter Milan"
         },
         {
             "Fecha": "Sat 31 Oct",
@@ -1205,6 +1505,546 @@
             "Visita": "Bologna"
         },
         {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Bologna",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Udinese",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "AS Roma",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "AS Roma",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Bologna",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "21:00",
+            "Local": "Udinese",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Tue 5 Jan",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "AS Roma",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Bologna",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Udinese",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Monza"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "21:00",
+            "Local": "Venezia",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "AS Roma",
+            "Visita": "Udinese"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Bologna",
+            "Visita": "Atalanta"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Como",
+            "Visita": "Napoli"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Sassuolo"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Frosinone",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Torino"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "AC Milan",
+            "Visita": "Juventus"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "Fiorentina"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Cagliari",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Genoa",
+            "Visita": "Lecce"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Torino",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Udinese",
+            "Visita": "Bologna"
+        },
+        {
             "Fecha": "Fri 6 Feb",
             "Hora": "21:00",
             "Local": "AS Roma",
@@ -1445,64 +2285,124 @@
             "Visita": "Fiorentina"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
             "Local": "AC Milan",
-            "Visita": "Atalanta"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "AS Roma",
-            "Visita": "Genoa"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Bologna",
-            "Visita": "Inter Milan"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Fiorentina",
-            "Visita": "Como"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Frosinone",
-            "Visita": "Sassuolo"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Juventus",
-            "Visita": "Lazio"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Monza",
             "Visita": "Cagliari"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Parma",
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Atalanta",
             "Visita": "Torino"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "AS Roma"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Lazio",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Lecce",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Parma"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "21:00",
             "Local": "Udinese",
+            "Visita": "Inter Milan"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "AS Roma",
             "Visita": "Lecce"
         },
         {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Venezia",
-            "Visita": "Napoli"
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Atalanta",
+            "Visita": "AC Milan"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Fiorentina",
+            "Visita": "Genoa"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Inter Milan",
+            "Visita": "Frosinone"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Juventus",
+            "Visita": "Como"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Monza",
+            "Visita": "Bologna"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Napoli",
+            "Visita": "Venezia"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Parma",
+            "Visita": "Lazio"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Sassuolo",
+            "Visita": "Cagliari"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "21:00",
+            "Local": "Udinese",
+            "Visita": "Torino"
         },
         {
             "Fecha": "Fri 1 May",
@@ -1802,66 +2702,6 @@
             "Fecha": "Fri 29 May",
             "Hora": "20:00",
             "Local": "Sassuolo",
-            "Visita": "Inter Milan"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "AC Milan",
-            "Visita": "Cagliari"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Atalanta",
-            "Visita": "Torino"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Fiorentina",
-            "Visita": "Venezia"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Juventus",
-            "Visita": "AS Roma"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Lazio",
-            "Visita": "Frosinone"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Lecce",
-            "Visita": "Como"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Monza",
-            "Visita": "Genoa"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Napoli",
-            "Visita": "Parma"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Sassuolo",
-            "Visita": "Bologna"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Udinese",
             "Visita": "Inter Milan"
         }
     ],
@@ -1874,6 +2714,14 @@
                     "Local": "Inter Milan",
                     "Visita": "Monza",
                     "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Cagliari",
+                    "Visita": "Inter Milan",
+                    "HT": "0-1",
                     "Status": "🟢"
                 }
             ]
@@ -1927,6 +2775,14 @@
                     "Visita": "Como",
                     "HT": "1-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Napoli",
+                    "Visita": "Como",
+                    "HT": "1-2",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1938,6 +2794,14 @@
                     "Local": "Genoa",
                     "Visita": "Napoli",
                     "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Lazio",
+                    "Visita": "Genoa",
+                    "HT": "1-0",
                     "Status": "🔴"
                 }
             ]
@@ -1951,6 +2815,14 @@
                     "Visita": "Napoli",
                     "HT": "0-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Napoli",
+                    "Visita": "Como",
+                    "HT": "1-2",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1983,6 +2855,14 @@
                     "Visita": "Cagliari",
                     "HT": "0-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Cagliari",
+                    "Visita": "Inter Milan",
+                    "HT": "0-1",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -2150,6 +3030,14 @@
                     "Local": "Bologna",
                     "Visita": "Lazio",
                     "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Lazio",
+                    "Visita": "Genoa",
+                    "HT": "1-0",
                     "Status": "🟢"
                 }
             ]
