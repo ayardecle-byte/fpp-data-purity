@@ -29,6 +29,33 @@
         ],
         [
             "2",
+            "Arsenal",
+            "2",
+            "2",
+            "0",
+            "0",
+            "4",
+            "0",
+            "+4",
+            "6",
+            "21 Aug Arsenal - \r\nCoventry City 3:0 31 Aug Aston Villa\r\n - Arsenal 0:1 6 Sep Arsenal - \r\nChelsea -",
+            "21 Aug",
+            "Arsenal - \r\nCoventry City",
+            "3:0",
+            "31 Aug",
+            "Aston Villa\r\n - Arsenal",
+            "0:1",
+            "6 Sep",
+            "Arsenal - \r\nChelsea",
+            "-",
+            "3.00",
+            "3.00",
+            "100%",
+            "100%",
+            "114"
+        ],
+        [
+            "3",
             "Hull City",
             "2",
             "2",
@@ -55,7 +82,7 @@
             "114"
         ],
         [
-            "3",
+            "4",
             "Chelsea",
             "2",
             "2",
@@ -82,7 +109,7 @@
             "114"
         ],
         [
-            "4",
+            "5",
             "Brentford",
             "2",
             "1",
@@ -109,7 +136,7 @@
             "112"
         ],
         [
-            "5",
+            "6",
             "Newcastle Utd",
             "2",
             "1",
@@ -136,7 +163,7 @@
             "112"
         ],
         [
-            "6",
+            "7",
             "Everton",
             "2",
             "1",
@@ -163,7 +190,7 @@
             "112"
         ],
         [
-            "7",
+            "8",
             "Leeds Utd",
             "2",
             "1",
@@ -190,7 +217,7 @@
             "112"
         ],
         [
-            "8",
+            "9",
             "Brighton",
             "2",
             "1",
@@ -215,30 +242,6 @@
             "50%",
             "100%",
             "111"
-        ],
-        [
-            "9",
-            "Arsenal",
-            "1",
-            "1",
-            "0",
-            "0",
-            "3",
-            "0",
-            "+3",
-            "3",
-            "21 Aug Arsenal - \r\nCoventry City 3:0 31 Aug Aston Villa\r\n - Arsenal -",
-            "21 Aug",
-            "Arsenal - \r\nCoventry City",
-            "3:0",
-            "31 Aug",
-            "Aston Villa\r\n - Arsenal",
-            "-",
-            "3.00",
-            "3.00",
-            "100%",
-            "100%",
-            "114"
         ],
         [
             "10",
@@ -431,30 +434,6 @@
         ],
         [
             "17",
-            "Aston Villa",
-            "1",
-            "0",
-            "0",
-            "1",
-            "0",
-            "4",
-            "-4",
-            "0",
-            "23 Aug Brighton\r\n - Aston Villa 4:0 31 Aug Aston Villa - \r\nArsenal -",
-            "23 Aug",
-            "Brighton\r\n - Aston Villa",
-            "4:0",
-            "31 Aug",
-            "Aston Villa - \r\nArsenal",
-            "-",
-            "0.00",
-            "0.00",
-            "0%",
-            "0%",
-            "111"
-        ],
-        [
-            "18",
             "Coventry City",
             "2",
             "0",
@@ -481,7 +460,7 @@
             "108"
         ],
         [
-            "19",
+            "18",
             "Crystal Palace",
             "2",
             "0",
@@ -505,6 +484,33 @@
             "0.00",
             "0%",
             "50%",
+            "108"
+        ],
+        [
+            "19",
+            "Aston Villa",
+            "2",
+            "0",
+            "0",
+            "2",
+            "0",
+            "5",
+            "-5",
+            "0",
+            "23 Aug Brighton\r\n - Aston Villa 4:0 31 Aug Aston Villa - \r\nArsenal 0:1 5 Sep Hull City\r\n - Aston Villa -",
+            "23 Aug",
+            "Brighton\r\n - Aston Villa",
+            "4:0",
+            "31 Aug",
+            "Aston Villa - \r\nArsenal",
+            "0:1",
+            "5 Sep",
+            "Hull City\r\n - Aston Villa",
+            "-",
+            "0.00",
+            "0.00",
+            "0%",
+            "0%",
             "108"
         ],
         [
@@ -539,70 +545,904 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Mon 31 Aug",
+            "Fecha": "Fri 4 Sep",
             "Hora": "15:00",
-            "Local": "Aston Villa",
-            "Visita": "Arsenal"
+            "Local": "Ipswich Town",
+            "Visita": "Liverpool"
         },
         {
-            "Fecha": "Sat 10 Oct",
+            "Fecha": "Sat 5 Sep",
             "Hora": "07:30",
-            "Local": "Arsenal",
-            "Visita": "Leeds Utd"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "10:00",
-            "Local": "Aston Villa",
-            "Visita": "Brentford"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "10:00",
-            "Local": "Chelsea",
+            "Local": "Newcastle Utd",
             "Visita": "Bournemouth"
         },
         {
-            "Fecha": "Sat 10 Oct",
+            "Fecha": "Sat 5 Sep",
             "Hora": "10:00",
-            "Local": "Ipswich Town",
-            "Visita": "Fulham"
+            "Local": "Brentford",
+            "Visita": "Sunderland"
         },
         {
-            "Fecha": "Sat 10 Oct",
+            "Fecha": "Sat 5 Sep",
             "Hora": "10:00",
-            "Local": "Sunderland",
-            "Visita": "Brighton"
+            "Local": "Brighton",
+            "Visita": "Leeds Utd"
         },
         {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "12:30",
-            "Local": "Manchester Utd",
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Fulham",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Manchester City",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 5 Sep",
+            "Hora": "10:00",
+            "Local": "Nottm Forest",
             "Visita": "Tottenham"
         },
         {
-            "Fecha": "Sun 11 Oct",
+            "Fecha": "Sat 5 Sep",
+            "Hora": "12:30",
+            "Local": "Hull City",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
             "Hora": "09:00",
-            "Local": "Crystal Palace",
+            "Local": "Everton",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sun 6 Sep",
+            "Hora": "11:30",
+            "Local": "Arsenal",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "10:00",
+            "Local": "Aston Villa",
             "Visita": "Nottm Forest"
         },
         {
-            "Fecha": "Sun 11 Oct",
-            "Hora": "09:00",
-            "Local": "Hull City",
+            "Fecha": "Sat 12 Sep",
+            "Hora": "10:00",
+            "Local": "Bournemouth",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "10:00",
+            "Local": "Chelsea",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "10:00",
+            "Local": "Crystal Palace",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "10:00",
+            "Local": "Liverpool",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 12 Sep",
+            "Hora": "12:30",
+            "Local": "Tottenham",
             "Visita": "Everton"
         },
         {
-            "Fecha": "Sun 11 Oct",
+            "Fecha": "Sat 12 Sep",
+            "Hora": "15:00",
+            "Local": "Sunderland",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sun 13 Sep",
+            "Hora": "09:00",
+            "Local": "Coventry City",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sun 13 Sep",
             "Hora": "11:30",
-            "Local": "Liverpool",
+            "Local": "Manchester Utd",
             "Visita": "Manchester City"
         },
         {
-            "Fecha": "Mon 12 Oct",
+            "Fecha": "Mon 14 Sep",
             "Hora": "15:00",
-            "Local": "Coventry City",
+            "Local": "Leeds Utd",
             "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Fri 18 Sep",
+            "Hora": "15:00",
+            "Local": "Brentford",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "07:30",
+            "Local": "Tottenham",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Brighton",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Everton",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Leeds Utd",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "10:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 19 Sep",
+            "Hora": "12:30",
+            "Local": "Nottm Forest",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "09:00",
+            "Local": "Bournemouth",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "09:00",
+            "Local": "Manchester City",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Sun 20 Sep",
+            "Hora": "11:30",
+            "Local": "Fulham",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Arsenal",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Bournemouth",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Brighton",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Chelsea",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Leeds Utd",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Liverpool",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Nottm Forest",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 2 Jan",
+            "Hora": "12:00",
+            "Local": "Sunderland",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Arsenal",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Brighton",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Crystal Palace",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Everton",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Fulham",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Ipswich Town",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Leeds Utd",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Manchester Utd",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Nottm Forest",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Wed 6 Jan",
+            "Hora": "17:00",
+            "Local": "Sunderland",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Aston Villa",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Bournemouth",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Chelsea",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Coventry City",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Hull City",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Liverpool",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 16 Jan",
+            "Hora": "12:00",
+            "Local": "Tottenham",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Arsenal",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Brighton",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Crystal Palace",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Everton",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Fulham",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Ipswich Town",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Leeds Utd",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Manchester Utd",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Nottm Forest",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Sat 23 Jan",
+            "Hora": "12:00",
+            "Local": "Sunderland",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Aston Villa",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Bournemouth",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Chelsea",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Coventry City",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Hull City",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Liverpool",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "12:00",
+            "Local": "Tottenham",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Aston Villa",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Bournemouth",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Brentford",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Chelsea",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Coventry City",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Hull City",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Liverpool",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Manchester City",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Wed 2 Dec",
+            "Hora": "17:00",
+            "Local": "Tottenham",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Aston Villa",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Bournemouth",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Chelsea",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Everton",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Leeds Utd",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Manchester Utd",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Nottm Forest",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "12:00",
+            "Local": "Tottenham",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Arsenal",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Brighton",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Coventry City",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Crystal Palace",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Fulham",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Hull City",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Ipswich Town",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Liverpool",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "12:00",
+            "Local": "Sunderland",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Arsenal",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Bournemouth",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Brighton",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Chelsea",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Leeds Utd",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Liverpool",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Nottm Forest",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:00",
+            "Local": "Sunderland",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Aston Villa",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Coventry City",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Crystal Palace",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Everton",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Fulham",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Hull City",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Ipswich Town",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Manchester Utd",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "12:00",
+            "Local": "Tottenham",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Aston Villa",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Coventry City",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Crystal Palace",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Everton",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Fulham",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Hull City",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Ipswich Town",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Manchester Utd",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Wed 30 Dec",
+            "Hora": "17:00",
+            "Local": "Tottenham",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Arsenal",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Brentford",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Brighton",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Everton",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Fulham",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Hull City",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Ipswich Town",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Manchester City",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Fri 20 Mar",
+            "Hora": "12:00",
+            "Local": "Nottm Forest",
+            "Visita": "Aston Villa"
         },
         {
             "Fecha": "Sat 17 Oct",
@@ -665,450 +1505,365 @@
             "Visita": "Coventry City"
         },
         {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Aston Villa",
-            "Visita": "Everton"
-        },
-        {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Bournemouth",
-            "Visita": "Brighton"
-        },
-        {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Brentford",
-            "Visita": "Arsenal"
-        },
-        {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Chelsea",
-            "Visita": "Crystal Palace"
-        },
-        {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Coventry City",
-            "Visita": "Ipswich Town"
-        },
-        {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Hull City",
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Arsenal",
             "Visita": "Nottm Forest"
         },
         {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Liverpool",
-            "Visita": "Sunderland"
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Aston Villa",
+            "Visita": "Newcastle Utd"
         },
         {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Manchester City",
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Chelsea",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Coventry City",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Crystal Palace",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Hull City",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Ipswich Town",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Liverpool",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Manchester Utd",
             "Visita": "Leeds Utd"
         },
         {
-            "Fecha": "Wed 2 Dec",
-            "Hora": "17:00",
-            "Local": "Newcastle Utd",
+            "Fecha": "Fri 15 May",
+            "Hora": "10:00",
+            "Local": "Sunderland",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Arsenal",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Brighton",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Coventry City",
             "Visita": "Manchester Utd"
         },
         {
-            "Fecha": "Wed 2 Dec",
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Crystal Palace",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Fulham",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Hull City",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Ipswich Town",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Liverpool",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Manchester City",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:00",
+            "Local": "Sunderland",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Bournemouth",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Brentford",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Brighton",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Everton",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Fulham",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Leeds Utd",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Manchester City",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Nottm Forest",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Fri 8 May",
+            "Hora": "10:00",
+            "Local": "Tottenham",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Bournemouth",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Brentford",
+            "Visita": "Hull City"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Brighton",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Everton",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Fulham",
+            "Visita": "Coventry City"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Leeds Utd",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Manchester City",
+            "Visita": "Aston Villa"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Crystal Palace"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Nottm Forest",
+            "Visita": "Ipswich Town"
+        },
+        {
+            "Fecha": "Sat 23 May",
+            "Hora": "10:00",
+            "Local": "Tottenham",
+            "Visita": "Manchester Utd"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Arsenal",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Aston Villa",
+            "Visita": "Tottenham"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Chelsea",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Coventry City",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Crystal Palace",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Hull City",
+            "Visita": "Newcastle Utd"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Ipswich Town",
+            "Visita": "Everton"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Liverpool",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Manchester Utd",
+            "Visita": "Fulham"
+        },
+        {
+            "Fecha": "Sat 30 May",
+            "Hora": "11:00",
+            "Local": "Sunderland",
+            "Visita": "Manchester City"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Aston Villa",
+            "Visita": "Bournemouth"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Coventry City",
+            "Visita": "Liverpool"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Crystal Palace",
+            "Visita": "Brentford"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Everton",
+            "Visita": "Leeds Utd"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Fulham",
+            "Visita": "Nottm Forest"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Hull City",
+            "Visita": "Sunderland"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Ipswich Town",
+            "Visita": "Arsenal"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Manchester Utd",
+            "Visita": "Brighton"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
+            "Hora": "17:00",
+            "Local": "Newcastle Utd",
+            "Visita": "Chelsea"
+        },
+        {
+            "Fecha": "Wed 10 Feb",
             "Hora": "17:00",
             "Local": "Tottenham",
-            "Visita": "Fulham"
+            "Visita": "Manchester City"
         }
     ],
-    "estadisticas_avanzadas": {
-        "Arsenal": {
-            "historial": [
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Arsenal",
-                    "Visita": "Coventry City",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Coventry City": {
-            "historial": [
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Arsenal",
-                    "Visita": "Coventry City",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Coventry City",
-                    "Visita": "Hull City",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Hull City": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Hull City",
-                    "Visita": "Manchester Utd",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Coventry City",
-                    "Visita": "Hull City",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Manchester Utd": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Hull City",
-                    "Visita": "Manchester Utd",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[5:2]",
-                    "Local": "Manchester Utd",
-                    "Visita": "Ipswich Town",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Everton": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Everton",
-                    "Visita": "Crystal Palace",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Bournemouth",
-                    "Visita": "Everton",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Crystal Palace": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Everton",
-                    "Visita": "Crystal Palace",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:4]",
-                    "Local": "Crystal Palace",
-                    "Visita": "Manchester City",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Ipswich Town": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Ipswich Town",
-                    "Visita": "Sunderland",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[5:2]",
-                    "Local": "Manchester Utd",
-                    "Visita": "Ipswich Town",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Sunderland": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Ipswich Town",
-                    "Visita": "Sunderland",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Sunderland",
-                    "Visita": "Fulham",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Nottm Forest": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Nottm Forest",
-                    "Visita": "Leeds Utd",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Liverpool",
-                    "Visita": "Nottm Forest",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Leeds Utd": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Nottm Forest",
-                    "Visita": "Leeds Utd",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Leeds Utd",
-                    "Visita": "Brentford",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Brentford": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Brentford",
-                    "Visita": "Tottenham",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Leeds Utd",
-                    "Visita": "Brentford",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Tottenham": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Brentford",
-                    "Visita": "Tottenham",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Tottenham",
-                    "Visita": "Newcastle Utd",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Brighton": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[4:0]",
-                    "Local": "Brighton",
-                    "Visita": "Aston Villa",
-                    "HT": "4-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[4:3]",
-                    "Local": "Chelsea",
-                    "Visita": "Brighton",
-                    "HT": "3-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Aston Villa": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[4:0]",
-                    "Local": "Brighton",
-                    "Visita": "Aston Villa",
-                    "HT": "4-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Manchester City": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Manchester City",
-                    "Visita": "Bournemouth",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:4]",
-                    "Local": "Crystal Palace",
-                    "Visita": "Manchester City",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Bournemouth": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Manchester City",
-                    "Visita": "Bournemouth",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Bournemouth",
-                    "Visita": "Everton",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Newcastle Utd": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Newcastle Utd",
-                    "Visita": "Liverpool",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Tottenham",
-                    "Visita": "Newcastle Utd",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Liverpool": {
-            "historial": [
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Newcastle Utd",
-                    "Visita": "Liverpool",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Liverpool",
-                    "Visita": "Nottm Forest",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Fulham": {
-            "historial": [
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Fulham",
-                    "Visita": "Chelsea",
-                    "HT": "1-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Sunderland",
-                    "Visita": "Fulham",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Chelsea": {
-            "historial": [
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Fulham",
-                    "Visita": "Chelsea",
-                    "HT": "1-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[4:3]",
-                    "Local": "Chelsea",
-                    "Visita": "Brighton",
-                    "HT": "3-1",
-                    "Status": "🟢"
-                }
-            ]
-        }
-    }
+    "estadisticas_avanzadas": {}
 }
