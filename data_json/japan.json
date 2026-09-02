@@ -2,82 +2,16 @@
     "posiciones": [
         [
             "1",
-            "Kashiwa Reysol",
-            "4",
-            "4",
-            "0",
-            "0",
-            "10",
-            "4",
-            "+6",
-            "12",
-            "8 Aug Kashiwa Reysol - \r\nMito Hollyhock 2:1 14 Aug Tokyo Verdy\r\n - Kashiwa Reysol 1:3 21 Aug Kashiwa Reysol - \r\nV-V. Nagasaki 4:2 29 Aug Shimizu S-Pulse\r\n - Kashiwa Reysol 0:1 2 Sep Cerezo Osaka\r\n - Kashiwa Reysol -",
-            "8 Aug",
-            "Kashiwa Reysol - \r\nMito Hollyhock",
-            "2:1",
-            "14 Aug",
-            "Tokyo Verdy\r\n - Kashiwa Reysol",
-            "1:3",
-            "21 Aug",
-            "Kashiwa Reysol - \r\nV-V. Nagasaki",
-            "4:2",
-            "29 Aug",
-            "Shimizu S-Pulse\r\n - Kashiwa Reysol",
-            "0:1",
-            "2 Sep",
-            "Cerezo Osaka\r\n - Kashiwa Reysol",
-            "-",
-            "3.00",
-            "3.00",
-            "25%",
-            "100%",
-            "114"
-        ],
-        [
-            "2",
-            "Kashima Antlers",
-            "4",
-            "4",
-            "0",
-            "0",
-            "11",
-            "6",
-            "+5",
-            "12",
-            "7 Aug Yokohama M.\r\n - Kashima Antlers 3:4 15 Aug Kashima Antlers - \r\nNagoya G. 2:1 22 Aug Kashima Antlers - \r\nAvispa Fukuoka 3:2 29 Aug Tokyo Verdy\r\n - Kashima Antlers 0:2 2 Sep Mito Hollyhock\r\n - Kashima Antlers -",
-            "7 Aug",
-            "Yokohama M.\r\n - Kashima Antlers",
-            "3:4",
-            "15 Aug",
-            "Kashima Antlers - \r\nNagoya G.",
-            "2:1",
-            "22 Aug",
-            "Kashima Antlers - \r\nAvispa Fukuoka",
-            "3:2",
-            "29 Aug",
-            "Tokyo Verdy\r\n - Kashima Antlers",
-            "0:2",
-            "2 Sep",
-            "Mito Hollyhock\r\n - Kashima Antlers",
-            "-",
-            "3.00",
-            "3.00",
-            "25%",
-            "100%",
-            "114"
-        ],
-        [
-            "3",
             "Machida Zelvia",
+            "5",
             "4",
-            "3",
             "1",
             "0",
+            "15",
+            "4",
+            "+11",
             "13",
-            "3",
-            "+10",
-            "10",
-            "8 Aug FC Tokyo\r\n - Machida Zelvia 1:5 15 Aug JEF Utd Chiba\r\n - Machida Zelvia 0:4 23 Aug Machida Zelvia - \r\nUrawa RD 3:1 29 Aug Mito Hollyhock\r\n - Machida Zelvia 1:1 2 Sep Machida Zelvia - \r\nK. Frontale -",
+            "8 Aug FC Tokyo\r\n - Machida Zelvia 1:5 15 Aug JEF Utd Chiba\r\n - Machida Zelvia 0:4 23 Aug Machida Zelvia - \r\nUrawa RD 3:1 29 Aug Mito Hollyhock\r\n - Machida Zelvia 1:1 2 Sep Machida Zelvia - \r\nK. Frontale 2:1 6 Sep Nagoya G.\r\n - Machida Zelvia -",
             "8 Aug",
             "FC Tokyo\r\n - Machida Zelvia",
             "1:5",
@@ -92,25 +26,100 @@
             "1:1",
             "2 Sep",
             "Machida Zelvia - \r\nK. Frontale",
+            "2:1",
+            "6 Sep",
+            "Nagoya G.\r\n - Machida Zelvia",
             "-",
-            "2.50",
-            "2.50",
-            "25%",
+            "2.60",
+            "2.60",
+            "20%",
             "100%",
             "112"
         ],
         [
+            "2",
+            "Kashiwa Reysol",
+            "5",
+            "4",
+            "0",
+            "1",
+            "10",
+            "6",
+            "+4",
+            "12",
+            "8 Aug Kashiwa Reysol - \r\nMito Hollyhock 2:1 14 Aug Tokyo Verdy\r\n - Kashiwa Reysol 1:3 21 Aug Kashiwa Reysol - \r\nV-V. Nagasaki 4:2 29 Aug Shimizu S-Pulse\r\n - Kashiwa Reysol 0:1 2 Sep Cerezo Osaka\r\n - Kashiwa Reysol 2:0 6 Sep Kashiwa Reysol - \r\nYokohama M. -",
+            "8 Aug",
+            "Kashiwa Reysol - \r\nMito Hollyhock",
+            "2:1",
+            "14 Aug",
+            "Tokyo Verdy\r\n - Kashiwa Reysol",
+            "1:3",
+            "21 Aug",
+            "Kashiwa Reysol - \r\nV-V. Nagasaki",
+            "4:2",
+            "29 Aug",
+            "Shimizu S-Pulse\r\n - Kashiwa Reysol",
+            "0:1",
+            "2 Sep",
+            "Cerezo Osaka\r\n - Kashiwa Reysol",
+            "2:0",
+            "6 Sep",
+            "Kashiwa Reysol - \r\nYokohama M.",
+            "-",
+            "2.40",
+            "2.40",
+            "20%",
+            "80%",
+            "111"
+        ],
+        [
+            "3",
+            "Kashima Antlers",
+            "5",
+            "4",
+            "0",
+            "1",
+            "13",
+            "10",
+            "+3",
+            "12",
+            "7 Aug Yokohama M.\r\n - Kashima Antlers 3:4 15 Aug Kashima Antlers - \r\nNagoya G. 2:1 22 Aug Kashima Antlers - \r\nAvispa Fukuoka 3:2 29 Aug Tokyo Verdy\r\n - Kashima Antlers 0:2 2 Sep Mito Hollyhock\r\n - Kashima Antlers 4:2 6 Sep Kashima Antlers - \r\nUrawa RD -",
+            "7 Aug",
+            "Yokohama M.\r\n - Kashima Antlers",
+            "3:4",
+            "15 Aug",
+            "Kashima Antlers - \r\nNagoya G.",
+            "2:1",
+            "22 Aug",
+            "Kashima Antlers - \r\nAvispa Fukuoka",
+            "3:2",
+            "29 Aug",
+            "Tokyo Verdy\r\n - Kashima Antlers",
+            "0:2",
+            "2 Sep",
+            "Mito Hollyhock\r\n - Kashima Antlers",
+            "4:2",
+            "6 Sep",
+            "Kashima Antlers - \r\nUrawa RD",
+            "-",
+            "2.40",
+            "2.40",
+            "20%",
+            "100%",
+            "111"
+        ],
+        [
             "4",
             "S. Hiroshima",
-            "4",
-            "2",
+            "5",
+            "3",
             "2",
             "0",
-            "8",
+            "11",
             "2",
-            "+6",
-            "8",
-            "8 Aug S. Hiroshima - \r\nJEF Utd Chiba 3:0 15 Aug Urawa RD\r\n - S. Hiroshima 1:4 22 Aug S. Hiroshima - \r\nK. Frontale 1:1 29 Aug Gamba Osaka\r\n - S. Hiroshima 0:0 2 Sep S. Hiroshima - \r\nNagoya G. -",
+            "+9",
+            "11",
+            "8 Aug S. Hiroshima - \r\nJEF Utd Chiba 3:0 15 Aug Urawa RD\r\n - S. Hiroshima 1:4 22 Aug S. Hiroshima - \r\nK. Frontale 1:1 29 Aug Gamba Osaka\r\n - S. Hiroshima 0:0 2 Sep S. Hiroshima - \r\nNagoya G. 3:0 6 Sep Fagiano Okayama\r\n - S. Hiroshima -",
             "8 Aug",
             "S. Hiroshima - \r\nJEF Utd Chiba",
             "3:0",
@@ -125,58 +134,28 @@
             "0:0",
             "2 Sep",
             "S. Hiroshima - \r\nNagoya G.",
+            "3:0",
+            "6 Sep",
+            "Fagiano Okayama\r\n - S. Hiroshima",
             "-",
-            "2.00",
-            "2.00",
-            "50%",
-            "75%",
+            "2.20",
+            "2.20",
+            "60%",
+            "80%",
             "110"
         ],
         [
             "5",
-            "FC Tokyo",
-            "4",
-            "2",
-            "1",
-            "1",
-            "8",
-            "7",
-            "+1",
-            "7",
-            "8 Aug FC Tokyo - \r\nMachida Zelvia 1:5 15 Aug Vissel Kobe\r\n - FC Tokyo 2:2 21 Aug FC Tokyo - \r\nJEF Utd Chiba 2:0 29 Aug V-V. Nagasaki\r\n - FC Tokyo 0:3 2 Sep Shimizu S-Pulse\r\n - FC Tokyo -",
-            "8 Aug",
-            "FC Tokyo - \r\nMachida Zelvia",
-            "1:5",
-            "15 Aug",
-            "Vissel Kobe\r\n - FC Tokyo",
-            "2:2",
-            "21 Aug",
-            "FC Tokyo - \r\nJEF Utd Chiba",
-            "2:0",
-            "29 Aug",
-            "V-V. Nagasaki\r\n - FC Tokyo",
-            "0:3",
-            "2 Sep",
-            "Shimizu S-Pulse\r\n - FC Tokyo",
-            "-",
-            "1.75",
-            "1.75",
-            "50%",
-            "100%",
-            "109"
-        ],
-        [
-            "6",
             "Vissel Kobe",
-            "4",
-            "2",
-            "1",
-            "1",
-            "4",
+            "5",
             "3",
-            "+1",
-            "7",
-            "8 Aug Avispa Fukuoka\r\n - Vissel Kobe 0:1 15 Aug Vissel Kobe - \r\nFC Tokyo 2:2 22 Aug Yokohama M.\r\n - Vissel Kobe 1:0 29 Aug Vissel Kobe - \r\nCerezo Osaka 1:0 2 Sep Tokyo Verdy\r\n - Vissel Kobe -",
+            "1",
+            "1",
+            "6",
+            "3",
+            "+3",
+            "10",
+            "8 Aug Avispa Fukuoka\r\n - Vissel Kobe 0:1 15 Aug Vissel Kobe - \r\nFC Tokyo 2:2 22 Aug Yokohama M.\r\n - Vissel Kobe 1:0 29 Aug Vissel Kobe - \r\nCerezo Osaka 1:0 2 Sep Tokyo Verdy\r\n - Vissel Kobe 0:2 6 Sep Vissel Kobe - \r\nV-V. Nagasaki -",
             "8 Aug",
             "Avispa Fukuoka\r\n - Vissel Kobe",
             "0:1",
@@ -191,124 +170,28 @@
             "1:0",
             "2 Sep",
             "Tokyo Verdy\r\n - Vissel Kobe",
+            "0:2",
+            "6 Sep",
+            "Vissel Kobe - \r\nV-V. Nagasaki",
             "-",
-            "1.75",
-            "1.75",
-            "50%",
-            "75%",
+            "2.00",
+            "2.00",
+            "60%",
+            "80%",
             "109"
         ],
         [
-            "7",
-            "K. Frontale",
-            "4",
-            "1",
-            "3",
-            "0",
-            "8",
             "6",
-            "+2",
-            "6",
-            "9 Aug Tokyo Verdy\r\n - K. Frontale 1:1 15 Aug K. Frontale - \r\nKyoto Sanga 2:2 22 Aug S. Hiroshima\r\n - K. Frontale 1:1 29 Aug K. Frontale - \r\nJEF Utd Chiba 4:2 2 Sep Machida Zelvia\r\n - K. Frontale -",
-            "9 Aug",
-            "Tokyo Verdy\r\n - K. Frontale",
-            "1:1",
-            "15 Aug",
-            "K. Frontale - \r\nKyoto Sanga",
-            "2:2",
-            "22 Aug",
-            "S. Hiroshima\r\n - K. Frontale",
-            "1:1",
-            "29 Aug",
-            "K. Frontale - \r\nJEF Utd Chiba",
-            "4:2",
-            "2 Sep",
-            "Machida Zelvia\r\n - K. Frontale",
-            "-",
-            "1.50",
-            "1.50",
-            "0%",
-            "100%",
-            "108"
-        ],
-        [
-            "8",
-            "Nagoya G.",
-            "4",
-            "2",
-            "0",
-            "2",
-            "6",
-            "5",
-            "+1",
-            "6",
-            "8 Aug Nagoya G. - \r\nShimizu S-Pulse 0:1 15 Aug Kashima Antlers\r\n - Nagoya G. 2:1 22 Aug Nagoya G. - \r\nGamba Osaka 3:1 29 Aug Nagoya G. - \r\nFagiano Okayama 2:1 2 Sep S. Hiroshima\r\n - Nagoya G. -",
-            "8 Aug",
-            "Nagoya G. - \r\nShimizu S-Pulse",
-            "0:1",
-            "15 Aug",
-            "Kashima Antlers\r\n - Nagoya G.",
-            "2:1",
-            "22 Aug",
-            "Nagoya G. - \r\nGamba Osaka",
-            "3:1",
-            "29 Aug",
-            "Nagoya G. - \r\nFagiano Okayama",
-            "2:1",
-            "2 Sep",
-            "S. Hiroshima\r\n - Nagoya G.",
-            "-",
-            "1.50",
-            "1.50",
-            "0%",
-            "75%",
-            "108"
-        ],
-        [
-            "9",
-            "Yokohama M.",
-            "4",
-            "2",
-            "0",
-            "2",
-            "7",
-            "7",
-            "0",
-            "6",
-            "7 Aug Yokohama M. - \r\nKashima Antlers 3:4 15 Aug Shimizu S-Pulse\r\n - Yokohama M. 0:1 22 Aug Yokohama M. - \r\nVissel Kobe 1:0 29 Aug Urawa RD\r\n - Yokohama M. 3:2 2 Sep Yokohama M. - \r\nKyoto Sanga -",
-            "7 Aug",
-            "Yokohama M. - \r\nKashima Antlers",
-            "3:4",
-            "15 Aug",
-            "Shimizu S-Pulse\r\n - Yokohama M.",
-            "0:1",
-            "22 Aug",
-            "Yokohama M. - \r\nVissel Kobe",
-            "1:0",
-            "29 Aug",
-            "Urawa RD\r\n - Yokohama M.",
-            "3:2",
-            "2 Sep",
-            "Yokohama M. - \r\nKyoto Sanga",
-            "-",
-            "1.50",
-            "1.50",
-            "50%",
-            "100%",
-            "108"
-        ],
-        [
-            "10",
             "Cerezo Osaka",
-            "4",
-            "2",
+            "5",
+            "3",
             "0",
             "2",
-            "3",
             "5",
-            "-2",
-            "6",
-            "8 Aug Cerezo Osaka - \r\nFagiano Okayama 2:1 15 Aug Avispa Fukuoka\r\n - Cerezo Osaka 3:0 22 Aug Cerezo Osaka - \r\nShimizu S-Pulse 1:0 29 Aug Vissel Kobe\r\n - Cerezo Osaka 1:0 2 Sep Cerezo Osaka - \r\nKashiwa Reysol -",
+            "5",
+            "0",
+            "9",
+            "8 Aug Cerezo Osaka - \r\nFagiano Okayama 2:1 15 Aug Avispa Fukuoka\r\n - Cerezo Osaka 3:0 22 Aug Cerezo Osaka - \r\nShimizu S-Pulse 1:0 29 Aug Vissel Kobe\r\n - Cerezo Osaka 1:0 2 Sep Cerezo Osaka - \r\nKashiwa Reysol 2:0 6 Sep Cerezo Osaka - \r\nTokyo Verdy -",
             "8 Aug",
             "Cerezo Osaka - \r\nFagiano Okayama",
             "2:1",
@@ -323,25 +206,28 @@
             "1:0",
             "2 Sep",
             "Cerezo Osaka - \r\nKashiwa Reysol",
+            "2:0",
+            "6 Sep",
+            "Cerezo Osaka - \r\nTokyo Verdy",
             "-",
-            "1.50",
-            "1.50",
-            "25%",
-            "50%",
+            "1.80",
+            "1.80",
+            "40%",
+            "60%",
             "108"
         ],
         [
-            "11",
+            "7",
             "Mito Hollyhock",
-            "4",
-            "1",
+            "5",
+            "2",
             "2",
             "1",
-            "6",
-            "5",
-            "+1",
-            "5",
-            "8 Aug Kashiwa Reysol\r\n - Mito Hollyhock 2:1 15 Aug Mito Hollyhock - \r\nGamba Osaka 1:1 22 Aug Kyoto Sanga\r\n - Mito Hollyhock 1:3 29 Aug Mito Hollyhock - \r\nMachida Zelvia 1:1 2 Sep Mito Hollyhock - \r\nKashima Antlers -",
+            "10",
+            "7",
+            "+3",
+            "8",
+            "8 Aug Kashiwa Reysol\r\n - Mito Hollyhock 2:1 15 Aug Mito Hollyhock - \r\nGamba Osaka 1:1 22 Aug Kyoto Sanga\r\n - Mito Hollyhock 1:3 29 Aug Mito Hollyhock - \r\nMachida Zelvia 1:1 2 Sep Mito Hollyhock - \r\nKashima Antlers 4:2 5 Sep Avispa Fukuoka\r\n - Mito Hollyhock -",
             "8 Aug",
             "Kashiwa Reysol\r\n - Mito Hollyhock",
             "2:1",
@@ -356,58 +242,100 @@
             "1:1",
             "2 Sep",
             "Mito Hollyhock - \r\nKashima Antlers",
+            "4:2",
+            "5 Sep",
+            "Avispa Fukuoka\r\n - Mito Hollyhock",
             "-",
-            "1.25",
-            "1.25",
+            "1.60",
+            "1.60",
             "0%",
             "100%",
             "107"
         ],
         [
-            "12",
-            "Gamba Osaka",
-            "4",
-            "1",
+            "8",
+            "FC Tokyo",
+            "5",
+            "2",
             "2",
             "1",
-            "6",
-            "7",
-            "-1",
-            "5",
-            "7 Aug Gamba Osaka - \r\nUrawa RD 4:3 15 Aug Mito Hollyhock\r\n - Gamba Osaka 1:1 22 Aug Nagoya G.\r\n - Gamba Osaka 3:1 29 Aug Gamba Osaka - \r\nS. Hiroshima 0:0 2 Sep V-V. Nagasaki\r\n - Gamba Osaka -",
-            "7 Aug",
-            "Gamba Osaka - \r\nUrawa RD",
-            "4:3",
+            "9",
+            "8",
+            "+1",
+            "8",
+            "8 Aug FC Tokyo - \r\nMachida Zelvia 1:5 15 Aug Vissel Kobe\r\n - FC Tokyo 2:2 21 Aug FC Tokyo - \r\nJEF Utd Chiba 2:0 29 Aug V-V. Nagasaki\r\n - FC Tokyo 0:3 2 Sep Shimizu S-Pulse\r\n - FC Tokyo 1:1 6 Sep FC Tokyo - \r\nKyoto Sanga -",
+            "8 Aug",
+            "FC Tokyo - \r\nMachida Zelvia",
+            "1:5",
             "15 Aug",
-            "Mito Hollyhock\r\n - Gamba Osaka",
-            "1:1",
-            "22 Aug",
-            "Nagoya G.\r\n - Gamba Osaka",
-            "3:1",
+            "Vissel Kobe\r\n - FC Tokyo",
+            "2:2",
+            "21 Aug",
+            "FC Tokyo - \r\nJEF Utd Chiba",
+            "2:0",
             "29 Aug",
-            "Gamba Osaka - \r\nS. Hiroshima",
-            "0:0",
+            "V-V. Nagasaki\r\n - FC Tokyo",
+            "0:3",
             "2 Sep",
-            "V-V. Nagasaki\r\n - Gamba Osaka",
+            "Shimizu S-Pulse\r\n - FC Tokyo",
+            "1:1",
+            "6 Sep",
+            "FC Tokyo - \r\nKyoto Sanga",
             "-",
-            "1.25",
-            "1.25",
-            "25%",
-            "75%",
+            "1.60",
+            "1.60",
+            "40%",
+            "100%",
             "107"
         ],
         [
-            "13",
-            "Fagiano Okayama",
-            "4",
-            "1",
+            "9",
+            "Yokohama M.",
+            "5",
+            "2",
             "1",
             "2",
-            "3",
-            "4",
-            "-1",
-            "4",
-            "8 Aug Cerezo Osaka\r\n - Fagiano Okayama 2:1 15 Aug Fagiano Okayama - \r\nV-V. Nagasaki 1:0 22 Aug Fagiano Okayama - \r\nTokyo Verdy 0:0 29 Aug Nagoya G.\r\n - Fagiano Okayama 2:1 2 Sep JEF Utd Chiba\r\n - Fagiano Okayama -",
+            "8",
+            "8",
+            "0",
+            "7",
+            "7 Aug Yokohama M. - \r\nKashima Antlers 3:4 15 Aug Shimizu S-Pulse\r\n - Yokohama M. 0:1 22 Aug Yokohama M. - \r\nVissel Kobe 1:0 29 Aug Urawa RD\r\n - Yokohama M. 3:2 2 Sep Yokohama M. - \r\nKyoto Sanga 1:1 6 Sep Kashiwa Reysol\r\n - Yokohama M. -",
+            "7 Aug",
+            "Yokohama M. - \r\nKashima Antlers",
+            "3:4",
+            "15 Aug",
+            "Shimizu S-Pulse\r\n - Yokohama M.",
+            "0:1",
+            "22 Aug",
+            "Yokohama M. - \r\nVissel Kobe",
+            "1:0",
+            "29 Aug",
+            "Urawa RD\r\n - Yokohama M.",
+            "3:2",
+            "2 Sep",
+            "Yokohama M. - \r\nKyoto Sanga",
+            "1:1",
+            "6 Sep",
+            "Kashiwa Reysol\r\n - Yokohama M.",
+            "-",
+            "1.40",
+            "1.40",
+            "40%",
+            "100%",
+            "106"
+        ],
+        [
+            "10",
+            "Fagiano Okayama",
+            "5",
+            "2",
+            "1",
+            "2",
+            "5",
+            "5",
+            "0",
+            "7",
+            "8 Aug Cerezo Osaka\r\n - Fagiano Okayama 2:1 15 Aug Fagiano Okayama - \r\nV-V. Nagasaki 1:0 22 Aug Fagiano Okayama - \r\nTokyo Verdy 0:0 29 Aug Nagoya G.\r\n - Fagiano Okayama 2:1 2 Sep JEF Utd Chiba\r\n - Fagiano Okayama 1:2 6 Sep Fagiano Okayama - \r\nS. Hiroshima -",
             "8 Aug",
             "Cerezo Osaka\r\n - Fagiano Okayama",
             "2:1",
@@ -422,124 +350,136 @@
             "2:1",
             "2 Sep",
             "JEF Utd Chiba\r\n - Fagiano Okayama",
+            "1:2",
+            "6 Sep",
+            "Fagiano Okayama - \r\nS. Hiroshima",
             "-",
-            "1.00",
-            "1.00",
-            "50%",
-            "75%",
+            "1.40",
+            "1.40",
+            "40%",
+            "80%",
             "106"
+        ],
+        [
+            "11",
+            "K. Frontale",
+            "5",
+            "1",
+            "3",
+            "1",
+            "9",
+            "8",
+            "+1",
+            "6",
+            "9 Aug Tokyo Verdy\r\n - K. Frontale 1:1 15 Aug K. Frontale - \r\nKyoto Sanga 2:2 22 Aug S. Hiroshima\r\n - K. Frontale 1:1 29 Aug K. Frontale - \r\nJEF Utd Chiba 4:2 2 Sep Machida Zelvia\r\n - K. Frontale 2:1 6 Sep K. Frontale - \r\nShimizu S-Pulse -",
+            "9 Aug",
+            "Tokyo Verdy\r\n - K. Frontale",
+            "1:1",
+            "15 Aug",
+            "K. Frontale - \r\nKyoto Sanga",
+            "2:2",
+            "22 Aug",
+            "S. Hiroshima\r\n - K. Frontale",
+            "1:1",
+            "29 Aug",
+            "K. Frontale - \r\nJEF Utd Chiba",
+            "4:2",
+            "2 Sep",
+            "Machida Zelvia\r\n - K. Frontale",
+            "2:1",
+            "6 Sep",
+            "K. Frontale - \r\nShimizu S-Pulse",
+            "-",
+            "1.20",
+            "1.20",
+            "0%",
+            "100%",
+            "105"
+        ],
+        [
+            "12",
+            "Gamba Osaka",
+            "5",
+            "1",
+            "3",
+            "1",
+            "8",
+            "9",
+            "-1",
+            "6",
+            "7 Aug Gamba Osaka - \r\nUrawa RD 4:3 15 Aug Mito Hollyhock\r\n - Gamba Osaka 1:1 22 Aug Nagoya G.\r\n - Gamba Osaka 3:1 29 Aug Gamba Osaka - \r\nS. Hiroshima 0:0 2 Sep V-V. Nagasaki\r\n - Gamba Osaka 2:2 6 Sep JEF Utd Chiba\r\n - Gamba Osaka -",
+            "7 Aug",
+            "Gamba Osaka - \r\nUrawa RD",
+            "4:3",
+            "15 Aug",
+            "Mito Hollyhock\r\n - Gamba Osaka",
+            "1:1",
+            "22 Aug",
+            "Nagoya G.\r\n - Gamba Osaka",
+            "3:1",
+            "29 Aug",
+            "Gamba Osaka - \r\nS. Hiroshima",
+            "0:0",
+            "2 Sep",
+            "V-V. Nagasaki\r\n - Gamba Osaka",
+            "2:2",
+            "6 Sep",
+            "JEF Utd Chiba\r\n - Gamba Osaka",
+            "-",
+            "1.20",
+            "1.20",
+            "20%",
+            "80%",
+            "105"
+        ],
+        [
+            "13",
+            "Nagoya G.",
+            "5",
+            "2",
+            "0",
+            "3",
+            "6",
+            "8",
+            "-2",
+            "6",
+            "8 Aug Nagoya G. - \r\nShimizu S-Pulse 0:1 15 Aug Kashima Antlers\r\n - Nagoya G. 2:1 22 Aug Nagoya G. - \r\nGamba Osaka 3:1 29 Aug Nagoya G. - \r\nFagiano Okayama 2:1 2 Sep S. Hiroshima\r\n - Nagoya G. 3:0 6 Sep Nagoya G. - \r\nMachida Zelvia -",
+            "8 Aug",
+            "Nagoya G. - \r\nShimizu S-Pulse",
+            "0:1",
+            "15 Aug",
+            "Kashima Antlers\r\n - Nagoya G.",
+            "2:1",
+            "22 Aug",
+            "Nagoya G. - \r\nGamba Osaka",
+            "3:1",
+            "29 Aug",
+            "Nagoya G. - \r\nFagiano Okayama",
+            "2:1",
+            "2 Sep",
+            "S. Hiroshima\r\n - Nagoya G.",
+            "3:0",
+            "6 Sep",
+            "Nagoya G. - \r\nMachida Zelvia",
+            "-",
+            "1.20",
+            "1.20",
+            "0%",
+            "60%",
+            "105"
         ],
         [
             "14",
-            "Kyoto Sanga",
-            "4",
-            "1",
-            "1",
-            "2",
-            "6",
-            "8",
-            "-2",
-            "4",
-            "9 Aug V-V. Nagasaki\r\n - Kyoto Sanga 2:1 15 Aug K. Frontale\r\n - Kyoto Sanga 2:2 22 Aug Kyoto Sanga - \r\nMito Hollyhock 1:3 29 Aug Kyoto Sanga - \r\nAvispa Fukuoka 2:1 2 Sep Yokohama M.\r\n - Kyoto Sanga -",
-            "9 Aug",
-            "V-V. Nagasaki\r\n - Kyoto Sanga",
-            "2:1",
-            "15 Aug",
-            "K. Frontale\r\n - Kyoto Sanga",
-            "2:2",
-            "22 Aug",
-            "Kyoto Sanga - \r\nMito Hollyhock",
-            "1:3",
-            "29 Aug",
-            "Kyoto Sanga - \r\nAvispa Fukuoka",
-            "2:1",
-            "2 Sep",
-            "Yokohama M.\r\n - Kyoto Sanga",
-            "-",
-            "1.00",
-            "1.00",
-            "0%",
-            "100%",
-            "106"
-        ],
-        [
-            "15",
-            "Avispa Fukuoka",
-            "4",
-            "1",
-            "0",
-            "3",
-            "6",
-            "6",
-            "0",
-            "3",
-            "8 Aug Avispa Fukuoka - \r\nVissel Kobe 0:1 15 Aug Avispa Fukuoka - \r\nCerezo Osaka 3:0 22 Aug Kashima Antlers\r\n - Avispa Fukuoka 3:2 29 Aug Kyoto Sanga\r\n - Avispa Fukuoka 2:1 2 Sep Avispa Fukuoka - \r\nUrawa RD -",
-            "8 Aug",
-            "Avispa Fukuoka - \r\nVissel Kobe",
-            "0:1",
-            "15 Aug",
-            "Avispa Fukuoka - \r\nCerezo Osaka",
-            "3:0",
-            "22 Aug",
-            "Kashima Antlers\r\n - Avispa Fukuoka",
-            "3:2",
-            "29 Aug",
-            "Kyoto Sanga\r\n - Avispa Fukuoka",
-            "2:1",
-            "2 Sep",
-            "Avispa Fukuoka - \r\nUrawa RD",
-            "-",
-            "0.75",
-            "0.75",
-            "25%",
-            "75%",
-            "105"
-        ],
-        [
-            "16",
-            "Shimizu S-Pulse",
-            "4",
-            "1",
-            "0",
-            "3",
-            "1",
-            "3",
-            "-2",
-            "3",
-            "8 Aug Nagoya G.\r\n - Shimizu S-Pulse 0:1 15 Aug Shimizu S-Pulse - \r\nYokohama M. 0:1 22 Aug Cerezo Osaka\r\n - Shimizu S-Pulse 1:0 29 Aug Shimizu S-Pulse - \r\nKashiwa Reysol 0:1 2 Sep Shimizu S-Pulse - \r\nFC Tokyo -",
-            "8 Aug",
-            "Nagoya G.\r\n - Shimizu S-Pulse",
-            "0:1",
-            "15 Aug",
-            "Shimizu S-Pulse - \r\nYokohama M.",
-            "0:1",
-            "22 Aug",
-            "Cerezo Osaka\r\n - Shimizu S-Pulse",
-            "1:0",
-            "29 Aug",
-            "Shimizu S-Pulse - \r\nKashiwa Reysol",
-            "0:1",
-            "2 Sep",
-            "Shimizu S-Pulse - \r\nFC Tokyo",
-            "-",
-            "0.75",
-            "0.75",
-            "25%",
-            "25%",
-            "105"
-        ],
-        [
-            "17",
             "Urawa RD",
-            "4",
-            "1",
+            "5",
+            "2",
             "0",
             "3",
-            "8",
-            "13",
-            "-5",
-            "3",
-            "7 Aug Gamba Osaka\r\n - Urawa RD 4:3 15 Aug Urawa RD - \r\nS. Hiroshima 1:4 23 Aug Machida Zelvia\r\n - Urawa RD 3:1 29 Aug Urawa RD - \r\nYokohama M. 3:2 2 Sep Avispa Fukuoka\r\n - Urawa RD -",
+            "11",
+            "15",
+            "-4",
+            "6",
+            "7 Aug Gamba Osaka\r\n - Urawa RD 4:3 15 Aug Urawa RD - \r\nS. Hiroshima 1:4 23 Aug Machida Zelvia\r\n - Urawa RD 3:1 29 Aug Urawa RD - \r\nYokohama M. 3:2 2 Sep Avispa Fukuoka\r\n - Urawa RD 2:3 6 Sep Kashima Antlers\r\n - Urawa RD -",
             "7 Aug",
             "Gamba Osaka\r\n - Urawa RD",
             "4:3",
@@ -554,25 +494,100 @@
             "3:2",
             "2 Sep",
             "Avispa Fukuoka\r\n - Urawa RD",
+            "2:3",
+            "6 Sep",
+            "Kashima Antlers\r\n - Urawa RD",
             "-",
-            "0.75",
-            "0.75",
+            "1.20",
+            "1.20",
             "0%",
             "100%",
             "105"
         ],
         [
-            "18",
-            "V-V. Nagasaki",
-            "4",
+            "15",
+            "Kyoto Sanga",
+            "5",
             "1",
-            "0",
-            "3",
-            "4",
+            "2",
+            "2",
+            "7",
             "9",
-            "-5",
+            "-2",
+            "5",
+            "9 Aug V-V. Nagasaki\r\n - Kyoto Sanga 2:1 15 Aug K. Frontale\r\n - Kyoto Sanga 2:2 22 Aug Kyoto Sanga - \r\nMito Hollyhock 1:3 29 Aug Kyoto Sanga - \r\nAvispa Fukuoka 2:1 2 Sep Yokohama M.\r\n - Kyoto Sanga 1:1 6 Sep FC Tokyo\r\n - Kyoto Sanga -",
+            "9 Aug",
+            "V-V. Nagasaki\r\n - Kyoto Sanga",
+            "2:1",
+            "15 Aug",
+            "K. Frontale\r\n - Kyoto Sanga",
+            "2:2",
+            "22 Aug",
+            "Kyoto Sanga - \r\nMito Hollyhock",
+            "1:3",
+            "29 Aug",
+            "Kyoto Sanga - \r\nAvispa Fukuoka",
+            "2:1",
+            "2 Sep",
+            "Yokohama M.\r\n - Kyoto Sanga",
+            "1:1",
+            "6 Sep",
+            "FC Tokyo\r\n - Kyoto Sanga",
+            "-",
+            "1.00",
+            "1.00",
+            "0%",
+            "100%",
+            "104"
+        ],
+        [
+            "16",
+            "Shimizu S-Pulse",
+            "5",
+            "1",
+            "1",
             "3",
-            "9 Aug V-V. Nagasaki - \r\nKyoto Sanga 2:1 15 Aug Fagiano Okayama\r\n - V-V. Nagasaki 1:0 21 Aug Kashiwa Reysol\r\n - V-V. Nagasaki 4:2 29 Aug V-V. Nagasaki - \r\nFC Tokyo 0:3 2 Sep V-V. Nagasaki - \r\nGamba Osaka -",
+            "2",
+            "4",
+            "-2",
+            "4",
+            "8 Aug Nagoya G.\r\n - Shimizu S-Pulse 0:1 15 Aug Shimizu S-Pulse - \r\nYokohama M. 0:1 22 Aug Cerezo Osaka\r\n - Shimizu S-Pulse 1:0 29 Aug Shimizu S-Pulse - \r\nKashiwa Reysol 0:1 2 Sep Shimizu S-Pulse - \r\nFC Tokyo 1:1 6 Sep K. Frontale\r\n - Shimizu S-Pulse -",
+            "8 Aug",
+            "Nagoya G.\r\n - Shimizu S-Pulse",
+            "0:1",
+            "15 Aug",
+            "Shimizu S-Pulse - \r\nYokohama M.",
+            "0:1",
+            "22 Aug",
+            "Cerezo Osaka\r\n - Shimizu S-Pulse",
+            "1:0",
+            "29 Aug",
+            "Shimizu S-Pulse - \r\nKashiwa Reysol",
+            "0:1",
+            "2 Sep",
+            "Shimizu S-Pulse - \r\nFC Tokyo",
+            "1:1",
+            "6 Sep",
+            "K. Frontale\r\n - Shimizu S-Pulse",
+            "-",
+            "0.80",
+            "0.80",
+            "20%",
+            "40%",
+            "103"
+        ],
+        [
+            "17",
+            "V-V. Nagasaki",
+            "5",
+            "1",
+            "1",
+            "3",
+            "6",
+            "11",
+            "-5",
+            "4",
+            "9 Aug V-V. Nagasaki - \r\nKyoto Sanga 2:1 15 Aug Fagiano Okayama\r\n - V-V. Nagasaki 1:0 21 Aug Kashiwa Reysol\r\n - V-V. Nagasaki 4:2 29 Aug V-V. Nagasaki - \r\nFC Tokyo 0:3 2 Sep V-V. Nagasaki - \r\nGamba Osaka 2:2 6 Sep Vissel Kobe\r\n - V-V. Nagasaki -",
             "9 Aug",
             "V-V. Nagasaki - \r\nKyoto Sanga",
             "2:1",
@@ -587,25 +602,64 @@
             "0:3",
             "2 Sep",
             "V-V. Nagasaki - \r\nGamba Osaka",
+            "2:2",
+            "6 Sep",
+            "Vissel Kobe\r\n - V-V. Nagasaki",
             "-",
-            "0.75",
-            "0.75",
+            "0.80",
+            "0.80",
             "0%",
-            "50%",
-            "105"
+            "60%",
+            "103"
+        ],
+        [
+            "18",
+            "Avispa Fukuoka",
+            "5",
+            "1",
+            "0",
+            "4",
+            "8",
+            "9",
+            "-1",
+            "3",
+            "8 Aug Avispa Fukuoka - \r\nVissel Kobe 0:1 15 Aug Avispa Fukuoka - \r\nCerezo Osaka 3:0 22 Aug Kashima Antlers\r\n - Avispa Fukuoka 3:2 29 Aug Kyoto Sanga\r\n - Avispa Fukuoka 2:1 2 Sep Avispa Fukuoka - \r\nUrawa RD 2:3 5 Sep Avispa Fukuoka - \r\nMito Hollyhock -",
+            "8 Aug",
+            "Avispa Fukuoka - \r\nVissel Kobe",
+            "0:1",
+            "15 Aug",
+            "Avispa Fukuoka - \r\nCerezo Osaka",
+            "3:0",
+            "22 Aug",
+            "Kashima Antlers\r\n - Avispa Fukuoka",
+            "3:2",
+            "29 Aug",
+            "Kyoto Sanga\r\n - Avispa Fukuoka",
+            "2:1",
+            "2 Sep",
+            "Avispa Fukuoka - \r\nUrawa RD",
+            "2:3",
+            "5 Sep",
+            "Avispa Fukuoka - \r\nMito Hollyhock",
+            "-",
+            "0.60",
+            "0.60",
+            "20%",
+            "80%",
+            "102"
         ],
         [
             "19",
             "Tokyo Verdy",
-            "4",
+            "5",
             "0",
             "2",
+            "3",
             "2",
+            "8",
+            "-6",
             "2",
-            "6",
-            "-4",
-            "2",
-            "9 Aug Tokyo Verdy - \r\nK. Frontale 1:1 14 Aug Tokyo Verdy - \r\nKashiwa Reysol 1:3 22 Aug Fagiano Okayama\r\n - Tokyo Verdy 0:0 29 Aug Tokyo Verdy - \r\nKashima Antlers 0:2 2 Sep Tokyo Verdy - \r\nVissel Kobe -",
+            "9 Aug Tokyo Verdy - \r\nK. Frontale 1:1 14 Aug Tokyo Verdy - \r\nKashiwa Reysol 1:3 22 Aug Fagiano Okayama\r\n - Tokyo Verdy 0:0 29 Aug Tokyo Verdy - \r\nKashima Antlers 0:2 2 Sep Tokyo Verdy - \r\nVissel Kobe 0:2 6 Sep Cerezo Osaka\r\n - Tokyo Verdy -",
             "9 Aug",
             "Tokyo Verdy - \r\nK. Frontale",
             "1:1",
@@ -620,25 +674,28 @@
             "0:2",
             "2 Sep",
             "Tokyo Verdy - \r\nVissel Kobe",
+            "0:2",
+            "6 Sep",
+            "Cerezo Osaka\r\n - Tokyo Verdy",
             "-",
-            "0.50",
-            "0.50",
-            "25%",
-            "50%",
-            "104"
+            "0.40",
+            "0.40",
+            "20%",
+            "40%",
+            "101"
         ],
         [
             "20",
             "JEF Utd Chiba",
-            "4",
+            "5",
             "0",
             "0",
-            "4",
-            "2",
-            "13",
-            "-11",
+            "5",
+            "3",
+            "15",
+            "-12",
             "0",
-            "8 Aug S. Hiroshima\r\n - JEF Utd Chiba 3:0 15 Aug JEF Utd Chiba - \r\nMachida Zelvia 0:4 21 Aug FC Tokyo\r\n - JEF Utd Chiba 2:0 29 Aug K. Frontale\r\n - JEF Utd Chiba 4:2 2 Sep JEF Utd Chiba - \r\nFagiano Okayama -",
+            "8 Aug S. Hiroshima\r\n - JEF Utd Chiba 3:0 15 Aug JEF Utd Chiba - \r\nMachida Zelvia 0:4 21 Aug FC Tokyo\r\n - JEF Utd Chiba 2:0 29 Aug K. Frontale\r\n - JEF Utd Chiba 4:2 2 Sep JEF Utd Chiba - \r\nFagiano Okayama 1:2 6 Sep JEF Utd Chiba - \r\nGamba Osaka -",
             "8 Aug",
             "S. Hiroshima\r\n - JEF Utd Chiba",
             "3:0",
@@ -653,77 +710,20 @@
             "4:2",
             "2 Sep",
             "JEF Utd Chiba - \r\nFagiano Okayama",
+            "1:2",
+            "6 Sep",
+            "JEF Utd Chiba - \r\nGamba Osaka",
             "-",
             "0.00",
             "0.00",
             "0%",
-            "25%",
-            "102"
+            "40%",
+            "99"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Avispa Fukuoka",
-            "Visita": "Urawa RD"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Cerezo Osaka",
-            "Visita": "Kashiwa Reysol"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "JEF Utd Chiba",
-            "Visita": "Fagiano Okayama"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Machida Zelvia",
-            "Visita": "K. Frontale"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Mito Hollyhock",
-            "Visita": "Kashima Antlers"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "S. Hiroshima",
-            "Visita": "Nagoya G."
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "FC Tokyo"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Tokyo Verdy",
-            "Visita": "Vissel Kobe"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "V-V. Nagasaki",
-            "Visita": "Gamba Osaka"
-        },
-        {
-            "Fecha": "Wed 2 Sep",
-            "Hora": "06:00",
-            "Local": "Yokohama M.",
-            "Visita": "Kyoto Sanga"
-        },
         {
             "Fecha": "Sat 5 Sep",
             "Hora": "06:00",
@@ -903,108 +903,6 @@
             "Hora": "04:00",
             "Local": "Machida Zelvia",
             "Visita": "Kashiwa Reysol"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "Fagiano Okayama",
-            "Visita": "Cerezo Osaka"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "FC Tokyo",
-            "Visita": "Yokohama M."
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "Nagoya G.",
-            "Visita": "K. Frontale"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "S. Hiroshima",
-            "Visita": "Machida Zelvia"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "Tokyo Verdy",
-            "Visita": "Shimizu S-Pulse"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "Urawa RD",
-            "Visita": "Mito Hollyhock"
-        },
-        {
-            "Fecha": "Thu 23 Apr",
-            "Hora": "20:00",
-            "Local": "V-V. Nagasaki",
-            "Visita": "JEF Utd Chiba"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Fagiano Okayama",
-            "Visita": "Kashima Antlers"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Gamba Osaka",
-            "Visita": "Avispa Fukuoka"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "JEF Utd Chiba",
-            "Visita": "FC Tokyo"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "K. Frontale",
-            "Visita": "Machida Zelvia"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Kyoto Sanga",
-            "Visita": "Tokyo Verdy"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Mito Hollyhock",
-            "Visita": "Vissel Kobe"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Nagoya G.",
-            "Visita": "Urawa RD"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "S. Hiroshima"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "V-V. Nagasaki",
-            "Visita": "Kashiwa Reysol"
-        },
-        {
-            "Fecha": "Fri 26 Feb",
-            "Hora": "21:00",
-            "Local": "Yokohama M.",
-            "Visita": "Cerezo Osaka"
         },
         {
             "Fecha": "Sun 1 Nov",
@@ -1247,64 +1145,388 @@
             "Visita": "Avispa Fukuoka"
         },
         {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "02:00",
-            "Local": "Cerezo Osaka",
-            "Visita": "Machida Zelvia"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "02:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "Vissel Kobe"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "04:00",
-            "Local": "Gamba Osaka",
-            "Visita": "Tokyo Verdy"
-        },
-        {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "01:00",
-            "Local": "Yokohama M.",
-            "Visita": "V-V. Nagasaki"
-        },
-        {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "02:00",
-            "Local": "Fagiano Okayama",
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Avispa Fukuoka",
             "Visita": "Kashiwa Reysol"
         },
         {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "02:00",
-            "Local": "Kyoto Sanga",
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "S. Hiroshima"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Gamba Osaka",
+            "Visita": "Nagoya G."
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "K. Frontale",
+            "Visita": "Urawa RD"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Kashima Antlers",
             "Visita": "JEF Utd Chiba"
         },
         {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "02:00",
-            "Local": "S. Hiroshima",
-            "Visita": "Kashima Antlers"
-        },
-        {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "03:00",
-            "Local": "Avispa Fukuoka",
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Kyoto Sanga",
             "Visita": "FC Tokyo"
         },
         {
-            "Fecha": "Sun 13 Dec",
-            "Hora": "03:00",
-            "Local": "Nagoya G.",
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Machida Zelvia",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Yokohama M."
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "Vissel Kobe",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "21:00",
+            "Local": "V-V. Nagasaki",
             "Visita": "Mito Hollyhock"
         },
         {
-            "Fecha": "Sun 13 Dec",
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Vissel Kobe",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "01:00",
+            "Local": "S. Hiroshima",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "02:00",
+            "Local": "Kashima Antlers",
+            "Visita": "Kashiwa Reysol"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "02:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Avispa Fukuoka"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "03:00",
+            "Local": "Gamba Osaka",
+            "Visita": "Kyoto Sanga"
+        },
+        {
+            "Fecha": "Sun 25 Oct",
+            "Hora": "02:00",
+            "Local": "Nagoya G.",
+            "Visita": "Yokohama M."
+        },
+        {
+            "Fecha": "Sun 25 Oct",
+            "Hora": "03:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Sun 25 Oct",
             "Hora": "03:00",
             "Local": "Urawa RD",
+            "Visita": "V-V. Nagasaki"
+        },
+        {
+            "Fecha": "Sun 25 Oct",
+            "Hora": "04:00",
+            "Local": "FC Tokyo",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Sun 25 Oct",
+            "Hora": "04:00",
+            "Local": "K. Frontale",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Fagiano Okayama",
+            "Visita": "Nagoya G."
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "FC Tokyo",
+            "Visita": "Avispa Fukuoka"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Gamba Osaka",
             "Visita": "K. Frontale"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Kashima Antlers",
+            "Visita": "Yokohama M."
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Kashiwa Reysol",
+            "Visita": "Cerezo Osaka"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Kyoto Sanga",
+            "Visita": "V-V. Nagasaki"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Mito Hollyhock",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Urawa RD",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Vissel Kobe",
+            "Visita": "S. Hiroshima"
+        },
+        {
+            "Fecha": "Wed 8 Apr",
+            "Hora": "20:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "Avispa Fukuoka"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "FC Tokyo",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "JEF Utd Chiba",
+            "Visita": "Kyoto Sanga"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "K. Frontale",
+            "Visita": "V-V. Nagasaki"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Machida Zelvia",
+            "Visita": "Vissel Kobe"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Nagoya G.",
+            "Visita": "Kashima Antlers"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Shimizu S-Pulse",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Gamba Osaka"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Urawa RD",
+            "Visita": "Kashiwa Reysol"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Yokohama M.",
+            "Visita": "S. Hiroshima"
+        },
+        {
+            "Fecha": "Wed 15 Apr",
+            "Hora": "20:00",
+            "Local": "S. Hiroshima",
+            "Visita": "FC Tokyo"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Avispa Fukuoka",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "Kashima Antlers"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Fagiano Okayama",
+            "Visita": "Urawa RD"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Gamba Osaka",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "K. Frontale",
+            "Visita": "Tokyo Verdy"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Mito Hollyhock",
+            "Visita": "Kyoto Sanga"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Shimizu S-Pulse",
+            "Visita": "Nagoya G."
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "V-V. Nagasaki",
+            "Visita": "Vissel Kobe"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Yokohama M.",
+            "Visita": "Kashiwa Reysol"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Fagiano Okayama",
+            "Visita": "Cerezo Osaka"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "FC Tokyo",
+            "Visita": "Yokohama M."
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Nagoya G.",
+            "Visita": "K. Frontale"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "S. Hiroshima",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Urawa RD",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "V-V. Nagasaki",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "Avispa Fukuoka",
+            "Visita": "Tokyo Verdy"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "V-V. Nagasaki"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "JEF Utd Chiba",
+            "Visita": "S. Hiroshima"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "K. Frontale",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "Shimizu S-Pulse",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "Urawa RD",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Tue 28 Apr",
+            "Hora": "20:00",
+            "Local": "Yokohama M.",
+            "Visita": "Nagoya G."
         },
         {
             "Fecha": "Fri 19 Feb",
@@ -1367,188 +1589,262 @@
             "Visita": "Machida Zelvia"
         },
         {
-            "Fecha": "Thu 14 May",
+            "Fecha": "Thu 21 May",
             "Hora": "20:00",
-            "Local": "Fagiano Okayama",
-            "Visita": "JEF Utd Chiba"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "K. Frontale",
-            "Visita": "Yokohama M."
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Kyoto Sanga",
-            "Visita": "S. Hiroshima"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Nagoya G.",
-            "Visita": "Kashiwa Reysol"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "Cerezo Osaka"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Urawa RD",
-            "Visita": "Avispa Fukuoka"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "Vissel Kobe",
-            "Visita": "Tokyo Verdy"
-        },
-        {
-            "Fecha": "Thu 14 May",
-            "Hora": "20:00",
-            "Local": "V-V. Nagasaki",
+            "Local": "Avispa Fukuoka",
             "Visita": "Kashima Antlers"
         },
         {
-            "Fecha": "Fri 5 Jun",
+            "Fecha": "Thu 21 May",
             "Hora": "20:00",
             "Local": "Fagiano Okayama",
-            "Visita": "Avispa Fukuoka"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "JEF Utd Chiba",
-            "Visita": "Kashiwa Reysol"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "K. Frontale",
-            "Visita": "S. Hiroshima"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Kashima Antlers",
-            "Visita": "FC Tokyo"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Machida Zelvia",
-            "Visita": "Cerezo Osaka"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Mito Hollyhock",
-            "Visita": "Yokohama M."
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Nagoya G.",
-            "Visita": "Tokyo Verdy"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "V-V. Nagasaki"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Urawa RD",
-            "Visita": "Gamba Osaka"
-        },
-        {
-            "Fecha": "Fri 5 Jun",
-            "Hora": "20:00",
-            "Local": "Vissel Kobe",
-            "Visita": "Kyoto Sanga"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "Avispa Fukuoka",
-            "Visita": "Tokyo Verdy"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "Cerezo Osaka",
-            "Visita": "V-V. Nagasaki"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "JEF Utd Chiba",
-            "Visita": "S. Hiroshima"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "K. Frontale",
-            "Visita": "Mito Hollyhock"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "Shimizu S-Pulse",
-            "Visita": "Fagiano Okayama"
-        },
-        {
-            "Fecha": "Tue 28 Apr",
-            "Hora": "20:00",
-            "Local": "Urawa RD",
             "Visita": "Machida Zelvia"
         },
         {
-            "Fecha": "Tue 28 Apr",
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "FC Tokyo",
+            "Visita": "Gamba Osaka"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "JEF Utd Chiba",
+            "Visita": "Vissel Kobe"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "K. Frontale",
+            "Visita": "Cerezo Osaka"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Mito Hollyhock",
+            "Visita": "Nagoya G."
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "S. Hiroshima",
+            "Visita": "Kashiwa Reysol"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "V-V. Nagasaki"
+        },
+        {
+            "Fecha": "Thu 21 May",
+            "Hora": "20:00",
+            "Local": "Urawa RD",
+            "Visita": "Kyoto Sanga"
+        },
+        {
+            "Fecha": "Thu 21 May",
             "Hora": "20:00",
             "Local": "Yokohama M.",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Avispa Fukuoka",
+            "Visita": "K. Frontale"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "Urawa RD"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "FC Tokyo",
+            "Visita": "Vissel Kobe"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Gamba Osaka",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Kashiwa Reysol",
+            "Visita": "Kashima Antlers"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Kyoto Sanga",
             "Visita": "Nagoya G."
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "S. Hiroshima",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "V-V. Nagasaki",
+            "Visita": "Machida Zelvia"
+        },
+        {
+            "Fecha": "Thu 28 May",
+            "Hora": "20:00",
+            "Local": "Yokohama M.",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Cerezo Osaka",
+            "Visita": "Gamba Osaka"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Kashima Antlers",
+            "Visita": "Mito Hollyhock"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Kashiwa Reysol",
+            "Visita": "Shimizu S-Pulse"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Kyoto Sanga",
+            "Visita": "Yokohama M."
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Machida Zelvia",
+            "Visita": "JEF Utd Chiba"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Nagoya G.",
+            "Visita": "FC Tokyo"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "S. Hiroshima",
+            "Visita": "Fagiano Okayama"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Vissel Kobe",
+            "Visita": "K. Frontale"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "V-V. Nagasaki",
+            "Visita": "Avispa Fukuoka"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Tokyo Verdy",
+            "Visita": "Urawa RD"
         }
     ],
     "estadisticas_avanzadas": {
-        "Kashiwa Reysol": {
+        "Avispa Fukuoka": {
             "historial": [
                 {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[4:2]",
-                    "Local": "Kashiwa Reysol",
-                    "Visita": "V-V. Nagasaki",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "V-V. Nagasaki": {
-            "historial": [
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:3]",
+                    "Local": "Avispa Fukuoka",
+                    "Visita": "Urawa RD",
+                    "HT": "2-1",
+                    "Status": "🔴"
+                },
                 {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[4:2]",
-                    "Local": "Kashiwa Reysol",
-                    "Visita": "V-V. Nagasaki",
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Kyoto Sanga",
+                    "Visita": "Avispa Fukuoka",
                     "HT": "1-0",
                     "Status": "🔴"
                 }
             ]
         },
-        "FC Tokyo": {
+        "Urawa RD": {
             "historial": [
                 {
-                    "Fecha": "Fri 21 Aug",
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:3]",
+                    "Local": "Avispa Fukuoka",
+                    "Visita": "Urawa RD",
+                    "HT": "2-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Urawa RD",
+                    "Visita": "Yokohama M.",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Cerezo Osaka": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
                     "Res": "[2:0]",
-                    "Local": "FC Tokyo",
-                    "Visita": "JEF Utd Chiba",
+                    "Local": "Cerezo Osaka",
+                    "Visita": "Kashiwa Reysol",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Vissel Kobe",
+                    "Visita": "Cerezo Osaka",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Kashiwa Reysol": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:0]",
+                    "Local": "Cerezo Osaka",
+                    "Visita": "Kashiwa Reysol",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Shimizu S-Pulse",
+                    "Visita": "Kashiwa Reysol",
                     "HT": "0-0",
                     "Status": "🟢"
                 }
@@ -1557,35 +1853,19 @@
         "JEF Utd Chiba": {
             "historial": [
                 {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[2:0]",
-                    "Local": "FC Tokyo",
-                    "Visita": "JEF Utd Chiba",
-                    "HT": "0-0",
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:2]",
+                    "Local": "JEF Utd Chiba",
+                    "Visita": "Fagiano Okayama",
+                    "HT": "1-1",
                     "Status": "🔴"
-                }
-            ]
-        },
-        "Kashima Antlers": {
-            "historial": [
+                },
                 {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Kashima Antlers",
-                    "Visita": "Avispa Fukuoka",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Avispa Fukuoka": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Kashima Antlers",
-                    "Visita": "Avispa Fukuoka",
-                    "HT": "1-1",
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[4:2]",
+                    "Local": "K. Frontale",
+                    "Visita": "JEF Utd Chiba",
+                    "HT": "4-2",
                     "Status": "🔴"
                 }
             ]
@@ -1593,143 +1873,19 @@
         "Fagiano Okayama": {
             "historial": [
                 {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Fagiano Okayama",
-                    "Visita": "Tokyo Verdy",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Tokyo Verdy": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Fagiano Okayama",
-                    "Visita": "Tokyo Verdy",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Cerezo Osaka": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Cerezo Osaka",
-                    "Visita": "Shimizu S-Pulse",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Shimizu S-Pulse": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Cerezo Osaka",
-                    "Visita": "Shimizu S-Pulse",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Kyoto Sanga": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Kyoto Sanga",
-                    "Visita": "Mito Hollyhock",
-                    "HT": "0-2",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Mito Hollyhock": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Kyoto Sanga",
-                    "Visita": "Mito Hollyhock",
-                    "HT": "0-2",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Nagoya G.": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Nagoya G.",
-                    "Visita": "Gamba Osaka",
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:2]",
+                    "Local": "JEF Utd Chiba",
+                    "Visita": "Fagiano Okayama",
                     "HT": "1-1",
                     "Status": "🟢"
-                }
-            ]
-        },
-        "Gamba Osaka": {
-            "historial": [
+                },
                 {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:1]",
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:1]",
                     "Local": "Nagoya G.",
-                    "Visita": "Gamba Osaka",
+                    "Visita": "Fagiano Okayama",
                     "HT": "1-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "S. Hiroshima": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:1]",
-                    "Local": "S. Hiroshima",
-                    "Visita": "K. Frontale",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "K. Frontale": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:1]",
-                    "Local": "S. Hiroshima",
-                    "Visita": "K. Frontale",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Yokohama M.": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Yokohama M.",
-                    "Visita": "Vissel Kobe",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Vissel Kobe": {
-            "historial": [
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Yokohama M.",
-                    "Visita": "Vissel Kobe",
-                    "HT": "1-0",
                     "Status": "🔴"
                 }
             ]
@@ -1737,24 +1893,280 @@
         "Machida Zelvia": {
             "historial": [
                 {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[3:1]",
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:1]",
                     "Local": "Machida Zelvia",
-                    "Visita": "Urawa RD",
+                    "Visita": "K. Frontale",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Mito Hollyhock",
+                    "Visita": "Machida Zelvia",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "K. Frontale": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:1]",
+                    "Local": "Machida Zelvia",
+                    "Visita": "K. Frontale",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[4:2]",
+                    "Local": "K. Frontale",
+                    "Visita": "JEF Utd Chiba",
+                    "HT": "4-2",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Mito Hollyhock": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[4:2]",
+                    "Local": "Mito Hollyhock",
+                    "Visita": "Kashima Antlers",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Mito Hollyhock",
+                    "Visita": "Machida Zelvia",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Kashima Antlers": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[4:2]",
+                    "Local": "Mito Hollyhock",
+                    "Visita": "Kashima Antlers",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Tokyo Verdy",
+                    "Visita": "Kashima Antlers",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "S. Hiroshima": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[3:0]",
+                    "Local": "S. Hiroshima",
+                    "Visita": "Nagoya G.",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Gamba Osaka",
+                    "Visita": "S. Hiroshima",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Nagoya G.": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[3:0]",
+                    "Local": "S. Hiroshima",
+                    "Visita": "Nagoya G.",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Nagoya G.",
+                    "Visita": "Fagiano Okayama",
                     "HT": "1-1",
                     "Status": "🟢"
                 }
             ]
         },
-        "Urawa RD": {
+        "Shimizu S-Pulse": {
             "historial": [
                 {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Machida Zelvia",
-                    "Visita": "Urawa RD",
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:1]",
+                    "Local": "Shimizu S-Pulse",
+                    "Visita": "FC Tokyo",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Shimizu S-Pulse",
+                    "Visita": "Kashiwa Reysol",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "FC Tokyo": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:1]",
+                    "Local": "Shimizu S-Pulse",
+                    "Visita": "FC Tokyo",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:3]",
+                    "Local": "V-V. Nagasaki",
+                    "Visita": "FC Tokyo",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Tokyo Verdy": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[0:2]",
+                    "Local": "Tokyo Verdy",
+                    "Visita": "Vissel Kobe",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Tokyo Verdy",
+                    "Visita": "Kashima Antlers",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Vissel Kobe": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[0:2]",
+                    "Local": "Tokyo Verdy",
+                    "Visita": "Vissel Kobe",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Vissel Kobe",
+                    "Visita": "Cerezo Osaka",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "V-V. Nagasaki": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:2]",
+                    "Local": "V-V. Nagasaki",
+                    "Visita": "Gamba Osaka",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:3]",
+                    "Local": "V-V. Nagasaki",
+                    "Visita": "FC Tokyo",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Gamba Osaka": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[2:2]",
+                    "Local": "V-V. Nagasaki",
+                    "Visita": "Gamba Osaka",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Gamba Osaka",
+                    "Visita": "S. Hiroshima",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Yokohama M.": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:1]",
+                    "Local": "Yokohama M.",
+                    "Visita": "Kyoto Sanga",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Urawa RD",
+                    "Visita": "Yokohama M.",
                     "HT": "1-1",
                     "Status": "🔴"
+                }
+            ]
+        },
+        "Kyoto Sanga": {
+            "historial": [
+                {
+                    "Fecha": "Wed 2 Sep",
+                    "Res": "[1:1]",
+                    "Local": "Yokohama M.",
+                    "Visita": "Kyoto Sanga",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Kyoto Sanga",
+                    "Visita": "Avispa Fukuoka",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 }
             ]
         }
