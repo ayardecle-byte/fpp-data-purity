@@ -29,6 +29,42 @@ MODO_NUBE = not os.path.exists("database/football_data.db")
 def cambiar_pagina(nombre_pagina):
     st.session_state.pagina = nombre_pagina
 
+def _clave_fecha_fixture(partido, referencia=None):
+    """
+    Convierte 'Thu 12 Feb' + '21:00' en una fecha real para poder ordenar.
+
+    El scraper guarda los partidos en el orden en que visitó las páginas,
+    no por fecha. Sin esto, un partido de febrero del año que viene puede
+    aparecer antes que uno de la semana próxima.
+
+    El año no viene en el dato, así que se infiere: si el mes ya pasó
+    respecto de hoy, se asume que es del año siguiente.
+    """
+    import datetime as _dt
+    ref = referencia or _dt.datetime.now()
+    meses_n = {'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+               'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12}
+    try:
+        partes = str(partido.get('Fecha', '')).split()
+        dia = int(partes[1])
+        mes = meses_n.get(partes[2][:3])
+        if not mes:
+            return _dt.datetime.max
+        anio = ref.year
+        # Si el mes ya pasó (o es este mes pero el día ya pasó), es del año próximo
+        if mes < ref.month or (mes == ref.month and dia < ref.day - 1):
+            anio += 1
+        hora = str(partido.get('Hora', '00:00'))
+        try:
+            h, m = map(int, hora.split(':'))
+        except Exception:
+            h, m = 0, 0
+        return _dt.datetime(anio, mes, dia, h, m)
+    except Exception:
+        return _dt.datetime.max
+
+
+
 # --- 1B. BASE DE DATOS DE APUESTAS Y BILLETERA ---
 def crear_tabla_apuestas():
     os.makedirs("database", exist_ok=True)
@@ -51,6 +87,8 @@ def crear_tabla_apuestas():
     try: cursor.execute('ALTER TABLE mis_apuestas ADD COLUMN en_billetera INTEGER DEFAULT 0')
     except: pass
     try: cursor.execute('ALTER TABLE mis_apuestas ADD COLUMN fecha_apuesta TEXT DEFAULT ""')
+    except: pass
+    try: cursor.execute('ALTER TABLE mis_apuestas ADD COLUMN casa TEXT DEFAULT ""')
     except: pass
 
     cursor.execute('''CREATE TABLE IF NOT EXISTS config_billetera (
@@ -112,11 +150,11 @@ def actualizar_config_billetera(bankroll, meta, api_key=""):
     conn.commit()
     conn.close()
 
-def actualizar_fila_billetera(id_apuesta, picks, inversion, cuota, estado, fecha_apuesta):
+def actualizar_fila_billetera(id_apuesta, picks, inversion, cuota, estado, fecha_apuesta, casa=''):
     conn = sqlite3.connect("database/football_data.db")
     cursor = conn.cursor()
-    cursor.execute('UPDATE mis_apuestas SET picks = ?, inversion = ?, cuota = ?, estado = ?, fecha_apuesta = ? WHERE id = ?', 
-                   (picks, inversion, cuota, estado, fecha_apuesta, id_apuesta))
+    cursor.execute('UPDATE mis_apuestas SET picks = ?, inversion = ?, cuota = ?, estado = ?, fecha_apuesta = ?, casa = ? WHERE id = ?', 
+                   (picks, inversion, cuota, estado, fecha_apuesta, casa, id_apuesta))
     conn.commit()
     conn.close()
 
@@ -171,6 +209,9 @@ def cargar_tabla_json(nombre_liga):
         "Alemania - 2. Bundesliga": "germany2",
         "Portugal - Primeira Liga": "portugal",
         "Países Bajos - Eredivisie": "netherlands",
+        "Alemania - Bundesliga": "germany",
+        "Rusia - Premier League": "russia",
+        "Serbia - Superliga": "serbia",
     }
     limite_equipos = {
         "Inglaterra - Premier League": 20, "España - La Liga": 20, "Italia - Serie A": 20, "Francia - Ligue 1": 18,
@@ -192,6 +233,9 @@ def cargar_tabla_json(nombre_liga):
         "Alemania - 2. Bundesliga": 18,
         "Portugal - Primeira Liga": 18,
         "Países Bajos - Eredivisie": 18,
+        "Alemania - Bundesliga": 18,
+        "Rusia - Premier League": 16,
+        "Serbia - Superliga": 16,
     }
 
     path = f"data_json/{mapa_archivos.get(nombre_liga)}.json"
@@ -712,6 +756,9 @@ opciones_liga = [
     # --- Validadas en agosto 2026: ambas nivel ALTA ---
     "Portugal - Primeira Liga",
     "Países Bajos - Eredivisie",
+    "Alemania - Bundesliga",
+    "Rusia - Premier League",
+    "Serbia - Superliga",
 ]
 
 with st.sidebar:
@@ -983,7 +1030,7 @@ elif st.session_state.pagina == 'Cartelera':
                 fixture_filtrado = [p for p in fixture_data if p['Fecha'] in [fecha_hoy_str, fecha_manana_str]]
                 
                 if not fixture_filtrado and fixture_data:
-                    fixture_filtrado = fixture_data[:5]
+                    fixture_filtrado = sorted(fixture_data, key=_clave_fecha_fixture)[:5]
                     st.info("ℹ️ No hay partidos hoy ni mañana. Mostrando los próximos disponibles.")
                 elif fixture_filtrado:
                     st.info("💡 **TIP:** Partidos de HOY y MAÑANA. Clic en **'📥 Cargar'**.")
@@ -1038,6 +1085,9 @@ elif st.session_state.pagina == 'Cartelera':
             "Alemania - 2. Bundesliga",
             "Portugal - Primeira Liga",
             "Países Bajos - Eredivisie",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
             # --- Las cinco grandes: antes solo mostraban la tabla ---
             "Inglaterra - Premier League",
             "España - La Liga",
@@ -1046,6 +1096,12 @@ elif st.session_state.pagina == 'Cartelera':
             "Bolivia - Div. Profesional",
             "Portugal - Primeira Liga",
             "Países Bajos - Eredivisie",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
         ]:
             col_tabla, col_fixture = st.columns([1.3, 1])
             
@@ -1077,6 +1133,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1089,6 +1148,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                     }
                     archivo_fix = mapa_archivos_fix.get(liga_sel)
                     with open(archivo_fix, 'r', encoding='utf-8') as f:
@@ -1106,7 +1168,7 @@ elif st.session_state.pagina == 'Cartelera':
                     fixture_filtrado = [p for p in fixture_data if p['Fecha'] in [fecha_hoy_str, fecha_manana_str]]
                     
                     if not fixture_filtrado and fixture_data:
-                        fixture_filtrado = fixture_data[:5]
+                        fixture_filtrado = sorted(fixture_data, key=_clave_fecha_fixture)[:5]
                         st.info("ℹ️ No hay partidos hoy ni mañana. Próximos 5:")
                     elif fixture_filtrado:
                         st.info("💡 **TIP:** Partidos de HOY y MAÑANA. Clic en **'📥 Cargar'**.")
@@ -1179,6 +1241,9 @@ elif st.session_state.pagina == 'Cartelera':
                 "Alemania - 2. Bundesliga": "partidos+2+bundesliga",
                 "Portugal - Primeira Liga": "partidos+primeira+liga+portugal",
                 "Países Bajos - Eredivisie": "partidos+eredivisie",
+                "Alemania - Bundesliga": "partidos+bundesliga",
+                "Rusia - Premier League": "partidos+liga+rusa",
+                "Serbia - Superliga": "partidos+superliga+serbia",
             }
             query = mapa_busquedas.get(liga_sel, "partidos+de+futbol")
             url_widget = f"https://www.google.com/search?igu=1&q={query}"
@@ -1239,6 +1304,9 @@ elif st.session_state.pagina == 'Cartelera':
             "Alemania - 2. Bundesliga",
             "Portugal - Primeira Liga",
             "Países Bajos - Eredivisie",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
         ]
         
         if liga_sel in ligas_radar:
@@ -1265,6 +1333,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1277,6 +1348,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                     }
                     archivo_json = mapa_archivos_avanzados.get(liga_sel)
                     with open(archivo_json, 'r', encoding='utf-8') as f:
@@ -1437,10 +1511,23 @@ elif st.session_state.pagina == 'Cartelera':
                 "Alemania - 2. Bundesliga",
                 "Portugal - Primeira Liga",
                 "Países Bajos - Eredivisie",
+                "Alemania - Bundesliga",
+                "Rusia - Premier League",
+                "Serbia - Superliga",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
             "Portugal - Primeira Liga",
             "Países Bajos - Eredivisie",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
             ]
             
+            # Se inicializan por si la liga no tiene datos avanzados:
+            # así el panel de equipo nunca queda sin variables.
+            hist_L_ord, hist_V_ord = [], []
+
             if liga_sel in ligas_json_avanzadas:
                 try:
                     mapa_archivos_avanzados = {
@@ -1468,6 +1555,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Bolivia - Div. Profesional": 'data_json/bolivia.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                         "Escocia - Premiership": 'data_json/scotland.json',
                         "Chequia - Fortuna Liga": 'data_json/czechrepublic.json',
                         "Turquía - Süper Lig": 'data_json/turkey.json',
@@ -1480,6 +1570,9 @@ elif st.session_state.pagina == 'Cartelera':
                         "Alemania - 2. Bundesliga": 'data_json/germany2.json',
                         "Portugal - Primeira Liga": 'data_json/portugal.json',
                         "Países Bajos - Eredivisie": 'data_json/netherlands.json',
+                        "Alemania - Bundesliga": 'data_json/germany.json',
+                        "Rusia - Premier League": 'data_json/russia.json',
+                        "Serbia - Superliga": 'data_json/serbia.json',
                     }
                     archivo_json = mapa_archivos_avanzados.get(liga_sel)
                     with open(archivo_json, 'r', encoding='utf-8') as f:
@@ -1596,25 +1689,241 @@ elif st.session_state.pagina == 'Cartelera':
                 except Exception:
                     pass
 
-            panel_A, panel_B, panel_C = st.columns([2, 1, 2])
-            with panel_A:
-                st.markdown(f"<h3 style='text-align: center; color: #4CAF50;'>{l}</h3>", unsafe_allow_html=True)
-                st.markdown(f"**Posición:** {stats_L['Pos']} | **Puntos:** {stats_L['Pts']}")
-                st.markdown(f"**Global:** {stats_L['GF']} GF | {stats_L['GC']} GC")
-                st.markdown("**Forma Reciente (Últimos 5):**")
-                for partido in detalles_forma_L: st.caption(partido)
+            # ==========================================================
+            # Historial completo por equipo, con filtro de condición
+            # ==========================================================
+            def tabla_historial(equipo, hist_ordenado, condicion="Todos"):
+                """
+                Devuelve (DataFrame, promedios) del historial del equipo.
+                condicion: "Todos", "Local" o "Visita".
+                """
+                filas = []
+                for r in hist_ordenado or []:
+                    try:
+                        gl, gv = map(int, r["Res"].strip("[]").split(":"))
+                    except Exception:
+                        continue
 
-            with panel_B:
-                st.markdown("<h2 style='text-align: center; margin-top: 50px;'>VS</h2>", unsafe_allow_html=True)
+                    es_loc = normalize_text(equipo) in normalize_text(r.get("Local", ""))
+                    if condicion == "Local" and not es_loc:
+                        continue
+                    if condicion == "Visita" and es_loc:
+                        continue
 
-            with panel_C:
-                st.markdown(f"<h3 style='text-align: center; color: #F44336;'>{v}</h3>", unsafe_allow_html=True)
-                st.markdown(f"**Posición:** {stats_V['Pos']} | **Puntos:** {stats_V['Pts']}")
-                st.markdown(f"**Global:** {stats_V['GF']} GF | {stats_V['GC']} GC")
-                st.markdown("**Forma Reciente (Últimos 5):**")
-                for partido in detalles_forma_V: st.caption(partido)
-            
+                    gf, gc = (gl, gv) if es_loc else (gv, gl)
+                    rival = r.get("Visita") if es_loc else r.get("Local")
+                    resultado = "Ganó" if gf > gc else ("Empató" if gf == gc else "Perdió")
+
+                    filas.append({
+                        "": "✅" if gf > gc else ("➖" if gf == gc else "❌"),
+                        "Fecha": r.get("Fecha", "—"),
+                        "Cond.": "🏠 Local" if es_loc else "✈️ Visita",
+                        "Rival": str(rival).title(),
+                        "Marcador": f"{gf} - {gc}",
+                        "HT": r.get("HT", "—"),
+                        "GF": gf, "GC": gc,
+                        "Total": gf + gc,
+                        "Resultado": resultado,
+                    })
+
+                df_h = pd.DataFrame(filas)
+                if df_h.empty:
+                    return df_h, None
+
+                prom = {
+                    "partidos": len(df_h),
+                    "gf": df_h["GF"].mean(),
+                    "gc": df_h["GC"].mean(),
+                    "total": df_h["Total"].mean(),
+                    "ganados": int((df_h["Resultado"] == "Ganó").sum()),
+                    "empatados": int((df_h["Resultado"] == "Empató").sum()),
+                    "perdidos": int((df_h["Resultado"] == "Perdió").sum()),
+                }
+                return df_h, prom
+
+            def panel_equipo(equipo, stats, hist_ordenado, detalles_forma, color, sufijo):
+                # Nombre con la posición en superíndice
+                pos = stats.get("Pos", "?")
+                st.markdown(
+                    f"<h3 style='text-align:center; color:{color}; margin-bottom:2px;'>"
+                    f"{equipo}<sup style='font-size:0.55em; opacity:0.85;'>({pos})</sup></h3>",
+                    unsafe_allow_html=True,
+                )
+                st.markdown(f"**Posición:** {pos} | **Puntos:** {stats.get('Pts', '?')}")
+                st.markdown(f"**Global:** {stats.get('GF', '?')} GF | {stats.get('GC', '?')} GC")
+
+                total_hist = len(hist_ordenado or [])
+                st.markdown(f"**Forma Reciente (Últimos 5 de {total_hist} disputados):**")
+                for partido in detalles_forma:
+                    st.caption(partido)
+
+
+            # ================================================================
+            # PANEL DE HISTORIAL DETALLADO
+            # Tres columnas: enfrentamientos directos y cada equipo aparte.
+            # Cada columna se puede filtrar por condición y cantidad.
+            # ================================================================
+            def filas_partidos(registros, referencia=None, condicion="Todos"):
+                """
+                Arma las filas de la tabla. Si se pasa 'referencia', el
+                resultado (G/E/P) se calcula desde el punto de vista de ese
+                equipo; si no, se muestra neutro.
+                """
+                filas = []
+                for r in registros or []:
+                    try:
+                        gl, gv = map(int, str(r["Res"]).strip("[]").split(":"))
+                    except Exception:
+                        continue
+
+                    local = str(r.get("Local", "?")).title()
+                    visita = str(r.get("Visita", "?")).title()
+
+                    # Medio tiempo
+                    ht_txt = str(r.get("HT", "")).strip()
+                    if "-" in ht_txt:
+                        try:
+                            hl, hv = map(int, ht_txt.split("-"))
+                            ht_l, ht_v = str(hl), str(hv)
+                        except Exception:
+                            ht_l = ht_v = "-"
+                    else:
+                        ht_l = ht_v = "-"
+
+                    fila = {
+                        "Fecha": r.get("Fecha", "—"),
+                        "Local": local,
+                        "Visita": visita,
+                        "HT": f"{ht_l}-{ht_v}",
+                        "FT": f"{gl}-{gv}",
+                        "_gl": gl, "_gv": gv,
+                    }
+
+                    if referencia:
+                        es_loc = normalize_text(referencia) in normalize_text(r.get("Local", ""))
+                        if condicion == "Local" and not es_loc:
+                            continue
+                        if condicion == "Visita" and es_loc:
+                            continue
+                        gf, gc = (gl, gv) if es_loc else (gv, gl)
+                        fila["_gf"], fila["_gc"] = gf, gc
+                        fila[""] = "✅" if gf > gc else ("➖" if gf == gc else "❌")
+                        fila["Cond."] = "🏠" if es_loc else "✈️"
+                    else:
+                        fila["_gf"], fila["_gc"] = gl, gv
+                        fila[""] = "✅" if gl > gv else ("➖" if gl == gv else "❌")
+                        fila["Cond."] = ""
+
+                    filas.append(fila)
+                return filas
+
+            def cabecera_equipo(equipo, stats, detalles_forma, color, total_hist):
+                """Nombre con posición, datos globales y los últimos 5 partidos."""
+                pos = stats.get("Pos", "?")
+                st.markdown(
+                    f"<h3 style='text-align:center; color:{color}; margin-bottom:2px;'>"
+                    f"{equipo}<sup style='font-size:0.55em; opacity:0.85;'>({pos})</sup></h3>",
+                    unsafe_allow_html=True,
+                )
+                st.markdown(
+                    f"**Posición:** {pos} &nbsp;|&nbsp; **Puntos:** {stats.get('Pts', '?')} "
+                    f"&nbsp;|&nbsp; **{stats.get('GF', '?')} GF · {stats.get('GC', '?')} GC**"
+                )
+                st.markdown(f"**Forma Reciente (Últimos 5 de {total_hist} disputados):**")
+                for partido in detalles_forma:
+                    st.caption(partido)
+                st.markdown("<hr style='margin:8px 0;'>", unsafe_allow_html=True)
+
+            def columna_partidos(titulo, icono, registros, referencia=None,
+                                 opciones_cond=None, clave=""):
+                """Dibuja los filtros, el resumen y la tabla de partidos."""
+                st.markdown(f"##### {icono} Historial completo")
+
+                cantidad = st.selectbox(
+                    "Mostrar", [6, 10, 20, 50, "Todos"], index=0,
+                    key=f"cant_{clave}", label_visibility="collapsed",
+                )
+
+                cond = "Todos"
+                if opciones_cond:
+                    cond = st.radio(
+                        "Condición", opciones_cond, horizontal=True,
+                        key=f"cond_{clave}", label_visibility="collapsed",
+                    )
+                    cond = {"Todos": "Todos", "🏠 Local": "Local",
+                            "✈️ Visita": "Visita"}.get(cond, "Todos")
+
+                filas = filas_partidos(registros, referencia, cond)
+                if not filas:
+                    st.info("Sin partidos en esta condición.")
+                    return
+
+                # --- Resumen: victorias, empates, derrotas y promedios ---
+                g = sum(1 for f in filas if f["_gf"] > f["_gc"])
+                e = sum(1 for f in filas if f["_gf"] == f["_gc"])
+                pd_ = sum(1 for f in filas if f["_gf"] < f["_gc"])
+                prom_gf = sum(f["_gf"] for f in filas) / len(filas)
+                prom_gc = sum(f["_gc"] for f in filas) / len(filas)
+
+                st.markdown(
+                    f"<div style='display:flex; gap:6px; flex-wrap:wrap; margin:4px 0 8px 0;'>"
+                    f"<span style='background:#1b5e20; color:#fff; padding:2px 9px; "
+                    f"border-radius:11px; font-size:0.8em;'>G {g}</span>"
+                    f"<span style='background:#424242; color:#fff; padding:2px 9px; "
+                    f"border-radius:11px; font-size:0.8em;'>E {e}</span>"
+                    f"<span style='background:#7f1d1d; color:#fff; padding:2px 9px; "
+                    f"border-radius:11px; font-size:0.8em;'>P {pd_}</span>"
+                    f"<span style='background:#1e3a5f; color:#fff; padding:2px 9px; "
+                    f"border-radius:11px; font-size:0.8em;'>"
+                    f"{prom_gf:.1f} - {prom_gc:.1f} por partido</span>"
+                    f"</div>",
+                    unsafe_allow_html=True,
+                )
+                st.caption(f"{len(filas)} partidos · promedio total {prom_gf + prom_gc:.1f} goles")
+
+                # --- Tabla (más recientes arriba) ---
+                n = len(filas) if cantidad == "Todos" else int(cantidad)
+                visibles = list(reversed(filas))[:n]
+
+                df_v = pd.DataFrame(visibles)
+                columnas = ["", "Cond.", "Fecha", "Local", "Visita", "HT", "FT"]
+                if not referencia:
+                    columnas.remove("Cond.")
+
+                st.dataframe(
+                    df_v[columnas],
+                    width="stretch", hide_index=True,
+                    column_config={
+                        "": st.column_config.TextColumn("", width="small"),
+                        "Cond.": st.column_config.TextColumn("", width="small"),
+                        "Fecha": st.column_config.TextColumn("Fecha", width="small"),
+                        "HT": st.column_config.TextColumn("HT", width="small",
+                                                          help="Marcador al descanso"),
+                        "FT": st.column_config.TextColumn("FT", width="small",
+                                                          help="Marcador final"),
+                    },
+                )
+
+            st.markdown("#### 🥊 Cara a Cara")
+
+            col_loc, col_vis = st.columns(2)
+
+            with col_loc:
+                cabecera_equipo(l, stats_L, detalles_forma_L, "#4CAF50", len(hist_L_ord or []))
+                columna_partidos(l, "🏠", hist_L_ord, referencia=l,
+                                 opciones_cond=["Todos", "🏠 Local"], clave="hist_L")
+
+            with col_vis:
+                cabecera_equipo(v, stats_V, detalles_forma_V, "#F44336", len(hist_V_ord or []))
+                columna_partidos(v, "✈️", hist_V_ord, referencia=v,
+                                 opciones_cond=["Todos", "✈️ Visita"], clave="hist_V")
+
+            st.caption(
+                "✅ ganó · ➖ empató · ❌ perdió — desde el punto de vista del equipo "
+                "de cada columna. **HT** es el marcador al descanso y **FT** el final."
+            )
             st.divider()
+
 
             # --- SEMÁFORO VISUAL ---
             if liga_sel in ligas_json_avanzadas:
@@ -2036,8 +2345,17 @@ elif st.session_state.pagina == 'Cartelera':
                 "Alemania - 2. Bundesliga",
                 "Portugal - Primeira Liga",
                 "Países Bajos - Eredivisie",
+                "Alemania - Bundesliga",
+                "Rusia - Premier League",
+                "Serbia - Superliga",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
             "Portugal - Primeira Liga",
             "Países Bajos - Eredivisie",
+            "Alemania - Bundesliga",
+            "Rusia - Premier League",
+            "Serbia - Superliga",
             ]
 
             if stats and liga_sel in ligas_manuales:
@@ -2506,6 +2824,9 @@ elif st.session_state.pagina == 'Calendario':
         ("Alemania - 2. Bundesliga", "germany2", "🇩🇪"),
         ("Portugal - Primeira Liga", "portugal", "🇵🇹"),
         ("Países Bajos - Eredivisie", "netherlands", "🇳🇱"),
+        ("Alemania - Bundesliga", "germany", "🇩🇪"),
+        ("Rusia - Premier League", "russia", "🇷🇺"),
+        ("Serbia - Superliga", "serbia", "🇷🇸"),
     ]
 
     ICONO_CAL = {"ALTA": "🟢", "MEDIA": "🟡", "BAJA": "🔴", "NULA": "⛔"}
@@ -2541,12 +2862,19 @@ elif st.session_state.pagina == 'Calendario':
                 try:
                     dia = int(partes[1])
                     mes = _meses_num.get(partes[2][:3], _hoy.month)
-                    anio = _hoy.year
-                    if _hoy.month == 12 and mes == 1:
-                        anio += 1
-                    elif _hoy.month == 1 and mes == 12:
-                        anio -= 1
-                    if datetime.datetime(anio, mes, dia).date() >= _hoy.date():
+                    # El año no viene en el dato. Se elige el que deje la
+                    # fecha más cerca de hoy: "12 Feb" visto en marzo es
+                    # del pasado reciente, no del año que viene.
+                    opciones = []
+                    for _d in (-1, 0, 1):
+                        try:
+                            opciones.append(datetime.date(_hoy.year + _d, mes, dia))
+                        except ValueError:
+                            continue
+                    if not opciones:
+                        continue
+                    fecha_p = min(opciones, key=lambda f: abs((f - _hoy.date()).days))
+                    if fecha_p >= _hoy.date():
                         futuros.append(p)
                 except Exception:
                     futuros.append(p)
@@ -2639,6 +2967,7 @@ elif st.session_state.pagina == 'Calendario':
             if not fix:
                 st.info("Sin partidos próximos. Corré `python actualizar_todas_ligas.py` para actualizar.")
                 return
+            fix = sorted(fix, key=_clave_fecha_fixture)
             df_fix = pd.DataFrame(fix)[["Fecha", "Hora", "Local", "Visita"]]
             st.dataframe(df_fix.head(40), width="stretch", hide_index=True)
             if len(fix) > 40:
@@ -2875,6 +3204,7 @@ elif st.session_state.pagina == 'Billetera':
             "Local": row['equipo_local'],
             "VS": "VS",
             "Visitante": row['equipo_visita'],
+            "Casa": row.get('casa', '') or "",
             "Picks": row['picks'],
             "Stake": stake_calc,
             "Inversión": inv,
@@ -3132,6 +3462,9 @@ elif st.session_state.pagina == 'Billetera':
                 "Local": st.column_config.TextColumn(disabled=True),
                 "VS": st.column_config.TextColumn(disabled=True),
                 "Visitante": st.column_config.TextColumn(disabled=True),
+                "Casa": st.column_config.SelectboxColumn(
+                    "🏦 Casa", width="small", options=["", "Mi Casino", "Metabet", "1XBET", "Otra"],
+                    help="Dónde apostaste. Sirve para comparar qué casa da mejores cuotas."),
                 "Stake": st.column_config.NumberColumn(disabled=True),
                 "Ganancia": st.column_config.NumberColumn(disabled=True, format="$ %.2f"),
                 "Ganancia Neta": st.column_config.NumberColumn(disabled=True, format="$ %.2f"),
@@ -3145,6 +3478,65 @@ elif st.session_state.pagina == 'Billetera':
             key="editor_billetera"
         )
         
+        # ---- Comparación entre casas de apuestas ----
+        if "Casa" in df_billetera.columns:
+            con_casa = df_billetera[df_billetera["Casa"].astype(str).str.strip() != ""]
+            if len(con_casa) >= 3:
+                with st.expander("🏦 Comparar casas de apuestas", expanded=False):
+                    st.caption(
+                        "Con un margen de casa del 6.5%, conseguir mejor cuota rinde más "
+                        "que cualquier mejora del modelo. Acá ves cuál te viene dando mejor precio."
+                    )
+
+                    cerr = con_casa[con_casa["Estado"].isin(["Ganada", "Perdida"])]
+                    resumen_casas = []
+                    for casa, sub in con_casa.groupby("Casa"):
+                        sub_c = sub[sub["Estado"].isin(["Ganada", "Perdida"])]
+                        inv = sub_c["Inversión"].sum()
+                        neto = sub_c["Ganancia Neta"].sum()
+                        resumen_casas.append({
+                            "Casa": casa,
+                            "Apuestas": len(sub),
+                            "Cerradas": len(sub_c),
+                            "Cuota media": sub["Cuota"].mean(),
+                            "Cuota máx.": sub["Cuota"].max(),
+                            "Invertido": inv,
+                            "Resultado": neto,
+                            "Yield": (neto / inv * 100) if inv else 0.0,
+                        })
+
+                    tabla_casas = pd.DataFrame(resumen_casas).sort_values(
+                        "Cuota media", ascending=False)
+
+                    st.dataframe(
+                        tabla_casas.style.format({
+                            "Cuota media": "{:.2f}",
+                            "Cuota máx.": "{:.2f}",
+                            "Invertido": "$ {:.2f}",
+                            "Resultado": "$ {:+.2f}",
+                            "Yield": "{:+.1f}%",
+                        }),
+                        width="stretch", hide_index=True,
+                    )
+
+                    mejor = tabla_casas.iloc[0]
+                    if len(tabla_casas) > 1:
+                        peor = tabla_casas.iloc[-1]
+                        dif = (mejor["Cuota media"] - peor["Cuota media"]) / peor["Cuota media"] * 100
+                        st.info(
+                            f"**{mejor['Casa']}** te viene dando la mejor cuota media "
+                            f"({mejor['Cuota media']:.2f}), un {dif:.1f}% más que "
+                            f"**{peor['Casa']}** ({peor['Cuota media']:.2f}).\n\n"
+                            "Ojo: la cuota media depende de qué partidos apostaste en cada una. "
+                            "La comparación válida es sobre el MISMO partido."
+                        )
+
+                    if len(cerr) < 20:
+                        st.caption(
+                            f"ℹ️ Solo {len(cerr)} apuestas cerradas con casa anotada. "
+                            "El yield por casa todavía no significa nada; la cuota media sí sirve."
+                        )
+
         with st.expander("🎨 Ver tabla con colores (solo lectura)", expanded=False):
             vista = df_billetera.drop(columns=["ID", "🗑️ Eliminar", "Res"], errors="ignore")
 
@@ -3184,8 +3576,10 @@ elif st.session_state.pagina == 'Billetera':
                     cuota_nueva = float(edited_df.iloc[i]['Cuota'])
                     est = str(edited_df.iloc[i]['Estado'])
                     fecha_nueva = str(edited_df.iloc[i].get('Fecha', ''))
+                    casa_nueva = str(edited_df.iloc[i].get('Casa', '') or '')
                     
-                    actualizar_fila_billetera(id_ap, picks, inver, cuota_nueva, est, fecha_nueva)
+                    actualizar_fila_billetera(id_ap, picks, inver, cuota_nueva, est,
+                                              fecha_nueva, casa_nueva)
             
             st.success("✅ ¡Billetera actualizada correctamente! Recargando...")
             st.rerun()
