@@ -905,242 +905,124 @@
             "Visita": "CF America"
         },
         {
-            "Fecha": "Fri 23 Oct",
+            "Fecha": "Tue 20 Oct",
             "Hora": "21:00",
-            "Local": "Necaxa",
-            "Visita": "Juarez"
+            "Local": "A. San Luis",
+            "Visita": "Queretaro"
         },
         {
-            "Fecha": "Fri 23 Oct",
+            "Fecha": "Tue 20 Oct",
+            "Hora": "21:00",
+            "Local": "Juarez",
+            "Visita": "Atlante"
+        },
+        {
+            "Fecha": "Tue 20 Oct",
             "Hora": "23:00",
-            "Local": "Atlante",
-            "Visita": "A. San Luis"
+            "Local": "Guadalajara",
+            "Visita": "Necaxa"
         },
         {
-            "Fecha": "Sat 24 Oct",
-            "Hora": "20:00",
-            "Local": "Club Leon",
-            "Visita": "Toluca"
+            "Fecha": "Tue 20 Oct",
+            "Hora": "23:00",
+            "Local": "Tigres",
+            "Visita": "Club Leon"
         },
         {
-            "Fecha": "Sat 24 Oct",
+            "Fecha": "Wed 21 Oct",
             "Hora": "21:00",
-            "Local": "Monterrey",
-            "Visita": "Guadalajara"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "00:00",
-            "Local": "Pumas UNAM",
-            "Visita": "Tigres"
-        },
-        {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "20:00",
             "Local": "Atlas",
-            "Visita": "Puebla"
+            "Visita": "CF America"
         },
         {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "20:00",
-            "Local": "CF America",
-            "Visita": "Pachuca"
+            "Fecha": "Wed 21 Oct",
+            "Hora": "21:00",
+            "Local": "Puebla",
+            "Visita": "Monterrey"
         },
         {
-            "Fecha": "Sun 25 Oct",
-            "Hora": "22:00",
-            "Local": "Queretaro",
+            "Fecha": "Wed 21 Oct",
+            "Hora": "21:00",
+            "Local": "Toluca",
+            "Visita": "Tijuana"
+        },
+        {
+            "Fecha": "Wed 21 Oct",
+            "Hora": "23:00",
+            "Local": "Pachuca",
             "Visita": "Cruz Azul"
         },
         {
-            "Fecha": "Mon 26 Oct",
+            "Fecha": "Wed 21 Oct",
+            "Hora": "23:00",
+            "Local": "Santos Laguna",
+            "Visita": "Pumas UNAM"
+        },
+        {
+            "Fecha": "Fri 20 Nov",
+            "Hora": "22:00",
+            "Local": "Puebla",
+            "Visita": "A. San Luis"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "00:00",
+            "Local": "Juarez",
+            "Visita": "Atlas"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
             "Hora": "00:00",
             "Local": "Tijuana",
-            "Visita": "Santos Laguna"
+            "Visita": "Atlante"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "20:00",
+            "Local": "Pachuca",
+            "Visita": "Toluca"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "20:00",
+            "Local": "Santos Laguna",
+            "Visita": "Club Leon"
+        },
+        {
+            "Fecha": "Sat 21 Nov",
+            "Hora": "22:00",
+            "Local": "Pumas UNAM",
+            "Visita": "Monterrey"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "00:00",
+            "Local": "Tigres",
+            "Visita": "CF America"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "20:00",
+            "Local": "Guadalajara",
+            "Visita": "Cruz Azul"
+        },
+        {
+            "Fecha": "Sun 22 Nov",
+            "Hora": "22:00",
+            "Local": "Queretaro",
+            "Visita": "Necaxa"
         }
     ],
     "estadisticas_avanzadas": {
-        "Cruz Azul": {
+        "Necaxa": {
             "historial": [
                 {
-                    "Fecha": "Wed 22 Jul",
+                    "Fecha": "Fri 17 Jul",
                     "Res": "[2:1]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Puebla",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Atlante",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Tijuana",
-                    "Visita": "Cruz Azul",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Atlas",
-                    "HT": "0-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:3]",
                     "Local": "Necaxa",
-                    "Visita": "Cruz Azul",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 18 Jul",
-                    "Res": "[2:3]",
-                    "Local": "A. San Luis",
-                    "Visita": "Cruz Azul",
+                    "Visita": "Atlante",
                     "HT": "0-0",
                     "Status": "🟢"
-                }
-            ]
-        },
-        "Puebla": {
-            "historial": [
-                {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Puebla",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Puebla",
-                    "Visita": "Guadalajara",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Tue 18 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Pachuca",
-                    "Visita": "Puebla",
-                    "HT": "1-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Puebla",
-                    "Visita": "Santos Laguna",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[2:0]",
-                    "Local": "CF America",
-                    "Visita": "Puebla",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 18 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Juarez",
-                    "Visita": "Puebla",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Toluca": {
-            "historial": [
-                {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Toluca",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 3 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Toluca",
-                    "Visita": "Necaxa",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Atlante",
-                    "Visita": "Toluca",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Queretaro",
-                    "Visita": "Toluca",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Mon 31 Aug",
-                    "Res": "[4:0]",
-                    "Local": "Toluca",
-                    "Visita": "Juarez",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[0:2]",
-                    "Local": "Guadalajara",
-                    "Visita": "Toluca",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Pumas UNAM": {
-            "historial": [
-                {
-                    "Fecha": "Wed 22 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Toluca",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[1:5]",
-                    "Local": "Juarez",
-                    "Visita": "Pumas UNAM",
-                    "HT": "1-3",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Pumas UNAM",
-                    "Visita": "Queretaro",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Mon 24 Aug",
@@ -1152,47 +1034,31 @@
                 },
                 {
                     "Fecha": "Sat 29 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Pumas UNAM",
-                    "HT": "0-0",
+                    "Res": "[1:3]",
+                    "Local": "Necaxa",
+                    "Visita": "Cruz Azul",
+                    "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[0:3]",
-                    "Local": "Pumas UNAM",
-                    "Visita": "Pachuca",
-                    "HT": "0-2",
-                    "Status": "🔴"
+                    "Fecha": "Mon 27 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Necaxa",
+                    "Visita": "Monterrey",
+                    "HT": "0-0",
+                    "Status": "🟢"
                 }
             ]
         },
         "Atlante": {
             "historial": [
                 {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:1]",
-                    "Local": "Atlante",
-                    "Visita": "CF America",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Cruz Azul",
+                    "Fecha": "Fri 17 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Necaxa",
                     "Visita": "Atlante",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Atlante",
-                    "Visita": "Toluca",
                     "HT": "0-0",
-                    "Status": "🟡"
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 22 Aug",
@@ -1211,109 +1077,17 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 17 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
-                    "Visita": "Atlante",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "CF America": {
-            "historial": [
-                {
                     "Fecha": "Sat 25 Jul",
                     "Res": "[1:1]",
                     "Local": "Atlante",
                     "Visita": "CF America",
                     "HT": "0-1",
                     "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 3 Aug",
-                    "Res": "[3:0]",
-                    "Local": "CF America",
-                    "Visita": "Santos Laguna",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[3:0]",
-                    "Local": "CF America",
-                    "Visita": "A. San Luis",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Juarez",
-                    "Visita": "CF America",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[2:0]",
-                    "Local": "CF America",
-                    "Visita": "Puebla",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Queretaro",
-                    "Visita": "CF America",
-                    "HT": "0-0",
-                    "Status": "🟢"
                 }
             ]
         },
         "Tijuana": {
             "historial": [
-                {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Club Leon",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[0:0]",
-                    "Local": "A. San Luis",
-                    "Visita": "Tijuana",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Tijuana",
-                    "Visita": "Cruz Azul",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[5:2]",
-                    "Local": "Guadalajara",
-                    "Visita": "Tijuana",
-                    "HT": "3-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Pumas UNAM",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
                 {
                     "Fecha": "Fri 17 Jul",
                     "Res": "[3:1]",
@@ -1321,86 +1095,6 @@
                     "Visita": "Tigres",
                     "HT": "1-0",
                     "Status": "🟢"
-                }
-            ]
-        },
-        "Club Leon": {
-            "historial": [
-                {
-                    "Fecha": "Sat 25 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Tijuana",
-                    "Visita": "Club Leon",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Club Leon",
-                    "Visita": "Pachuca",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Tue 18 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Necaxa",
-                    "Visita": "Club Leon",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Club Leon",
-                    "Visita": "Monterrey",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Atlante",
-                    "Visita": "Club Leon",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 18 Jul",
-                    "Res": "[2:3]",
-                    "Local": "Club Leon",
-                    "Visita": "Atlas",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Guadalajara": {
-            "historial": [
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Guadalajara",
-                    "Visita": "Juarez",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Puebla",
-                    "Visita": "Guadalajara",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Guadalajara",
-                    "HT": "0-0",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sun 23 Aug",
@@ -1408,178 +1102,22 @@
                     "Local": "Guadalajara",
                     "Visita": "Tijuana",
                     "HT": "3-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Pachuca",
-                    "Visita": "Guadalajara",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[0:2]",
-                    "Local": "Guadalajara",
-                    "Visita": "Toluca",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Juarez": {
-            "historial": [
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[1:0]",
-                    "Local": "Guadalajara",
-                    "Visita": "Juarez",
-                    "HT": "0-0",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[1:5]",
-                    "Local": "Juarez",
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Tijuana",
                     "Visita": "Pumas UNAM",
-                    "HT": "1-3",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[6:1]",
-                    "Local": "Monterrey",
-                    "Visita": "Juarez",
-                    "HT": "4-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Juarez",
-                    "Visita": "CF America",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 31 Aug",
-                    "Res": "[4:0]",
-                    "Local": "Toluca",
-                    "Visita": "Juarez",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 18 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Juarez",
-                    "Visita": "Puebla",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Santos Laguna": {
-            "historial": [
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Atlas",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 3 Aug",
-                    "Res": "[3:0]",
-                    "Local": "CF America",
-                    "Visita": "Santos Laguna",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Guadalajara",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Puebla",
-                    "Visita": "Santos Laguna",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Tigres",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[3:2]",
-                    "Local": "Monterrey",
-                    "Visita": "Santos Laguna",
-                    "HT": "3-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Atlas": {
-            "historial": [
-                {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[0:1]",
-                    "Local": "Santos Laguna",
-                    "Visita": "Atlas",
                     "HT": "0-0",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Atlas",
-                    "Visita": "Monterrey",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Atlas",
-                    "Visita": "Tigres",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Cruz Azul",
-                    "Visita": "Atlas",
-                    "HT": "0-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Atlas",
-                    "Visita": "Queretaro",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 18 Jul",
-                    "Res": "[2:3]",
-                    "Local": "Club Leon",
-                    "Visita": "Atlas",
-                    "HT": "1-1",
+                    "Fecha": "Sat 25 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Tijuana",
+                    "Visita": "Club Leon",
+                    "HT": "0-0",
                     "Status": "🟢"
                 }
             ]
@@ -1587,27 +1125,11 @@
         "Tigres": {
             "historial": [
                 {
-                    "Fecha": "Sun 26 Jul",
-                    "Res": "[2:2]",
-                    "Local": "Tigres",
-                    "Visita": "A. San Luis",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Queretaro",
+                    "Fecha": "Fri 17 Jul",
+                    "Res": "[3:1]",
+                    "Local": "Tijuana",
                     "Visita": "Tigres",
-                    "HT": "2-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Atlas",
-                    "Visita": "Tigres",
-                    "HT": "1-1",
+                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1627,17 +1149,13 @@
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Fri 17 Jul",
-                    "Res": "[3:1]",
-                    "Local": "Tijuana",
-                    "Visita": "Tigres",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "A. San Luis": {
-            "historial": [
+                    "Fecha": "Próximamente",
+                    "Res": "[2:2]",
+                    "Local": "Tigres",
+                    "Visita": "2-0",
+                    "HT": "-",
+                    "Status": "🟡"
+                },
                 {
                     "Fecha": "Sun 26 Jul",
                     "Res": "[2:2]",
@@ -1645,21 +1163,17 @@
                     "Visita": "A. San Luis",
                     "HT": "1-1",
                     "Status": "🟡"
-                },
+                }
+            ]
+        },
+        "A. San Luis": {
+            "historial": [
                 {
-                    "Fecha": "Sat 1 Aug",
-                    "Res": "[0:0]",
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:3]",
                     "Local": "A. San Luis",
-                    "Visita": "Tijuana",
+                    "Visita": "Cruz Azul",
                     "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[3:0]",
-                    "Local": "CF America",
-                    "Visita": "A. San Luis",
-                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
@@ -1679,39 +1193,203 @@
                     "Status": "🟢"
                 },
                 {
+                    "Fecha": "Sun 26 Jul",
+                    "Res": "[2:2]",
+                    "Local": "Tigres",
+                    "Visita": "A. San Luis",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Cruz Azul": {
+            "historial": [
+                {
                     "Fecha": "Sat 18 Jul",
                     "Res": "[2:3]",
                     "Local": "A. San Luis",
                     "Visita": "Cruz Azul",
                     "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Cruz Azul",
+                    "Visita": "Atlas",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:3]",
+                    "Local": "Necaxa",
+                    "Visita": "Cruz Azul",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Cruz Azul",
+                    "Visita": "Puebla",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Club Leon": {
+            "historial": [
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:3]",
+                    "Local": "Club Leon",
+                    "Visita": "Atlas",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Club Leon",
+                    "Visita": "Monterrey",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Atlante",
+                    "Visita": "Club Leon",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 25 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Tijuana",
+                    "Visita": "Club Leon",
+                    "HT": "0-0",
                     "Status": "🔴"
                 }
             ]
         },
-        "Necaxa": {
+        "Atlas": {
             "historial": [
                 {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
-                    "Visita": "Monterrey",
-                    "HT": "0-0",
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[2:3]",
+                    "Local": "Club Leon",
+                    "Visita": "Atlas",
+                    "HT": "1-1",
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Mon 3 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Toluca",
-                    "Visita": "Necaxa",
-                    "HT": "2-1",
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[0:2]",
+                    "Local": "Cruz Azul",
+                    "Visita": "Atlas",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:3]",
+                    "Local": "Atlas",
+                    "Visita": "Queretaro",
+                    "HT": "1-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Tue 18 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Necaxa",
-                    "Visita": "Club Leon",
+                    "Fecha": "Sun 26 Jul",
+                    "Res": "[0:1]",
+                    "Local": "Santos Laguna",
+                    "Visita": "Atlas",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Juarez": {
+            "historial": [
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:1]",
+                    "Local": "Juarez",
+                    "Visita": "Puebla",
                     "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Juarez",
+                    "Visita": "CF America",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 31 Aug",
+                    "Res": "[4:0]",
+                    "Local": "Toluca",
+                    "Visita": "Juarez",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 26 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Guadalajara",
+                    "Visita": "Juarez",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Puebla": {
+            "historial": [
+                {
+                    "Fecha": "Sat 18 Jul",
+                    "Res": "[0:1]",
+                    "Local": "Juarez",
+                    "Visita": "Puebla",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Puebla",
+                    "Visita": "Santos Laguna",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[2:0]",
+                    "Local": "CF America",
+                    "Visita": "Puebla",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Cruz Azul",
+                    "Visita": "Puebla",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Pumas UNAM": {
+            "historial": [
+                {
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[0:3]",
+                    "Local": "Pumas UNAM",
+                    "Visita": "Pachuca",
+                    "HT": "0-2",
                     "Status": "🔴"
                 },
                 {
@@ -1724,46 +1402,138 @@
                 },
                 {
                     "Fecha": "Sat 29 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Necaxa",
-                    "Visita": "Cruz Azul",
+                    "Res": "[2:0]",
+                    "Local": "Tijuana",
+                    "Visita": "Pumas UNAM",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Toluca",
+                    "Visita": "Pumas UNAM",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Pachuca": {
+            "historial": [
+                {
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[0:3]",
+                    "Local": "Pumas UNAM",
+                    "Visita": "Pachuca",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 24 Aug",
+                    "Res": "[1:1]",
+                    "Local": "A. San Luis",
+                    "Visita": "Pachuca",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Pachuca",
+                    "Visita": "Guadalajara",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 27 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Pachuca",
+                    "Visita": "Queretaro",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Guadalajara": {
+            "historial": [
+                {
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[0:2]",
+                    "Local": "Guadalajara",
+                    "Visita": "Toluca",
                     "HT": "0-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 17 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
-                    "Visita": "Atlante",
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[5:2]",
+                    "Local": "Guadalajara",
+                    "Visita": "Tijuana",
+                    "HT": "3-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Pachuca",
+                    "Visita": "Guadalajara",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 26 Jul",
+                    "Res": "[1:0]",
+                    "Local": "Guadalajara",
+                    "Visita": "Juarez",
                     "HT": "0-0",
                     "Status": "🟢"
+                }
+            ]
+        },
+        "Toluca": {
+            "historial": [
+                {
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[0:2]",
+                    "Local": "Guadalajara",
+                    "Visita": "Toluca",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Queretaro",
+                    "Visita": "Toluca",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 31 Aug",
+                    "Res": "[4:0]",
+                    "Local": "Toluca",
+                    "Visita": "Juarez",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 22 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Toluca",
+                    "Visita": "Pumas UNAM",
+                    "HT": "1-0",
+                    "Status": "🔴"
                 }
             ]
         },
         "Monterrey": {
             "historial": [
                 {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[2:1]",
-                    "Local": "Necaxa",
-                    "Visita": "Monterrey",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[0:2]",
-                    "Local": "Atlas",
-                    "Visita": "Monterrey",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[6:1]",
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[3:2]",
                     "Local": "Monterrey",
-                    "Visita": "Juarez",
-                    "HT": "4-1",
+                    "Visita": "Santos Laguna",
+                    "HT": "3-1",
                     "Status": "🟢"
                 },
                 {
@@ -1783,92 +1553,60 @@
                     "Status": "🔴"
                 },
                 {
+                    "Fecha": "Mon 27 Jul",
+                    "Res": "[2:1]",
+                    "Local": "Necaxa",
+                    "Visita": "Monterrey",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Santos Laguna": {
+            "historial": [
+                {
                     "Fecha": "Sun 19 Jul",
                     "Res": "[3:2]",
                     "Local": "Monterrey",
                     "Visita": "Santos Laguna",
                     "HT": "3-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Pachuca": {
-            "historial": [
-                {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Pachuca",
-                    "Visita": "Queretaro",
-                    "HT": "1-0",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Club Leon",
-                    "Visita": "Pachuca",
-                    "HT": "1-0",
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Puebla",
+                    "Visita": "Santos Laguna",
+                    "HT": "1-1",
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Tue 18 Aug",
-                    "Res": "[2:3]",
-                    "Local": "Pachuca",
-                    "Visita": "Puebla",
-                    "HT": "1-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[1:1]",
-                    "Local": "A. San Luis",
-                    "Visita": "Pachuca",
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Santos Laguna",
+                    "Visita": "Tigres",
                     "HT": "0-0",
                     "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Pachuca",
-                    "Visita": "Guadalajara",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 19 Jul",
-                    "Res": "[0:3]",
-                    "Local": "Pumas UNAM",
-                    "Visita": "Pachuca",
-                    "HT": "0-2",
-                    "Status": "🟢"
+                    "Fecha": "Sun 26 Jul",
+                    "Res": "[0:1]",
+                    "Local": "Santos Laguna",
+                    "Visita": "Atlas",
+                    "HT": "0-0",
+                    "Status": "🔴"
                 }
             ]
         },
         "Queretaro": {
             "historial": [
                 {
-                    "Fecha": "Mon 27 Jul",
-                    "Res": "[1:2]",
-                    "Local": "Pachuca",
-                    "Visita": "Queretaro",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 2 Aug",
-                    "Res": "[3:2]",
+                    "Fecha": "Sun 19 Jul",
+                    "Res": "[0:1]",
                     "Local": "Queretaro",
-                    "Visita": "Tigres",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Pumas UNAM",
-                    "Visita": "Queretaro",
+                    "Visita": "CF America",
                     "HT": "0-0",
-                    "Status": "🟡"
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 22 Aug",
@@ -1887,12 +1625,60 @@
                     "Status": "🟢"
                 },
                 {
+                    "Fecha": "Mon 27 Jul",
+                    "Res": "[1:2]",
+                    "Local": "Pachuca",
+                    "Visita": "Queretaro",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "CF America": {
+            "historial": [
+                {
                     "Fecha": "Sun 19 Jul",
                     "Res": "[0:1]",
                     "Local": "Queretaro",
                     "Visita": "CF America",
                     "HT": "0-0",
-                    "Status": "🔴"
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Juarez",
+                    "Visita": "CF America",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[2:0]",
+                    "Local": "CF America",
+                    "Visita": "Puebla",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 25 Jul",
+                    "Res": "[1:1]",
+                    "Local": "Atlante",
+                    "Visita": "CF America",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "2-0": {
+            "historial": [
+                {
+                    "Fecha": "Próximamente",
+                    "Res": "[2:2]",
+                    "Local": "Tigres",
+                    "Visita": "2-0",
+                    "HT": "-",
+                    "Status": "🟡"
                 }
             ]
         }
