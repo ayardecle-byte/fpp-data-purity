@@ -3,15 +3,15 @@
         [
             "1",
             "FC Porto",
-            "4",
-            "4",
+            "5",
+            "5",
             "0",
             "0",
-            "9",
-            "0",
-            "+9",
-            "12",
-            "9 Aug FC Porto - \r\nAlverca 2:0 15 Aug Rio Ave\r\n - FC Porto 0:2 23 Aug FC Porto - \r\nArouca 2:0 29 Aug Academico Viseu\r\n - FC Porto 0:3 4 Sep FC Porto - \r\nMoreirense -",
+            "11",
+            "1",
+            "+10",
+            "15",
+            "9 Aug FC Porto - \r\nAlverca 2:0 15 Aug Rio Ave\r\n - FC Porto 0:2 23 Aug FC Porto - \r\nArouca 2:0 29 Aug Academico Viseu\r\n - FC Porto 0:3 4 Sep FC Porto - \r\nMoreirense 2:1 13 Sep Casa Pia\r\n - FC Porto -",
             "9 Aug",
             "FC Porto - \r\nAlverca",
             "2:0",
@@ -26,10 +26,13 @@
             "0:3",
             "4 Sep",
             "FC Porto - \r\nMoreirense",
+            "2:1",
+            "13 Sep",
+            "Casa Pia\r\n - FC Porto",
             "-",
             "3.00",
             "3.00",
-            "100%",
+            "80%",
             "100%",
             "102"
         ],
@@ -318,15 +321,15 @@
         [
             "11",
             "Moreirense",
-            "3",
-            "1",
-            "1",
-            "1",
-            "3",
-            "6",
-            "-3",
             "4",
-            "9 Aug Moreirense - \r\nSporting Braga 2:2 16 Aug Arouca\r\n - Moreirense 4:0 30 Aug Casa Pia\r\n - Moreirense 0:1 4 Sep FC Porto\r\n - Moreirense -",
+            "1",
+            "1",
+            "2",
+            "4",
+            "8",
+            "-4",
+            "4",
+            "9 Aug Moreirense - \r\nSporting Braga 2:2 16 Aug Arouca\r\n - Moreirense 4:0 30 Aug Casa Pia\r\n - Moreirense 0:1 4 Sep FC Porto\r\n - Moreirense 2:1 9 Sep Moreirense - \r\nBenfica -",
             "9 Aug",
             "Moreirense - \r\nSporting Braga",
             "2:2",
@@ -338,12 +341,15 @@
             "0:1",
             "4 Sep",
             "FC Porto\r\n - Moreirense",
+            "2:1",
+            "9 Sep",
+            "Moreirense - \r\nBenfica",
             "-",
-            "1.33",
-            "1.33",
-            "33%",
-            "67%",
-            "97"
+            "1.00",
+            "1.00",
+            "25%",
+            "75%",
+            "94"
         ],
         [
             "12",
@@ -581,12 +587,6 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "15:15",
-            "Local": "FC Porto",
-            "Visita": "Moreirense"
-        },
-        {
             "Fecha": "Sat 5 Sep",
             "Hora": "10:30",
             "Local": "Estrela Amadora",
@@ -755,382 +755,220 @@
             "Visita": "Arouca"
         },
         {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Academico Viseu",
-            "Visita": "Nacional"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Arouca",
-            "Visita": "Famalicao"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Benfica",
-            "Visita": "Estrela Amadora"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Casa Pia",
-            "Visita": "Alverca"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "FC Porto",
-            "Visita": "Guimaraes"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Gil Vicente",
-            "Visita": "Santa Clara"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Maritimo",
-            "Visita": "Estoril"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Moreirense",
-            "Visita": "Sporting CP"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Sporting Braga",
-            "Visita": "Rio Ave"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
+            "Fecha": "Sat 9 Jan",
             "Hora": "21:00",
             "Local": "Academico Viseu",
-            "Visita": "Estrela Amadora"
+            "Visita": "Casa Pia"
         },
         {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Arouca",
-            "Visita": "Sporting CP"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Benfica",
-            "Visita": "FC Porto"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Casa Pia",
-            "Visita": "Estoril"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Famalicao",
-            "Visita": "Nacional"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Maritimo",
-            "Visita": "Gil Vicente"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Moreirense",
-            "Visita": "Guimaraes"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Rio Ave",
-            "Visita": "Alverca"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Sporting Braga",
-            "Visita": "Santa Clara"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
+            "Fecha": "Sat 9 Jan",
             "Hora": "21:00",
             "Local": "Alverca",
-            "Visita": "Famalicao"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Estoril",
-            "Visita": "Academico Viseu"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Estrela Amadora",
-            "Visita": "Arouca"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "FC Porto",
             "Visita": "Maritimo"
         },
         {
-            "Fecha": "Fri 6 Mar",
+            "Fecha": "Sat 9 Jan",
             "Hora": "21:00",
-            "Local": "Gil Vicente",
-            "Visita": "Moreirense"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Guimaraes",
+            "Local": "Arouca",
             "Visita": "Benfica"
         },
         {
-            "Fecha": "Fri 6 Mar",
+            "Fecha": "Sat 9 Jan",
             "Hora": "21:00",
-            "Local": "Nacional",
-            "Visita": "Rio Ave"
+            "Local": "Estrela Amadora",
+            "Visita": "Estoril"
         },
         {
-            "Fecha": "Fri 6 Mar",
+            "Fecha": "Sat 9 Jan",
             "Hora": "21:00",
-            "Local": "Santa Clara",
-            "Visita": "Casa Pia"
-        },
-        {
-            "Fecha": "Fri 6 Mar",
-            "Hora": "21:00",
-            "Local": "Sporting CP",
-            "Visita": "Sporting Braga"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Benfica",
-            "Visita": "Arouca"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Casa Pia",
-            "Visita": "Academico Viseu"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Estoril",
-            "Visita": "Estrela Amadora"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "FC Porto",
-            "Visita": "Sporting Braga"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Gil Vicente",
-            "Visita": "Nacional"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Guimaraes",
-            "Visita": "Famalicao"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Maritimo",
-            "Visita": "Alverca"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Moreirense",
-            "Visita": "Rio Ave"
-        },
-        {
-            "Fecha": "Fri 15 May",
-            "Hora": "20:00",
-            "Local": "Santa Clara",
-            "Visita": "Sporting CP"
-        },
-        {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Alverca",
+            "Local": "Famalicao",
             "Visita": "Guimaraes"
         },
         {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Arouca",
-            "Visita": "Academico Viseu"
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Gil Vicente"
         },
         {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Estrela Amadora",
-            "Visita": "FC Porto"
-        },
-        {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Famalicao",
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
             "Visita": "Moreirense"
         },
         {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Nacional",
-            "Visita": "Casa Pia"
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Sporting Braga",
+            "Visita": "FC Porto"
         },
         {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
+            "Fecha": "Sat 9 Jan",
+            "Hora": "21:00",
+            "Local": "Sporting CP",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Academico Viseu",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Arouca",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "FC Porto"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Famalicao",
+            "Visita": "Nacional"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Maritimo",
+            "Visita": "Gil Vicente"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Moreirense",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
             "Local": "Rio Ave",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Sporting Braga",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Academico Viseu",
             "Visita": "Maritimo"
         },
         {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Santa Clara",
-            "Visita": "Estoril"
-        },
-        {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Sporting Braga",
-            "Visita": "Benfica"
-        },
-        {
-            "Fecha": "Fri 24 Apr",
-            "Hora": "20:00",
-            "Local": "Sporting CP",
-            "Visita": "Gil Vicente"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
+            "Fecha": "Sat 30 Jan",
             "Hora": "21:00",
-            "Local": "Academico Viseu",
-            "Visita": "Arouca"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Benfica",
-            "Visita": "Sporting Braga"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Casa Pia",
-            "Visita": "Nacional"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Estoril",
-            "Visita": "Santa Clara"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "FC Porto",
-            "Visita": "Estrela Amadora"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Gil Vicente",
+            "Local": "Alverca",
             "Visita": "Sporting CP"
         },
         {
-            "Fecha": "Sat 12 Dec",
+            "Fecha": "Sat 30 Jan",
             "Hora": "21:00",
-            "Local": "Guimaraes",
-            "Visita": "Alverca"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Maritimo",
-            "Visita": "Rio Ave"
-        },
-        {
-            "Fecha": "Sat 12 Dec",
-            "Hora": "21:00",
-            "Local": "Moreirense",
-            "Visita": "Famalicao"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Academico Viseu",
-            "Visita": "Estoril"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
             "Local": "Arouca",
-            "Visita": "Estrela Amadora"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Benfica",
-            "Visita": "Guimaraes"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Casa Pia",
-            "Visita": "Santa Clara"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Famalicao",
-            "Visita": "Alverca"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Maritimo",
             "Visita": "FC Porto"
         },
         {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Moreirense",
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "Moreirense"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
             "Visita": "Gil Vicente"
         },
         {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Rio Ave",
-            "Visita": "Nacional"
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Famalicao",
+            "Visita": "Santa Clara"
         },
         {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Sat 30 Jan",
+            "Hora": "21:00",
             "Local": "Sporting Braga",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Academico Viseu",
+            "Visita": "Sporting Braga"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Benfica",
+            "Visita": "Rio Ave"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Casa Pia",
+            "Visita": "Arouca"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Estoril",
             "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "FC Porto",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Gil Vicente",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Guimaraes",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Maritimo",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "20:00",
+            "Local": "Moreirense",
+            "Visita": "Nacional"
         },
         {
             "Fecha": "Sat 20 Feb",
@@ -1185,7 +1023,672 @@
             "Hora": "21:00",
             "Local": "Sporting CP",
             "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Alverca",
+            "Visita": "Moreirense"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Estoril",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Estrela Amadora",
+            "Visita": "Gil Vicente"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Famalicao",
+            "Visita": "Academico Viseu"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Benfica"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
+            "Visita": "Casa Pia"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Santa Clara",
+            "Visita": "FC Porto"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Sporting Braga",
+            "Visita": "Arouca"
+        },
+        {
+            "Fecha": "Sat 5 Dec",
+            "Hora": "21:00",
+            "Local": "Sporting CP",
+            "Visita": "Maritimo"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Academico Viseu",
+            "Visita": "Arouca"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "Sporting Braga"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
+            "Visita": "Nacional"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Estoril",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "FC Porto",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Gil Vicente",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Guimaraes",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Maritimo",
+            "Visita": "Rio Ave"
+        },
+        {
+            "Fecha": "Sat 12 Dec",
+            "Hora": "21:00",
+            "Local": "Moreirense",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Alverca",
+            "Visita": "Gil Vicente"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Arouca",
+            "Visita": "Casa Pia"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Estrela Amadora",
+            "Visita": "Maritimo"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Famalicao",
+            "Visita": "FC Porto"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Moreirense"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
+            "Visita": "Benfica"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Santa Clara",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Sporting Braga",
+            "Visita": "Academico Viseu"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Sporting CP",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Estoril",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "FC Porto",
+            "Visita": "Nacional"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Gil Vicente",
+            "Visita": "Arouca"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Guimaraes",
+            "Visita": "Rio Ave"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Maritimo",
+            "Visita": "Sporting Braga"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Moreirense",
+            "Visita": "Academico Viseu"
+        },
+        {
+            "Fecha": "Sat 26 Dec",
+            "Hora": "21:00",
+            "Local": "Santa Clara",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Alverca",
+            "Visita": "Arouca"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Estoril",
+            "Visita": "Moreirense"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Estrela Amadora",
+            "Visita": "Casa Pia"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Gil Vicente",
+            "Visita": "FC Porto"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Guimaraes",
+            "Visita": "Maritimo"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Sporting Braga"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Santa Clara",
+            "Visita": "Benfica"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "21:00",
+            "Local": "Sporting CP",
+            "Visita": "Academico Viseu"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Academico Viseu",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Arouca",
+            "Visita": "Rio Ave"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
+            "Visita": "Sporting Braga"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "FC Porto",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Gil Vicente",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Guimaraes",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Maritimo",
+            "Visita": "Nacional"
+        },
+        {
+            "Fecha": "Sat 28 Nov",
+            "Hora": "21:00",
+            "Local": "Moreirense",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Academico Viseu",
+            "Visita": "Nacional"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Arouca",
+            "Visita": "Famalicao"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Benfica",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Casa Pia",
+            "Visita": "Alverca"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "FC Porto",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Gil Vicente",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Maritimo",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Moreirense",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Sporting Braga",
+            "Visita": "Rio Ave"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Academico Viseu",
+            "Visita": "Gil Vicente"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Arouca",
+            "Visita": "Estoril"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Benfica",
+            "Visita": "Maritimo"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Casa Pia",
+            "Visita": "Guimaraes"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Famalicao",
+            "Visita": "Estrela Amadora"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Moreirense",
+            "Visita": "FC Porto"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Nacional",
+            "Visita": "Sporting CP"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Rio Ave",
+            "Visita": "Santa Clara"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Sporting Braga",
+            "Visita": "Alverca"
         }
     ],
-    "estadisticas_avanzadas": {}
+    "estadisticas_avanzadas": {
+        "FC Porto": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:1]",
+                    "Local": "FC Porto",
+                    "Visita": "Moreirense",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:0]",
+                    "Local": "FC Porto",
+                    "Visita": "Alverca",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Moreirense": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:1]",
+                    "Local": "FC Porto",
+                    "Visita": "Moreirense",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Moreirense",
+                    "Visita": "Sporting Braga",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Estoril": {
+            "historial": [
+                {
+                    "Fecha": "Fri 7 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Estoril",
+                    "Visita": "Famalicao",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Famalicao": {
+            "historial": [
+                {
+                    "Fecha": "Fri 7 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Estoril",
+                    "Visita": "Famalicao",
+                    "HT": "0-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Maritimo": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Maritimo",
+                    "Visita": "Casa Pia",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Casa Pia": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Maritimo",
+                    "Visita": "Casa Pia",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Guimaraes": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Guimaraes",
+                    "Visita": "Arouca",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Arouca": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Guimaraes",
+                    "Visita": "Arouca",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Estrela Amadora": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Estrela Amadora",
+                    "Visita": "Sporting CP",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Sporting CP": {
+            "historial": [
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Estrela Amadora",
+                    "Visita": "Sporting CP",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Alverca": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:0]",
+                    "Local": "FC Porto",
+                    "Visita": "Alverca",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Benfica": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Benfica",
+                    "Visita": "Academico Viseu",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Academico Viseu": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Benfica",
+                    "Visita": "Academico Viseu",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Gil Vicente": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Gil Vicente",
+                    "Visita": "Rio Ave",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Rio Ave": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Gil Vicente",
+                    "Visita": "Rio Ave",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Sporting Braga": {
+            "historial": [
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Moreirense",
+                    "Visita": "Sporting Braga",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Santa Clara": {
+            "historial": [
+                {
+                    "Fecha": "Mon 10 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Santa Clara",
+                    "Visita": "Nacional",
+                    "HT": "2-2",
+                    "Status": "🟡"
+                }
+            ]
+        },
+        "Nacional": {
+            "historial": [
+                {
+                    "Fecha": "Mon 10 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Santa Clara",
+                    "Visita": "Nacional",
+                    "HT": "2-2",
+                    "Status": "🟡"
+                }
+            ]
+        }
+    }
 }

@@ -3,15 +3,15 @@
         [
             "1",
             "FC Nurnberg",
+            "4",
             "3",
-            "3",
+            "1",
             "0",
-            "0",
-            "11",
-            "3",
+            "13",
+            "5",
             "+8",
-            "9",
-            "9 Aug FC Nurnberg - \r\nDynamo Dresden 3:0 15 Aug Greuther Furth\r\n - FC Nurnberg 2:4 29 Aug FC Nurnberg - \r\nBielefeld 4:1 5 Sep Holstein Kiel\r\n - FC Nurnberg -",
+            "10",
+            "9 Aug FC Nurnberg - \r\nDynamo Dresden 3:0 15 Aug Greuther Furth\r\n - FC Nurnberg 2:4 29 Aug FC Nurnberg - \r\nBielefeld 4:1 5 Sep Holstein Kiel\r\n - FC Nurnberg 2:2 11 Sep FC Nurnberg - \r\nHannover 96 -",
             "9 Aug",
             "FC Nurnberg - \r\nDynamo Dresden",
             "3:0",
@@ -23,12 +23,15 @@
             "4:1",
             "5 Sep",
             "Holstein Kiel\r\n - FC Nurnberg",
+            "2:2",
+            "11 Sep",
+            "FC Nurnberg - \r\nHannover 96",
             "-",
-            "3.00",
-            "3.00",
-            "33%",
+            "2.50",
+            "2.50",
+            "25%",
             "100%",
-            "102"
+            "100"
         ],
         [
             "2",
@@ -63,15 +66,15 @@
         [
             "3",
             "Wolfsburg",
-            "3",
+            "4",
             "2",
-            "1",
+            "2",
             "0",
+            "10",
             "6",
-            "2",
             "+4",
-            "7",
-            "8 Aug Wolfsburg - \r\nKaiserslautern 0:0 16 Aug Hannover 96\r\n - Wolfsburg 0:1 29 Aug Karlsruher SC\r\n - Wolfsburg 2:5 5 Sep Wolfsburg - \r\nEnergie Cottbus -",
+            "8",
+            "8 Aug Wolfsburg - \r\nKaiserslautern 0:0 16 Aug Hannover 96\r\n - Wolfsburg 0:1 29 Aug Karlsruher SC\r\n - Wolfsburg 2:5 5 Sep Wolfsburg - \r\nEnergie Cottbus 4:4 12 Sep Sankt Pauli\r\n - Wolfsburg -",
             "8 Aug",
             "Wolfsburg - \r\nKaiserslautern",
             "0:0",
@@ -83,15 +86,51 @@
             "2:5",
             "5 Sep",
             "Wolfsburg - \r\nEnergie Cottbus",
+            "4:4",
+            "12 Sep",
+            "Sankt Pauli\r\n - Wolfsburg",
             "-",
-            "2.33",
-            "2.33",
-            "67%",
-            "67%",
-            "100"
+            "2.00",
+            "2.00",
+            "50%",
+            "75%",
+            "98"
         ],
         [
             "4",
+            "Kaiserslautern",
+            "4",
+            "2",
+            "2",
+            "0",
+            "5",
+            "1",
+            "+4",
+            "8",
+            "8 Aug Wolfsburg\r\n - Kaiserslautern 0:0 15 Aug Kaiserslautern - \r\nKarlsruher SC 0:0 30 Aug Sankt Pauli\r\n - Kaiserslautern 1:2 5 Sep Kaiserslautern - \r\nDarmstadt 3:0 12 Sep Magdeburg\r\n - Kaiserslautern -",
+            "8 Aug",
+            "Wolfsburg\r\n - Kaiserslautern",
+            "0:0",
+            "15 Aug",
+            "Kaiserslautern - \r\nKarlsruher SC",
+            "0:0",
+            "30 Aug",
+            "Sankt Pauli\r\n - Kaiserslautern",
+            "1:2",
+            "5 Sep",
+            "Kaiserslautern - \r\nDarmstadt",
+            "3:0",
+            "12 Sep",
+            "Magdeburg\r\n - Kaiserslautern",
+            "-",
+            "2.00",
+            "2.00",
+            "75%",
+            "50%",
+            "98"
+        ],
+        [
+            "5",
             "Heidenheim",
             "3",
             "2",
@@ -121,7 +160,7 @@
             "99"
         ],
         [
-            "5",
+            "6",
             "Magdeburg",
             "3",
             "2",
@@ -151,37 +190,73 @@
             "99"
         ],
         [
+            "7",
+            "Karlsruher SC",
+            "4",
+            "1",
+            "2",
+            "1",
             "6",
-            "Kaiserslautern",
-            "3",
-            "1",
-            "2",
-            "0",
-            "2",
-            "1",
-            "+1",
+            "8",
+            "-2",
             "5",
-            "8 Aug Wolfsburg\r\n - Kaiserslautern 0:0 15 Aug Kaiserslautern - \r\nKarlsruher SC 0:0 30 Aug Sankt Pauli\r\n - Kaiserslautern 1:2 5 Sep Kaiserslautern - \r\nDarmstadt -",
+            "8 Aug Karlsruher SC - \r\nBielefeld 2:1 15 Aug Kaiserslautern\r\n - Karlsruher SC 0:0 29 Aug Karlsruher SC - \r\nWolfsburg 2:5 4 Sep Hannover 96\r\n - Karlsruher SC 2:2 13 Sep Karlsruher SC - \r\nEnergie Cottbus -",
             "8 Aug",
-            "Wolfsburg\r\n - Kaiserslautern",
-            "0:0",
+            "Karlsruher SC - \r\nBielefeld",
+            "2:1",
             "15 Aug",
-            "Kaiserslautern - \r\nKarlsruher SC",
+            "Kaiserslautern\r\n - Karlsruher SC",
             "0:0",
-            "30 Aug",
-            "Sankt Pauli\r\n - Kaiserslautern",
-            "1:2",
-            "5 Sep",
-            "Kaiserslautern - \r\nDarmstadt",
+            "29 Aug",
+            "Karlsruher SC - \r\nWolfsburg",
+            "2:5",
+            "4 Sep",
+            "Hannover 96\r\n - Karlsruher SC",
+            "2:2",
+            "13 Sep",
+            "Karlsruher SC - \r\nEnergie Cottbus",
             "-",
-            "1.67",
-            "1.67",
-            "67%",
-            "33%",
-            "98"
+            "1.25",
+            "1.25",
+            "25%",
+            "75%",
+            "95"
         ],
         [
+            "8",
+            "Bielefeld",
+            "4",
+            "1",
+            "1",
+            "2",
             "7",
+            "8",
+            "-1",
+            "4",
+            "8 Aug Karlsruher SC\r\n - Bielefeld 2:1 16 Aug Bielefeld - \r\nEnergie Cottbus 3:0 29 Aug FC Nurnberg\r\n - Bielefeld 4:1 4 Sep Bielefeld - \r\nSankt Pauli 2:2 11 Sep Darmstadt\r\n - Bielefeld -",
+            "8 Aug",
+            "Karlsruher SC\r\n - Bielefeld",
+            "2:1",
+            "16 Aug",
+            "Bielefeld - \r\nEnergie Cottbus",
+            "3:0",
+            "29 Aug",
+            "FC Nurnberg\r\n - Bielefeld",
+            "4:1",
+            "4 Sep",
+            "Bielefeld - \r\nSankt Pauli",
+            "2:2",
+            "11 Sep",
+            "Darmstadt\r\n - Bielefeld",
+            "-",
+            "1.00",
+            "1.00",
+            "25%",
+            "100%",
+            "94"
+        ],
+        [
+            "9",
             "Greuther Furth",
             "3",
             "1",
@@ -211,37 +286,73 @@
             "97"
         ],
         [
-            "8",
-            "Karlsruher SC",
-            "3",
+            "10",
+            "Energie Cottbus",
+            "4",
             "1",
             "1",
+            "2",
+            "10",
+            "12",
+            "-2",
+            "4",
+            "9 Aug Energie Cottbus - \r\nHannover 96 3:1 16 Aug Bielefeld\r\n - Energie Cottbus 3:0 29 Aug Energie Cottbus - \r\nGreuther Furth 3:4 5 Sep Wolfsburg\r\n - Energie Cottbus 4:4 13 Sep Karlsruher SC\r\n - Energie Cottbus -",
+            "9 Aug",
+            "Energie Cottbus - \r\nHannover 96",
+            "3:1",
+            "16 Aug",
+            "Bielefeld\r\n - Energie Cottbus",
+            "3:0",
+            "29 Aug",
+            "Energie Cottbus - \r\nGreuther Furth",
+            "3:4",
+            "5 Sep",
+            "Wolfsburg\r\n - Energie Cottbus",
+            "4:4",
+            "13 Sep",
+            "Karlsruher SC\r\n - Energie Cottbus",
+            "-",
+            "1.00",
+            "1.00",
+            "0%",
+            "75%",
+            "94"
+        ],
+        [
+            "11",
+            "Hannover 96",
+            "4",
             "1",
+            "1",
+            "2",
             "4",
             "6",
             "-2",
             "4",
-            "8 Aug Karlsruher SC - \r\nBielefeld 2:1 15 Aug Kaiserslautern\r\n - Karlsruher SC 0:0 29 Aug Karlsruher SC - \r\nWolfsburg 2:5 4 Sep Hannover 96\r\n - Karlsruher SC -",
-            "8 Aug",
-            "Karlsruher SC - \r\nBielefeld",
-            "2:1",
-            "15 Aug",
-            "Kaiserslautern\r\n - Karlsruher SC",
-            "0:0",
-            "29 Aug",
-            "Karlsruher SC - \r\nWolfsburg",
-            "2:5",
+            "9 Aug Energie Cottbus\r\n - Hannover 96 3:1 16 Aug Hannover 96 - \r\nWolfsburg 0:1 30 Aug Darmstadt\r\n - Hannover 96 0:1 4 Sep Hannover 96 - \r\nKarlsruher SC 2:2 11 Sep FC Nurnberg\r\n - Hannover 96 -",
+            "9 Aug",
+            "Energie Cottbus\r\n - Hannover 96",
+            "3:1",
+            "16 Aug",
+            "Hannover 96 - \r\nWolfsburg",
+            "0:1",
+            "30 Aug",
+            "Darmstadt\r\n - Hannover 96",
+            "0:1",
             "4 Sep",
-            "Hannover 96\r\n - Karlsruher SC",
+            "Hannover 96 - \r\nKarlsruher SC",
+            "2:2",
+            "11 Sep",
+            "FC Nurnberg\r\n - Hannover 96",
             "-",
-            "1.33",
-            "1.33",
-            "33%",
-            "67%",
-            "97"
+            "1.00",
+            "1.00",
+            "25%",
+            "75%",
+            "94"
         ],
         [
-            "9",
+            "12",
             "Braunschweig",
             "3",
             "1",
@@ -271,37 +382,40 @@
             "96"
         ],
         [
-            "10",
-            "Bielefeld",
+            "13",
+            "Sankt Pauli",
+            "4",
+            "0",
             "3",
             "1",
-            "0",
-            "2",
-            "5",
             "6",
+            "7",
             "-1",
             "3",
-            "8 Aug Karlsruher SC\r\n - Bielefeld 2:1 16 Aug Bielefeld - \r\nEnergie Cottbus 3:0 29 Aug FC Nurnberg\r\n - Bielefeld 4:1 4 Sep Bielefeld - \r\nSankt Pauli -",
-            "8 Aug",
-            "Karlsruher SC\r\n - Bielefeld",
-            "2:1",
-            "16 Aug",
-            "Bielefeld - \r\nEnergie Cottbus",
-            "3:0",
-            "29 Aug",
-            "FC Nurnberg\r\n - Bielefeld",
-            "4:1",
+            "9 Aug Sankt Pauli - \r\nGreuther Furth 1:1 14 Aug Holstein Kiel\r\n - Sankt Pauli 2:2 30 Aug Sankt Pauli - \r\nKaiserslautern 1:2 4 Sep Bielefeld\r\n - Sankt Pauli 2:2 12 Sep Sankt Pauli - \r\nWolfsburg -",
+            "9 Aug",
+            "Sankt Pauli - \r\nGreuther Furth",
+            "1:1",
+            "14 Aug",
+            "Holstein Kiel\r\n - Sankt Pauli",
+            "2:2",
+            "30 Aug",
+            "Sankt Pauli - \r\nKaiserslautern",
+            "1:2",
             "4 Sep",
-            "Bielefeld - \r\nSankt Pauli",
+            "Bielefeld\r\n - Sankt Pauli",
+            "2:2",
+            "12 Sep",
+            "Sankt Pauli - \r\nWolfsburg",
             "-",
-            "1.00",
-            "1.00",
-            "33%",
+            "0.75",
+            "0.75",
+            "0%",
             "100%",
-            "96"
+            "93"
         ],
         [
-            "11",
+            "14",
             "Bochum",
             "3",
             "1",
@@ -331,67 +445,40 @@
             "96"
         ],
         [
-            "12",
-            "Energie Cottbus",
+            "15",
+            "Holstein Kiel",
+            "4",
+            "0",
             "3",
             "1",
-            "0",
-            "2",
             "6",
             "8",
             "-2",
             "3",
-            "9 Aug Energie Cottbus - \r\nHannover 96 3:1 16 Aug Bielefeld\r\n - Energie Cottbus 3:0 29 Aug Energie Cottbus - \r\nGreuther Furth 3:4 5 Sep Wolfsburg\r\n - Energie Cottbus -",
-            "9 Aug",
-            "Energie Cottbus - \r\nHannover 96",
-            "3:1",
-            "16 Aug",
-            "Bielefeld\r\n - Energie Cottbus",
-            "3:0",
-            "29 Aug",
-            "Energie Cottbus - \r\nGreuther Furth",
-            "3:4",
-            "5 Sep",
-            "Wolfsburg\r\n - Energie Cottbus",
-            "-",
-            "1.00",
-            "1.00",
-            "0%",
-            "67%",
-            "96"
-        ],
-        [
-            "13",
-            "Hannover 96",
-            "3",
-            "1",
-            "0",
-            "2",
-            "2",
-            "4",
-            "-2",
-            "3",
-            "9 Aug Energie Cottbus\r\n - Hannover 96 3:1 16 Aug Hannover 96 - \r\nWolfsburg 0:1 30 Aug Darmstadt\r\n - Hannover 96 0:1 4 Sep Hannover 96 - \r\nKarlsruher SC -",
-            "9 Aug",
-            "Energie Cottbus\r\n - Hannover 96",
-            "3:1",
-            "16 Aug",
-            "Hannover 96 - \r\nWolfsburg",
-            "0:1",
+            "8 Aug Darmstadt\r\n - Holstein Kiel 2:2 14 Aug Holstein Kiel - \r\nSankt Pauli 2:2 30 Aug Magdeburg\r\n - Holstein Kiel 2:0 5 Sep Holstein Kiel - \r\nFC Nurnberg 2:2 13 Sep Heidenheim\r\n - Holstein Kiel -",
+            "8 Aug",
+            "Darmstadt\r\n - Holstein Kiel",
+            "2:2",
+            "14 Aug",
+            "Holstein Kiel - \r\nSankt Pauli",
+            "2:2",
             "30 Aug",
-            "Darmstadt\r\n - Hannover 96",
-            "0:1",
-            "4 Sep",
-            "Hannover 96 - \r\nKarlsruher SC",
+            "Magdeburg\r\n - Holstein Kiel",
+            "2:0",
+            "5 Sep",
+            "Holstein Kiel - \r\nFC Nurnberg",
+            "2:2",
+            "13 Sep",
+            "Heidenheim\r\n - Holstein Kiel",
             "-",
-            "1.00",
-            "1.00",
-            "33%",
-            "67%",
-            "96"
+            "0.75",
+            "0.75",
+            "0%",
+            "75%",
+            "93"
         ],
         [
-            "14",
+            "16",
             "Osnabruck",
             "3",
             "1",
@@ -421,7 +508,7 @@
             "96"
         ],
         [
-            "15",
+            "17",
             "Dynamo Dresden",
             "3",
             "1",
@@ -451,77 +538,17 @@
             "96"
         ],
         [
-            "16",
-            "Sankt Pauli",
-            "3",
-            "0",
-            "2",
-            "1",
-            "4",
-            "5",
-            "-1",
-            "2",
-            "9 Aug Sankt Pauli - \r\nGreuther Furth 1:1 14 Aug Holstein Kiel\r\n - Sankt Pauli 2:2 30 Aug Sankt Pauli - \r\nKaiserslautern 1:2 4 Sep Bielefeld\r\n - Sankt Pauli -",
-            "9 Aug",
-            "Sankt Pauli - \r\nGreuther Furth",
-            "1:1",
-            "14 Aug",
-            "Holstein Kiel\r\n - Sankt Pauli",
-            "2:2",
-            "30 Aug",
-            "Sankt Pauli - \r\nKaiserslautern",
-            "1:2",
-            "4 Sep",
-            "Bielefeld\r\n - Sankt Pauli",
-            "-",
-            "0.67",
-            "0.67",
-            "0%",
-            "100%",
-            "95"
-        ],
-        [
-            "17",
-            "Holstein Kiel",
-            "3",
-            "0",
-            "2",
-            "1",
-            "4",
-            "6",
-            "-2",
-            "2",
-            "8 Aug Darmstadt\r\n - Holstein Kiel 2:2 14 Aug Holstein Kiel - \r\nSankt Pauli 2:2 30 Aug Magdeburg\r\n - Holstein Kiel 2:0 5 Sep Holstein Kiel - \r\nFC Nurnberg -",
-            "8 Aug",
-            "Darmstadt\r\n - Holstein Kiel",
-            "2:2",
-            "14 Aug",
-            "Holstein Kiel - \r\nSankt Pauli",
-            "2:2",
-            "30 Aug",
-            "Magdeburg\r\n - Holstein Kiel",
-            "2:0",
-            "5 Sep",
-            "Holstein Kiel - \r\nFC Nurnberg",
-            "-",
-            "0.67",
-            "0.67",
-            "0%",
-            "67%",
-            "95"
-        ],
-        [
             "18",
             "Darmstadt",
-            "3",
+            "4",
             "0",
             "1",
+            "3",
             "2",
-            "2",
-            "4",
-            "-2",
+            "7",
+            "-5",
             "1",
-            "8 Aug Darmstadt - \r\nHolstein Kiel 2:2 16 Aug Dynamo Dresden\r\n - Darmstadt 1:0 30 Aug Darmstadt - \r\nHannover 96 0:1 5 Sep Kaiserslautern\r\n - Darmstadt -",
+            "8 Aug Darmstadt - \r\nHolstein Kiel 2:2 16 Aug Dynamo Dresden\r\n - Darmstadt 1:0 30 Aug Darmstadt - \r\nHannover 96 0:1 5 Sep Kaiserslautern\r\n - Darmstadt 3:0 11 Sep Darmstadt - \r\nBielefeld -",
             "8 Aug",
             "Darmstadt - \r\nHolstein Kiel",
             "2:2",
@@ -533,48 +560,21 @@
             "0:1",
             "5 Sep",
             "Kaiserslautern\r\n - Darmstadt",
+            "3:0",
+            "11 Sep",
+            "Darmstadt - \r\nBielefeld",
             "-",
-            "0.33",
-            "0.33",
+            "0.25",
+            "0.25",
             "0%",
-            "33%",
-            "94"
+            "25%",
+            "91"
         ]
     ],
     "goles": [],
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "12:30",
-            "Local": "Bielefeld",
-            "Visita": "Sankt Pauli"
-        },
-        {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "12:30",
-            "Local": "Hannover 96",
-            "Visita": "Karlsruher SC"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "07:00",
-            "Local": "Holstein Kiel",
-            "Visita": "FC Nurnberg"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "07:00",
-            "Local": "Kaiserslautern",
-            "Visita": "Darmstadt"
-        },
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "07:00",
-            "Local": "Wolfsburg",
-            "Visita": "Energie Cottbus"
-        },
-        {
             "Fecha": "Sat 5 Sep",
             "Hora": "14:30",
             "Local": "Dynamo Dresden",
@@ -707,58 +707,112 @@
             "Visita": "Bochum"
         },
         {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
             "Local": "Bochum",
-            "Visita": "Magdeburg"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Darmstadt",
-            "Visita": "Greuther Furth"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Energie Cottbus",
             "Visita": "Holstein Kiel"
         },
         {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "FC Nurnberg",
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Darmstadt",
             "Visita": "Osnabruck"
         },
         {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Hannover 96",
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Energie Cottbus",
             "Visita": "Kaiserslautern"
         },
         {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Heidenheim",
-            "Visita": "Braunschweig"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Karlsruher SC",
-            "Visita": "Dynamo Dresden"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Sankt Pauli",
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "FC Nurnberg",
             "Visita": "Hertha Berlin"
         },
         {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "21:00",
-            "Local": "Wolfsburg",
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Hannover 96",
             "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 22 May",
+            "Hora": "20:00",
+            "Local": "Wolfsburg",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Bielefeld",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Energie Cottbus",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Greuther Furth",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Hannover 96",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 16 Oct",
+            "Hora": "20:00",
+            "Local": "Wolfsburg",
+            "Visita": "Heidenheim"
         },
         {
             "Fecha": "Fri 20 Nov",
@@ -813,6 +867,924 @@
             "Hora": "21:00",
             "Local": "Wolfsburg",
             "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 6 Nov",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 27 Nov",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Bielefeld",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Braunschweig",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Greuther Furth",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Magdeburg",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "20:00",
+            "Local": "Osnabruck",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Bochum",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Braunschweig",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Darmstadt",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Magdeburg",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Osnabruck",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "20:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 15 Jan",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 22 Jan",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 29 Jan",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Darmstadt",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Hannover 96",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "20:00",
+            "Local": "Wolfsburg",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Bochum",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Braunschweig",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Darmstadt",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Magdeburg",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "20:00",
+            "Local": "Osnabruck",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 30 Oct",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 4 Dec",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 5 Feb",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Fri 12 Feb",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Bielefeld",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Greuther Furth",
+            "Visita": "Bochum"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Hannover 96",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Osnabruck"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Heidenheim"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Kaiserslautern",
+            "Visita": "Magdeburg"
+        },
+        {
+            "Fecha": "Fri 19 Feb",
+            "Hora": "21:00",
+            "Local": "Wolfsburg",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Bochum",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Braunschweig",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Darmstadt",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "FC Nurnberg",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Heidenheim",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Dynamo Dresden"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Magdeburg",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Osnabruck",
+            "Visita": "Holstein Kiel"
+        },
+        {
+            "Fecha": "Fri 26 Feb",
+            "Hora": "21:00",
+            "Local": "Sankt Pauli",
+            "Visita": "Energie Cottbus"
         },
         {
             "Fecha": "Mon 2 Mar",
@@ -1031,385 +2003,583 @@
             "Visita": "Wolfsburg"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
-            "Local": "Bochum",
-            "Visita": "Bielefeld"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Braunschweig",
+            "Local": "Bielefeld",
             "Visita": "Holstein Kiel"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
             "Local": "Darmstadt",
-            "Visita": "Energie Cottbus"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "FC Nurnberg",
-            "Visita": "Wolfsburg"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Heidenheim",
-            "Visita": "Kaiserslautern"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Hertha Berlin",
-            "Visita": "Greuther Furth"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Magdeburg",
-            "Visita": "Hannover 96"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Osnabruck",
-            "Visita": "Dynamo Dresden"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "20:00",
-            "Local": "Sankt Pauli",
-            "Visita": "Karlsruher SC"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Bielefeld",
-            "Visita": "Osnabruck"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Dynamo Dresden",
-            "Visita": "Magdeburg"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Energie Cottbus",
             "Visita": "FC Nurnberg"
         },
         {
-            "Fecha": "Fri 16 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
-            "Local": "Greuther Furth",
+            "Local": "Energie Cottbus",
             "Visita": "Braunschweig"
         },
         {
-            "Fecha": "Fri 16 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
-            "Local": "Hannover 96",
-            "Visita": "Sankt Pauli"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Holstein Kiel",
-            "Visita": "Hertha Berlin"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Kaiserslautern",
-            "Visita": "Bochum"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Karlsruher SC",
-            "Visita": "Darmstadt"
-        },
-        {
-            "Fecha": "Fri 16 Oct",
-            "Hora": "20:00",
-            "Local": "Wolfsburg",
-            "Visita": "Heidenheim"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Bochum",
-            "Visita": "Wolfsburg"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Braunschweig",
-            "Visita": "Hannover 96"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Darmstadt",
-            "Visita": "Sankt Pauli"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "FC Nurnberg",
-            "Visita": "Kaiserslautern"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Heidenheim",
-            "Visita": "Energie Cottbus"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Hertha Berlin",
-            "Visita": "Bielefeld"
-        },
-        {
-            "Fecha": "Fri 23 Oct",
-            "Hora": "20:00",
-            "Local": "Holstein Kiel",
+            "Local": "Greuther Furth",
             "Visita": "Dynamo Dresden"
         },
         {
-            "Fecha": "Fri 23 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
-            "Local": "Magdeburg",
-            "Visita": "Karlsruher SC"
+            "Local": "Hannover 96",
+            "Visita": "Heidenheim"
         },
         {
-            "Fecha": "Fri 23 Oct",
+            "Fecha": "Thu 2 Apr",
             "Hora": "20:00",
-            "Local": "Osnabruck",
-            "Visita": "Greuther Furth"
+            "Local": "Kaiserslautern",
+            "Visita": "Osnabruck"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Bielefeld",
-            "Visita": "Braunschweig"
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Karlsruher SC",
+            "Visita": "Bochum"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Darmstadt",
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Sankt Pauli",
             "Visita": "Magdeburg"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Energie Cottbus",
+            "Fecha": "Thu 2 Apr",
+            "Hora": "20:00",
+            "Local": "Wolfsburg",
+            "Visita": "Hertha Berlin"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Bochum",
+            "Visita": "Sankt Pauli"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Braunschweig",
+            "Visita": "FC Nurnberg"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Dynamo Dresden",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Greuther Furth",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
+            "Visita": "Darmstadt"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Energie Cottbus"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Magdeburg",
+            "Visita": "Bielefeld"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "20:00",
+            "Local": "Osnabruck",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Bielefeld",
+            "Visita": "Greuther Furth"
+        },
+        {
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Darmstadt",
             "Visita": "Bochum"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Greuther Furth",
-            "Visita": "Holstein Kiel"
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Energie Cottbus",
+            "Visita": "Magdeburg"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Hannover 96",
-            "Visita": "Dynamo Dresden"
-        },
-        {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Kaiserslautern",
-            "Visita": "Hertha Berlin"
-        },
-        {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Karlsruher SC",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "FC Nurnberg",
             "Visita": "Heidenheim"
         },
         {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Sankt Pauli",
-            "Visita": "FC Nurnberg"
-        },
-        {
-            "Fecha": "Fri 30 Oct",
-            "Hora": "21:00",
-            "Local": "Wolfsburg",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Hannover 96",
             "Visita": "Osnabruck"
         },
         {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Bochum",
-            "Visita": "Darmstadt"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Braunschweig",
-            "Visita": "Wolfsburg"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Dynamo Dresden",
-            "Visita": "Sankt Pauli"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Greuther Furth",
-            "Visita": "Bielefeld"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Heidenheim",
-            "Visita": "FC Nurnberg"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Hertha Berlin",
-            "Visita": "Karlsruher SC"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Holstein Kiel",
-            "Visita": "Kaiserslautern"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Magdeburg",
-            "Visita": "Energie Cottbus"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "21:00",
-            "Local": "Osnabruck",
-            "Visita": "Hannover 96"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Bochum",
-            "Visita": "Dynamo Dresden"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Braunschweig",
-            "Visita": "Osnabruck"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Darmstadt",
-            "Visita": "Kaiserslautern"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Energie Cottbus",
-            "Visita": "Wolfsburg"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "FC Nurnberg",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Kaiserslautern",
             "Visita": "Holstein Kiel"
         },
         {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Heidenheim",
-            "Visita": "Greuther Furth"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
             "Local": "Karlsruher SC",
-            "Visita": "Hannover 96"
-        },
-        {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
-            "Local": "Magdeburg",
             "Visita": "Hertha Berlin"
         },
         {
-            "Fecha": "Fri 12 Feb",
-            "Hora": "21:00",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
             "Local": "Sankt Pauli",
-            "Visita": "Bielefeld"
+            "Visita": "Dynamo Dresden"
         },
         {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
+            "Fecha": "Thu 16 Apr",
+            "Hora": "20:00",
+            "Local": "Wolfsburg",
+            "Visita": "Braunschweig"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
             "Local": "Bochum",
-            "Visita": "Karlsruher SC"
+            "Visita": "FC Nurnberg"
         },
         {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
             "Local": "Braunschweig",
-            "Visita": "Energie Cottbus"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Dynamo Dresden",
-            "Visita": "Greuther Furth"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "FC Nurnberg",
             "Visita": "Darmstadt"
         },
         {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Heidenheim",
-            "Visita": "Hannover 96"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Hertha Berlin",
-            "Visita": "Wolfsburg"
-        },
-        {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Holstein Kiel",
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Dynamo Dresden",
             "Visita": "Bielefeld"
         },
         {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
-            "Local": "Magdeburg",
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Greuther Furth",
+            "Visita": "Kaiserslautern"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Heidenheim",
             "Visita": "Sankt Pauli"
         },
         {
-            "Fecha": "Fri 6 Nov",
-            "Hora": "21:00",
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Hertha Berlin",
+            "Visita": "Hannover 96"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Holstein Kiel",
+            "Visita": "Karlsruher SC"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
+            "Local": "Magdeburg",
+            "Visita": "Wolfsburg"
+        },
+        {
+            "Fecha": "Thu 23 Apr",
+            "Hora": "20:00",
             "Local": "Osnabruck",
-            "Visita": "Kaiserslautern"
+            "Visita": "Energie Cottbus"
         }
     ],
     "estadisticas_avanzadas": {
+        "Bielefeld": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Bielefeld",
+                    "Visita": "Sankt Pauli",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Bielefeld",
+                    "Visita": "Energie Cottbus",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Karlsruher SC",
+                    "Visita": "Bielefeld",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[4:1]",
+                    "Local": "FC Nurnberg",
+                    "Visita": "Bielefeld",
+                    "HT": "3-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Sankt Pauli": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Bielefeld",
+                    "Visita": "Sankt Pauli",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 14 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Holstein Kiel",
+                    "Visita": "Sankt Pauli",
+                    "HT": "0-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Sankt Pauli",
+                    "Visita": "Greuther Furth",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Sankt Pauli",
+                    "Visita": "Kaiserslautern",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Hannover 96": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Hannover 96",
+                    "Visita": "Karlsruher SC",
+                    "HT": "2-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Hannover 96",
+                    "Visita": "Wolfsburg",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[3:1]",
+                    "Local": "Energie Cottbus",
+                    "Visita": "Hannover 96",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Darmstadt",
+                    "Visita": "Hannover 96",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Karlsruher SC": {
+            "historial": [
+                {
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Hannover 96",
+                    "Visita": "Karlsruher SC",
+                    "HT": "2-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Kaiserslautern",
+                    "Visita": "Karlsruher SC",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Karlsruher SC",
+                    "Visita": "Bielefeld",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:5]",
+                    "Local": "Karlsruher SC",
+                    "Visita": "Wolfsburg",
+                    "HT": "2-3",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Holstein Kiel": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Holstein Kiel",
+                    "Visita": "FC Nurnberg",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 14 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Holstein Kiel",
+                    "Visita": "Sankt Pauli",
+                    "HT": "0-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Darmstadt",
+                    "Visita": "Holstein Kiel",
+                    "HT": "0-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Magdeburg",
+                    "Visita": "Holstein Kiel",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "FC Nurnberg": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[2:2]",
+                    "Local": "Holstein Kiel",
+                    "Visita": "FC Nurnberg",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[2:4]",
+                    "Local": "Greuther Furth",
+                    "Visita": "FC Nurnberg",
+                    "HT": "2-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[3:0]",
+                    "Local": "FC Nurnberg",
+                    "Visita": "Dynamo Dresden",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[4:1]",
+                    "Local": "FC Nurnberg",
+                    "Visita": "Bielefeld",
+                    "HT": "3-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Kaiserslautern": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[3:0]",
+                    "Local": "Kaiserslautern",
+                    "Visita": "Darmstadt",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Kaiserslautern",
+                    "Visita": "Karlsruher SC",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Wolfsburg",
+                    "Visita": "Kaiserslautern",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Sankt Pauli",
+                    "Visita": "Kaiserslautern",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Darmstadt": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[3:0]",
+                    "Local": "Kaiserslautern",
+                    "Visita": "Darmstadt",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Dynamo Dresden",
+                    "Visita": "Darmstadt",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Darmstadt",
+                    "Visita": "Holstein Kiel",
+                    "HT": "0-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Darmstadt",
+                    "Visita": "Hannover 96",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Wolfsburg": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[4:4]",
+                    "Local": "Wolfsburg",
+                    "Visita": "Energie Cottbus",
+                    "HT": "3-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Hannover 96",
+                    "Visita": "Wolfsburg",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 8 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Wolfsburg",
+                    "Visita": "Kaiserslautern",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[2:5]",
+                    "Local": "Karlsruher SC",
+                    "Visita": "Wolfsburg",
+                    "HT": "2-3",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Energie Cottbus": {
+            "historial": [
+                {
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[4:4]",
+                    "Local": "Wolfsburg",
+                    "Visita": "Energie Cottbus",
+                    "HT": "3-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Bielefeld",
+                    "Visita": "Energie Cottbus",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 9 Aug",
+                    "Res": "[3:1]",
+                    "Local": "Energie Cottbus",
+                    "Visita": "Hannover 96",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[3:4]",
+                    "Local": "Energie Cottbus",
+                    "Visita": "Greuther Furth",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
         "Braunschweig": {
             "historial": [
                 {
@@ -1421,20 +2591,20 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:5]",
-                    "Local": "Braunschweig",
-                    "Visita": "Hertha Berlin",
-                    "HT": "2-2",
-                    "Status": "🔴"
-                },
-                {
                     "Fecha": "Sat 8 Aug",
                     "Res": "[1:6]",
                     "Local": "Magdeburg",
                     "Visita": "Braunschweig",
                     "HT": "0-4",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[3:5]",
+                    "Local": "Braunschweig",
+                    "Visita": "Hertha Berlin",
+                    "HT": "2-2",
+                    "Status": "🔴"
                 }
             ]
         },
@@ -1449,76 +2619,20 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Bochum",
-                    "Visita": "Osnabruck",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
                     "Fecha": "Fri 7 Aug",
                     "Res": "[0:1]",
                     "Local": "Bochum",
                     "Visita": "Hertha Berlin",
                     "HT": "0-1",
                     "Status": "🔴"
-                }
-            ]
-        },
-        "Holstein Kiel": {
-            "historial": [
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Holstein Kiel",
-                    "Visita": "Sankt Pauli",
-                    "HT": "0-2",
-                    "Status": "🟡"
                 },
                 {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Magdeburg",
-                    "Visita": "Holstein Kiel",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Darmstadt",
-                    "Visita": "Holstein Kiel",
-                    "HT": "0-2",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Sankt Pauli": {
-            "historial": [
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Holstein Kiel",
-                    "Visita": "Sankt Pauli",
-                    "HT": "0-2",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Sankt Pauli",
-                    "Visita": "Kaiserslautern",
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Bochum",
+                    "Visita": "Osnabruck",
                     "HT": "0-1",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Sankt Pauli",
-                    "Visita": "Greuther Furth",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1533,47 +2647,19 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[3:4]",
-                    "Local": "Energie Cottbus",
-                    "Visita": "Greuther Furth",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sun 9 Aug",
                     "Res": "[1:1]",
                     "Local": "Sankt Pauli",
                     "Visita": "Greuther Furth",
                     "HT": "0-0",
                     "Status": "🟡"
-                }
-            ]
-        },
-        "FC Nurnberg": {
-            "historial": [
-                {
-                    "Fecha": "Sat 15 Aug",
-                    "Res": "[2:4]",
-                    "Local": "Greuther Furth",
-                    "Visita": "FC Nurnberg",
-                    "HT": "2-2",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 29 Aug",
-                    "Res": "[4:1]",
-                    "Local": "FC Nurnberg",
-                    "Visita": "Bielefeld",
-                    "HT": "3-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[3:0]",
-                    "Local": "FC Nurnberg",
-                    "Visita": "Dynamo Dresden",
-                    "HT": "2-0",
+                    "Res": "[3:4]",
+                    "Local": "Energie Cottbus",
+                    "Visita": "Greuther Furth",
+                    "HT": "1-1",
                     "Status": "🟢"
                 }
             ]
@@ -1589,19 +2675,19 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:5]",
-                    "Local": "Braunschweig",
-                    "Visita": "Hertha Berlin",
-                    "HT": "2-2",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Fri 7 Aug",
                     "Res": "[0:1]",
                     "Local": "Bochum",
                     "Visita": "Hertha Berlin",
                     "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[3:5]",
+                    "Local": "Braunschweig",
+                    "Visita": "Hertha Berlin",
+                    "HT": "2-2",
                     "Status": "🟢"
                 }
             ]
@@ -1617,19 +2703,19 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[5:3]",
-                    "Local": "Heidenheim",
-                    "Visita": "Dynamo Dresden",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sat 8 Aug",
                     "Res": "[4:3]",
                     "Local": "Heidenheim",
                     "Visita": "Osnabruck",
                     "HT": "3-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[5:3]",
+                    "Local": "Heidenheim",
+                    "Visita": "Dynamo Dresden",
+                    "HT": "0-1",
                     "Status": "🟢"
                 }
             ]
@@ -1645,20 +2731,20 @@
                     "Status": "🔴"
                 },
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Bochum",
-                    "Visita": "Osnabruck",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sat 8 Aug",
                     "Res": "[4:3]",
                     "Local": "Heidenheim",
                     "Visita": "Osnabruck",
                     "HT": "3-2",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Bochum",
+                    "Visita": "Osnabruck",
+                    "HT": "0-1",
+                    "Status": "🟢"
                 }
             ]
         },
@@ -1673,131 +2759,19 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[2:0]",
-                    "Local": "Magdeburg",
-                    "Visita": "Holstein Kiel",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
                     "Fecha": "Sat 8 Aug",
                     "Res": "[1:6]",
                     "Local": "Magdeburg",
                     "Visita": "Braunschweig",
                     "HT": "0-4",
                     "Status": "🔴"
-                }
-            ]
-        },
-        "Kaiserslautern": {
-            "historial": [
-                {
-                    "Fecha": "Sat 15 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Kaiserslautern",
-                    "Visita": "Karlsruher SC",
-                    "HT": "0-0",
-                    "Status": "🟡"
                 },
                 {
                     "Fecha": "Sun 30 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Sankt Pauli",
-                    "Visita": "Kaiserslautern",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Wolfsburg",
-                    "Visita": "Kaiserslautern",
+                    "Res": "[2:0]",
+                    "Local": "Magdeburg",
+                    "Visita": "Holstein Kiel",
                     "HT": "0-0",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Karlsruher SC": {
-            "historial": [
-                {
-                    "Fecha": "Sat 15 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Kaiserslautern",
-                    "Visita": "Karlsruher SC",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[2:5]",
-                    "Local": "Karlsruher SC",
-                    "Visita": "Wolfsburg",
-                    "HT": "2-3",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Karlsruher SC",
-                    "Visita": "Bielefeld",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Bielefeld": {
-            "historial": [
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Bielefeld",
-                    "Visita": "Energie Cottbus",
-                    "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[4:1]",
-                    "Local": "FC Nurnberg",
-                    "Visita": "Bielefeld",
-                    "HT": "3-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Karlsruher SC",
-                    "Visita": "Bielefeld",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Energie Cottbus": {
-            "historial": [
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[3:0]",
-                    "Local": "Bielefeld",
-                    "Visita": "Energie Cottbus",
-                    "HT": "2-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[3:4]",
-                    "Local": "Energie Cottbus",
-                    "Visita": "Greuther Furth",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Energie Cottbus",
-                    "Visita": "Hannover 96",
-                    "HT": "1-1",
                     "Status": "🟢"
                 }
             ]
@@ -1813,104 +2787,20 @@
                     "Status": "🟢"
                 },
                 {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[5:3]",
-                    "Local": "Heidenheim",
-                    "Visita": "Dynamo Dresden",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
                     "Fecha": "Sun 9 Aug",
                     "Res": "[3:0]",
                     "Local": "FC Nurnberg",
                     "Visita": "Dynamo Dresden",
                     "HT": "2-0",
                     "Status": "🔴"
-                }
-            ]
-        },
-        "Darmstadt": {
-            "historial": [
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Dynamo Dresden",
-                    "Visita": "Darmstadt",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Darmstadt",
-                    "Visita": "Hannover 96",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Darmstadt",
-                    "Visita": "Holstein Kiel",
-                    "HT": "0-2",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "Hannover 96": {
-            "historial": [
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Hannover 96",
-                    "Visita": "Wolfsburg",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Darmstadt",
-                    "Visita": "Hannover 96",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Energie Cottbus",
-                    "Visita": "Hannover 96",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Wolfsburg": {
-            "historial": [
-                {
-                    "Fecha": "Sun 16 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Hannover 96",
-                    "Visita": "Wolfsburg",
-                    "HT": "0-0",
-                    "Status": "🟢"
                 },
                 {
                     "Fecha": "Sat 29 Aug",
-                    "Res": "[2:5]",
-                    "Local": "Karlsruher SC",
-                    "Visita": "Wolfsburg",
-                    "HT": "2-3",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[0:0]",
-                    "Local": "Wolfsburg",
-                    "Visita": "Kaiserslautern",
-                    "HT": "0-0",
-                    "Status": "🟡"
+                    "Res": "[5:3]",
+                    "Local": "Heidenheim",
+                    "Visita": "Dynamo Dresden",
+                    "HT": "0-1",
+                    "Status": "🔴"
                 }
             ]
         }

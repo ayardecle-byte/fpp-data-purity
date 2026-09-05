@@ -33,15 +33,15 @@
         [
             "2",
             "Real Madrid",
-            "3",
+            "4",
             "3",
             "0",
-            "0",
+            "1",
             "10",
-            "2",
-            "+8",
+            "3",
+            "+7",
             "9",
-            "22 Aug Espanyol\r\n - Real Madrid 1:2 26 Aug Real Madrid - \r\nReal Sociedad 4:1 30 Aug Real Madrid - \r\nMalaga 4:0 4 Sep Real Betis\r\n - Real Madrid -",
+            "22 Aug Espanyol\r\n - Real Madrid 1:2 26 Aug Real Madrid - \r\nReal Sociedad 4:1 30 Aug Real Madrid - \r\nMalaga 4:0 4 Sep Real Betis\r\n - Real Madrid 1:0 12 Sep Real Madrid - \r\nRayo Vallecano -",
             "22 Aug",
             "Espanyol\r\n - Real Madrid",
             "1:2",
@@ -53,15 +53,51 @@
             "4:0",
             "4 Sep",
             "Real Betis\r\n - Real Madrid",
+            "1:0",
+            "12 Sep",
+            "Real Madrid - \r\nRayo Vallecano",
             "-",
-            "3.00",
-            "3.00",
-            "33%",
-            "100%",
-            "114"
+            "2.25",
+            "2.25",
+            "25%",
+            "75%",
+            "111"
         ],
         [
             "3",
+            "Real Betis",
+            "4",
+            "3",
+            "0",
+            "1",
+            "5",
+            "5",
+            "0",
+            "9",
+            "21 Aug Real Betis - \r\nReal Sociedad 1:0 25 Aug Valencia\r\n - Real Betis 0:1 29 Aug Levante\r\n - Real Betis 5:2 4 Sep Real Betis - \r\nReal Madrid 1:0 14 Sep Villarreal\r\n - Real Betis -",
+            "21 Aug",
+            "Real Betis - \r\nReal Sociedad",
+            "1:0",
+            "25 Aug",
+            "Valencia\r\n - Real Betis",
+            "0:1",
+            "29 Aug",
+            "Levante\r\n - Real Betis",
+            "5:2",
+            "4 Sep",
+            "Real Betis - \r\nReal Madrid",
+            "1:0",
+            "14 Sep",
+            "Villarreal\r\n - Real Betis",
+            "-",
+            "2.25",
+            "2.25",
+            "75%",
+            "100%",
+            "111"
+        ],
+        [
+            "4",
             "Atletico Madrid",
             "3",
             "2",
@@ -91,7 +127,7 @@
             "112"
         ],
         [
-            "4",
+            "5",
             "Alaves",
             "3",
             "2",
@@ -121,7 +157,7 @@
             "112"
         ],
         [
-            "5",
+            "6",
             "Osasuna",
             "3",
             "2",
@@ -151,7 +187,7 @@
             "112"
         ],
         [
-            "6",
+            "7",
             "Sevilla FC",
             "3",
             "2",
@@ -177,36 +213,6 @@
             "2.00",
             "2.00",
             "0%",
-            "100%",
-            "111"
-        ],
-        [
-            "7",
-            "Real Betis",
-            "3",
-            "2",
-            "0",
-            "1",
-            "4",
-            "5",
-            "-1",
-            "6",
-            "21 Aug Real Betis - \r\nReal Sociedad 1:0 25 Aug Valencia\r\n - Real Betis 0:1 29 Aug Levante\r\n - Real Betis 5:2 4 Sep Real Betis - \r\nReal Madrid -",
-            "21 Aug",
-            "Real Betis - \r\nReal Sociedad",
-            "1:0",
-            "25 Aug",
-            "Valencia\r\n - Real Betis",
-            "0:1",
-            "29 Aug",
-            "Levante\r\n - Real Betis",
-            "5:2",
-            "4 Sep",
-            "Real Betis - \r\nReal Madrid",
-            "-",
-            "2.00",
-            "2.00",
-            "67%",
             "100%",
             "111"
         ],
@@ -611,12 +617,6 @@
     "corners": {},
     "fixture": [
         {
-            "Fecha": "Fri 4 Sep",
-            "Hora": "15:00",
-            "Local": "Real Betis",
-            "Visita": "Real Madrid"
-        },
-        {
             "Fecha": "Sat 5 Sep",
             "Hora": "10:15",
             "Local": "Athletic Bilbao",
@@ -845,64 +845,64 @@
             "Visita": "Real Sociedad"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Espanyol",
+            "Local": "Atletico Madrid",
             "Visita": "FC Barcelona"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Levante",
-            "Visita": "Valencia"
+            "Local": "Celta Vigo",
+            "Visita": "Levante"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
+            "Hora": "21:00",
+            "Local": "Elche",
+            "Visita": "Real Betis"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
+            "Hora": "21:00",
+            "Local": "Espanyol",
+            "Visita": "Deportivo"
+        },
+        {
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
             "Local": "Malaga",
-            "Visita": "Elche"
+            "Visita": "Racing"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Racing",
+            "Local": "Osasuna",
             "Visita": "Athletic Bilbao"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Atletico Madrid"
+            "Local": "Real Sociedad",
+            "Visita": "Rayo Vallecano"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Real Betis",
+            "Local": "Sevilla FC",
             "Visita": "Alaves"
         },
         {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
-            "Local": "Real Madrid",
-            "Visita": "Getafe"
+            "Local": "Valencia",
+            "Visita": "Real Madrid"
         },
         {
-            "Fecha": "Sat 2 Jan",
-            "Hora": "21:00",
-            "Local": "Real Sociedad",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 2 Jan",
+            "Fecha": "Sat 7 Nov",
             "Hora": "21:00",
             "Local": "Villarreal",
-            "Visita": "Sevilla FC"
+            "Visita": "Getafe"
         },
         {
             "Fecha": "Sat 9 Jan",
@@ -965,244 +965,64 @@
             "Visita": "Malaga"
         },
         {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Atletico Madrid",
-            "Visita": "Real Sociedad"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "FC Barcelona",
-            "Visita": "Elche"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Getafe",
-            "Visita": "Athletic Bilbao"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Levante",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Malaga",
-            "Visita": "Real Madrid"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Racing",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Real Betis",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "21:00",
-            "Local": "Villarreal",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Alaves",
-            "Visita": "FC Barcelona"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
             "Local": "Athletic Bilbao",
-            "Visita": "Levante"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Deportivo",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Elche",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Espanyol",
-            "Visita": "Villarreal"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Getafe",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Racing",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Real Madrid",
-            "Visita": "Real Betis"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Real Sociedad",
-            "Visita": "Malaga"
-        },
-        {
-            "Fecha": "Sat 23 Jan",
-            "Hora": "21:00",
-            "Local": "Valencia",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Atletico Madrid",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Getafe"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "FC Barcelona",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Levante",
-            "Visita": "Real Sociedad"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Malaga",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Osasuna",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Real Madrid"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Real Betis",
-            "Visita": "Elche"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Sevilla FC",
-            "Visita": "Athletic Bilbao"
-        },
-        {
-            "Fecha": "Sat 30 Jan",
-            "Hora": "21:00",
-            "Local": "Villarreal",
             "Visita": "Racing"
         },
         {
-            "Fecha": "Sat 10 Oct",
+            "Fecha": "Fri 3 Apr",
             "Hora": "20:00",
-            "Local": "Alaves",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Elche",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "FC Barcelona",
-            "Visita": "Getafe"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Levante",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Malaga",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Racing",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Athletic Bilbao"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Real Betis",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 10 Oct",
-            "Hora": "20:00",
-            "Local": "Real Madrid",
+            "Local": "Deportivo",
             "Visita": "Villarreal"
         },
         {
-            "Fecha": "Sat 10 Oct",
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Elche",
+            "Visita": "Alaves"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "FC Barcelona",
+            "Visita": "Sevilla FC"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Getafe",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Levante",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Malaga",
+            "Visita": "Osasuna"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Real Betis",
+            "Visita": "Celta Vigo"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
+            "Hora": "20:00",
+            "Local": "Real Madrid",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Fri 3 Apr",
             "Hora": "20:00",
             "Local": "Real Sociedad",
-            "Visita": "Deportivo"
+            "Visita": "Valencia"
         },
         {
             "Fecha": "Fri 10 Apr",
@@ -1265,6 +1085,366 @@
             "Visita": "Athletic Bilbao"
         },
         {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Alaves",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Atletico Madrid",
+            "Visita": "Sevilla FC"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Deportivo",
+            "Visita": "Celta Vigo"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Elche",
+            "Visita": "Osasuna"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "FC Barcelona",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Getafe",
+            "Visita": "Real Madrid"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Levante",
+            "Visita": "Villarreal"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Malaga",
+            "Visita": "Valencia"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Real Betis",
+            "Visita": "Athletic Bilbao"
+        },
+        {
+            "Fecha": "Fri 17 Apr",
+            "Hora": "20:00",
+            "Local": "Real Sociedad",
+            "Visita": "Racing"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Athletic Bilbao",
+            "Visita": "Deportivo"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Celta Vigo",
+            "Visita": "FC Barcelona"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Espanyol",
+            "Visita": "Real Sociedad"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Getafe",
+            "Visita": "Real Betis"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Osasuna",
+            "Visita": "Alaves"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Racing",
+            "Visita": "Malaga"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Real Madrid",
+            "Visita": "Elche"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Sevilla FC",
+            "Visita": "Levante"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Valencia",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Mon 20 Apr",
+            "Hora": "20:00",
+            "Local": "Villarreal",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Athletic Bilbao",
+            "Visita": "FC Barcelona"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Celta Vigo",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Getafe",
+            "Visita": "Alaves"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Levante",
+            "Visita": "Deportivo"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Malaga",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Osasuna",
+            "Visita": "Sevilla FC"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Racing",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Real Betis",
+            "Visita": "Villarreal"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Real Madrid",
+            "Visita": "Valencia"
+        },
+        {
+            "Fecha": "Sat 27 Feb",
+            "Hora": "21:00",
+            "Local": "Real Sociedad",
+            "Visita": "Elche"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Alaves",
+            "Visita": "Sevilla FC"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Athletic Bilbao",
+            "Visita": "Valencia"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Elche",
+            "Visita": "Villarreal"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "FC Barcelona",
+            "Visita": "Deportivo"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Getafe",
+            "Visita": "Real Sociedad"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Malaga",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Osasuna",
+            "Visita": "Celta Vigo"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Racing",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Real Betis",
+            "Visita": "Levante"
+        },
+        {
+            "Fecha": "Fri 13 Mar",
+            "Hora": "21:00",
+            "Local": "Real Madrid",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Alaves",
+            "Visita": "Elche"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Athletic Bilbao",
+            "Visita": "Real Betis"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Celta Vigo",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Deportivo",
+            "Visita": "Real Madrid"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "FC Barcelona",
+            "Visita": "Real Sociedad"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Getafe",
+            "Visita": "Levante"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Osasuna",
+            "Visita": "Villarreal"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Rayo Vallecano",
+            "Visita": "Malaga"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Sevilla FC",
+            "Visita": "Racing"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "21:00",
+            "Local": "Valencia",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Celta Vigo",
+            "Visita": "Rayo Vallecano"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Elche",
+            "Visita": "Deportivo"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Levante",
+            "Visita": "Malaga"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Osasuna",
+            "Visita": "Atletico Madrid"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Racing",
+            "Visita": "Getafe"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Real Madrid",
+            "Visita": "Athletic Bilbao"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Real Sociedad",
+            "Visita": "Real Betis"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Sevilla FC",
+            "Visita": "Espanyol"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Valencia",
+            "Visita": "Alaves"
+        },
+        {
+            "Fecha": "Sat 13 Feb",
+            "Hora": "21:00",
+            "Local": "Villarreal",
+            "Visita": "FC Barcelona"
+        },
+        {
             "Fecha": "Sat 5 Dec",
             "Hora": "21:00",
             "Local": "Alaves",
@@ -1383,426 +1563,6 @@
             "Hora": "21:00",
             "Local": "Villarreal",
             "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Alaves",
-            "Visita": "Elche"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "Real Betis"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Deportivo",
-            "Visita": "Real Madrid"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "FC Barcelona",
-            "Visita": "Real Sociedad"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Getafe",
-            "Visita": "Levante"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Osasuna",
-            "Visita": "Villarreal"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Malaga"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Sevilla FC",
-            "Visita": "Racing"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "21:00",
-            "Local": "Valencia",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Alaves",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Deportivo",
-            "Visita": "Malaga"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Elche",
-            "Visita": "Levante"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Espanyol",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "FC Barcelona",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Getafe",
-            "Visita": "Villarreal"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Real Betis",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Real Sociedad",
-            "Visita": "Real Madrid"
-        },
-        {
-            "Fecha": "Sat 6 Feb",
-            "Hora": "21:00",
-            "Local": "Valencia",
-            "Visita": "Racing"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Elche",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Levante",
-            "Visita": "Malaga"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Osasuna",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Racing",
-            "Visita": "Getafe"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Real Madrid",
-            "Visita": "Athletic Bilbao"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Real Sociedad",
-            "Visita": "Real Betis"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Sevilla FC",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Valencia",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Sat 13 Feb",
-            "Hora": "21:00",
-            "Local": "Villarreal",
-            "Visita": "FC Barcelona"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Alaves",
-            "Visita": "Racing"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Atletico Madrid",
-            "Visita": "Elche"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Deportivo",
-            "Visita": "Real Sociedad"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Espanyol",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "FC Barcelona",
-            "Visita": "Levante"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Malaga",
-            "Visita": "Real Betis"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Rayo Vallecano",
-            "Visita": "Getafe"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Sevilla FC",
-            "Visita": "Real Madrid"
-        },
-        {
-            "Fecha": "Sat 20 Feb",
-            "Hora": "21:00",
-            "Local": "Villarreal",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "FC Barcelona"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Celta Vigo",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Getafe",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Levante",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Malaga",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Osasuna",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Racing",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Real Betis",
-            "Visita": "Villarreal"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Real Madrid",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Sat 27 Feb",
-            "Hora": "21:00",
-            "Local": "Real Sociedad",
-            "Visita": "Elche"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "Racing"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Deportivo",
-            "Visita": "Villarreal"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Elche",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "FC Barcelona",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Getafe",
-            "Visita": "Espanyol"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Levante",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Malaga",
-            "Visita": "Osasuna"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Real Betis",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Real Madrid",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Fri 3 Apr",
-            "Hora": "20:00",
-            "Local": "Real Sociedad",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Athletic Bilbao",
-            "Visita": "Rayo Vallecano"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Elche",
-            "Visita": "Racing"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Espanyol",
-            "Visita": "Alaves"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Getafe",
-            "Visita": "FC Barcelona"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Levante",
-            "Visita": "Celta Vigo"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Malaga",
-            "Visita": "Sevilla FC"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Osasuna",
-            "Visita": "Valencia"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Real Betis",
-            "Visita": "Atletico Madrid"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Real Madrid",
-            "Visita": "Deportivo"
-        },
-        {
-            "Fecha": "Fri 29 May",
-            "Hora": "20:00",
-            "Local": "Real Sociedad",
-            "Visita": "Villarreal"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1815,6 +1575,22 @@
                     "Visita": "Celta Vigo",
                     "HT": "0-0",
                     "Status": "🟡"
+                },
+                {
+                    "Fecha": "Fri 21 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Real Betis",
+                    "Visita": "Real Sociedad",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Wed 26 Aug",
+                    "Res": "[4:1]",
+                    "Local": "Real Madrid",
+                    "Visita": "Real Sociedad",
+                    "HT": "1-1",
+                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Sat 29 Aug",
@@ -1837,6 +1613,22 @@
                     "Status": "🟡"
                 },
                 {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Valencia",
+                    "Visita": "Celta Vigo",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 27 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Celta Vigo",
+                    "Visita": "Osasuna",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
+                {
                     "Fecha": "Sun 30 Aug",
                     "Res": "[0:2]",
                     "Local": "Celta Vigo",
@@ -1846,38 +1638,214 @@
                 }
             ]
         },
-        "Racing": {
+        "Real Betis": {
             "historial": [
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Racing",
-                    "Visita": "Elche",
-                    "HT": "3-0",
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[1:0]",
+                    "Local": "Real Betis",
+                    "Visita": "Real Madrid",
+                    "HT": "0-0",
                     "Status": "🟢"
+                },
+                {
+                    "Fecha": "Fri 21 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Real Betis",
+                    "Visita": "Real Sociedad",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Tue 25 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Valencia",
+                    "Visita": "Real Betis",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[5:2]",
+                    "Local": "Levante",
+                    "Visita": "Real Betis",
+                    "HT": "2-2",
+                    "Status": "🔴"
                 }
             ]
         },
-        "Elche": {
+        "Real Madrid": {
             "historial": [
                 {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Racing",
-                    "Visita": "Elche",
-                    "HT": "3-0",
+                    "Fecha": "Fri 4 Sep",
+                    "Res": "[1:0]",
+                    "Local": "Real Betis",
+                    "Visita": "Real Madrid",
+                    "HT": "0-0",
                     "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Espanyol",
+                    "Visita": "Real Madrid",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Wed 26 Aug",
+                    "Res": "[4:1]",
+                    "Local": "Real Madrid",
+                    "Visita": "Real Sociedad",
+                    "HT": "1-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[4:0]",
+                    "Local": "Real Madrid",
+                    "Visita": "Malaga",
+                    "HT": "3-0",
+                    "Status": "🟢"
                 }
             ]
         },
         "Alaves": {
             "historial": [
                 {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Alaves",
+                    "Visita": "Getafe",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 20 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Rayo Vallecano",
+                    "Visita": "Alaves",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
                     "Fecha": "Fri 28 Aug",
                     "Res": "[1:0]",
                     "Local": "Alaves",
                     "Visita": "Villarreal",
                     "HT": "1-0",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Getafe": {
+            "historial": [
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Alaves",
+                    "Visita": "Getafe",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Getafe",
+                    "Visita": "Racing",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Mon 31 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Osasuna",
+                    "Visita": "Getafe",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Sevilla FC": {
+            "historial": [
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Sevilla FC",
+                    "Visita": "Rayo Vallecano",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:3]",
+                    "Local": "Athletic Bilbao",
+                    "Visita": "Sevilla FC",
+                    "HT": "0-1",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 29 Aug",
+                    "Res": "[1:3]",
+                    "Local": "Sevilla FC",
+                    "Visita": "Atletico Madrid",
+                    "HT": "0-3",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Rayo Vallecano": {
+            "historial": [
+                {
+                    "Fecha": "Sat 15 Aug",
+                    "Res": "[2:1]",
+                    "Local": "Sevilla FC",
+                    "Visita": "Rayo Vallecano",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 20 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Rayo Vallecano",
+                    "Visita": "Alaves",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 31 Aug",
+                    "Res": "[5:2]",
+                    "Local": "FC Barcelona",
+                    "Visita": "Rayo Vallecano",
+                    "HT": "2-1",
+                    "Status": "🔴"
+                }
+            ]
+        },
+        "Racing": {
+            "historial": [
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Racing",
+                    "Visita": "Villarreal",
+                    "HT": "2-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[1:0]",
+                    "Local": "Getafe",
+                    "Visita": "Racing",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Racing",
+                    "Visita": "Elche",
+                    "HT": "3-0",
                     "Status": "🟢"
                 }
             ]
@@ -1885,6 +1853,22 @@
         "Villarreal": {
             "historial": [
                 {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Racing",
+                    "Visita": "Villarreal",
+                    "HT": "2-2",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Atletico Madrid",
+                    "Visita": "Villarreal",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
                     "Fecha": "Fri 28 Aug",
                     "Res": "[1:0]",
                     "Local": "Alaves",
@@ -1894,32 +1878,24 @@
                 }
             ]
         },
-        "Levante": {
-            "historial": [
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[5:2]",
-                    "Local": "Levante",
-                    "Visita": "Real Betis",
-                    "HT": "2-2",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Real Betis": {
-            "historial": [
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[5:2]",
-                    "Local": "Levante",
-                    "Visita": "Real Betis",
-                    "HT": "2-2",
-                    "Status": "🔴"
-                }
-            ]
-        },
         "Espanyol": {
             "historial": [
+                {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Espanyol",
+                    "Visita": "Levante",
+                    "HT": "2-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Espanyol",
+                    "Visita": "Real Madrid",
+                    "HT": "1-1",
+                    "Status": "🔴"
+                },
                 {
                     "Fecha": "Sat 29 Aug",
                     "Res": "[2:1]",
@@ -1930,14 +1906,86 @@
                 }
             ]
         },
-        "Sevilla FC": {
+        "Levante": {
             "historial": [
                 {
+                    "Fecha": "Sun 16 Aug",
+                    "Res": "[3:0]",
+                    "Local": "Espanyol",
+                    "Visita": "Levante",
+                    "HT": "2-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 24 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Osasuna",
+                    "Visita": "Levante",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
                     "Fecha": "Sat 29 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Sevilla FC",
-                    "Visita": "Atletico Madrid",
-                    "HT": "0-3",
+                    "Res": "[5:2]",
+                    "Local": "Levante",
+                    "Visita": "Real Betis",
+                    "HT": "2-2",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Deportivo": {
+            "historial": [
+                {
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Deportivo",
+                    "Visita": "Elche",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Mon 24 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Malaga",
+                    "Visita": "Deportivo",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[3:1]",
+                    "Local": "Deportivo",
+                    "Visita": "Valencia",
+                    "HT": "2-1",
+                    "Status": "🟢"
+                }
+            ]
+        },
+        "Elche": {
+            "historial": [
+                {
+                    "Fecha": "Mon 17 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Deportivo",
+                    "Visita": "Elche",
+                    "HT": "1-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[0:5]",
+                    "Local": "Elche",
+                    "Visita": "FC Barcelona",
+                    "HT": "0-2",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Fri 28 Aug",
+                    "Res": "[3:2]",
+                    "Local": "Racing",
+                    "Visita": "Elche",
+                    "HT": "3-0",
                     "Status": "🔴"
                 }
             ]
@@ -1945,6 +1993,22 @@
         "Atletico Madrid": {
             "historial": [
                 {
+                    "Fecha": "Wed 19 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Atletico Madrid",
+                    "Visita": "Malaga",
+                    "HT": "0-0",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[2:2]",
+                    "Local": "Atletico Madrid",
+                    "Visita": "Villarreal",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
                     "Fecha": "Sat 29 Aug",
                     "Res": "[1:3]",
                     "Local": "Sevilla FC",
@@ -1954,56 +2018,52 @@
                 }
             ]
         },
-        "Real Madrid": {
-            "historial": [
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[4:0]",
-                    "Local": "Real Madrid",
-                    "Visita": "Malaga",
-                    "HT": "3-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
         "Malaga": {
             "historial": [
                 {
+                    "Fecha": "Wed 19 Aug",
+                    "Res": "[2:0]",
+                    "Local": "Atletico Madrid",
+                    "Visita": "Malaga",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Mon 24 Aug",
+                    "Res": "[1:1]",
+                    "Local": "Malaga",
+                    "Visita": "Deportivo",
+                    "HT": "1-1",
+                    "Status": "🟡"
+                },
+                {
                     "Fecha": "Sun 30 Aug",
                     "Res": "[4:0]",
                     "Local": "Real Madrid",
                     "Visita": "Malaga",
                     "HT": "3-0",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Deportivo": {
-            "historial": [
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Deportivo",
-                    "Visita": "Valencia",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Valencia": {
-            "historial": [
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Deportivo",
-                    "Visita": "Valencia",
-                    "HT": "2-1",
                     "Status": "🔴"
                 }
             ]
         },
         "Athletic Bilbao": {
             "historial": [
+                {
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[1:3]",
+                    "Local": "Athletic Bilbao",
+                    "Visita": "Sevilla FC",
+                    "HT": "0-1",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Thu 27 Aug",
+                    "Res": "[2:0]",
+                    "Local": "FC Barcelona",
+                    "Visita": "Athletic Bilbao",
+                    "HT": "1-0",
+                    "Status": "🔴"
+                },
                 {
                     "Fecha": "Sun 30 Aug",
                     "Res": "[0:2]",
@@ -2014,26 +2074,30 @@
                 }
             ]
         },
-        "Osasuna": {
+        "Valencia": {
             "historial": [
                 {
-                    "Fecha": "Mon 31 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Osasuna",
-                    "Visita": "Getafe",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Getafe": {
-            "historial": [
+                    "Fecha": "Sat 22 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Valencia",
+                    "Visita": "Celta Vigo",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
                 {
-                    "Fecha": "Mon 31 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Osasuna",
-                    "Visita": "Getafe",
-                    "HT": "1-0",
+                    "Fecha": "Tue 25 Aug",
+                    "Res": "[0:1]",
+                    "Local": "Valencia",
+                    "Visita": "Real Betis",
+                    "HT": "0-0",
+                    "Status": "🔴"
+                },
+                {
+                    "Fecha": "Sun 30 Aug",
+                    "Res": "[3:1]",
+                    "Local": "Deportivo",
+                    "Visita": "Valencia",
+                    "HT": "2-1",
                     "Status": "🔴"
                 }
             ]
@@ -2041,6 +2105,22 @@
         "FC Barcelona": {
             "historial": [
                 {
+                    "Fecha": "Sun 23 Aug",
+                    "Res": "[0:5]",
+                    "Local": "Elche",
+                    "Visita": "FC Barcelona",
+                    "HT": "0-2",
+                    "Status": "🟢"
+                },
+                {
+                    "Fecha": "Thu 27 Aug",
+                    "Res": "[2:0]",
+                    "Local": "FC Barcelona",
+                    "Visita": "Athletic Bilbao",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
                     "Fecha": "Mon 31 Aug",
                     "Res": "[5:2]",
                     "Local": "FC Barcelona",
@@ -2050,15 +2130,31 @@
                 }
             ]
         },
-        "Rayo Vallecano": {
+        "Osasuna": {
             "historial": [
                 {
+                    "Fecha": "Mon 24 Aug",
+                    "Res": "[0:0]",
+                    "Local": "Osasuna",
+                    "Visita": "Levante",
+                    "HT": "0-0",
+                    "Status": "🟡"
+                },
+                {
+                    "Fecha": "Thu 27 Aug",
+                    "Res": "[1:2]",
+                    "Local": "Celta Vigo",
+                    "Visita": "Osasuna",
+                    "HT": "1-0",
+                    "Status": "🟢"
+                },
+                {
                     "Fecha": "Mon 31 Aug",
-                    "Res": "[5:2]",
-                    "Local": "FC Barcelona",
-                    "Visita": "Rayo Vallecano",
-                    "HT": "2-1",
-                    "Status": "🔴"
+                    "Res": "[1:0]",
+                    "Local": "Osasuna",
+                    "Visita": "Getafe",
+                    "HT": "1-0",
+                    "Status": "🟢"
                 }
             ]
         }
