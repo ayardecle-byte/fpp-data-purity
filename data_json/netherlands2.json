@@ -215,6 +215,45 @@
         ],
         [
             "7",
+            "Jong AZ",
+            "6",
+            "3",
+            "0",
+            "3",
+            "15",
+            "12",
+            "+3",
+            "9",
+            "10 Aug Jong AZ - \r\nFC Eindhoven 0:1 17 Aug De Graafschap\r\n - Jong AZ 2:5 21 Aug FC Emmen\r\n - Jong AZ 3:1 28 Aug Jong AZ - \r\nMVV Maastricht 1:2 31 Aug Jong AZ - \r\nJong Utrecht 2:1 5 Sep FC Dordrecht\r\n - Jong AZ 3:6 11 Sep Heracles Almelo\r\n - Jong AZ -",
+            "10 Aug",
+            "Jong AZ - \r\nFC Eindhoven",
+            "0:1",
+            "17 Aug",
+            "De Graafschap\r\n - Jong AZ",
+            "2:5",
+            "21 Aug",
+            "FC Emmen\r\n - Jong AZ",
+            "3:1",
+            "28 Aug",
+            "Jong AZ - \r\nMVV Maastricht",
+            "1:2",
+            "31 Aug",
+            "Jong AZ - \r\nJong Utrecht",
+            "2:1",
+            "5 Sep",
+            "FC Dordrecht\r\n - Jong AZ",
+            "3:6",
+            "11 Sep",
+            "Heracles Almelo\r\n - Jong AZ",
+            "-",
+            "1.50",
+            "1.50",
+            "0%",
+            "83%",
+            "105"
+        ],
+        [
+            "8",
             "Jong PSV",
             "5",
             "2",
@@ -250,7 +289,7 @@
             "107"
         ],
         [
-            "8",
+            "9",
             "RKC Waalwijk",
             "5",
             "1",
@@ -286,7 +325,7 @@
             "106"
         ],
         [
-            "9",
+            "10",
             "Roda JC",
             "4",
             "2",
@@ -319,7 +358,7 @@
             "109"
         ],
         [
-            "10",
+            "11",
             "Jong Ajax",
             "6",
             "2",
@@ -358,7 +397,7 @@
             "103"
         ],
         [
-            "11",
+            "12",
             "NAC Breda",
             "5",
             "2",
@@ -394,7 +433,7 @@
             "106"
         ],
         [
-            "12",
+            "13",
             "FC Volendam",
             "5",
             "2",
@@ -426,42 +465,6 @@
             "1.20",
             "1.20",
             "20%",
-            "80%",
-            "105"
-        ],
-        [
-            "13",
-            "Jong AZ",
-            "5",
-            "2",
-            "0",
-            "3",
-            "9",
-            "9",
-            "0",
-            "6",
-            "10 Aug Jong AZ - \r\nFC Eindhoven 0:1 17 Aug De Graafschap\r\n - Jong AZ 2:5 21 Aug FC Emmen\r\n - Jong AZ 3:1 28 Aug Jong AZ - \r\nMVV Maastricht 1:2 31 Aug Jong AZ - \r\nJong Utrecht 2:1 5 Sep FC Dordrecht\r\n - Jong AZ -",
-            "10 Aug",
-            "Jong AZ - \r\nFC Eindhoven",
-            "0:1",
-            "17 Aug",
-            "De Graafschap\r\n - Jong AZ",
-            "2:5",
-            "21 Aug",
-            "FC Emmen\r\n - Jong AZ",
-            "3:1",
-            "28 Aug",
-            "Jong AZ - \r\nMVV Maastricht",
-            "1:2",
-            "31 Aug",
-            "Jong AZ - \r\nJong Utrecht",
-            "2:1",
-            "5 Sep",
-            "FC Dordrecht\r\n - Jong AZ",
-            "-",
-            "1.20",
-            "1.20",
-            "0%",
             "80%",
             "105"
         ],
@@ -537,15 +540,15 @@
         [
             "16",
             "FC Dordrecht",
-            "4",
-            "1",
-            "1",
-            "2",
             "5",
-            "10",
-            "-5",
+            "1",
+            "1",
+            "3",
+            "8",
+            "16",
+            "-8",
             "4",
-            "7 Aug FC Dordrecht - \r\nJong Ajax 2:1 14 Aug RKC Waalwijk\r\n - FC Dordrecht 2:2 21 Aug FC Dordrecht - \r\nRoda JC 0:1 28 Aug FC Volendam\r\n - FC Dordrecht 6:1 5 Sep FC Dordrecht - \r\nJong AZ -",
+            "7 Aug FC Dordrecht - \r\nJong Ajax 2:1 14 Aug RKC Waalwijk\r\n - FC Dordrecht 2:2 21 Aug FC Dordrecht - \r\nRoda JC 0:1 28 Aug FC Volendam\r\n - FC Dordrecht 6:1 5 Sep FC Dordrecht - \r\nJong AZ 3:6 11 Sep FC Eindhoven\r\n - FC Dordrecht -",
             "7 Aug",
             "FC Dordrecht - \r\nJong Ajax",
             "2:1",
@@ -560,12 +563,15 @@
             "6:1",
             "5 Sep",
             "FC Dordrecht - \r\nJong AZ",
+            "3:6",
+            "11 Sep",
+            "FC Eindhoven\r\n - FC Dordrecht",
             "-",
-            "1.00",
-            "1.00",
+            "0.80",
+            "0.80",
             "0%",
-            "75%",
-            "106"
+            "80%",
+            "103"
         ],
         [
             "17",
@@ -712,12 +718,6 @@
     "goles": [],
     "corners": {},
     "fixture": [
-        {
-            "Fecha": "Sat 5 Sep",
-            "Hora": "10:30",
-            "Local": "FC Dordrecht",
-            "Visita": "Jong AZ"
-        },
         {
             "Fecha": "Sun 6 Sep",
             "Hora": "10:45",
@@ -917,304 +917,184 @@
             "Visita": "FC Den Bosch"
         },
         {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "De Graafschap",
-            "Visita": "FC Eindhoven"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "FC Dordrecht",
-            "Visita": "Jong Utrecht"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "Helmond Sport",
-            "Visita": "TOP Oss"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "MVV Maastricht",
-            "Visita": "FC Den Bosch"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "NAC Breda",
-            "Visita": "Jong PSV"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "RKC Waalwijk",
-            "Visita": "Roda JC"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "Vitesse Arnhem",
-            "Visita": "Jong Ajax"
-        },
-        {
-            "Fecha": "Fri 15 Jan",
-            "Hora": "16:00",
-            "Local": "VVV",
-            "Visita": "FC Volendam"
-        },
-        {
-            "Fecha": "Sat 16 Jan",
-            "Hora": "12:30",
-            "Local": "Almere City",
-            "Visita": "FC Emmen"
-        },
-        {
-            "Fecha": "Mon 18 Jan",
-            "Hora": "16:00",
-            "Local": "Jong AZ",
-            "Visita": "Heracles Almelo"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "Almere City",
-            "Visita": "NAC Breda"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "De Graafschap",
-            "Visita": "MVV Maastricht"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
+            "Fecha": "Fri 8 Jan",
             "Hora": "16:00",
             "Local": "FC Den Bosch",
+            "Visita": "De Graafschap"
+        },
+        {
+            "Fecha": "Fri 8 Jan",
+            "Hora": "16:00",
+            "Local": "FC Eindhoven",
+            "Visita": "Jong AZ"
+        },
+        {
+            "Fecha": "Fri 8 Jan",
+            "Hora": "16:00",
+            "Local": "FC Volendam",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Fri 8 Jan",
+            "Hora": "16:00",
+            "Local": "Roda JC",
             "Visita": "VVV"
         },
         {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "FC Volendam",
-            "Visita": "Jong Ajax"
+            "Fecha": "Sat 9 Jan",
+            "Hora": "12:30",
+            "Local": "FC Emmen",
+            "Visita": "RKC Waalwijk"
         },
         {
-            "Fecha": "Fri 20 Nov",
+            "Fecha": "Sun 10 Jan",
+            "Hora": "08:15",
+            "Local": "Heracles Almelo",
+            "Visita": "NAC Breda"
+        },
+        {
+            "Fecha": "Sun 10 Jan",
+            "Hora": "12:45",
+            "Local": "TOP Oss",
+            "Visita": "Vitesse Arnhem"
+        },
+        {
+            "Fecha": "Mon 11 Jan",
             "Hora": "16:00",
-            "Local": "Helmond Sport",
+            "Local": "Jong Ajax",
             "Visita": "FC Dordrecht"
         },
         {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "Heracles Almelo",
-            "Visita": "Jong PSV"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "Jong Utrecht",
-            "Visita": "FC Emmen"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "TOP Oss",
-            "Visita": "Roda JC"
-        },
-        {
-            "Fecha": "Fri 20 Nov",
-            "Hora": "16:00",
-            "Local": "Vitesse Arnhem",
-            "Visita": "Jong AZ"
-        },
-        {
-            "Fecha": "Sat 21 Nov",
-            "Hora": "12:30",
-            "Local": "FC Eindhoven",
-            "Visita": "RKC Waalwijk"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "Almere City",
-            "Visita": "Vitesse Arnhem"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "De Graafschap",
-            "Visita": "Heracles Almelo"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "FC Dordrecht",
-            "Visita": "FC Den Bosch"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "FC Volendam",
-            "Visita": "FC Emmen"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "Helmond Sport",
-            "Visita": "Jong AZ"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "MVV Maastricht",
-            "Visita": "TOP Oss"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "NAC Breda",
-            "Visita": "Roda JC"
-        },
-        {
-            "Fecha": "Fri 18 Dec",
-            "Hora": "16:00",
-            "Local": "RKC Waalwijk",
-            "Visita": "Jong Ajax"
-        },
-        {
-            "Fecha": "Sat 19 Dec",
-            "Hora": "12:30",
-            "Local": "VVV",
-            "Visita": "Jong Utrecht"
-        },
-        {
-            "Fecha": "Mon 21 Dec",
+            "Fecha": "Mon 11 Jan",
             "Hora": "16:00",
             "Local": "Jong PSV",
-            "Visita": "FC Eindhoven"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "12:30",
-            "Local": "NAC Breda",
-            "Visita": "FC Emmen"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "Almere City",
-            "Visita": "Helmond Sport"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "De Graafschap",
-            "Visita": "TOP Oss"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "FC Dordrecht",
-            "Visita": "Heracles Almelo"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "RKC Waalwijk",
-            "Visita": "FC Den Bosch"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "Roda JC",
-            "Visita": "FC Volendam"
-        },
-        {
-            "Fecha": "Sat 14 Nov",
-            "Hora": "16:00",
-            "Local": "VVV",
-            "Visita": "FC Eindhoven"
-        },
-        {
-            "Fecha": "Sun 15 Nov",
-            "Hora": "10:30",
-            "Local": "MVV Maastricht",
-            "Visita": "Vitesse Arnhem"
-        },
-        {
-            "Fecha": "Mon 23 Nov",
-            "Hora": "16:00",
-            "Local": "Jong Ajax",
-            "Visita": "Jong AZ"
-        },
-        {
-            "Fecha": "Mon 23 Nov",
-            "Hora": "16:00",
-            "Local": "Jong PSV",
-            "Visita": "Jong Utrecht"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "FC Dordrecht",
-            "Visita": "Vitesse Arnhem"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "Jong Ajax",
-            "Visita": "Heracles Almelo"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "Jong AZ",
-            "Visita": "TOP Oss"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "Jong Utrecht",
             "Visita": "Almere City"
         },
         {
-            "Fecha": "Fri 27 Nov",
+            "Fecha": "Mon 11 Jan",
             "Hora": "16:00",
-            "Local": "MVV Maastricht",
-            "Visita": "Jong PSV"
+            "Local": "Jong Utrecht",
+            "Visita": "MVV Maastricht"
         },
         {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "NAC Breda",
-            "Visita": "FC Den Bosch"
-        },
-        {
-            "Fecha": "Fri 27 Nov",
-            "Hora": "16:00",
-            "Local": "VVV",
-            "Visita": "RKC Waalwijk"
-        },
-        {
-            "Fecha": "Sat 28 Nov",
-            "Hora": "12:30",
-            "Local": "FC Emmen",
-            "Visita": "Helmond Sport"
-        },
-        {
-            "Fecha": "Sun 29 Nov",
-            "Hora": "08:15",
-            "Local": "FC Volendam",
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "Almere City",
             "Visita": "FC Eindhoven"
         },
         {
-            "Fecha": "Sun 29 Nov",
-            "Hora": "12:45",
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "De Graafschap",
+            "Visita": "Jong Utrecht"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "FC Dordrecht",
+            "Visita": "FC Emmen"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "FC Volendam",
+            "Visita": "Vitesse Arnhem"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "Heracles Almelo",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "Jong Ajax",
+            "Visita": "VVV"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "Jong AZ",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "NAC Breda",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
             "Local": "Roda JC",
+            "Visita": "Jong PSV"
+        },
+        {
+            "Fecha": "Fri 9 Oct",
+            "Hora": "14:00",
+            "Local": "TOP Oss",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "FC Eindhoven",
+            "Visita": "Jong Utrecht"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "FC Emmen",
+            "Visita": "FC Dordrecht"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "FC Volendam",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "MVV Maastricht",
+            "Visita": "Jong AZ"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "NAC Breda",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Thu 5 Mar",
+            "Hora": "16:00",
+            "Local": "VVV",
+            "Visita": "Jong Ajax"
+        },
+        {
+            "Fecha": "Fri 6 Mar",
+            "Hora": "12:30",
+            "Local": "Roda JC",
+            "Visita": "TOP Oss"
+        },
+        {
+            "Fecha": "Sat 7 Mar",
+            "Hora": "08:15",
+            "Local": "Vitesse Arnhem",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Sat 7 Mar",
+            "Hora": "12:45",
+            "Local": "Almere City",
             "Visita": "De Graafschap"
+        },
+        {
+            "Fecha": "Sun 8 Mar",
+            "Hora": "16:00",
+            "Local": "Jong PSV",
+            "Visita": "Heracles Almelo"
         },
         {
             "Fecha": "Fri 4 Dec",
@@ -1277,64 +1157,394 @@
             "Visita": "De Graafschap"
         },
         {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
             "Local": "Almere City",
-            "Visita": "FC Eindhoven"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "De Graafschap",
-            "Visita": "Jong Utrecht"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "FC Dordrecht",
-            "Visita": "FC Emmen"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "FC Volendam",
-            "Visita": "Vitesse Arnhem"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "Heracles Almelo",
-            "Visita": "RKC Waalwijk"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "Jong Ajax",
             "Visita": "VVV"
         },
         {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "Jong AZ",
-            "Visita": "FC Den Bosch"
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "De Graafschap",
+            "Visita": "FC Dordrecht"
         },
         {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "NAC Breda",
-            "Visita": "MVV Maastricht"
-        },
-        {
-            "Fecha": "Fri 9 Oct",
-            "Hora": "14:00",
-            "Local": "Roda JC",
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "FC Emmen",
             "Visita": "Jong PSV"
         },
         {
-            "Fecha": "Fri 9 Oct",
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Heracles Almelo",
+            "Visita": "FC Volendam"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Jong Ajax",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Jong AZ",
+            "Visita": "NAC Breda"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Jong Utrecht",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Roda JC",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "TOP Oss",
+            "Visita": "FC Eindhoven"
+        },
+        {
+            "Fecha": "Fri 11 Dec",
+            "Hora": "16:00",
+            "Local": "Vitesse Arnhem",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "Almere City",
+            "Visita": "Vitesse Arnhem"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "De Graafschap",
+            "Visita": "Heracles Almelo"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "FC Dordrecht",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "FC Volendam",
+            "Visita": "FC Emmen"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "Helmond Sport",
+            "Visita": "Jong AZ"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "MVV Maastricht",
+            "Visita": "TOP Oss"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "NAC Breda",
+            "Visita": "Roda JC"
+        },
+        {
+            "Fecha": "Fri 18 Dec",
+            "Hora": "16:00",
+            "Local": "RKC Waalwijk",
+            "Visita": "Jong Ajax"
+        },
+        {
+            "Fecha": "Sat 19 Dec",
+            "Hora": "12:30",
+            "Local": "VVV",
+            "Visita": "Jong Utrecht"
+        },
+        {
+            "Fecha": "Mon 21 Dec",
+            "Hora": "16:00",
+            "Local": "Jong PSV",
+            "Visita": "FC Eindhoven"
+        },
+        {
+            "Fecha": "Fri 1 May",
+            "Hora": "10:30",
+            "Local": "VVV",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Sun 3 May",
+            "Hora": "14:00",
+            "Local": "Jong Ajax",
+            "Visita": "FC Eindhoven"
+        },
+        {
+            "Fecha": "Sun 3 May",
+            "Hora": "14:00",
+            "Local": "Jong AZ",
+            "Visita": "FC Dordrecht"
+        },
+        {
+            "Fecha": "Sun 3 May",
+            "Hora": "14:00",
+            "Local": "Jong PSV",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Sun 3 May",
+            "Hora": "14:00",
+            "Local": "Jong Utrecht",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "Almere City",
+            "Visita": "Jong AZ"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "De Graafschap",
+            "Visita": "Jong PSV"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "FC Den Bosch",
+            "Visita": "Roda JC"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "FC Eindhoven",
+            "Visita": "NAC Breda"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "FC Emmen",
+            "Visita": "Jong Utrecht"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "FC Volendam",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "Helmond Sport",
+            "Visita": "Vitesse Arnhem"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "Heracles Almelo",
+            "Visita": "FC Dordrecht"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "Jong Ajax",
+            "Visita": "TOP Oss"
+        },
+        {
+            "Fecha": "Thu 7 May",
+            "Hora": "14:00",
+            "Local": "RKC Waalwijk",
+            "Visita": "VVV"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "FC Dordrecht",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "Jong AZ",
+            "Visita": "Jong Ajax"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "Jong PSV",
+            "Visita": "FC Emmen"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "Jong Utrecht",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "MVV Maastricht",
+            "Visita": "FC Eindhoven"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "NAC Breda",
+            "Visita": "De Graafschap"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "Roda JC",
+            "Visita": "Almere City"
+        },
+        {
+            "Fecha": "Thu 14 May",
             "Hora": "14:00",
             "Local": "TOP Oss",
+            "Visita": "FC Volendam"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "Vitesse Arnhem",
+            "Visita": "Heracles Almelo"
+        },
+        {
+            "Fecha": "Thu 14 May",
+            "Hora": "14:00",
+            "Local": "VVV",
+            "Visita": "FC Den Bosch"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "Almere City",
+            "Visita": "Roda JC"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "De Graafschap",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "FC Den Bosch",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "FC Eindhoven",
+            "Visita": "Jong PSV"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "FC Volendam",
+            "Visita": "Jong Utrecht"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "Jong AZ",
             "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "NAC Breda",
+            "Visita": "Heracles Almelo"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "TOP Oss",
+            "Visita": "Jong Ajax"
+        },
+        {
+            "Fecha": "Fri 23 Oct",
+            "Hora": "14:00",
+            "Local": "Vitesse Arnhem",
+            "Visita": "FC Emmen"
+        },
+        {
+            "Fecha": "Sat 24 Oct",
+            "Hora": "10:30",
+            "Local": "FC Dordrecht",
+            "Visita": "VVV"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "Almere City",
+            "Visita": "RKC Waalwijk"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "De Graafschap",
+            "Visita": "VVV"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "FC Den Bosch",
+            "Visita": "NAC Breda"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "FC Dordrecht",
+            "Visita": "Helmond Sport"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "FC Eindhoven",
+            "Visita": "TOP Oss"
+        },
+        {
+            "Fecha": "Thu 9 Apr",
+            "Hora": "14:00",
+            "Local": "FC Emmen",
+            "Visita": "Vitesse Arnhem"
+        },
+        {
+            "Fecha": "Fri 10 Apr",
+            "Hora": "10:30",
+            "Local": "FC Volendam",
+            "Visita": "Heracles Almelo"
+        },
+        {
+            "Fecha": "Sat 11 Apr",
+            "Hora": "10:45",
+            "Local": "Roda JC",
+            "Visita": "MVV Maastricht"
+        },
+        {
+            "Fecha": "Sun 12 Apr",
+            "Hora": "14:00",
+            "Local": "Jong Ajax",
+            "Visita": "Jong PSV"
+        },
+        {
+            "Fecha": "Sun 12 Apr",
+            "Hora": "14:00",
+            "Local": "Jong Utrecht",
+            "Visita": "Jong AZ"
         }
     ],
     "estadisticas_avanzadas": {
@@ -1347,38 +1557,6 @@
                     "Visita": "Jong Ajax",
                     "HT": "0-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[1:1]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "Almere City",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Almere City",
-                    "Visita": "Jong PSV",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[0:3]",
-                    "Local": "Vitesse Arnhem",
-                    "Visita": "Almere City",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:4]",
-                    "Local": "De Graafschap",
-                    "Visita": "Almere City",
-                    "HT": "1-1",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1390,38 +1568,6 @@
                     "Local": "Almere City",
                     "Visita": "Jong Ajax",
                     "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[2:1]",
-                    "Local": "FC Dordrecht",
-                    "Visita": "Jong Ajax",
-                    "HT": "2-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[4:6]",
-                    "Local": "Jong Ajax",
-                    "Visita": "FC Emmen",
-                    "HT": "3-3",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:2]",
-                    "Local": "NAC Breda",
-                    "Visita": "Jong Ajax",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Jong Ajax",
-                    "Visita": "Helmond Sport",
-                    "HT": "2-1",
                     "Status": "🟢"
                 },
                 {
@@ -1443,38 +1589,6 @@
                     "Visita": "FC Volendam",
                     "HT": "1-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:0]",
-                    "Local": "FC Emmen",
-                    "Visita": "Roda JC",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[4:6]",
-                    "Local": "Jong Ajax",
-                    "Visita": "FC Emmen",
-                    "HT": "3-3",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[3:1]",
-                    "Local": "FC Emmen",
-                    "Visita": "Jong AZ",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[4:0]",
-                    "Local": "VVV",
-                    "Visita": "FC Emmen",
-                    "HT": "2-0",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1487,38 +1601,6 @@
                     "Visita": "FC Volendam",
                     "HT": "1-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 10 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Jong PSV",
-                    "Visita": "FC Volendam",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 15 Aug",
-                    "Res": "[3:0]",
-                    "Local": "FC Volendam",
-                    "Visita": "TOP Oss",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[1:0]",
-                    "Local": "MVV Maastricht",
-                    "Visita": "FC Volendam",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[6:1]",
-                    "Local": "FC Volendam",
-                    "Visita": "FC Dordrecht",
-                    "HT": "3-1",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1531,38 +1613,6 @@
                     "Visita": "VVV",
                     "HT": "2-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Helmond Sport",
-                    "Visita": "De Graafschap",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Roda JC",
-                    "Visita": "Helmond Sport",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Helmond Sport",
-                    "Visita": "RKC Waalwijk",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Jong Ajax",
-                    "Visita": "Helmond Sport",
-                    "HT": "2-1",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1575,38 +1625,6 @@
                     "Visita": "VVV",
                     "HT": "2-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[3:4]",
-                    "Local": "VVV",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-2",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[0:2]",
-                    "Local": "NAC Breda",
-                    "Visita": "VVV",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:1]",
-                    "Local": "VVV",
-                    "Visita": "De Graafschap",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[4:0]",
-                    "Local": "VVV",
-                    "Visita": "FC Emmen",
-                    "HT": "2-0",
-                    "Status": "🟢"
                 }
             ]
         },
@@ -1618,38 +1636,6 @@
                     "Local": "Heracles Almelo",
                     "Visita": "De Graafschap",
                     "HT": "2-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[3:4]",
-                    "Local": "VVV",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-2",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Heracles Almelo",
-                    "Visita": "FC Den Bosch",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[1:6]",
-                    "Local": "Jong Utrecht",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-5",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:3]",
-                    "Local": "FC Eindhoven",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-1",
                     "Status": "🟢"
                 }
             ]
@@ -1663,38 +1649,6 @@
                     "Visita": "De Graafschap",
                     "HT": "2-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Helmond Sport",
-                    "Visita": "De Graafschap",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[2:5]",
-                    "Local": "De Graafschap",
-                    "Visita": "Jong AZ",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 23 Aug",
-                    "Res": "[2:1]",
-                    "Local": "VVV",
-                    "Visita": "De Graafschap",
-                    "HT": "2-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 29 Aug",
-                    "Res": "[1:4]",
-                    "Local": "De Graafschap",
-                    "Visita": "Almere City",
-                    "HT": "1-1",
-                    "Status": "🔴"
                 }
             ]
         },
@@ -1707,38 +1661,6 @@
                     "Visita": "NAC Breda",
                     "HT": "1-0",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Vitesse Arnhem",
-                    "Visita": "RKC Waalwijk",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:2]",
-                    "Local": "RKC Waalwijk",
-                    "Visita": "FC Dordrecht",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Helmond Sport",
-                    "Visita": "RKC Waalwijk",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:2]",
-                    "Local": "RKC Waalwijk",
-                    "Visita": "Jong PSV",
-                    "HT": "2-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1751,38 +1673,6 @@
                     "Visita": "NAC Breda",
                     "HT": "1-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:2]",
-                    "Local": "TOP Oss",
-                    "Visita": "NAC Breda",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[0:2]",
-                    "Local": "NAC Breda",
-                    "Visita": "VVV",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 22 Aug",
-                    "Res": "[3:2]",
-                    "Local": "NAC Breda",
-                    "Visita": "Jong Ajax",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Roda JC",
-                    "Visita": "NAC Breda",
-                    "HT": "1-1",
-                    "Status": "🟡"
                 }
             ]
         },
@@ -1794,38 +1684,6 @@
                     "Local": "Vitesse Arnhem",
                     "Visita": "TOP Oss",
                     "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:1]",
-                    "Local": "Vitesse Arnhem",
-                    "Visita": "RKC Waalwijk",
-                    "HT": "1-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Jong Utrecht",
-                    "Visita": "Vitesse Arnhem",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[0:3]",
-                    "Local": "Vitesse Arnhem",
-                    "Visita": "Almere City",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:4]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "Vitesse Arnhem",
-                    "HT": "0-3",
                     "Status": "🟢"
                 }
             ]
@@ -1839,225 +1697,17 @@
                     "Visita": "TOP Oss",
                     "HT": "0-0",
                     "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:2]",
-                    "Local": "TOP Oss",
-                    "Visita": "NAC Breda",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sat 15 Aug",
-                    "Res": "[3:0]",
-                    "Local": "FC Volendam",
-                    "Visita": "TOP Oss",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Jong PSV",
-                    "Visita": "TOP Oss",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:1]",
-                    "Local": "TOP Oss",
-                    "Visita": "Jong Utrecht",
-                    "HT": "1-0",
-                    "Status": "🟢"
                 }
             ]
         },
         "FC Dordrecht": {
             "historial": [
                 {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[2:1]",
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[3:6]",
                     "Local": "FC Dordrecht",
-                    "Visita": "Jong Ajax",
-                    "HT": "2-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:2]",
-                    "Local": "RKC Waalwijk",
-                    "Visita": "FC Dordrecht",
-                    "HT": "0-1",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[0:1]",
-                    "Local": "FC Dordrecht",
-                    "Visita": "Roda JC",
-                    "HT": "0-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[6:1]",
-                    "Local": "FC Volendam",
-                    "Visita": "FC Dordrecht",
-                    "HT": "3-1",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "Roda JC": {
-            "historial": [
-                {
-                    "Fecha": "Fri 7 Aug",
-                    "Res": "[1:0]",
-                    "Local": "FC Emmen",
-                    "Visita": "Roda JC",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Roda JC",
-                    "Visita": "Helmond Sport",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[0:1]",
-                    "Local": "FC Dordrecht",
-                    "Visita": "Roda JC",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:2]",
-                    "Local": "Roda JC",
-                    "Visita": "NAC Breda",
-                    "HT": "1-1",
-                    "Status": "🟡"
-                }
-            ]
-        },
-        "FC Den Bosch": {
-            "historial": [
-                {
-                    "Fecha": "Sat 8 Aug",
-                    "Res": "[1:1]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "Almere City",
-                    "HT": "0-0",
-                    "Status": "🟡"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Heracles Almelo",
-                    "Visita": "FC Den Bosch",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[5:2]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "FC Eindhoven",
-                    "HT": "3-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:4]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "Vitesse Arnhem",
-                    "HT": "0-3",
-                    "Status": "🔴"
-                }
-            ]
-        },
-        "MVV Maastricht": {
-            "historial": [
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[2:1]",
-                    "Local": "MVV Maastricht",
-                    "Visita": "Jong Utrecht",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:3]",
-                    "Local": "FC Eindhoven",
-                    "Visita": "MVV Maastricht",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[1:0]",
-                    "Local": "MVV Maastricht",
-                    "Visita": "FC Volendam",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Jong AZ",
-                    "Visita": "MVV Maastricht",
-                    "HT": "0-1",
-                    "Status": "🟢"
-                }
-            ]
-        },
-        "Jong Utrecht": {
-            "historial": [
-                {
-                    "Fecha": "Sun 9 Aug",
-                    "Res": "[2:1]",
-                    "Local": "MVV Maastricht",
-                    "Visita": "Jong Utrecht",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[1:3]",
-                    "Local": "Jong Utrecht",
-                    "Visita": "Vitesse Arnhem",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[1:6]",
-                    "Local": "Jong Utrecht",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-5",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:1]",
-                    "Local": "TOP Oss",
-                    "Visita": "Jong Utrecht",
-                    "HT": "1-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 31 Aug",
-                    "Res": "[2:1]",
-                    "Local": "Jong AZ",
-                    "Visita": "Jong Utrecht",
-                    "HT": "1-1",
+                    "Visita": "Jong AZ",
+                    "HT": "2-3",
                     "Status": "🔴"
                 }
             ]
@@ -2065,36 +1715,12 @@
         "Jong AZ": {
             "historial": [
                 {
-                    "Fecha": "Mon 10 Aug",
-                    "Res": "[0:1]",
-                    "Local": "Jong AZ",
-                    "Visita": "FC Eindhoven",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 17 Aug",
-                    "Res": "[2:5]",
-                    "Local": "De Graafschap",
+                    "Fecha": "Sat 5 Sep",
+                    "Res": "[3:6]",
+                    "Local": "FC Dordrecht",
                     "Visita": "Jong AZ",
-                    "HT": "1-1",
+                    "HT": "2-3",
                     "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[3:1]",
-                    "Local": "FC Emmen",
-                    "Visita": "Jong AZ",
-                    "HT": "0-0",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[1:2]",
-                    "Local": "Jong AZ",
-                    "Visita": "MVV Maastricht",
-                    "HT": "0-1",
-                    "Status": "🔴"
                 },
                 {
                     "Fecha": "Mon 31 Aug",
@@ -2106,76 +1732,20 @@
                 }
             ]
         },
-        "FC Eindhoven": {
+        "Jong Utrecht": {
             "historial": [
                 {
-                    "Fecha": "Mon 10 Aug",
-                    "Res": "[0:1]",
+                    "Fecha": "Mon 31 Aug",
+                    "Res": "[2:1]",
                     "Local": "Jong AZ",
-                    "Visita": "FC Eindhoven",
-                    "HT": "0-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[2:3]",
-                    "Local": "FC Eindhoven",
-                    "Visita": "MVV Maastricht",
+                    "Visita": "Jong Utrecht",
                     "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Fri 21 Aug",
-                    "Res": "[5:2]",
-                    "Local": "FC Den Bosch",
-                    "Visita": "FC Eindhoven",
-                    "HT": "3-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Sun 30 Aug",
-                    "Res": "[1:3]",
-                    "Local": "FC Eindhoven",
-                    "Visita": "Heracles Almelo",
-                    "HT": "0-1",
                     "Status": "🔴"
                 }
             ]
         },
         "Jong PSV": {
             "historial": [
-                {
-                    "Fecha": "Mon 10 Aug",
-                    "Res": "[3:2]",
-                    "Local": "Jong PSV",
-                    "Visita": "FC Volendam",
-                    "HT": "1-1",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 14 Aug",
-                    "Res": "[3:1]",
-                    "Local": "Almere City",
-                    "Visita": "Jong PSV",
-                    "HT": "1-1",
-                    "Status": "🔴"
-                },
-                {
-                    "Fecha": "Mon 24 Aug",
-                    "Res": "[1:0]",
-                    "Local": "Jong PSV",
-                    "Visita": "TOP Oss",
-                    "HT": "1-0",
-                    "Status": "🟢"
-                },
-                {
-                    "Fecha": "Fri 28 Aug",
-                    "Res": "[2:2]",
-                    "Local": "RKC Waalwijk",
-                    "Visita": "Jong PSV",
-                    "HT": "2-1",
-                    "Status": "🟡"
-                },
                 {
                     "Fecha": "Mon 31 Aug",
                     "Res": "[1:1]",
