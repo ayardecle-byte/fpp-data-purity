@@ -13,6 +13,7 @@ import motor_v2
 import picks_dia
 import registro_predicciones as reg
 import movil
+import rachas
 
 # --- 1. CONFIGURACIÓN ---
 st.set_page_config(page_title="FPP - Data Purity Pro", page_icon="🛡️", layout="wide")
@@ -28,6 +29,117 @@ MODO_NUBE = not os.path.exists("database/football_data.db")
 
 def cambiar_pagina(nombre_pagina):
     st.session_state.pagina = nombre_pagina
+
+
+# ==========================================================
+# SALDOS EN LAS CASAS DE APUESTAS
+# ==========================================================
+CASAS = ["Mi Casino", "Metabet", "1XBET", "Otra"]
+
+
+def leer_saldos():
+    """Devuelve {casa: saldo}. Las casas sin registro quedan en cero."""
+    saldos = {c: 0.0 for c in CASAS}
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        cur = conn.cursor()
+        cur.execute("SELECT casa, saldo FROM saldos_casas")
+        for casa, saldo in cur.fetchall():
+            saldos[casa] = float(saldo or 0)
+        conn.close()
+    except Exception:
+        pass
+    return saldos
+
+
+def guardar_saldo(casa, saldo):
+    import datetime as _d
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        conn.execute("""INSERT OR REPLACE INTO saldos_casas (casa, saldo, actualizado)
+                        VALUES (?,?,?)""",
+                     (casa, float(saldo), _d.datetime.now().strftime("%Y-%m-%d %H:%M")))
+        conn.commit()
+        conn.close()
+        return True
+    except Exception:
+        return False
+
+
+def pendiente_por_casa():
+    """Cuánto hay apostado y sin resolver en cada casa."""
+    salida = {c: 0.0 for c in CASAS}
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        cur = conn.cursor()
+        cur.execute("""SELECT COALESCE(casa,''), SUM(COALESCE(inversion,0))
+                       FROM mis_apuestas
+                       WHERE en_billetera = 1 AND estado = 'Pendiente'
+                       GROUP BY casa""")
+        for casa, total in cur.fetchall():
+            if casa in salida:
+                salida[casa] = float(total or 0)
+        conn.close()
+    except Exception:
+        pass
+    return salida
+
+
+# ==========================================================
+# PARTIDOS GUARDADOS (favoritos)
+# ==========================================================
+def guardar_favorito(liga, local, visita, fecha="", hora="", nota=""):
+    """Guarda un partido para revisarlo después. Si ya estaba, lo actualiza."""
+    import datetime as _d
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        cur = conn.cursor()
+        cur.execute("""
+            INSERT OR REPLACE INTO favoritos
+                (liga, equipo_local, equipo_visita, fecha, hora, nota, guardado)
+            VALUES (?,?,?,?,?,?,?)
+        """, (liga, local, visita, fecha, hora, nota,
+              _d.datetime.now().strftime("%Y-%m-%d %H:%M")))
+        conn.commit()
+        conn.close()
+        return True
+    except Exception:
+        return False
+
+
+def quitar_favorito(id_fav):
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        conn.execute("DELETE FROM favoritos WHERE id = ?", (id_fav,))
+        conn.commit()
+        conn.close()
+        return True
+    except Exception:
+        return False
+
+
+def leer_favoritos():
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        df = pd.read_sql("SELECT * FROM favoritos", conn)
+        conn.close()
+        return df
+    except Exception:
+        return pd.DataFrame()
+
+
+def es_favorito(liga, local, visita):
+    try:
+        conn = sqlite3.connect("database/football_data.db")
+        cur = conn.cursor()
+        cur.execute("""SELECT id FROM favoritos
+                       WHERE liga=? AND equipo_local=? AND equipo_visita=?""",
+                    (liga, local, visita))
+        r = cur.fetchone()
+        conn.close()
+        return r[0] if r else None
+    except Exception:
+        return None
 
 def _clave_fecha_fixture(partido, referencia=None):
     """
@@ -50,10 +162,17 @@ def _clave_fecha_fixture(partido, referencia=None):
         mes = meses_n.get(partes[2][:3])
         if not mes:
             return _dt.datetime.max
+        # El año no viene en el dato. Se prueba con el año actual y, si la
+        # fecha queda más de 60 días en el pasado, se asume el año próximo.
+        # Sin esta ventana, un partido de hace un mes (dato viejo sin
+        # actualizar) se interpretaría como del año que viene.
         anio = ref.year
-        # Si el mes ya pasó (o es este mes pero el día ya pasó), es del año próximo
-        if mes < ref.month or (mes == ref.month and dia < ref.day - 1):
-            anio += 1
+        try:
+            tentativa = _dt.datetime(anio, mes, dia)
+            if (ref - tentativa).days > 60:
+                anio += 1
+        except ValueError:
+            pass
         hora = str(partido.get('Hora', '00:00'))
         try:
             h, m = map(int, hora.split(':'))
@@ -91,6 +210,19 @@ def crear_tabla_apuestas():
     try: cursor.execute('ALTER TABLE mis_apuestas ADD COLUMN casa TEXT DEFAULT ""')
     except: pass
 
+    # Saldo disponible en cada casa de apuestas
+    cursor.execute("""CREATE TABLE IF NOT EXISTS saldos_casas (
+        casa TEXT PRIMARY KEY,
+        saldo REAL DEFAULT 0.0,
+        actualizado TEXT DEFAULT ""
+    )""")
+
+    # Favoritos: partidos guardados para analizar después
+    for _col, _tipo in (("fecha", 'TEXT DEFAULT ""'), ("hora", 'TEXT DEFAULT ""'),
+                        ("nota", 'TEXT DEFAULT ""'), ("guardado", 'TEXT DEFAULT ""')):
+        try: cursor.execute(f'ALTER TABLE favoritos ADD COLUMN {_col} {_tipo}')
+        except: pass
+
     cursor.execute('''CREATE TABLE IF NOT EXISTS config_billetera (
             id INTEGER PRIMARY KEY CHECK (id = 1), bankroll_inicial REAL, meta REAL)''')
     cursor.execute('INSERT OR IGNORE INTO config_billetera (id, bankroll_inicial, meta) VALUES (1, 100.0, 1000.0)')
@@ -101,23 +233,23 @@ def crear_tabla_apuestas():
     conn.commit()
     conn.close()
 
-def guardar_apuesta(liga, local, visita, mercado, cuota, prob, ev, cuotas_json):
+def guardar_apuesta(liga, local, visita, mercado, cuota, prob, ev, cuotas_json, casa=""):
     fecha_actual = datetime.datetime.now().strftime("%Y-%m-%d")
     conn = sqlite3.connect("database/football_data.db")
     cursor = conn.cursor()
-    cursor.execute('''INSERT INTO mis_apuestas (liga, equipo_local, equipo_visita, mercado, cuota, probabilidad, ev, cuotas_json, picks, inversion, estado, en_billetera, fecha_apuesta) 
-                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?)''', 
-                   (liga, local, visita, mercado, cuota, prob, ev, cuotas_json, mercado, 0.0, "Pendiente", fecha_actual))
+    cursor.execute('''INSERT INTO mis_apuestas (liga, equipo_local, equipo_visita, mercado, cuota, probabilidad, ev, cuotas_json, picks, inversion, estado, en_billetera, fecha_apuesta, casa) 
+                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, ?)''', 
+                   (liga, local, visita, mercado, cuota, prob, ev, cuotas_json, mercado, 0.0, "Pendiente", fecha_actual, casa))
     conn.commit()
     conn.close()
 
-def guardar_apuesta_manual(liga, local, visita, picks, inversion, cuota, stake, fecha):
+def guardar_apuesta_manual(liga, local, visita, picks, inversion, cuota, stake, fecha, casa=""):
     conn = sqlite3.connect("database/football_data.db")
     cursor = conn.cursor()
     prob_simulada = stake * 10.0
-    cursor.execute('''INSERT INTO mis_apuestas (liga, equipo_local, equipo_visita, mercado, cuota, probabilidad, ev, cuotas_json, picks, inversion, estado, en_billetera, fecha_apuesta) 
-                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)''', 
-                   (liga, local, visita, picks, cuota, prob_simulada, 0.0, "{}", picks, inversion, "Pendiente", fecha))
+    cursor.execute('''INSERT INTO mis_apuestas (liga, equipo_local, equipo_visita, mercado, cuota, probabilidad, ev, cuotas_json, picks, inversion, estado, en_billetera, fecha_apuesta, casa) 
+                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?, ?)''', 
+                   (liga, local, visita, picks, cuota, prob_simulada, 0.0, "{}", picks, inversion, "Pendiente", fecha, casa))
     conn.commit()
     conn.close()
 
@@ -768,6 +900,8 @@ with st.sidebar:
     st.button("🎯 Picks del Día", on_click=cambiar_pagina, args=('Picks',), width="stretch")
     st.button("📅 Calendario Global", on_click=cambiar_pagina, args=('Calendario',), width="stretch")
     if not MODO_NUBE:
+        st.button("🔥 Rachas", on_click=cambiar_pagina, args=('Rachas',), width="stretch")
+        st.button("📌 Mis Partidos", on_click=cambiar_pagina, args=('MisPartidos',), width="stretch")
         st.button("⭐ Mis Apuestas (Radar)", on_click=cambiar_pagina, args=('Favoritos',), width="stretch")
         st.button("💼 Billetera", on_click=cambiar_pagina, args=('Billetera',), width="stretch")
         st.button("📈 Calibración en Vivo", on_click=cambiar_pagina, args=('Calibracion',), width="stretch")
@@ -1030,7 +1164,7 @@ elif st.session_state.pagina == 'Cartelera':
                 fixture_filtrado = [p for p in fixture_data if p['Fecha'] in [fecha_hoy_str, fecha_manana_str]]
                 
                 if not fixture_filtrado and fixture_data:
-                    fixture_filtrado = sorted(fixture_data, key=_clave_fecha_fixture)[:5]
+                    fixture_filtrado = sorted([q for q in fixture_data if _clave_fecha_fixture(q) >= datetime.datetime.now() - datetime.timedelta(days=1)], key=_clave_fecha_fixture)[:5]
                     st.info("ℹ️ No hay partidos hoy ni mañana. Mostrando los próximos disponibles.")
                 elif fixture_filtrado:
                     st.info("💡 **TIP:** Partidos de HOY y MAÑANA. Clic en **'📥 Cargar'**.")
@@ -1168,8 +1302,17 @@ elif st.session_state.pagina == 'Cartelera':
                     fixture_filtrado = [p for p in fixture_data if p['Fecha'] in [fecha_hoy_str, fecha_manana_str]]
                     
                     if not fixture_filtrado and fixture_data:
-                        fixture_filtrado = sorted(fixture_data, key=_clave_fecha_fixture)[:5]
-                        st.info("ℹ️ No hay partidos hoy ni mañana. Próximos 5:")
+                        # Solo partidos que todavía no se jugaron
+                        futuros = [q for q in fixture_data
+                                   if _clave_fecha_fixture(q) >= hoy - datetime.timedelta(hours=6)]
+                        if futuros:
+                            fixture_filtrado = sorted(futuros, key=_clave_fecha_fixture)[:5]
+                            st.info("ℹ️ No hay partidos hoy ni mañana. Próximos 5:")
+                        else:
+                            st.warning(
+                                "⚠️ Todos los partidos del calendario ya se jugaron. "
+                                "Corré `python actualizar_todas_ligas.py` para traer los nuevos."
+                            )
                     elif fixture_filtrado:
                         st.info("💡 **TIP:** Partidos de HOY y MAÑANA. Clic en **'📥 Cargar'**.")
                         
@@ -1480,8 +1623,6 @@ elif st.session_state.pagina == 'Cartelera':
             st.session_state.analizar = True
         
         if st.session_state.get('analizar'):
-            st.markdown("### 🥊 Cara a Cara (Tale of the Tape)")
-            
             stats_L = tabla[tabla['Club'] == l].iloc[0]
             stats_V = tabla[tabla['Club'] == v].iloc[0]
             
@@ -1753,9 +1894,6 @@ elif st.session_state.pagina == 'Cartelera':
                 st.markdown(f"**Global:** {stats.get('GF', '?')} GF | {stats.get('GC', '?')} GC")
 
                 total_hist = len(hist_ordenado or [])
-                st.markdown(f"**Forma Reciente (Últimos 5 de {total_hist} disputados):**")
-                for partido in detalles_forma:
-                    st.caption(partido)
 
 
             # ================================================================
@@ -1817,7 +1955,7 @@ elif st.session_state.pagina == 'Cartelera':
                     filas.append(fila)
                 return filas
 
-            def cabecera_equipo(equipo, stats, detalles_forma, color, total_hist):
+            def cabecera_equipo(equipo, stats, color, total_hist):
                 """Nombre con posición, datos globales y los últimos 5 partidos."""
                 pos = stats.get("Pos", "?")
                 st.markdown(
@@ -1825,19 +1963,22 @@ elif st.session_state.pagina == 'Cartelera':
                     f"{equipo}<sup style='font-size:0.55em; opacity:0.85;'>({pos})</sup></h3>",
                     unsafe_allow_html=True,
                 )
+                # Partidos jugados: se toma de la tabla y, si falta, del historial
+                pj = stats.get("PJ", None)
+                if pj in (None, "", "?"):
+                    pj = total_hist
                 st.markdown(
                     f"**Posición:** {pos} &nbsp;|&nbsp; **Puntos:** {stats.get('Pts', '?')} "
+                    f"&nbsp;|&nbsp; **PJ:** {pj} "
                     f"&nbsp;|&nbsp; **{stats.get('GF', '?')} GF · {stats.get('GC', '?')} GC**"
                 )
-                st.markdown(f"**Forma Reciente (Últimos 5 de {total_hist} disputados):**")
-                for partido in detalles_forma:
-                    st.caption(partido)
                 st.markdown("<hr style='margin:8px 0;'>", unsafe_allow_html=True)
 
             def columna_partidos(titulo, icono, registros, referencia=None,
                                  opciones_cond=None, clave=""):
-                """Dibuja los filtros, el resumen y la tabla de partidos."""
-                st.markdown(f"##### {icono} Historial completo")
+                """Dibuja los filtros, el resumen y la lista de partidos."""
+                n_total = len(registros or [])
+                st.markdown(f"##### {icono} Historial completo ({n_total} partidos)")
 
                 cantidad = st.selectbox(
                     "Mostrar", [6, 10, 20, 50, "Todos"], index=0,
@@ -1881,40 +2022,63 @@ elif st.session_state.pagina == 'Cartelera':
                 )
                 st.caption(f"{len(filas)} partidos · promedio total {prom_gf + prom_gc:.1f} goles")
 
-                # --- Tabla (más recientes arriba) ---
+                # --- Lista en el mismo formato que los últimos 5 ---
                 n = len(filas) if cantidad == "Todos" else int(cantidad)
                 visibles = list(reversed(filas))[:n]
 
-                df_v = pd.DataFrame(visibles)
-                columnas = ["", "Cond.", "Fecha", "Local", "Visita", "HT", "FT"]
-                if not referencia:
-                    columnas.remove("Cond.")
+                for f in visibles:
+                    rival = f["Visita"] if f["Cond."] == "🏠" else f["Local"]
+                    linea = (
+                        f"{f['']} **{f['_gf']} - {f['_gc']}** | "
+                        f"{f['Cond.']} vs {rival}"
+                    )
+                    # El medio tiempo solo se muestra si existe de verdad
+                    ht = str(f.get("HT", "")).strip()
+                    if ht and "-" in ht and ht.replace("-", "").strip().isdigit():
+                        linea += f"  ·  HT {ht}"
+                    if f.get("Fecha") and f["Fecha"] != "—":
+                        linea += f"  ·  {f['Fecha']}"
+                    st.caption(linea)
 
-                st.dataframe(
-                    df_v[columnas],
-                    width="stretch", hide_index=True,
-                    column_config={
-                        "": st.column_config.TextColumn("", width="small"),
-                        "Cond.": st.column_config.TextColumn("", width="small"),
-                        "Fecha": st.column_config.TextColumn("Fecha", width="small"),
-                        "HT": st.column_config.TextColumn("HT", width="small",
-                                                          help="Marcador al descanso"),
-                        "FT": st.column_config.TextColumn("FT", width="small",
-                                                          help="Marcador final"),
-                    },
-                )
+            c_tit, c_fav = st.columns([5, 1.4])
+            c_tit.markdown("### 🥊 Cara a Cara (Tale of the Tape)")
 
-            st.markdown("#### 🥊 Cara a Cara")
+            # Guardar el partido para revisarlo después
+            with c_fav:
+                if not MODO_NUBE:
+                    id_fav = es_favorito(liga_sel, l, v)
+                    if id_fav:
+                        if st.button("⭐ Guardado", width="stretch",
+                                     help="Tocá para quitarlo de tus partidos guardados"):
+                            quitar_favorito(id_fav)
+                            st.rerun()
+                    else:
+                        if st.button("☆ Guardar partido", width="stretch",
+                                     help="Lo agrega a 'Mis Partidos' para revisarlo después"):
+                            # Buscar fecha y hora en el fixture de la liga
+                            f_p, h_p = "", ""
+                            try:
+                                for q in (data_avanzada.get("fixture", []) if data_avanzada else []):
+                                    if (normalize_text(q.get("Local", "")) == normalize_text(l)
+                                            and normalize_text(q.get("Visita", "")) == normalize_text(v)):
+                                        f_p = q.get("Fecha", "")
+                                        h_p = q.get("Hora", "")
+                                        break
+                            except Exception:
+                                pass
+                            guardar_favorito(liga_sel, l, v, f_p, h_p)
+                            st.toast(f"Guardado: {l} vs {v}")
+                            st.rerun()
 
             col_loc, col_vis = st.columns(2)
 
             with col_loc:
-                cabecera_equipo(l, stats_L, detalles_forma_L, "#4CAF50", len(hist_L_ord or []))
+                cabecera_equipo(l, stats_L, "#4CAF50", len(hist_L_ord or []))
                 columna_partidos(l, "🏠", hist_L_ord, referencia=l,
                                  opciones_cond=["Todos", "🏠 Local"], clave="hist_L")
 
             with col_vis:
-                cabecera_equipo(v, stats_V, detalles_forma_V, "#F44336", len(hist_V_ord or []))
+                cabecera_equipo(v, stats_V, "#F44336", len(hist_V_ord or []))
                 columna_partidos(v, "✈️", hist_V_ord, referencia=v,
                                  opciones_cond=["Todos", "✈️ Visita"], clave="hist_V")
 
@@ -2557,12 +2721,19 @@ elif st.session_state.pagina == 'Cartelera':
                     opciones_multiselect = [f"{r['Mercado']} | Prob {r['Prob']:.1f}% | Cuota {r['Cuota']:.2f} | EV {r['EV']:+.1f}%" for r in todas_ops]
                     selecciones = st.multiselect("Elige las apuestas que quieres guardar en tu radar (puedes seleccionar varias):", opciones_multiselect)
                     
+                    casa_radar = st.selectbox(
+                        "🏦 ¿En qué casa vas a apostar?", [""] + CASAS,
+                        key="casa_radar",
+                        help="Queda anotado para comparar después qué casa te da mejores cuotas",
+                    )
+
                     if st.button("⭐ Guardar Seleccionadas en el Radar", width="stretch"):
                         if selecciones:
                             for sel in selecciones:
                                 idx = opciones_multiselect.index(sel)
                                 fila = todas_ops[idx]
-                                guardar_apuesta(liga_sel, l, v, fila['Mercado'], fila['Cuota'], fila['Prob'], fila['EV'], data_json)
+                                guardar_apuesta(liga_sel, l, v, fila['Mercado'], fila['Cuota'],
+                                                fila['Prob'], fila['EV'], data_json, casa_radar)
                             st.success(f"✅ ¡{len(selecciones)} apuestas guardadas en tus Favoritos! Podrás pasarlas a la Billetera cuando te decidas.")
                         else:
                             st.warning("Selecciona al menos una apuesta de la lista arriba.")
@@ -2662,7 +2833,7 @@ Cuotas introducidas:
 # ==========================================
 # PESTAÑA: CALIBRACIÓN EN VIVO
 # ==========================================
-elif st.session_state.pagina in ('Favoritos', 'Billetera', 'Calibracion') and MODO_NUBE:
+elif st.session_state.pagina in ('Favoritos', 'Billetera', 'Calibracion', 'MisPartidos') and MODO_NUBE:
     st.header("☁️ Versión en línea")
     st.info(
         "Esta sección necesita la base de datos con tus apuestas, que vive "
@@ -2672,6 +2843,207 @@ elif st.session_state.pagina in ('Favoritos', 'Billetera', 'Calibracion') and MO
     if st.button("← Volver a la Cartelera", width="stretch"):
         st.session_state.pagina = 'Cartelera'
         st.rerun()
+
+elif st.session_state.pagina == 'Rachas':
+    st.header("🔥 Rachas")
+    st.markdown(
+        "Equipos que vienen encadenando partidos con una misma condición. "
+        "Elegí un mercado para ver quiénes están en racha."
+    )
+
+    st.warning(
+        "⚠️ **Las rachas no predicen.** Que un equipo lleve 10 partidos seguidos "
+        "con ambos anotan **no** aumenta la probabilidad de que pase en el próximo. "
+        "Es la falacia del jugador, bien documentada en fútbol.\n\n"
+        "Además, si la racha es visible, el mercado ya la conoce y ya ajustó la cuota. "
+        "Usalo como dato descriptivo —para detectar equipos con estilos marcados— "
+        "no como señal de apuesta."
+    )
+
+    # --- Controles ---
+    cf1, cf2, cf3 = st.columns([2, 1.2, 1.2])
+
+    with cf1:
+        etiquetas = {k: f"{v['icono']} {v['nombre']}" for k, v in rachas.MERCADOS.items()}
+        mercado = st.selectbox(
+            "Mercado", list(rachas.MERCADOS.keys()),
+            format_func=lambda k: etiquetas[k],
+        )
+    with cf2:
+        minimo = st.number_input("Racha mínima", 2, 20, 3, 1,
+                                 help="Cuántos partidos seguidos como mínimo")
+    with cf3:
+        solo_validadas = st.checkbox(
+            "Solo ligas con ventaja", value=False,
+            help="Muestra solo ligas de nivel ALTA o MEDIA",
+        )
+
+    ligas_ok = None
+    if solo_validadas:
+        ligas_ok = {
+            interna for interna, info in motor_v2.CALIDAD_LIGAS.items()
+            if info["nivel"] in ("ALTA", "MEDIA")
+        }
+
+    with st.spinner("Calculando rachas..."):
+        datos = rachas.calcular(ligas_incluidas=ligas_ok, minimo_racha=int(minimo))
+
+    cfg = rachas.MERCADOS[mercado]
+    lista = datos.get(mercado, [])
+
+    st.divider()
+    st.markdown(f"### {cfg['icono']} {cfg['nombre']}")
+    st.caption(cfg["descripcion"])
+
+    if not lista:
+        st.info(
+            f"Ningún equipo llega a {int(minimo)} partidos seguidos en este mercado.\n\n"
+            "Probá bajando la racha mínima, o actualizá los datos con "
+            "`python actualizar_todas_ligas.py`."
+        )
+    else:
+        m1, m2, m3 = st.columns(3)
+        m1.metric("Equipos en racha", len(lista))
+        m2.metric("Racha más larga", f"{lista[0]['racha']} partidos")
+        m3.metric("Ligas representadas", len({x["liga"] for x in lista}))
+
+        st.markdown("")
+
+        ICONO_CAL = {"ALTA": "🟢", "MEDIA": "🟡", "BAJA": "🔴", "NULA": "⛔"}
+        inverso = {v: k for k, v in motor_v2.MAPA_LIGAS.items()}
+
+        for i, r in enumerate(lista[:40], 1):
+            nombre_liga = inverso.get(r["liga"], r["liga"])
+            cal = motor_v2.calidad_liga(nombre_liga)
+            icono = ICONO_CAL.get(cal.get("nivel", "?"), "⚪")
+
+            cA, cB, cC, cD = st.columns([2.6, 1.1, 1.3, 2.2])
+
+            with cA:
+                st.markdown(f"**#{i} · {r['equipo']}**")
+                st.caption(f"{icono} {nombre_liga}")
+
+            with cB:
+                st.markdown(
+                    f"<div style='text-align:center;'>"
+                    f"<div style='font-size:1.6em; font-weight:700; color:#4CAF50;'>"
+                    f"{r['racha']}</div>"
+                    f"<div style='font-size:0.72em; opacity:0.7;'>seguidos</div></div>",
+                    unsafe_allow_html=True,
+                )
+
+            with cC:
+                color = "#4CAF50" if r["pct"] >= 70 else ("#FFA726" if r["pct"] >= 50 else "#888")
+                st.markdown(
+                    f"<div style='text-align:center;'>"
+                    f"<div style='font-size:1.2em; font-weight:600; color:{color};'>"
+                    f"{r['pct']:.0f}%</div>"
+                    f"<div style='font-size:0.72em; opacity:0.7;'>"
+                    f"{r['aciertos']}/{r['total']} recientes</div></div>",
+                    unsafe_allow_html=True,
+                )
+
+            with cD:
+                prox = r.get("proximo")
+                if prox and prox.get("rival"):
+                    st.caption(
+                        f"**Próximo:** {prox['condicion']} vs {prox['rival']}"
+                    )
+                    if prox.get("fecha"):
+                        st.caption(f"📅 {prox['fecha']} {prox.get('hora', '')}")
+                else:
+                    st.caption("Sin próximo partido en el calendario")
+
+            st.divider()
+
+        if len(lista) > 40:
+            st.caption(f"Mostrando 40 de {len(lista)} equipos en racha.")
+
+    st.caption(
+        "El porcentaje muestra cuántas veces se cumplió la condición en los "
+        "últimos 40 partidos del equipo. Una racha larga con porcentaje bajo "
+        "es más probable que sea casualidad."
+    )
+
+elif st.session_state.pagina == 'MisPartidos':
+    st.header("📌 Mis Partidos")
+    st.markdown(
+        "Partidos que guardaste para revisar. Se ordenan por cuándo se juegan: "
+        "primero los más cercanos."
+    )
+
+    df_fav = leer_favoritos()
+
+    if df_fav.empty:
+        st.info(
+            "Todavía no guardaste ningún partido.\n\n"
+            "Para guardar uno: entrá a la **Cartelera**, analizá un partido y tocá "
+            "**☆ Guardar partido** arriba a la derecha."
+        )
+    else:
+        # Ordenar por fecha y hora reales
+        def _orden_fav(fila):
+            return _clave_fecha_fixture({"Fecha": fila.get("fecha", ""),
+                                         "Hora": fila.get("hora", "")})
+
+        df_fav = df_fav.copy()
+        df_fav["_cuando"] = df_fav.apply(_orden_fav, axis=1)
+        df_fav = df_fav.sort_values("_cuando")
+
+        ahora = datetime.datetime.now() - datetime.timedelta(hours=5)
+        proximos = df_fav[df_fav["_cuando"] >= ahora - datetime.timedelta(hours=3)]
+        pasados = df_fav[df_fav["_cuando"] < ahora - datetime.timedelta(hours=3)]
+
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Guardados", len(df_fav))
+        c2.metric("Por jugarse", len(proximos))
+        c3.metric("Ya jugados", len(pasados))
+
+        ICONO_CAL = {"ALTA": "🟢", "MEDIA": "🟡", "BAJA": "🔴", "NULA": "⛔"}
+
+        def mostrar_grupo(datos, titulo, vacio):
+            st.markdown(f"#### {titulo}")
+            if datos.empty:
+                st.caption(vacio)
+                return
+            for _, r in datos.iterrows():
+                cal = motor_v2.calidad_liga(r["liga"])
+                icono = ICONO_CAL.get(cal.get("nivel", "?"), "⚪")
+
+                cA, cB, cC = st.columns([3.2, 1.4, 1.4])
+                with cA:
+                    st.markdown(f"**{r['equipo_local']} vs {r['equipo_visita']}**")
+                    cuando = f"{r.get('fecha', '') or 'sin fecha'}"
+                    if r.get("hora"):
+                        cuando += f" · {r['hora']}"
+                    st.caption(f"{icono} {r['liga']} · 📅 {cuando}")
+                    if r.get("nota"):
+                        st.caption(f"📝 {r['nota']}")
+                with cB:
+                    if st.button("🔎 Analizar", key=f"fav_ver_{r['id']}", width="stretch"):
+                        st.session_state.pedido_analisis = {
+                            "liga": r["liga"],
+                            "local": r["equipo_local"],
+                            "visita": r["equipo_visita"],
+                        }
+                        st.session_state.pagina = "Cartelera"
+                        st.rerun()
+                with cC:
+                    if st.button("🗑️ Quitar", key=f"fav_del_{r['id']}", width="stretch"):
+                        quitar_favorito(r["id"])
+                        st.rerun()
+                st.divider()
+
+        mostrar_grupo(proximos, "⏳ Por jugarse",
+                      "No hay partidos guardados pendientes.")
+
+        if not pasados.empty:
+            with st.expander(f"✅ Ya jugados ({len(pasados)})"):
+                mostrar_grupo(pasados, "", "")
+                if st.button("🧹 Borrar todos los ya jugados"):
+                    for _, r in pasados.iterrows():
+                        quitar_favorito(r["id"])
+                    st.rerun()
 
 elif st.session_state.pagina == 'Calibracion':
     st.header("📈 Calibración en Vivo")
@@ -2967,7 +3339,9 @@ elif st.session_state.pagina == 'Calendario':
             if not fix:
                 st.info("Sin partidos próximos. Corré `python actualizar_todas_ligas.py` para actualizar.")
                 return
-            fix = sorted(fix, key=_clave_fecha_fixture)
+            fix = sorted([q for q in fix
+                          if _clave_fecha_fixture(q) >= _hoy - datetime.timedelta(days=1)],
+                         key=_clave_fecha_fixture)
             df_fix = pd.DataFrame(fix)[["Fecha", "Hora", "Local", "Visita"]]
             st.dataframe(df_fix.head(40), width="stretch", hide_index=True)
             if len(fix) > 40:
@@ -3145,11 +3519,16 @@ elif st.session_state.pagina == 'Billetera':
             m_cuota = m_c4.number_input("Cuota", min_value=1.01, step=0.01)
             m_stake = m_c5.number_input("Stake (Nivel de confianza 1-10)", min_value=1, max_value=10, value=5, step=1)
             m_inv = m_c6.number_input("Inversión Real ($)", min_value=0.0, step=1.0)
-            
+
+            m_casa = st.selectbox(
+                "🏦 ¿En qué casa apostaste?", [""] + CASAS,
+                help="Sirve para comparar después qué casa te da mejores cuotas",
+            )
+
             if st.form_submit_button("✅ Guardar Directo en Billetera"):
                 m_liga_final = m_liga_otra.strip() if m_liga_sel == "Otra (escribir abajo)" else m_liga_sel
                 if m_local and m_visita and m_picks and m_liga_final:
-                    guardar_apuesta_manual(m_liga_final, m_local, m_visita, m_picks, m_inv, m_cuota, m_stake, m_fecha.strftime("%Y-%m-%d"))
+                    guardar_apuesta_manual(m_liga_final, m_local, m_visita, m_picks, m_inv, m_cuota, m_stake, m_fecha.strftime("%Y-%m-%d"), m_casa)
                     st.success("¡Apuesta registrada exitosamente!")
                     st.rerun()
                 else:
@@ -3230,6 +3609,55 @@ elif st.session_state.pagina == 'Billetera':
         .metric-val.green { color: #00C853; }
         </style>
     """, unsafe_allow_html=True)
+
+    # ================================================================
+    # SALDOS EN LAS CASAS DE APUESTAS
+    # ================================================================
+    with st.expander("🏦 Saldos en mis casas de apuestas", expanded=False):
+        st.caption(
+            "Anotá cuánto tenés disponible en cada casa. Sirve para saber "
+            "dónde te queda margen y cuánto está comprometido en apuestas "
+            "todavía sin resolver."
+        )
+
+        saldos = leer_saldos()
+        pendientes = pendiente_por_casa()
+
+        cols = st.columns(len(CASAS))
+        nuevos = {}
+        for i, casa in enumerate(CASAS):
+            with cols[i]:
+                nuevos[casa] = st.number_input(
+                    casa, min_value=0.0, value=float(saldos.get(casa, 0.0)),
+                    step=5.0, key=f"saldo_{casa}",
+                )
+                pend = pendientes.get(casa, 0.0)
+                if pend > 0:
+                    st.caption(f"⏳ {pend:,.2f} en juego")
+                else:
+                    st.caption("sin apuestas abiertas")
+
+        if st.button("💾 Guardar saldos", width="stretch"):
+            for casa, valor in nuevos.items():
+                guardar_saldo(casa, valor)
+            st.success("Saldos actualizados.")
+            st.rerun()
+
+        total_disponible = sum(nuevos.values())
+        total_pendiente = sum(pendientes.values())
+
+        st.divider()
+        s1, s2, s3 = st.columns(3)
+        s1.metric("Disponible", f"$ {total_disponible:,.2f}")
+        s2.metric("En juego", f"$ {total_pendiente:,.2f}",
+                  "apuestas sin resolver", delta_color="off")
+        s3.metric("Capital total", f"$ {total_disponible + total_pendiente:,.2f}")
+
+        if total_disponible > 0:
+            st.caption(
+                f"Stake sugerido del 2%: **$ {(total_disponible + total_pendiente) * 0.02:,.2f}** "
+                f"por apuesta · Tope del 5%: **$ {(total_disponible + total_pendiente) * 0.05:,.2f}**"
+            )
 
     # ================================================================
     # RESUMEN DIARIO

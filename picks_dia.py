@@ -186,8 +186,30 @@ def _mostrar_pick(r, clave_unica="0"):
 
         # Botón para abrir el análisis completo en la Cartelera
         if r.get("Local") and r.get("Visita"):
+            cbtn1, cbtn2 = st.columns([3, 1.5])
+
+            # Guardar el partido para revisarlo después
+            with cbtn2:
+                try:
+                    import dashboard as _dash
+                    id_f = _dash.es_favorito(r["Liga"], r["Local"], r["Visita"])
+                    if id_f:
+                        if st.button("⭐", key=f"fav_{clave_unica}", width="stretch",
+                                     help="Ya está guardado. Tocá para quitarlo."):
+                            _dash.quitar_favorito(id_f)
+                            st.rerun()
+                    else:
+                        if st.button("☆", key=f"fav_{clave_unica}", width="stretch",
+                                     help="Guardar para revisarlo después"):
+                            _dash.guardar_favorito(r["Liga"], r["Local"], r["Visita"],
+                                                   r.get("Fecha", ""), r.get("Hora", ""))
+                            st.toast(f"Guardado: {r['Partido']}")
+                            st.rerun()
+                except Exception:
+                    pass
+
             clave = f"pick_analizar_{clave_unica}"
-            if st.button("🔎 Ver análisis completo", key=clave, width="stretch"):
+            if cbtn1.button("🔎 Ver análisis completo", key=clave, width="stretch"):
                 # No se puede escribir directo sobre 'sel_liga': Streamlit no
                 # deja modificar un selector que ya se dibujó en pantalla.
                 # Se deja el pedido anotado y el dashboard lo aplica al recargar.
